@@ -1,5 +1,5 @@
 ---
-version_id: AI12991_0
+version_id: AI12991_1
 act_code: '12991'
 language: kaz
 title: Есептегіш құралдары жоқ тұтынушыларға табиғи газды тұтыну нормативтерің бекіту туралы
@@ -11,9 +11,9 @@ type_codes:
 approved_by:
 - '162000000003'
 approval_date: 2002-05-05
-version_date: 2002-05-05
+version_date: 2002-09-03
 registry_number: '12991'
-source: https://zan.gov.kz/client/#!/doc/12991/kaz/05.05.2002
+source: https://zan.gov.kz/client/#!/doc/12991/kaz/03.09.2002
 ---
 
 # Есептегіш құралдары жоқ тұтынушыларға табиғи газды тұтыну нормативтерің бекіту туралы
