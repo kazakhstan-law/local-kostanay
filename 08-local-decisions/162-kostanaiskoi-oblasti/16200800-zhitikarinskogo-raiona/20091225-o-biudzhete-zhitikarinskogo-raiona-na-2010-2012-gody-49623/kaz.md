@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49623/kaz/14.01.2010
+source: https://zan.gov.kz/client/#!/doc/49623/kaz/03.02.2010
 ---
 
 # 2010-2012 жылдарға арналған Жітіқара ауданының бюджеті туралы
