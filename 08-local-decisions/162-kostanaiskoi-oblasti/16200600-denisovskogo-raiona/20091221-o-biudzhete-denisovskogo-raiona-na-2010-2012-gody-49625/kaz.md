@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49625/kaz/18.01.2010
+source: https://zan.gov.kz/client/#!/doc/49625/kaz/09.02.2010
 ---
 
 # Денисов ауданының 2010-2012 жылдарға арналған бюджеті туралы

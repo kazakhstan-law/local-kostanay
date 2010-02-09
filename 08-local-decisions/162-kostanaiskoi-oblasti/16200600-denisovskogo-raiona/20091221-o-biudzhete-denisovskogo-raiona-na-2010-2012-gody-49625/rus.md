@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49625/rus/18.01.2010
+source: https://zan.gov.kz/client/#!/doc/49625/rus/09.02.2010
 ---
 
 # О бюджете Денисовского района на 2010-2012 годы
