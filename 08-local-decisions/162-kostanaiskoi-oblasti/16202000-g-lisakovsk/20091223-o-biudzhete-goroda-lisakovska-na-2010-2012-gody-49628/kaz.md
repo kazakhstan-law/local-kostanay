@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49628/kaz/15.01.2010
+source: https://zan.gov.kz/client/#!/doc/49628/kaz/11.02.2010
 ---
 
 # Лисаков қаласының 2010-2012 жылдарға арналған бюджеті туралы
