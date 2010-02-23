@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49643/kaz/27.01.2010
+source: https://zan.gov.kz/client/#!/doc/49643/kaz/23.02.2010
 ---
 
 # Жангелдин ауданының 2010-2012 жылдарға арналған аудандық бюджеті туралы
