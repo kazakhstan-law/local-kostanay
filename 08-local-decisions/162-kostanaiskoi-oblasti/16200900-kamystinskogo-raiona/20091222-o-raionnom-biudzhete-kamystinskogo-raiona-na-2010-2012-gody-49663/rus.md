@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49663/rus/23.01.2010
+source: https://zan.gov.kz/client/#!/doc/49663/rus/26.03.2010
 ---
 
 # О районном бюджете Камыстинского района на 2010-2012 годы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49663/kaz/23.01.2010
+source: https://zan.gov.kz/client/#!/doc/49663/kaz/26.03.2010
 ---
 
 # Қамысты ауданының 2010-2012 жылдарға арналған аудандық бюджеті туралы
