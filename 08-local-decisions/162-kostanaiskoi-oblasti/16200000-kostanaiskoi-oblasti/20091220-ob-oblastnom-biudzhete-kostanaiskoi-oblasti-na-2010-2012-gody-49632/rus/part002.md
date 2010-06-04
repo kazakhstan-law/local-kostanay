@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49632/rus/30.04.2010
+source: https://zan.gov.kz/client/#!/doc/49632/rus/04.06.2010
 ---
 
 ## Бюджет Костанайской области на 2011 год
