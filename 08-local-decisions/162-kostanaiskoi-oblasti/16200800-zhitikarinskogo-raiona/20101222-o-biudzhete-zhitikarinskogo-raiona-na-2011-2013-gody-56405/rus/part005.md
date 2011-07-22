@@ -1,44 +1,49 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
+source: https://zan.gov.kz/client/#!/doc/56405/rus/22.07.2011
 ---
 
 ## Бюджетные программы (подпрограммы) аппаратов аулов, сел, сельских округов Житикаринского района на 2011 год
 
-> *Сноска. Приложение 5 в редакции решения маслихата Житикаринского района Костанайской области от 19.04.2011 № 343 (вводится в действие с 01.01.2011).*
+> *Сноска. Приложение 5 в редакции решения маслихата Житикаринского района Костанайской области от 22.07.2011 № 372 (вводится в действие с 01.01.2011).*
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
 <td rowspan="5">
 Сумма,
-тысяч
-тенге
+тысяч тенге
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Большевистский сельский округ</td>
-<td></td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Большевистский сельский округ</th>
+<th></th>
 </tr>
 <tr>
 <td>01</td>
@@ -136,12 +141,12 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 <td>219</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>село Волгоградское</td>
-<td></td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>село Волгоградское</th>
+<th></th>
 </tr>
 <tr>
 <td>01</td>
@@ -239,12 +244,12 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 <td>238</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>село Аккарга</td>
-<td></td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>село Аккарга</th>
+<th></th>
 </tr>
 <tr>
 <td>01</td>
@@ -342,12 +347,12 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 <td>284</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>село Приречное</td>
-<td></td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>село Приречное</th>
+<th></th>
 </tr>
 <tr>
 <td>01</td>
@@ -456,12 +461,12 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 <td>1000</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>село Милютинка</td>
-<td></td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>село Милютинка</th>
+<th></th>
 </tr>
 <tr>
 <td>01</td>
@@ -472,7 +477,7 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 Государственные услуги общего
 характера
 </td>
-<td>6093</td>
+<td>6193</td>
 </tr>
 <tr>
 <td></td>
@@ -484,7 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 другие органы, выполняющие общие
 функции государственного управления
 </td>
-<td>6093</td>
+<td>6193</td>
 </tr>
 <tr>
 <td></td>
@@ -496,7 +501,7 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 районного значения, поселка, аула
 (села), аульного (сельского) округа
 </td>
-<td>6093</td>
+<td>6193</td>
 </tr>
 <tr>
 <td></td>
@@ -509,7 +514,7 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 районного значения, поселка, аула
 (села), аульного (сельского) округа
 </td>
-<td>5918</td>
+<td>6018</td>
 </tr>
 <tr>
 <td></td>
@@ -559,12 +564,12 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 <td>319</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Муктикольский сельский округ</td>
-<td></td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Муктикольский сельский округ</th>
+<th></th>
 </tr>
 <tr>
 <td>01</td>
@@ -662,12 +667,12 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 <td>165</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тохтаровский сельский округ</td>
-<td></td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Тохтаровский сельский округ</th>
+<th></th>
 </tr>
 <tr>
 <td>01</td>
@@ -765,12 +770,12 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 <td>243</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>аул Чайковское</td>
-<td></td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>аул Чайковское</th>
+<th></th>
 </tr>
 <tr>
 <td>01</td>
@@ -868,12 +873,12 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 <td>262</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>село Шевченковка</td>
-<td></td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>село Шевченковка</th>
+<th></th>
 </tr>
 <tr>
 <td>01</td>
@@ -971,12 +976,12 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 <td>181</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>аул Пригородное</td>
-<td></td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>аул Пригородное</th>
+<th></th>
 </tr>
 <tr>
 <td>01</td>
@@ -987,7 +992,7 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 Государственные услуги общего
 характера
 </td>
-<td>7895</td>
+<td>8121</td>
 </tr>
 <tr>
 <td></td>
@@ -999,7 +1004,7 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 другие органы, выполняющие общие
 функции государственного управления
 </td>
-<td>7895</td>
+<td>8121</td>
 </tr>
 <tr>
 <td></td>
@@ -1011,7 +1016,7 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 районного значения, поселка, аула
 (села), аульного (сельского) округа
 </td>
-<td>7895</td>
+<td>8121</td>
 </tr>
 <tr>
 <td></td>
@@ -1024,7 +1029,7 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 районного значения, поселка, аула
 (села), аульного (сельского) округа
 </td>
-<td>7720</td>
+<td>7946</td>
 </tr>
 <tr>
 <td></td>
@@ -1074,12 +1079,12 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 <td>345</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>село Тимирязево</td>
-<td></td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>село Тимирязево</th>
+<th></th>
 </tr>
 <tr>
 <td>01</td>
@@ -1177,12 +1182,12 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 <td>220</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>село Забеловка</td>
-<td></td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>село Забеловка</th>
+<th></th>
 </tr>
 <tr>
 <td>01</td>
@@ -1280,12 +1285,12 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 <td>371</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>село Степное</td>
-<td></td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>село Степное</th>
+<th></th>
 </tr>
 <tr>
 <td>01</td>
@@ -1383,12 +1388,12 @@ source: https://zan.gov.kz/client/#!/doc/56405/rus/19.04.2011
 <td>342</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>село Ырсай</td>
-<td></td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>село Ырсай</th>
+<th></th>
 </tr>
 <tr>
 <td>01</td>
