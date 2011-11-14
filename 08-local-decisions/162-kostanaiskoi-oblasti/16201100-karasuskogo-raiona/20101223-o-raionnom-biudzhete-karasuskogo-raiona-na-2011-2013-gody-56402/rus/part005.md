@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56402/rus/27.10.2011
+source: https://zan.gov.kz/client/#!/doc/56402/rus/14.11.2011
 ---
 
 ## Перечень бюджетных программ сел и сельских округов Карасуского района на 2011-2013 годы
