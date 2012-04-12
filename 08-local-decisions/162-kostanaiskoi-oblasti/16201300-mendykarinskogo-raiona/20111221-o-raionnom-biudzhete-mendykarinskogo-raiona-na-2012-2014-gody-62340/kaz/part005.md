@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62340/kaz/08.02.2012
+source: https://zan.gov.kz/client/#!/doc/62340/kaz/12.04.2012
 ---
 
 ## Селолардың және селолық округтердің 2012 жылға арналған бюджеттік бағдарламаларының тізбесі
