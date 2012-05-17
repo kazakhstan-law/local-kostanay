@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62015/rus/02.05.2012
+source: https://zan.gov.kz/client/#!/doc/62015/rus/17.05.2012
 ---
 
 ## Областной бюджет Костанайской области на 2013 год
