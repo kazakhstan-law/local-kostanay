@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62344/rus/09.04.2012
+source: https://zan.gov.kz/client/#!/doc/62344/rus/22.05.2012
 ---
 
 ## Бюджетные программы аппаратов аулов, сел, сельских округов Житикаринского района на 2012 год
