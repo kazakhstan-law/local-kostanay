@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62343/rus/29.10.2012
+source: https://zan.gov.kz/client/#!/doc/62343/rus/26.11.2012
 ---
 
 ## Перечень бюджетных программ поселка, аула, (села), аульного (сельского) округа на 2012 год
@@ -12,17 +12,14 @@ source: https://zan.gov.kz/client/#!/doc/62343/rus/29.10.2012
 <td colspan="5">Функциональная группа</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="3">Учреждение</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
 <td colspan="2">Программа</td>
 </tr>
