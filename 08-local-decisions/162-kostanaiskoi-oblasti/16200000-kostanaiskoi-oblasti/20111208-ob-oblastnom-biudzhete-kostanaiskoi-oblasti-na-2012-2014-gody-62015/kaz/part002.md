@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62015/kaz/10.08.2012
+source: https://zan.gov.kz/client/#!/doc/62015/kaz/28.11.2012
 ---
 
 ## Қостанай облысының 2013 жылға арналған облыстық бюджеті
