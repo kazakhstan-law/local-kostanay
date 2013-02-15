@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69558/kaz/21.12.2012
+source: https://zan.gov.kz/client/#!/doc/69558/kaz/15.02.2013
 ---
 
 ## 2013 жылға арналған ауданның кенттері, ауылдары (селолары), ауылдық (селолық) округтерінің бюджеттік бағдарламаларының тізбесі
@@ -10,28 +10,23 @@ source: https://zan.gov.kz/client/#!/doc/69558/kaz/21.12.2012
 <td colspan="5">Функционалдық топ</td>
 <td rowspan="5">
 Сомасы,
-мың теңге
+мың
+теңге
 </td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
