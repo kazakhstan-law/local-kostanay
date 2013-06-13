@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69681/kaz/18.02.2013
+source: https://zan.gov.kz/client/#!/doc/69681/kaz/13.06.2013
 ---
 
 ## Жітіқара ауданының ауылдар, селолар, селолық округтер әкімдері аппараттарының бюджеттік бағдарламалары
@@ -15,24 +15,18 @@ source: https://zan.gov.kz/client/#!/doc/69681/kaz/18.02.2013
 </td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>АТАУЫ</td>
 </tr>
