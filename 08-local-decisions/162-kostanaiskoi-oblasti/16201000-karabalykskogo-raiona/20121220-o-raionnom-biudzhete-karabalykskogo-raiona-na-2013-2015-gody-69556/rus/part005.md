@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69556/rus/18.02.2013
+source: https://zan.gov.kz/client/#!/doc/69556/rus/09.07.2013
 ---
 
 ## Перечень бюджетных программ поселка, аула, (села), аульного (сельского) округа на 2013 год
