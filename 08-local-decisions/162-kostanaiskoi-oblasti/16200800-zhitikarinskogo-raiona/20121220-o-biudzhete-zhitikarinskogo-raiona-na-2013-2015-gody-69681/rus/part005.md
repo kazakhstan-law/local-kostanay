@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69681/rus/16.07.2013
+source: https://zan.gov.kz/client/#!/doc/69681/rus/03.10.2013
 ---
 
 ## Бюджетные программы аппаратов акимов аулов, сел, сельских округов Житикаринского района
