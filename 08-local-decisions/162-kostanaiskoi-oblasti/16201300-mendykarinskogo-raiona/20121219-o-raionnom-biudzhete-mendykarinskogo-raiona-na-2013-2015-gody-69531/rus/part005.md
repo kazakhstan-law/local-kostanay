@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69531/rus/10.07.2013
+source: https://zan.gov.kz/client/#!/doc/69531/rus/03.10.2013
 ---
 
 ## Бюджетные программы каждого аульного (сельского) округов Мендыкаринского района на 2013 год
