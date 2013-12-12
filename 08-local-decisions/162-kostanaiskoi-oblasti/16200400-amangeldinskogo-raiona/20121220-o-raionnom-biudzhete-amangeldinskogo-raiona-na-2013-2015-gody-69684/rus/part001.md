@@ -1,34 +1,39 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
+source: https://zan.gov.kz/client/#!/doc/69684/rus/12.12.2013
 ---
 
 ## Районный бюджет Амангельдинского района на 2013 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата Амангельдинского района Костанайской области от 12.11.2013 № 175 (вводится в действие с 01.01.2013).*
+> *Сноска. Приложение 1 в редакции решения маслихата Амангельдинского района Костанайской области от 12.12.2013 № 190 (вводится в действие с 01.01.2013).*
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
 <td rowspan="5">
 Сумма,
-тысяч
-тенге
+тысяч тенге
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3">Под класс</td>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Специфика</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
@@ -38,7 +43,7 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td></td>
 <td></td>
 <td>І. Доходы</td>
-<td>1542950,1</td>
+<td>1542352,1</td>
 </tr>
 <tr>
 <td>1</td>
@@ -63,14 +68,6 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td>00</td>
 <td>Индивидуальный подоходный налог</td>
 <td>81540,0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>03</td>
-<td>0</td>
-<td>00</td>
-<td>Социальный налог</td>
-<td>68709,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -262,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td>0</td>
 <td>00</td>
 <td>Поступления трансфертов</td>
-<td>1359962,9</td>
+<td>1359364,9</td>
 </tr>
 <tr>
 <td>4</td>
@@ -270,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td>0</td>
 <td>00</td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>1359962,9</td>
+<td>1359364,9</td>
 </tr>
 <tr>
 <td>4</td>
@@ -278,7 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td>2</td>
 <td>00</td>
 <td>Трансферты из областного бюджета</td>
-<td>1359962,9</td>
+<td>1359364,9</td>
 </tr>
 </table>
 
@@ -287,23 +284,28 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td colspan="5">Функциональная группа</td>
 <td rowspan="5">
 Сумма,
-тысяч
-тенге
+тысяч тенге
 </td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
@@ -313,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td></td>
 <td></td>
 <td>ІІ. Затраты</td>
-<td>1545925,9</td>
+<td>1545327,9</td>
 </tr>
 <tr>
 <td>01</td>
@@ -521,7 +523,7 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>953502,0</td>
+<td>952904,0</td>
 </tr>
 <tr>
 <td></td>
@@ -561,7 +563,7 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td></td>
 <td></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>808269,1</td>
+<td>807535,1</td>
 </tr>
 <tr>
 <td></td>
@@ -569,7 +571,7 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td>464</td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>808269,1</td>
+<td>807535,1</td>
 </tr>
 <tr>
 <td></td>
@@ -577,7 +579,7 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td></td>
 <td>003</td>
 <td>Общеобразовательное обучение</td>
-<td>792572,1</td>
+<td>791838,1</td>
 </tr>
 <tr>
 <td></td>
@@ -593,7 +595,7 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>38963,9</td>
+<td>39099,9</td>
 </tr>
 <tr>
 <td></td>
@@ -601,7 +603,7 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td>464</td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>38963,9</td>
+<td>39099,9</td>
 </tr>
 <tr>
 <td></td>
@@ -625,7 +627,7 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td></td>
 <td>015</td>
 <td>Ежемесячная выплата денежных средств опекунам (попечителям) на содержание ребенка-сироты (детей-сирот), и ребенка (детей), оставшегося без попечения родителей</td>
-<td>3334,0</td>
+<td>3470,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1490,33 +1492,6 @@ source: https://zan.gov.kz/client/#!/doc/69684/rus/12.11.2013
 <td></td>
 <td>ІІІ. Чистое бюджетное кредитование</td>
 <td>22483,7</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="5">Категория</td>
-<td rowspan="5">
-Сумма,
-тысяч
-тенге
-</td>
-</tr>
-<tr>
-<td rowspan="4"></td>
-<td colspan="4">Класс</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Специфика</td>
-</tr>
-<tr>
-<td></td>
-<td>Наименование</td>
 </tr>
 <tr>
 <td>10</td>
