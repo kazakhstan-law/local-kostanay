@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69735/rus/22.10.2013
+source: https://zan.gov.kz/client/#!/doc/69735/rus/12.12.2013
 ---
 
 ## Перечень бюджетных программ аульных (сельских) округов
