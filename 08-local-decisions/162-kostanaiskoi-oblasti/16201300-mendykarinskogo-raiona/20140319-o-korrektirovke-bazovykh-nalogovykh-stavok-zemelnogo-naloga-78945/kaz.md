@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/78945/kaz/19.03.2014
+repealed_on: 2015-02-12
+repealed_by:
+  code: '78945'
+  title: Жер салығының базалық ставкаларын түзету туралы
+  link: https://zan.gov.kz/client/#!/doc/78945/kaz
 ---
 
 # Жер салығының базалық ставкаларын түзету туралы

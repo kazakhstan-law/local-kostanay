@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/78945/rus/19.03.2014
+repealed_on: 2015-02-12
+repealed_by:
+  code: '78945'
+  title: О корректировке базовых налоговых ставок земельного налога
+  link: https://zan.gov.kz/client/#!/doc/78945/rus
 ---
 
 # О корректировке базовых налоговых ставок земельного налога
