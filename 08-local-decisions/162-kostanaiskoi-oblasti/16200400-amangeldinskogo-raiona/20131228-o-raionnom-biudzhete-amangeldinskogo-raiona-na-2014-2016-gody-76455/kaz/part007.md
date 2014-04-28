@@ -1,13 +1,13 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76455/kaz/19.02.2014
+source: https://zan.gov.kz/client/#!/doc/76455/kaz/28.04.2014
 ---
 
 ## 2016 жылға арналған Аманкелді ауданының кенттер, ауылдар, ауылдық округтердің бюджеттік бағдарламалар тізбесі
 
 <table>
 <tr>
-<td colspan="5">Фукционалдық топ</td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="5">
 Сомасы,
 мың
