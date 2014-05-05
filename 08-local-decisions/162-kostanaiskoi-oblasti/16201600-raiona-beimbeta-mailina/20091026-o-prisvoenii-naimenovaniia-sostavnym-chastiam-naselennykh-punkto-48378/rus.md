@@ -1,5 +1,5 @@
 ---
-version_id: AI48378_1
+version_id: AI48378_2
 act_code: '48378'
 language: rus
 title: О присвоении наименования составным частям населенных пунктов сельского округа Әйет
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '162016001002'
 approval_date: 2009-10-26
-version_date: 2009-10-26
+version_date: 2014-05-05
 registry_number: '48378'
-source: https://zan.gov.kz/client/#!/doc/48378/rus/26.10.2009
+source: https://zan.gov.kz/client/#!/doc/48378/rus/05.05.2014
 ---
 
 # О присвоении наименования составным частям населенных пунктов Тарановского сельского округа
