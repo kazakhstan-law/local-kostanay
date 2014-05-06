@@ -1,5 +1,5 @@
 ---
-version_id: AI65487_1
+version_id: AI65487_3
 act_code: '65487'
 language: rus
 title: О присвоении наименований улицам села Евгеновка
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '162016014001'
 approval_date: 2012-04-02
-version_date: 2012-04-02
+version_date: 2014-05-06
 registry_number: '65487'
-source: https://zan.gov.kz/client/#!/doc/65487/rus/02.04.2012
+source: https://zan.gov.kz/client/#!/doc/65487/rus/06.05.2014
 ---
 
 # О присвоении наименований улицам села Евгеновка
@@ -43,4 +43,4 @@ source: https://zan.gov.kz/client/#!/doc/65487/rus/02.04.2012
 
 2. Настоящее решение вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования.
 
-   Б. Хасенов
+**Б. Хасенов**
