@@ -1,5 +1,5 @@
 ---
-version_id: AI61326_1
+version_id: AI61326_3
 act_code: '61326'
 language: rus
 title: О присвоении наименований улицам села Приозерное
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '162016015001'
 approval_date: 2011-10-14
-version_date: 2011-10-14
+version_date: 2014-05-11
 registry_number: '61326'
-source: https://zan.gov.kz/client/#!/doc/61326/rus/14.10.2011
+source: https://zan.gov.kz/client/#!/doc/61326/rus/11.05.2014
 ---
 
 # О присвоении наименований улицам села Приозерное
@@ -47,4 +47,4 @@ source: https://zan.gov.kz/client/#!/doc/61326/rus/14.10.2011
 
 2. Настоящее решение вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования.
 
-   М. Удиров
+**М. Удиров**
