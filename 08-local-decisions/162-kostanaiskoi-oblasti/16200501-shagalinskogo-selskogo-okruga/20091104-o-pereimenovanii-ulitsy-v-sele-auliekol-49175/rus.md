@@ -1,5 +1,5 @@
 ---
-version_id: AI49175_1
+version_id: AI49175_3
 act_code: '49175'
 language: rus
 title: О переименовании улицы в селе Аулиеколь
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '162005012001'
 approval_date: 2009-11-04
-version_date: 2009-11-04
+version_date: 2014-06-16
 registry_number: '49175'
-source: https://zan.gov.kz/client/#!/doc/49175/rus/04.11.2009
+source: https://zan.gov.kz/client/#!/doc/49175/rus
 ---
 
 # О переименовании улицы в селе Аулиеколь
@@ -23,6 +23,6 @@ source: https://zan.gov.kz/client/#!/doc/49175/rus/04.11.2009
 
 2. Настоящее решение вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования.
 
-   Аким
+**Аким села Аулиеколь**
 
-   села Аулиеколь А. Лыфарь
+**А. Лыфарь**
