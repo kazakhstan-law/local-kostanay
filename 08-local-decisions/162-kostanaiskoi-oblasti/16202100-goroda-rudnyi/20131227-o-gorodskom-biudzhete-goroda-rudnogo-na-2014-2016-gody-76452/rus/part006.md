@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76452/rus/05.05.2014
+source: https://zan.gov.kz/client/#!/doc/76452/rus/16.07.2014
 ---
 
 ## Перечень бюджетных программ поселка Качар на 2014 год

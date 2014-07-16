@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76452/kaz/05.05.2014
+source: https://zan.gov.kz/client/#!/doc/76452/kaz/16.07.2014
 ---
 
 ## Қашар кентінің 2014 жылға арналған бюджеттік бағдарламалар тізбесі
