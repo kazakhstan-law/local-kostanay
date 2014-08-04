@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76447/rus/25.04.2014
+source: https://zan.gov.kz/client/#!/doc/76447/rus/04.08.2014
 ---
 
 ## Бюджет города Костаная на 2016 год
