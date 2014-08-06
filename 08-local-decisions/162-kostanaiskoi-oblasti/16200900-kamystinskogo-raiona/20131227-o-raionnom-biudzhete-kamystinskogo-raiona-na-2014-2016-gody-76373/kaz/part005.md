@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76373/kaz/25.04.2014
+source: https://zan.gov.kz/client/#!/doc/76373/kaz/06.08.2014
 ---
 
 ## Ауылдық округтер және ауылдар әкімдер аппаратының бюджеттік бағдарламаларының тізбесі

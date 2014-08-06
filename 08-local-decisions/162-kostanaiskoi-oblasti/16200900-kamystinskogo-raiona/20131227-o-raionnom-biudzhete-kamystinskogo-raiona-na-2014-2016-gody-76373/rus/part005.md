@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76373/rus/25.04.2014
+source: https://zan.gov.kz/client/#!/doc/76373/rus/06.08.2014
 ---
 
 ## Перечень бюджетных программ аппаратов акиматов сельских округов и сел
