@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76447/kaz/04.08.2014
+source: https://zan.gov.kz/client/#!/doc/76447/kaz/07.11.2014
 ---
 
 ## Қостанай қаласының 2016 жылға арналған бюджеті
