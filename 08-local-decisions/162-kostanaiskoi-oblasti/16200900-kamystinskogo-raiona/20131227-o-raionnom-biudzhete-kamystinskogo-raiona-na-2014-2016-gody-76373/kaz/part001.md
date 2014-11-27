@@ -1,50 +1,46 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
+source: https://zan.gov.kz/client/#!/doc/76373/kaz/27.11.2014
 ---
+
+> *Мәслихаттың*  
+> *2013 жылғы 27 желтоқсандағы*  
+> *№ 167 шешіміне*  
+> *1-қосымша*
 
 ## Қамысты ауданының 2014 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қостанай облысы Қамысты ауданы мәслихатының 28.10.2014 № 236 шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қостанай облысы Қамысты ауданы мәслихатының 27.11.2014 № 240 шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
-<td colspan="5">Санаты</td>
-<td></td>
+<td colspan="4">Санаты</td>
 <td rowspan="4">
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td></td>
-<td colspan="4">Сыныбы</td>
-<td></td>
+<td rowspan="3"></td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
+<td rowspan="2"></td>
 <td colspan="2">Ішкі сыныбы</td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>І. Кірістер</td>
-<td>2113015,1</td>
+<td>2108512,5</td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
@@ -52,127 +48,111 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">01</td>
-<td></td>
+<td>01</td>
 <td></td>
 <td>Табыс салығы</td>
 <td>154467,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td>2</td>
 <td></td>
+<td>2</td>
 <td>Жеке табыс салығы</td>
 <td>154467,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">03</td>
-<td></td>
+<td>03</td>
 <td></td>
 <td>Әлеуметтiк салық</td>
 <td>96201,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td>1</td>
 <td>Әлеуметтік салық</td>
 <td>96201,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">04</td>
-<td></td>
+<td>04</td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
 <td>248315,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td>1</td>
 <td>Мүлiкке салынатын салықтар</td>
 <td>220987,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td>3</td>
 <td></td>
+<td>3</td>
 <td>Жер салығы</td>
 <td>1968,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td>4</td>
 <td></td>
+<td>4</td>
 <td>Көлiк құралдарына салынатын салык</td>
 <td>21260,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td>5</td>
 <td></td>
+<td>5</td>
 <td>Бірыңғай жер салығы</td>
 <td>4100,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">05</td>
-<td></td>
+<td>05</td>
 <td></td>
 <td>Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
 <td>30494,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td>2</td>
 <td></td>
+<td>2</td>
 <td>Акциздер</td>
 <td>924,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td>3</td>
 <td></td>
+<td>3</td>
 <td>Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
 <td>27000,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td>4</td>
 <td></td>
+<td>4</td>
 <td>Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
 <td>2570,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">08</td>
-<td></td>
+<td>08</td>
 <td></td>
 <td>Заңдық мәнді іс-әрекеттерді жасағаны және (немесе) оған уәкілеттігі бар мемлекеттік органдар немесе лауазымды адамдар құжаттар бергені үшін алынатын міндетті төлемдер</td>
 <td>1863,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td>1</td>
 <td>Мемлекеттік баж</td>
 <td>1863,0</td>
 </tr>
 <tr>
 <td>2</td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Салықтық емес түсімдер</td>
@@ -180,63 +160,55 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">01</td>
-<td></td>
+<td>01</td>
 <td></td>
 <td>Мемлекеттік меншіктен түсетін кірістер</td>
 <td>1899,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td>5</td>
 <td></td>
+<td>5</td>
 <td>Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
 <td>1897,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td>7</td>
 <td></td>
+<td>7</td>
 <td>Мемлекеттік бюджеттен берілген кредиттер бойынша сыйақылар</td>
 <td>2,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">02</td>
-<td></td>
+<td>02</td>
 <td></td>
 <td>Мемлекеттік бюджеттен қаржыландырылатын мемлекеттік мекемелердің тауарларды (жұмыстарды, қызметтерді) өткізуінен түсетін түсімдер</td>
 <td>139,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
-<td></td>
 <td>Мемлекеттік бюджеттен қаржыландырылатын мемлекеттік мекемелердің тауарларды (жұмыстарды, қызметтерді) өткізуінен түсетін түсімдер</td>
 <td>139,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">06</td>
-<td></td>
+<td>06</td>
 <td></td>
 <td>Өзге де салықтық емес түсiмдер</td>
 <td>4556,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td>1</td>
 <td>Өзге де салықтық емес түсiмдер</td>
 <td>4556,0</td>
 </tr>
 <tr>
 <td>3</td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Негізгі капиталды сатудан түсетін түсімдер</td>
@@ -244,99 +216,91 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">03</td>
-<td></td>
+<td>03</td>
 <td></td>
 <td>Жерді және материалдық емес активтерді сату</td>
 <td>461,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td>1</td>
 <td>Жерді сату</td>
 <td>461,0</td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>1574620,1</td>
+<td>1570117,5</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">02</td>
-<td></td>
+<td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>1574620,1</td>
+<td>1570117,5</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
-<td></td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
-<td>1574620,1</td>
+<td>1570117,5</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td colspan="6">Функционалдық топ</td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="5">
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>ІІ. Шығындар</td>
-<td>2163402,0</td>
+<td>2158899,4</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>252772,4</td>
+<td>252669,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлді, атқарушы және басқа органдар</td>
-<td>222391,6</td>
+<td>222301,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>112</td>
 <td></td>
@@ -344,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>15358,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -352,7 +316,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>15228,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -360,23 +324,23 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>130,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>122</td>
 <td></td>
 <td>Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
-<td>76996,0</td>
+<td>76988,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Аудан (облыстық маңызы бар қала) әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>74896,0</td>
+<td>74888,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -384,23 +348,23 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>2100,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>130037,6</td>
+<td>129954,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық, округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>124775,6</td>
+<td>124692,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>022</td>
@@ -408,31 +372,31 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>5262,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Қаржылық қызмет</td>
-<td>15789,8</td>
+<td>15777,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>452</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
-<td>15789,8</td>
+<td>15777,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Ауданның (облыстық маңызы бар қаланың) бюджетін орындау және ауданның (облыстық маңызы бар қаланың) коммуналдық меншігін басқару саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>14544,4</td>
+<td>14531,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -440,7 +404,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>1115,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -448,7 +412,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>130,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -456,7 +420,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>14591,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>453</td>
 <td></td>
@@ -464,7 +428,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>14591,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -472,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>14331,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -480,7 +444,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>260,0</td>
 </tr>
 <tr>
-<td colspan="2">02</td>
+<td>02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -488,7 +452,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>1788,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -496,7 +460,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>1788,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -504,7 +468,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>1788,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -512,55 +476,55 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>1788,0</td>
 </tr>
 <tr>
-<td colspan="2">04</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>949496,8</td>
+<td>953230,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>139962,5</td>
+<td>139109,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>139962,5</td>
+<td>139109,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
 <td>Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
-<td>77238,5</td>
+<td>76928,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>040</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td>62724,0</td>
+<td>62180,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>775547,2</td>
+<td>780133,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -568,7 +532,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>2015,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -576,31 +540,31 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>2015,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>773531,6</td>
+<td>778118,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
 <td>Жалпы білім беру</td>
-<td>756927,6</td>
+<td>761584,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
 <td>Балаларға қосымша білім беру</td>
-<td>16604,0</td>
+<td>16534,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -608,7 +572,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>33987,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -616,7 +580,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>32614,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -624,7 +588,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>9807,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -632,7 +596,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>9294,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -640,7 +604,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>2458,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -648,7 +612,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>11055,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>466</td>
 <td></td>
@@ -656,7 +620,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>1372,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>037</td>
@@ -664,31 +628,31 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>1372,5</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>60535,3</td>
+<td>52611,7</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>43019,8</td>
+<td>35152,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>451</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>43019,8</td>
+<td>35152,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -696,15 +660,15 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>10955,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
 <td>Мемлекеттік атаулы әлеуметтік көмек</td>
-<td>5044,0</td>
+<td>1567,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -712,7 +676,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>8866,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -720,23 +684,23 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>104,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
 <td>Мұқтаж азаматтарға үйде әлеуметтiк көмек көрсету</td>
-<td>4095,0</td>
+<td>4052,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
 <td>18 жасқа дейінгі балаларға мемлекеттік жәрдемақылар</td>
-<td>13514,0</td>
+<td>9167,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -744,31 +708,31 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>441,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету салаларындағы өзге де қызметтер</td>
-<td>17515,5</td>
+<td>17458,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>451</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>16772,5</td>
+<td>16764,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Жергілікті деңгейде халық үшін әлеуметтік бағдарламаларды жұмыспен қамтуды қамтамасыз етуді іске асыру саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>16217,0</td>
+<td>16209,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -776,7 +740,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>346,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>021</td>
@@ -784,31 +748,31 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>209,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>743,0</td>
+<td>694,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>050</td>
 <td>Мүгедектердің құқықтарын қамтамасыз ету және өмір сүру сапасын жақсарту жөніндегі іс-шаралар жоспарын іске асыру</td>
-<td>743,0</td>
+<td>694,4</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>587726,5</td>
+<td>587723,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -816,7 +780,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>20710,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -824,7 +788,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>11755,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -832,7 +796,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>4763,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>033</td>
@@ -840,7 +804,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>6992,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -848,7 +812,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>8955,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>026</td>
@@ -856,7 +820,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>8955,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -864,7 +828,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>503752,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -872,7 +836,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>8538,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -880,7 +844,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>8538,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>466</td>
 <td></td>
@@ -888,7 +852,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>495214,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>058</td>
@@ -896,23 +860,23 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>495214,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Елді -мекендерді абаттандыру</td>
-<td>63264,2</td>
+<td>63260,7</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>19915,3</td>
+<td>19911,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -920,7 +884,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>11000,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -928,15 +892,15 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>154,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>8760,9</td>
+<td>8757,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -944,7 +908,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>43348,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -952,39 +916,39 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>43348,9</td>
 </tr>
 <tr>
-<td colspan="2">08</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>140556,1</td>
+<td>140237,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
-<td>40757,0</td>
+<td>40577,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>455</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
-<td>39757,0</td>
+<td>39577,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
 <td>Мәдени-демалыс жұмысын қолдау</td>
-<td>39757,0</td>
+<td>39577,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>466</td>
 <td></td>
@@ -992,7 +956,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>1000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -1000,47 +964,47 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>1000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Спорт</td>
-<td>33004,9</td>
+<td>32876,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>1396,0</td>
+<td>1391,7</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>028</td>
-<td>Жергілікті деңгейде дене шынықтыру–сауықтыру және спорттық іс-шараларды іске асыру</td>
-<td>1396,0</td>
+<td>Жергілікті деңгейде дене шынықтыру – сауықтыру және спорттық іс-шараларды іске асыру</td>
+<td>1391,7</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>465</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) дене шынықтыру және спорт бөлімі</td>
-<td>24587,9</td>
+<td>24464,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Жергілікті деңгейде дене шынықтыру және спорт саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>4888,9</td>
+<td>4879,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -1048,15 +1012,15 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>4939,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
 <td>Ұлттық және бұқаралық спорт түрлерін дамыту</td>
-<td>12104,0</td>
+<td>11989,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1064,7 +1028,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>531,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1072,7 +1036,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>2125,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>466</td>
 <td></td>
@@ -1080,7 +1044,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>7021,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1088,7 +1052,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>7021,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1096,7 +1060,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>48032,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1104,7 +1068,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>44017,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1112,7 +1076,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>32033,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1120,7 +1084,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>11984,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>456</td>
 <td></td>
@@ -1128,7 +1092,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>4015,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1136,7 +1100,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>3493,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1144,15 +1108,15 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>522,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңiстiктi ұйымдастыру жөнiндегi өзге де қызметтер</td>
-<td>18762,2</td>
+<td>18751,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1160,7 +1124,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>7853,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1168,7 +1132,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>4969,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -1176,7 +1140,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>130,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -1184,31 +1148,31 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>2754,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>456</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ішкі саясат бөлімі</td>
-<td>109908,3</td>
+<td>10897,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Жергілікті деңгейде ақпарат, мемлекеттілікті нығайту және азаматтардың әлеуметтік сенімділігін қалыптастыру саласында мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>6546,9</td>
+<td>6546,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
 <td>Жастар саясаты саласында іс-шараларды іске асыру</td>
-<td>3930,4</td>
+<td>3919,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1216,7 +1180,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>130,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -1224,7 +1188,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>301,0</td>
 </tr>
 <tr>
-<td colspan="2">09</td>
+<td>09</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1232,7 +1196,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>12139,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1240,7 +1204,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>12139,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1248,7 +1212,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>12139,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>019</td>
@@ -1256,23 +1220,23 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>12139,0</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>80272,4</td>
+<td>80416,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Ауыл шаруашылығы</td>
-<td>41327,4</td>
+<td>41322,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>453</td>
 <td></td>
@@ -1280,7 +1244,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>5105,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>099</td>
@@ -1288,23 +1252,23 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>5105,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>462</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ауыл шаруашылығы бөлімі</td>
-<td>18735,0</td>
+<td>18730,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Жергілікті деңгейде ауыл шаруашылығы саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>15592,0</td>
+<td>15587,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1312,7 +1276,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>3143,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>473</td>
 <td></td>
@@ -1320,7 +1284,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>17487,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1328,7 +1292,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>6809,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1336,7 +1300,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>8820,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1344,7 +1308,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>997,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -1352,31 +1316,31 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>860,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>6</td>
 <td></td>
 <td></td>
 <td>Жер қатынастары</td>
-<td>7109,0</td>
+<td>7092,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>463</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жер қатынастары бөлімі</td>
-<td>7109,0</td>
+<td>7092,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Аудан (облыстық маңызы бар қала) аумағында жер қатынастарын реттеу саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>6979,0</td>
+<td>6962,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1384,63 +1348,63 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>130,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
-<td>Ауыл, су, орман, балық шаруашылығы және қоршаған ортаны қорғау және жер қатынастары саласындағы басқа да қызметтер</td>
-<td>31836,0</td>
+<td>Ауыл, су, орман, балық шаруашылығы, қоршаған ортаны қорғау және жер қатынастары саласындағы басқа да қызметтер</td>
+<td>32002,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>473</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ветеринария бөлімі</td>
-<td>31836,0</td>
+<td>32002,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Эпизоотияға қарсы іс-шаралар жүргізу</td>
-<td>31836,0</td>
+<td>32002,0</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
+<td>11</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</td>
-<td>9240,0</td>
+<td>9223,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Сәулет, қала құрылысы және құрылыс қызметі</td>
-<td>9240,0</td>
+<td>9223,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>466</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
-<td>9240,0</td>
+<td>9223,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Құрылыс, облыс қалаларының, аудандарының және елді мекендерінің сәулеттік бейнесін жақсарту саласындағы мемлекеттік саясатты іске асыру және ауданның (облыстық маңызы бар қаланың) аумағын оңтайлау және тиімді қала құрылыстық игеруді қамтамасыз ету жөніндегі қызметтер</td>
-<td>9110,0</td>
+<td>9093,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -1448,7 +1412,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>130,0</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1456,7 +1420,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>31067,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1464,7 +1428,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>31067,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -1472,15 +1436,15 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>4611,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
-<td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда , ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
 <td>4611,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1488,7 +1452,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>26456,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>023</td>
@@ -1496,39 +1460,39 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>26456,2</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>27233,6</td>
+<td>27218,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Кәсiпкерлiк қызметтi қолдау және бәсекелестікті қорғау</td>
-<td>6285,0</td>
+<td>6281,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>469</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) кәсіпкерлік бөлімі</td>
-<td>6285,0</td>
+<td>6281,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Жергілікті деңгейде кәсіпкерлік пен өнеркәсіпті дамыту саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>6025,0</td>
+<td>6021,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -1536,15 +1500,15 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>260,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>20948,6</td>
+<td>20937,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -1552,7 +1516,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>13175,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>040</td>
@@ -1560,7 +1524,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>13175,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -1568,7 +1532,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -1576,23 +1540,23 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>7773,6</td>
+<td>7762,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Жергілікті деңгейде тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>7513,6</td>
+<td>7502,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -1600,7 +1564,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>260,0</td>
 </tr>
 <tr>
-<td colspan="2">14</td>
+<td>14</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1608,7 +1572,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>8,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1616,7 +1580,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>8,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -1624,7 +1588,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>8,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -1632,7 +1596,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>8,1</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
+<td>15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1640,7 +1604,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>10566,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1648,7 +1612,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>10566,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -1656,7 +1620,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>10566,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1664,7 +1628,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>10566,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1672,7 +1636,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>12353,7</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1680,7 +1644,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>18463,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1688,7 +1652,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>18463,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>453</td>
 <td></td>
@@ -1696,7 +1660,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>18463,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1704,7 +1668,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>18463,0</td>
 </tr>
 <tr>
-<td colspan="2">05</td>
+<td>05</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1712,7 +1676,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>6109,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -1720,7 +1684,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>6109,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -1728,7 +1692,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>6109,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1736,7 +1700,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1744,7 +1708,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1752,7 +1716,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1760,7 +1724,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1768,7 +1732,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>-62740,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1776,7 +1740,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>62740,6</td>
 </tr>
 <tr>
-<td colspan="2">7</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1784,7 +1748,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>18176,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -1792,7 +1756,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>18176,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -1800,7 +1764,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>18176,0</td>
 </tr>
 <tr>
-<td colspan="2">16</td>
+<td>16</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1808,7 +1772,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>6109,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1816,7 +1780,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>6109,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -1824,7 +1788,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>6109,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1832,7 +1796,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>6109,3</td>
 </tr>
 <tr>
-<td colspan="2">8</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1840,7 +1804,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>50673,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -1851,7 +1815,8 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 
 > *Мәслихаттың*  
 > *2013 жылғы 27 желтоқсандағы*  
-> *№ 167 шешіміне 2-қосымша*
+> *№ 167 шешіміне*  
+> *2-қосымша*
 
 ## Қамысты ауданының 2015 жылға арналған бюджеті
 
@@ -1860,8 +1825,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td colspan="4">Санаты</td>
 <td rowspan="4">
 Сомасы,
-мың
-теңге
+мың теңге
 </td>
 </tr>
 <tr>
@@ -2086,8 +2050,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td colspan="5">Функционалдық топ</td>
 <td rowspan="5">
 Сомасы,
-мың
-теңге
+мың теңге
 </td>
 </tr>
 <tr>
@@ -3398,7 +3361,8 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 
 > *Мәслихаттың*  
 > *2013 жылғы 27 желтоқсандағы*  
-> *№ 167 шешіміне 3-қосымша*
+> *№ 167 шешіміне*  
+> *3-қосымша*
 
 ## Қамысты ауданының 2016 жылға арналған бюджеті
 
@@ -3407,8 +3371,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td colspan="4">Санаты</td>
 <td rowspan="4">
 Сомасы,
-мың
-теңге
+мың теңге
 </td>
 </tr>
 <tr>
@@ -3633,8 +3596,7 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td colspan="5">Функционалдық топ</td>
 <td rowspan="5">
 Сомасы,
-мың
-теңге
+мың теңге
 </td>
 </tr>
 <tr>
@@ -4929,7 +4891,8 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 
 > *Мәслихаттың*  
 > *2013 жылғы 27 желтоқсандағы*  
-> *№ 167 шешіміне 4-қосымша*
+> *№ 167 шешіміне*  
+> *4-қосымша*
 
 ## 2014 жылға арналған аудандық бюджетті атқару процесінде секвестрлеуге жатпайтын бюджеттік бағдарламалардың тізбесі
 
@@ -4944,7 +4907,3 @@ source: https://zan.gov.kz/client/#!/doc/76373/kaz/28.10.2014
 <td>Жалпы білім беру</td>
 </tr>
 </table>
-
-> *Мәслихаттың*  
-> *2013 жылғы 27 желтоқсандағы*  
-> *№ 167 шешіміне 5-қосымша*
