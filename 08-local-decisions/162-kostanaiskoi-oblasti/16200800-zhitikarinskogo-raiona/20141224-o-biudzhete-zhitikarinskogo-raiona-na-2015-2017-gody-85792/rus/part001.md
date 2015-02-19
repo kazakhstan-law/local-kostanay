@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
+source: https://zan.gov.kz/client/#!/doc/85792/rus/19.02.2015
 ---
 
 > *Приложение 1*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 > *№ 283*
 
 # Бюджет Житикаринского района на 2015 год
+
+> *Сноска. Приложение 1 - в редакции решения маслихата Житикаринского района Костанайской области от 19.02.2015 № 293 (вводится в действие с 01.01.2015).*
 
 <table>
 <tr>
@@ -25,11 +27,11 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -276,12 +278,12 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -289,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td>4103791</td>
+<td>4123516,9</td>
 </tr>
 <tr>
 <td>01</td>
@@ -537,7 +539,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2"></td>
 <td>Образование</td>
-<td>2055692</td>
+<td>2055292</td>
 </tr>
 <tr>
 <td></td>
@@ -580,17 +582,14 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>1723614</td>
+<td>1723214</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
 <td colspan="2"></td>
-<td>
-Аппарат акима района в городе, города районного значения, поселка, села,
-сельского округа
-</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>1224</td>
 </tr>
 <tr>
@@ -607,7 +606,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td>464</td>
 <td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>1683862</td>
+<td>1683462</td>
 </tr>
 <tr>
 <td></td>
@@ -615,7 +614,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2">003</td>
 <td>Общеобразовательное обучение</td>
-<td>1619156</td>
+<td>1618756</td>
 </tr>
 <tr>
 <td></td>
@@ -719,7 +718,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2"></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>358331</td>
+<td>318731</td>
 </tr>
 <tr>
 <td></td>
@@ -727,7 +726,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2"></td>
 <td>Социальное обеспечение</td>
-<td>9470</td>
+<td>9870</td>
 </tr>
 <tr>
 <td></td>
@@ -735,7 +734,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td>464</td>
 <td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>9470</td>
+<td>9870</td>
 </tr>
 <tr>
 <td></td>
@@ -743,7 +742,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2">030</td>
 <td>Содержание ребенка (детей), переданного патронатным воспитателям</td>
-<td>9470</td>
+<td>9870</td>
 </tr>
 <tr>
 <td></td>
@@ -751,7 +750,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2"></td>
 <td>Социальная помощь</td>
-<td>287300</td>
+<td>247300</td>
 </tr>
 <tr>
 <td></td>
@@ -759,7 +758,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td>451</td>
 <td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>287300</td>
+<td>247300</td>
 </tr>
 <tr>
 <td></td>
@@ -783,7 +782,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2">006</td>
 <td>Оказание жилищной помощи</td>
-<td>120085</td>
+<td>80085</td>
 </tr>
 <tr>
 <td></td>
@@ -892,7 +891,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>298822</td>
+<td>318547,9</td>
 </tr>
 <tr>
 <td></td>
@@ -900,7 +899,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2"></td>
 <td>Жилищное хозяйство</td>
-<td>16563</td>
+<td>36288,9</td>
 </tr>
 <tr>
 <td></td>
@@ -948,7 +947,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td>467</td>
 <td colspan="2"></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>6671</td>
+<td>26396,9</td>
 </tr>
 <tr>
 <td></td>
@@ -956,7 +955,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2">004</td>
 <td>Проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
-<td>6671</td>
+<td>26396,9</td>
 </tr>
 <tr>
 <td></td>
@@ -1464,7 +1463,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>791571</td>
+<td>831571</td>
 </tr>
 <tr>
 <td></td>
@@ -1496,7 +1495,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>781190</td>
+<td>821190</td>
 </tr>
 <tr>
 <td></td>
@@ -1520,7 +1519,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td>452</td>
 <td colspan="2"></td>
 <td>Отдел финансов района (города областного значения)</td>
-<td>1140</td>
+<td>41140</td>
 </tr>
 <tr>
 <td></td>
@@ -1528,7 +1527,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td colspan="2">012</td>
 <td>Резерв местного исполнительного органа района (города областного значения)</td>
-<td>1140</td>
+<td>41140</td>
 </tr>
 <tr>
 <td></td>
@@ -1752,7 +1751,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td></td>
 <td colspan="2">V. Дефицит (профицит) бюджета</td>
-<td>-19647</td>
+<td>-39372,9</td>
 </tr>
 <tr>
 <td></td>
@@ -1760,7 +1759,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/rus/24.12.2014
 <td></td>
 <td></td>
 <td colspan="2">VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>19647</td>
+<td>39372,9</td>
 </tr>
 </table>
 
