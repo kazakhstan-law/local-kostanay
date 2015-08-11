@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85287/rus/20.05.2015
+source: https://zan.gov.kz/client/#!/doc/85287/rus/11.08.2015
 ---
 
 > *Приложение 2*  
@@ -9,2385 +9,4695 @@ source: https://zan.gov.kz/client/#!/doc/85287/rus/20.05.2015
 
 # Областной бюджет Костанайской области на 2016 год
 
-> *Сноска. Приложение 2 - в редакции решения маслихата Костанайской области от 20.05.2015 № 399 (вводится в действие с 01.01.2015).*
+> *Сноска. Приложение 2 - в редакции решения маслихата Костанайской области от 11.08.2015 № 432 (вводится в действие с 01.01.2015).*
 
 <table>
 <tr>
-<td colspan="9">Категория</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="8">Класс</td>
+<td></td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2"></td>
-<td colspan="5">Подкласс</td>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>I. Доходы</td>
 <td>104 656 452,0</td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Налоговые поступления</td>
 <td>6 514 239,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">05</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>05</td>
+<td></td>
+<td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
 <td>6 514 239,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
+<td></td>
+<td>3</td>
+<td></td>
 <td>Поступления за использование природных и других ресурсов</td>
 <td>6 513 555,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">4</td>
-<td colspan="2"></td>
+<td></td>
+<td>4</td>
+<td></td>
 <td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
 <td>684,0</td>
 </tr>
 <tr>
 <td>2</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Неналоговые поступления</td>
 <td>47 650,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">01</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>01</td>
+<td></td>
+<td></td>
 <td>Доходы от государственной собственности</td>
 <td>41 279,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">5</td>
-<td colspan="2"></td>
+<td></td>
+<td>5</td>
+<td></td>
 <td>Доходы от аренды имущества, находящегося в государственной собственности</td>
 <td>36 214,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">7</td>
-<td colspan="2"></td>
+<td></td>
+<td>7</td>
+<td></td>
 <td>Вознаграждения по кредитам, выданным из государственного бюджета</td>
 <td>5 065,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">02</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>02</td>
+<td></td>
+<td></td>
 <td>Поступления от реализации товаров (работ, услуг) государственными учреждениями, финансируемыми из государственного бюджета</td>
 <td>3 363,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
+<td></td>
+<td>1</td>
+<td></td>
 <td>Поступления от реализации товаров (работ, услуг) государственными учреждениями, финансируемыми из государственного бюджета</td>
 <td>3 363,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">04</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>04</td>
+<td></td>
+<td></td>
 <td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
 <td>1 371,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
+<td></td>
+<td>1</td>
+<td></td>
 <td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
 <td>1 371,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">06</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>06</td>
+<td></td>
+<td></td>
 <td>Прочие неналоговые поступления</td>
 <td>1 637,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
+<td></td>
+<td>1</td>
+<td></td>
 <td>Прочие неналоговые поступления</td>
 <td>1 637,0</td>
 </tr>
 <tr>
 <td>3</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Поступления от продажи основного капитала</td>
 <td>17 013,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">01</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>01</td>
+<td></td>
+<td></td>
 <td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td>17 013,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
+<td></td>
+<td>1</td>
+<td></td>
 <td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td>17 013,0</td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Поступления трансфертов</td>
 <td>98 077 550,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">01</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>01</td>
+<td></td>
+<td></td>
 <td>Трансферты из нижестоящих органов государственного управления</td>
 <td>23 590 626,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
+<td></td>
+<td>2</td>
+<td></td>
 <td>Трансферты из районных (городских) бюджетов</td>
 <td>23 590 626,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">02</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>02</td>
+<td></td>
+<td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
 <td>74 486 924,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
+<td></td>
+<td>1</td>
+<td></td>
 <td>Трансферты из республиканского бюджета</td>
 <td>74 486 924,0</td>
 </tr>
 <tr>
-<td colspan="9">Функциональная группа</td>
+<td colspan="5">Функциональная группа</td>
 <td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="5"></td>
-<td colspan="7">Функциональная подгруппа</td>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
-<td colspan="6">Администратор бюджетных программ</td>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3"></td>
-<td colspan="4">Программа</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>II. Затраты</td>
 <td>104 656 452,0</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Государственные услуги общего характера</td>
 <td>1 266 123,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>929 541,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">110</td>
-<td colspan="3"></td>
+<td></td>
+<td>110</td>
+<td></td>
 <td>Аппарат маслихата области</td>
 <td>48 866,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по обеспечению деятельности маслихата области</td>
 <td>48 866,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">120</td>
-<td colspan="3"></td>
+<td></td>
+<td>120</td>
+<td></td>
 <td>Аппарат акима области</td>
 <td>708 784,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по обеспечению деятельности акима области</td>
 <td>679 571,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">013</td>
+<td></td>
+<td></td>
+<td>013</td>
 <td>Обеспечение деятельности Ассамблеи народа Казахстана области</td>
 <td>29 213,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">282</td>
-<td colspan="3"></td>
+<td></td>
+<td>282</td>
+<td></td>
 <td>Ревизионная комиссия области</td>
 <td>171 891,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по обеспечению деятельности ревизионной комиссии области</td>
 <td>171 891,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Финансовая деятельность</td>
 <td>158 896,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">257</td>
-<td colspan="3"></td>
+<td></td>
+<td>257</td>
+<td></td>
 <td>Управление финансов области</td>
 <td>155 453,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики в области исполнения местного бюджета и управления коммунальной собственностью области</td>
 <td>150 087,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">009</td>
+<td></td>
+<td></td>
+<td>009</td>
 <td>Приватизация, управление коммунальным имуществом, постприватизационная деятельность и регулирование споров, связанных с этим</td>
 <td>5 366,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">718</td>
-<td colspan="3"></td>
+<td></td>
+<td>718</td>
+<td></td>
 <td>Управление государственных закупок области</td>
 <td>3 443,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики в области государственных закупок на местном уровне</td>
 <td>3 443,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Планирование и статистическая деятельность</td>
 <td>129 589,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">258</td>
-<td colspan="3"></td>
+<td></td>
+<td>258</td>
+<td></td>
 <td>Управление экономики и бюджетного планирования области</td>
 <td>129 589,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики в области формирования и развития экономической политики, системы государственного планирования</td>
 <td>129 589,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Прочие государственные услуги общего характера</td>
 <td>48 097,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">269</td>
-<td colspan="3"></td>
+<td></td>
+<td>269</td>
+<td></td>
 <td>Управление по делам религий области</td>
 <td>48 097,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики в области в сфере религиозной деятельности на местном уровне</td>
 <td>21 628,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">005</td>
+<td></td>
+<td></td>
+<td>005</td>
 <td>Изучение и анализ религиозной ситуации в регионе</td>
 <td>26 469,0</td>
 </tr>
 <tr>
-<td colspan="2">02</td>
+<td>02</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Оборона</td>
 <td>92 846,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Военные нужды</td>
 <td>57 071,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">120</td>
-<td colspan="3"></td>
+<td></td>
+<td>120</td>
+<td></td>
 <td>Аппарат акима области</td>
 <td>57 071,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">010</td>
+<td></td>
+<td></td>
+<td>010</td>
 <td>Мероприятия в рамках исполнения всеобщей воинской обязанности</td>
 <td>45 185,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">011</td>
+<td></td>
+<td></td>
+<td>011</td>
 <td>Подготовка территориальной обороны и территориальная оборона областного масштаба</td>
 <td>11 886,0</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
+<td></td>
 <td>2</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Организация работы по чрезвычайным ситуациям</td>
 <td>35 775,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">287</td>
-<td colspan="3"></td>
+<td></td>
+<td>287</td>
+<td></td>
 <td>Территориальный орган, уполномоченных органов в области чрезвычайных ситуаций природного и техногенного характера, гражданской обороны, финансируемый из областного бюджета</td>
 <td>35 775,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">003</td>
+<td></td>
+<td></td>
+<td>003</td>
 <td>Мероприятия гражданской обороны областного масштаба</td>
 <td>6 801,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">004</td>
+<td></td>
+<td></td>
+<td>004</td>
 <td>Предупреждение и ликвидация чрезвычайных ситуаций областного масштаба</td>
 <td>28 974,0</td>
 </tr>
 <tr>
-<td colspan="2">03</td>
+<td>03</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
 <td>7 786 219,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Правоохранительная деятельность</td>
 <td>7 786 219,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">252</td>
-<td colspan="3"></td>
+<td></td>
+<td>252</td>
+<td></td>
 <td>Исполнительный орган внутренних дел, финансируемый из областного бюджета</td>
 <td>6 096 429,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики в области обеспечения охраны общественного порядка и безопасности на территории области</td>
 <td>5 935 295,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">003</td>
+<td></td>
+<td></td>
+<td>003</td>
 <td>Поощрение граждан, участвующих в охране общественного порядка</td>
 <td>4 632,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">013</td>
+<td></td>
+<td></td>
+<td>013</td>
 <td>Услуги по размещению лиц, не имеющих определенного места жительства и документов</td>
 <td>55 087,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">014</td>
+<td></td>
+<td></td>
+<td>014</td>
 <td>Организация содержания лиц, арестованных в административном порядке</td>
 <td>57 545,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">015</td>
+<td></td>
+<td></td>
+<td>015</td>
 <td>Организация содержания служебных животных</td>
 <td>43 870,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">271</td>
-<td colspan="3"></td>
+<td></td>
+<td>271</td>
+<td></td>
 <td>Управление строительства области</td>
 <td>1 689 790,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">003</td>
+<td></td>
+<td></td>
+<td>003</td>
 <td>Развитие объектов органов внутренних дел</td>
 <td>1 689 790,0</td>
 </tr>
 <tr>
-<td colspan="2">04</td>
+<td>04</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Образование</td>
-<td>10 539 156,0</td>
+<td>10 662 890,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
 <td>2 253 794,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">261</td>
-<td colspan="3"></td>
+<td></td>
+<td>261</td>
+<td></td>
 <td>Управление образования области</td>
 <td>1 760 030,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">003</td>
+<td></td>
+<td></td>
+<td>003</td>
 <td>Общеобразовательное обучение по специальным образовательным учебным программам</td>
 <td>1 236 643,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">006</td>
+<td></td>
+<td></td>
+<td>006</td>
 <td>Общеобразовательное обучение одаренных детей в специализированных организациях образования</td>
 <td>523 387,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">285</td>
-<td colspan="3"></td>
+<td></td>
+<td>285</td>
+<td></td>
 <td>Управление физической культуры и спорта области</td>
 <td>493 764,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">006</td>
+<td></td>
+<td></td>
+<td>006</td>
 <td>Дополнительное образование для детей и юношества по спорту</td>
 <td>493 764,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>4</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Техническое и профессиональное, послесреднее образование</td>
 <td>5 556 637,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">253</td>
-<td colspan="3"></td>
+<td></td>
+<td>253</td>
+<td></td>
 <td>Управление здравоохранения области</td>
 <td>218 357,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">043</td>
+<td></td>
+<td></td>
+<td>043</td>
 <td>Подготовка специалистов в организациях технического и профессионального, послесреднего образования</td>
 <td>218 357,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">261</td>
-<td colspan="3"></td>
+<td></td>
+<td>261</td>
+<td></td>
 <td>Управление образования области</td>
 <td>5 338 280,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">024</td>
+<td></td>
+<td></td>
+<td>024</td>
 <td>Подготовка специалистов в организациях технического и профессионального образования</td>
 <td>5 338 280,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Переподготовка и повышение квалификации специалистов</td>
 <td>104 534,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">252</td>
-<td colspan="3"></td>
+<td></td>
+<td>252</td>
+<td></td>
 <td>Исполнительный орган внутренних дел, финансируемый из областного бюджета</td>
 <td>94 755,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">007</td>
+<td></td>
+<td></td>
+<td>007</td>
 <td>Повышение квалификации и переподготовка кадров</td>
 <td>94 755,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">253</td>
-<td colspan="3"></td>
+<td></td>
+<td>253</td>
+<td></td>
 <td>Управление здравоохранения области</td>
 <td>9 779,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">003</td>
+<td></td>
+<td></td>
+<td>003</td>
 <td>Повышение квалификации и переподготовка кадров</td>
 <td>9 779,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Прочие услуги в области образования</td>
-<td>2 624 191,0</td>
+<td>2 747 925,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">261</td>
-<td colspan="3"></td>
+<td></td>
+<td>261</td>
+<td></td>
 <td>Управление образования области</td>
 <td>765 922,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области образования</td>
 <td>126 751,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">004</td>
+<td></td>
+<td></td>
+<td>004</td>
 <td>Информатизация системы образования в областных государственных учреждениях образования</td>
 <td>23 844,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">005</td>
+<td></td>
+<td></td>
+<td>005</td>
 <td>Приобретение и доставка учебников, учебно-методических комплексов для областных государственных учреждений образования</td>
 <td>11 104,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">007</td>
+<td></td>
+<td></td>
+<td>007</td>
 <td>Проведение школьных олимпиад, внешкольных мероприятий и конкурсов областного масштаба</td>
 <td>274 700,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">011</td>
+<td></td>
+<td></td>
+<td>011</td>
 <td>Обследование психического здоровья детей и подростков и оказание психолого-медико-педагогической консультативной помощи населению</td>
 <td>51 319,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">029</td>
+<td></td>
+<td></td>
+<td>029</td>
 <td>Методическая работа</td>
 <td>38 525,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">113</td>
+<td></td>
+<td></td>
+<td>113</td>
 <td>Целевые текущие трансферты из местных бюджетов</td>
 <td>239 679,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">271</td>
-<td colspan="3"></td>
+<td></td>
+<td>271</td>
+<td></td>
 <td>Управление строительства области</td>
-<td>1 858 269,0</td>
+<td>1 982 003,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">007</td>
+<td></td>
+<td></td>
+<td>007</td>
 <td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на строительство и реконструкцию объектов образования</td>
-<td>1 798 269,0</td>
+<td>1 922 003,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">037</td>
+<td></td>
+<td></td>
+<td>037</td>
 <td>Строительство и реконструкция объектов образования</td>
 <td>60 000,0</td>
 </tr>
 <tr>
-<td colspan="2">05</td>
+<td>05</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Здравоохранение</td>
 <td>9 341 071,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Охрана здоровья населения</td>
 <td>1 272 458,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">253</td>
-<td colspan="3"></td>
+<td></td>
+<td>253</td>
+<td></td>
 <td>Управление здравоохранения области</td>
 <td>1 272 458,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">005</td>
+<td></td>
+<td></td>
+<td>005</td>
 <td>Производство крови, ее компонентов и препаратов для местных организаций здравоохранения</td>
 <td>837 347,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">006</td>
+<td></td>
+<td></td>
+<td>006</td>
 <td>Услуги по охране материнства и детства</td>
 <td>307 611,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">007</td>
+<td></td>
+<td></td>
+<td>007</td>
 <td>Пропаганда здорового образа жизни</td>
 <td>127 500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Специализированная медицинская помощь</td>
 <td>4 768 842,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">253</td>
-<td colspan="3"></td>
+<td></td>
+<td>253</td>
+<td></td>
 <td>Управление здравоохранения области</td>
 <td>4 768 842,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">009</td>
+<td></td>
+<td></td>
+<td>009</td>
 <td>Оказание медицинской помощи лицам, страдающим туберкулезом, инфекционными заболеваниями, психическими расстройствами и расстройствами поведения, в том числе связанные с употреблением психоактивных веществ</td>
 <td>4 356 683,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">020</td>
+<td></td>
+<td></td>
+<td>020</td>
 <td>Обеспечение больных диабетом противодиабетическими препаратами</td>
 <td>93 762,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">027</td>
+<td></td>
+<td></td>
+<td>027</td>
 <td>Централизованный закуп и хранение вакцин и других медицинских иммунобиологических препаратов для проведения иммунопрофилактики населения</td>
 <td>91 637,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">046</td>
+<td></td>
+<td></td>
+<td>046</td>
 <td>Оказание медицинской помощи онкологическим больным в рамках гарантированного объема бесплатной медицинской помощи</td>
 <td>226 760,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>4</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Поликлиники</td>
 <td>1 282 962,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">253</td>
-<td colspan="3"></td>
+<td></td>
+<td>253</td>
+<td></td>
 <td>Управление здравоохранения области</td>
 <td>1 282 962,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">014</td>
+<td></td>
+<td></td>
+<td>014</td>
 <td>Обеспечение лекарственными средствами и специализированными продуктами детского и лечебного питания отдельных категорий населения на амбулаторном уровне</td>
 <td>543 632,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">039</td>
+<td></td>
+<td></td>
+<td>039</td>
 <td>Оказание медицинской помощи населению субъектами здравоохранения районного значения и села и амбулаторно-поликлинической помощи в рамках гарантированного объема бесплатной медицинской помощи</td>
 <td>627 799,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">045</td>
+<td></td>
+<td></td>
+<td>045</td>
 <td>Обеспечение лекарственными средствами на льготных условиях отдельных категорий граждан на амбулаторном уровне лечения</td>
 <td>111 531,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Другие виды медицинской помощи</td>
 <td>776 493,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">253</td>
-<td colspan="3"></td>
+<td></td>
+<td>253</td>
+<td></td>
 <td>Управление здравоохранения области</td>
 <td>776 493,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">011</td>
+<td></td>
+<td></td>
+<td>011</td>
 <td>Оказание скорой медицинской помощи и санитарная авиация, за исключением оказываемой за счет средств республиканского бюджета и субъектами здравоохранения районного значения и села</td>
 <td>711 212,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">029</td>
+<td></td>
+<td></td>
+<td>029</td>
 <td>Областные базы спецмедснабжения</td>
 <td>65 281,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Прочие услуги в области здравоохранения</td>
 <td>1 240 316,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">253</td>
-<td colspan="3"></td>
+<td></td>
+<td>253</td>
+<td></td>
 <td>Управление здравоохранения области</td>
 <td>1 205 992,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области здравоохранения</td>
 <td>124 560,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">008</td>
+<td></td>
+<td></td>
+<td>008</td>
 <td>Реализация мероприятий по профилактике и борьбе со СПИД в Республике Казахстан</td>
 <td>147 672,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">013</td>
+<td></td>
+<td></td>
+<td>013</td>
 <td>Проведение патологоанатомического вскрытия</td>
 <td>99 744,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">016</td>
+<td></td>
+<td></td>
+<td>016</td>
 <td>Обеспечение граждан бесплатным или льготным проездом за пределы населенного пункта на лечение</td>
 <td>13 658,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">018</td>
+<td></td>
+<td></td>
+<td>018</td>
 <td>Информационно-аналитические услуги в области здравоохранения</td>
 <td>24 572,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">033</td>
+<td></td>
+<td></td>
+<td>033</td>
 <td>Капитальные расходы медицинских организаций здравоохранения</td>
 <td>795 786,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">271</td>
-<td colspan="3"></td>
+<td></td>
+<td>271</td>
+<td></td>
 <td>Управление строительства области</td>
 <td>34 324,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">038</td>
+<td></td>
+<td></td>
+<td>038</td>
 <td>Строительство и реконструкция объектов здравоохранения</td>
 <td>34 324,0</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td>06</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Социальная помощь и социальное обеспечение</td>
 <td>3 265 289,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Социальное обеспечение</td>
 <td>2 779 031,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">256</td>
-<td colspan="3"></td>
+<td></td>
+<td>256</td>
+<td></td>
 <td>Управление координации занятости и социальных программ области</td>
 <td>1 834 782,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">002</td>
+<td></td>
+<td></td>
+<td>002</td>
 <td>Предоставление специальных социальных услуг для престарелых и инвалидов в медико-социальных учреждениях (организациях) общего типа</td>
 <td>631 672,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">013</td>
+<td></td>
+<td></td>
+<td>013</td>
 <td>Предоставление специальных социальных услуг для инвалидов с психоневрологическими заболеваниями, в психоневрологических медико-социальных учреждениях (организациях)</td>
 <td>811 248,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">014</td>
+<td></td>
+<td></td>
+<td>014</td>
 <td>Предоставление специальных социальных услуг для престарелых, инвалидов, в том числе детей-инвалидов, в реабилитационных центрах</td>
 <td>134 266,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">015</td>
+<td></td>
+<td></td>
+<td>015</td>
 <td>Предоставление специальных социальных услуг для детей-инвалидов с психоневрологическими патологиями в детских психоневрологических медико-социальных учреждениях (организациях)</td>
 <td>257 596,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">261</td>
-<td colspan="3"></td>
+<td></td>
+<td>261</td>
+<td></td>
 <td>Управление образования области</td>
 <td>942 670,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">015</td>
+<td></td>
+<td></td>
+<td>015</td>
 <td>Социальное обеспечение сирот, детей, оставшихся без попечения родителей</td>
 <td>902 251,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">037</td>
+<td></td>
+<td></td>
+<td>037</td>
 <td>Социальная реабилитация</td>
 <td>40 419,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">271</td>
-<td colspan="3"></td>
+<td></td>
+<td>271</td>
+<td></td>
 <td>Управление строительства области</td>
 <td>1 579,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">039</td>
+<td></td>
+<td></td>
+<td>039</td>
 <td>Строительство и реконструкция объектов социального обеспечения</td>
 <td>1 579,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Социальная помощь</td>
 <td>322 589,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">256</td>
-<td colspan="3"></td>
+<td></td>
+<td>256</td>
+<td></td>
 <td>Управление координации занятости и социальных программ области</td>
 <td>322 589,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">003</td>
+<td></td>
+<td></td>
+<td>003</td>
 <td>Социальная поддержка инвалидов</td>
 <td>322 589,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Прочие услуги в области социальной помощи и социального обеспечения</td>
 <td>163 669,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">256</td>
-<td colspan="3"></td>
+<td></td>
+<td>256</td>
+<td></td>
 <td>Управление координации занятости и социальных программ области</td>
 <td>128 305,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области обеспечения занятости и реализации социальных программ для населения</td>
 <td>123 104,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">044</td>
+<td></td>
+<td></td>
+<td>044</td>
 <td>Реализация миграционных мероприятий на местном уровне</td>
 <td>5 201,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">270</td>
-<td colspan="3"></td>
+<td></td>
+<td>270</td>
+<td></td>
 <td>Управление по инспекции труда области</td>
 <td>35 364,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики в области регулирования трудовых отношений на местном уровне</td>
 <td>35 364,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>13 145 582,0</td>
+<td>13 146 878,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Жилищное хозяйство</td>
 <td>1 659 506,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">271</td>
-<td colspan="3">0</td>
+<td></td>
+<td>271</td>
+<td></td>
 <td>Управление строительства области</td>
 <td>1 659 506,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">014</td>
+<td></td>
+<td></td>
+<td>014</td>
 <td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на проектирование и (или) строительство, реконструкцию жилья коммунального жилищного фонда</td>
 <td>238 366,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">027</td>
+<td></td>
+<td></td>
+<td>027</td>
 <td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
 <td>1 421 140,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Коммунальное хозяйство</td>
-<td>11 486 076,0</td>
+<td>11 487 372,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">271</td>
-<td colspan="3"></td>
+<td></td>
+<td>271</td>
+<td></td>
 <td>Управление строительства области</td>
 <td>5 886 262,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">033</td>
+<td></td>
+<td></td>
+<td>033</td>
 <td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на развитие системы водоснабжения и водоотведения</td>
 <td>668 243,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">058</td>
+<td></td>
+<td></td>
+<td>058</td>
 <td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
 <td>5 218 019,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>За счет трансфертов из республиканского бюджета</td>
-<td>4 255 220,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>За счет средств местного бюджета</td>
-<td>962 799,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
+<td>279</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">059</td>
-<td>Целевые трансферты на развитие из областного бюджета бюджетам районов (городов областного значения) на развитие системы водоснабжения в сельских населенных пунктах</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">279</td>
-<td colspan="3"></td>
 <td>Управление энергетики и жилищно-коммунального хозяйства области</td>
-<td>5 599 814,0</td>
+<td>5 601 110,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области энергетики и жилищно-коммунального хозяйства</td>
 <td>65 238,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">004</td>
+<td></td>
+<td></td>
+<td>004</td>
 <td>Газификация населенных пунктов</td>
 <td>380 839,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">010</td>
+<td></td>
+<td></td>
+<td>010</td>
 <td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на развитие системы водоснабжения и водоотведения</td>
-<td>3 432 444,0</td>
+<td>3 433 740,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">014</td>
+<td></td>
+<td></td>
+<td>014</td>
 <td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на развитие коммунального хозяйства</td>
 <td>1 109 704,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">038</td>
+<td></td>
+<td></td>
+<td>038</td>
 <td>Развитие коммунального хозяйства</td>
 <td>411 589,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">113</td>
+<td></td>
+<td></td>
+<td>113</td>
 <td>Целевые текущие трансферты из местных бюджетов</td>
 <td>200 000,0</td>
 </tr>
 <tr>
-<td colspan="2">08</td>
+<td>08</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
 <td>5 744 139,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Деятельность в области культуры</td>
 <td>1 012 058,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">262</td>
-<td colspan="3">0</td>
+<td></td>
+<td>262</td>
+<td></td>
 <td>Управление культуры области</td>
 <td>1 012 058,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области культуры</td>
 <td>51 532,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">003</td>
+<td></td>
+<td></td>
+<td>003</td>
 <td>Поддержка культурно-досуговой работы</td>
 <td>81 082,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">005</td>
+<td></td>
+<td></td>
+<td>005</td>
 <td>Обеспечение сохранности историко-культурного наследия и доступа к ним</td>
 <td>218 433,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">007</td>
+<td></td>
+<td></td>
+<td>007</td>
 <td>Поддержка театрального и музыкального искусства</td>
 <td>661 011,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Спорт</td>
 <td>3 687 791,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">271</td>
-<td colspan="3">000</td>
+<td></td>
+<td>271</td>
+<td></td>
 <td>Управление строительства области</td>
 <td>1 175 368,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">017</td>
+<td></td>
+<td></td>
+<td>017</td>
 <td>Развитие объектов спорта</td>
 <td>708 851,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">034</td>
+<td></td>
+<td></td>
+<td>034</td>
 <td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на развитие объектов спорта</td>
 <td>466 517,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">285</td>
-<td colspan="3"></td>
+<td></td>
+<td>285</td>
+<td></td>
 <td>Управление физической культуры и спорта области</td>
 <td>2 512 423,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере физической культуры и спорта</td>
 <td>52 615,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">002</td>
+<td></td>
+<td></td>
+<td>002</td>
 <td>Проведение спортивных соревнований на областном уровне</td>
 <td>37 356,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">003</td>
+<td></td>
+<td></td>
+<td>003</td>
 <td>Подготовка и участие членов областных сборных команд по различным видам спорта на республиканских и международных спортивных соревнованиях</td>
 <td>1 667 137,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">113</td>
+<td></td>
+<td></td>
+<td>113</td>
 <td>Целевые текущие трансферты из местных бюджетов</td>
 <td>755 315,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Информационное пространство</td>
 <td>830 005,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">259</td>
-<td colspan="3">0</td>
+<td></td>
+<td>259</td>
+<td></td>
 <td>Управление архивов и документации области</td>
 <td>264 886,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне по управлению архивным делом</td>
 <td>26 411,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">002</td>
+<td></td>
+<td></td>
+<td>002</td>
 <td>Обеспечение сохранности архивного фонда</td>
 <td>238 475,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">262</td>
-<td colspan="3"></td>
+<td></td>
+<td>262</td>
+<td></td>
 <td>Управление культуры области</td>
 <td>229 723,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">008</td>
+<td></td>
+<td></td>
+<td>008</td>
 <td>Обеспечение функционирования областных библиотек</td>
 <td>229 723,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">263</td>
-<td colspan="3"></td>
+<td></td>
+<td>263</td>
+<td></td>
 <td>Управление внутренней политики области</td>
 <td>265 942,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">007</td>
+<td></td>
+<td></td>
+<td>007</td>
 <td>Услуги по проведению государственной информационной политики</td>
 <td>265 942,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">264</td>
-<td colspan="3"></td>
+<td></td>
+<td>264</td>
+<td></td>
 <td>Управление по развитию языков области</td>
 <td>69 454,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области развития языков</td>
 <td>35 212,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">002</td>
+<td></td>
+<td></td>
+<td>002</td>
 <td>Развитие государственного языка и других языков народа Казахстана</td>
 <td>34 242,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>4</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Туризм</td>
 <td>8 651,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">266</td>
-<td colspan="3"></td>
+<td></td>
+<td>266</td>
+<td></td>
 <td>Управление предпринимательства и индустриально-инновационного развития области</td>
 <td>8 651,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">021</td>
+<td></td>
+<td></td>
+<td>021</td>
 <td>Регулирование туристской деятельности</td>
 <td>8 651,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Прочие услуги по организации культуры, спорта, туризма и информационного пространства</td>
 <td>205 634,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">263</td>
-<td colspan="3"></td>
+<td></td>
+<td>263</td>
+<td></td>
 <td>Управление внутренней политики области</td>
 <td>110 425,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной внутренней политики на местном уровне</td>
 <td>110 425,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">283</td>
-<td colspan="3"></td>
+<td></td>
+<td>283</td>
+<td></td>
 <td>Управление по вопросам молодежной политики области</td>
 <td>95 209,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации молодежной политики на местном уровне</td>
 <td>28 032,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">005</td>
+<td></td>
+<td></td>
+<td>005</td>
 <td>Реализация мероприятий в сфере молодежной политики</td>
 <td>67 177,0</td>
 </tr>
 <tr>
-<td colspan="2">09</td>
+<td>09</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Топливно-энергетический комплекс и недропользование</td>
 <td>1 551 176,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Прочие услуги в области топливно-энергетического комплекса и недропользования</td>
 <td>1 551 176,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">279</td>
-<td colspan="3"></td>
+<td></td>
+<td>279</td>
+<td></td>
 <td>Управление энергетики и жилищно-коммунального хозяйства области</td>
 <td>1 551 176,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">011</td>
+<td></td>
+<td></td>
+<td>011</td>
 <td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на развитие теплоэнергетической системы</td>
 <td>131 277,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">071</td>
+<td></td>
+<td></td>
+<td>071</td>
 <td>Развитие газотранспортной системы</td>
 <td>1 419 899,0</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>18 892 917,0</td>
+<td>18 895 768,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Сельское хозяйство</td>
 <td>17 710 259,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">255</td>
-<td colspan="3"></td>
+<td></td>
+<td>255</td>
+<td></td>
 <td>Управление сельского хозяйства области</td>
 <td>17 667 625,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере сельского хозяйства</td>
 <td>120 040,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">002</td>
+<td></td>
+<td></td>
+<td>002</td>
 <td>Поддержка семеноводства</td>
 <td>367 549,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">010</td>
-<td>Государственная поддержка племенного животноводства</td>
-<td>931 605,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">013</td>
-<td>Субсидирование повышения продуктивности и качества продукции животноводства</td>
-<td>2 601 161,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">014</td>
+<td>014</td>
 <td>Субсидирование стоимости услуг по доставке воды сельскохозяйственным товаропроизводителям</td>
 <td>1 350,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">018</td>
+<td></td>
+<td></td>
+<td>018</td>
 <td>Обезвреживание пестицидов (ядохимикатов)</td>
 <td>4 276,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">020</td>
+<td></td>
+<td></td>
+<td>020</td>
 <td>Субсидирование повышения урожайности и качества продукции растениеводства, удешевление стоимости горюче-смазочных материалов и других товарно-материальных ценностей, необходимых для проведения весенне-полевых и уборочных работ, путем субсидирования производства приоритетных культур</td>
 <td>5 187 105,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">041</td>
+<td></td>
+<td></td>
+<td>041</td>
 <td>Удешевление сельхозтоваропроизводителям стоимости гербицидов, биоагентов (энтомофагов) и биопрепаратов, предназначенных для обработки сельскохозяйственных культур в целях защиты растений</td>
 <td>4 284 000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">045</td>
+<td></td>
+<td></td>
+<td>045</td>
 <td>Определение сортовых и посевных качеств семенного и посадочного материала</td>
 <td>84 041,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">046</td>
+<td></td>
+<td></td>
+<td>046</td>
 <td>Государственный учет и регистрация тракторов, прицепов к ним, самоходных сельскохозяйственных, мелиоративных и дорожно-строительных машин и механизмов</td>
 <td>951,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">047</td>
+<td></td>
+<td></td>
+<td>047</td>
 <td>Субсидирование стоимости удобрений (за исключением органических)</td>
 <td>4 085 547,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">719</td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>053</td>
+<td>Субсидирование развития племенного животноводства, повышение продуктивности и качества продукции животноводства</td>
+<td>3 532 766,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>719</td>
+<td></td>
 <td>Управление ветеринарии области</td>
 <td>42 634,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере ветеринарии</td>
 <td>5 884,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">030</td>
+<td></td>
+<td></td>
+<td>030</td>
 <td>Централизованный закуп ветеринарных препаратов по профилактике и диагностике энзоотических болезней животных, услуг по их профилактике и диагностике, организация их хранения и транспортировки (доставки) местным исполнительным органам районов (городов областного значения)</td>
 <td>36 750,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Водное хозяйство</td>
 <td>278 758,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">279</td>
-<td colspan="3"></td>
+<td></td>
+<td>279</td>
+<td></td>
 <td>Управление энергетики и жилищно-коммунального хозяйства области</td>
 <td>278 758,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">032</td>
+<td></td>
+<td></td>
+<td>032</td>
 <td>Субсидирование стоимости услуг по подаче питьевой воды из особо важных групповых и локальных систем водоснабжения, являющихся безальтернативными источниками питьевого водоснабжения</td>
 <td>278 758,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Лесное хозяйство</td>
 <td>699 248,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">254</td>
-<td colspan="3"></td>
+<td></td>
+<td>254</td>
+<td></td>
 <td>Управление природных ресурсов и регулирования природопользования области</td>
 <td>699 248,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">005</td>
+<td></td>
+<td></td>
+<td>005</td>
 <td>Охрана,защита,воспроизводство лесов и лесоразведение</td>
 <td>684 063,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">006</td>
+<td></td>
+<td></td>
+<td>006</td>
 <td>Охрана животного мира</td>
 <td>15 185,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Охрана окружающей среды</td>
-<td>140 401,0</td>
+<td>143 252,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">254</td>
-<td colspan="3"></td>
+<td></td>
+<td>254</td>
+<td></td>
 <td>Управление природных ресурсов и регулирования природопользования области</td>
-<td>140 401,0</td>
+<td>143 252,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики в сфере охраны окружающей среды на местном уровне</td>
 <td>71 705,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">008</td>
+<td></td>
+<td></td>
+<td>008</td>
 <td>Мероприятия по охране окружающей среды</td>
-<td>68 696,0</td>
+<td>71 547,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>6</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Земельные отношения</td>
 <td>46 187,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">251</td>
-<td colspan="3"></td>
+<td></td>
+<td>251</td>
+<td></td>
 <td>Управление земельных отношений области</td>
 <td>46 187,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики в области регулирования земельных отношений на территории области</td>
 <td>46 187,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Прочие услуги в области сельского, водного, лесного, рыбного хозяйства, охраны окружающей среды и земельных отношений</td>
 <td>18 064,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">255</td>
-<td colspan="3"></td>
+<td></td>
+<td>255</td>
+<td></td>
 <td>Управление сельского хозяйства области</td>
 <td>15 008,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">019</td>
+<td></td>
+<td></td>
+<td>019</td>
 <td>Услуги по распространению и внедрению инновационного опыта</td>
 <td>15 008,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">719</td>
-<td colspan="3"></td>
+<td></td>
+<td>719</td>
+<td></td>
 <td>Управление ветеринарии области</td>
 <td>3 056,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">028</td>
+<td></td>
+<td></td>
+<td>028</td>
 <td>Услуги по транспортировке ветеринарных препаратов до пункта временного хранения</td>
 <td>3 056,0</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
+<td>11</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Промышленность, архитектурная, градостроительная и строительная деятельность</td>
-<td>83 220,0</td>
+<td>98 939,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>2</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>Архитектурная, градостроительная и строительная деятельность</td>
-<td>83 220,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">271</td>
-<td colspan="3"></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Архитектурная, градостроительная и строительная деятельность</td>
+<td>98 939,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>271</td>
+<td></td>
 <td>Управление строительства области</td>
 <td>47 581,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области строительства</td>
 <td>47 581,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">272</td>
-<td colspan="3"></td>
+<td></td>
+<td>272</td>
+<td></td>
 <td>Управление архитектуры и градостроительства области</td>
-<td>35 639,0</td>
+<td>51 358,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики в области архитектуры и градостроительства на местном уровне</td>
 <td>35 639,0</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>113</td>
+<td>Целевые текущие трансферты из местных бюджетов</td>
+<td>15 719,0</td>
+</tr>
+<tr>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
 <td>Транспорт и коммуникации</td>
-<td>8 816 796,0</td>
+<td>8 783 796,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Автомобильный транспорт</td>
-<td>8 618 883,0</td>
+<td>8 585 883,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">268</td>
-<td colspan="3"></td>
+<td></td>
+<td>268</td>
+<td></td>
 <td>Управление пассажирского транспорта и автомобильных дорог области</td>
-<td>8 618 883,0</td>
+<td>8 585 883,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">002</td>
+<td></td>
+<td></td>
+<td>002</td>
 <td>Развитие транспортной инфраструктуры</td>
 <td>2 347 041,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">003</td>
+<td></td>
+<td></td>
+<td>003</td>
 <td>Обеспечение функционирования автомобильных дорог</td>
 <td>1 689 678,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">007</td>
+<td></td>
+<td></td>
+<td>007</td>
 <td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на развитие транспортной инфраструктуры</td>
-<td>2 657 794,0</td>
+<td>2 624 794,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">025</td>
+<td></td>
+<td></td>
+<td>025</td>
 <td>Капитальный и средний ремонт автомобильных дорог областного значения и улиц населенных пунктов</td>
 <td>1 924 370,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Прочие услуги в сфере транспорта и коммуникаций</td>
 <td>197 913,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">268</td>
-<td colspan="3"></td>
+<td></td>
+<td>268</td>
+<td></td>
 <td>Управление пассажирского транспорта и автомобильных дорог области</td>
 <td>197 913,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области транспорта и коммуникаций</td>
 <td>52 275,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">005</td>
+<td></td>
+<td></td>
+<td>005</td>
 <td>Субсидирование пассажирских перевозок по социально значимым межрайонным (междугородним) сообщениям</td>
 <td>145 638,0</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Прочие</td>
 <td>2 799 764,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Прочие</td>
 <td>2 799 764,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">257</td>
-<td colspan="3"></td>
+<td></td>
+<td>257</td>
+<td></td>
 <td>Управление финансов области</td>
 <td>2 451 932,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">012</td>
+<td></td>
+<td></td>
+<td>012</td>
 <td>Резерв местного исполнительного органа области</td>
 <td>131 578,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">040</td>
+<td></td>
+<td></td>
+<td>040</td>
 <td>Целевые текущие трансферты бюджетам районов (городов областного значения) на выплату ежемесячной надбавки за особые условия труда к должностным окладам работников государственных учреждений, не являющихся государственными служащими, а также работников государственных казенных предприятий, финансируемых из местных бюджетов</td>
 <td>2 320 354,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">258</td>
-<td colspan="3"></td>
+<td></td>
+<td>258</td>
+<td></td>
 <td>Управление экономики и бюджетного планирования области</td>
 <td>119 573,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">003</td>
+<td></td>
+<td></td>
+<td>003</td>
 <td>Разработка или корректировка, а также проведение необходимых экспертиз технико-экономических обоснований местных бюджетных инвестиционных проектов и конкурсных документаций концессионных проектов, консультативное сопровождение концессионных проектов</td>
 <td>119 573,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">266</td>
-<td colspan="3"></td>
+<td></td>
+<td>266</td>
+<td></td>
 <td>Управление предпринимательства и индустриально-инновационного развития области</td>
 <td>83 036,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области развития предпринимательства и индустриально-инновационной деятельности</td>
 <td>83 036,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">268</td>
-<td colspan="3"></td>
+<td></td>
+<td>268</td>
+<td></td>
 <td>Управление пассажирского транспорта и автомобильных дорог области</td>
 <td>145 223,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">084</td>
+<td></td>
+<td></td>
+<td>084</td>
 <td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на реализацию бюджетных инвестиционных проектов в моногородах</td>
 <td>145 223,0</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
+<td>15</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Трансферты</td>
 <td>19 808 714,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Трансферты</td>
 <td>19 808 714,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">257</td>
-<td colspan="3">0</td>
+<td></td>
+<td>257</td>
+<td></td>
 <td>Управление финансов области</td>
 <td>19 808 714,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">007</td>
+<td></td>
+<td></td>
+<td>007</td>
 <td>Субвенции</td>
 <td>19 808 714,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>III. Чистое бюджетное кредитование</td>
 <td>1 213 338,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Бюджетные кредиты</td>
 <td>1 364 797,0</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td>06</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Социальная помощь и социальное обеспечение</td>
 <td>978 000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Прочие услуги в области социальной помощи и социального обеспечения</td>
 <td>978 000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">266</td>
-<td colspan="3"></td>
+<td></td>
+<td>266</td>
+<td></td>
 <td>Управление предпринимательства и индустриально-инновационного развития области</td>
 <td>978 000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">006</td>
+<td></td>
+<td></td>
+<td>006</td>
 <td>Предоставление бюджетных кредитов для содействия развитию предпринимательства на селе в рамках Дорожной карты занятости 2020</td>
 <td>978 000,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Жилищно-коммунальное хозяйство</td>
 <td>386 797,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>Жилищное хозяйство</td>
 <td>386 797,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">271</td>
-<td colspan="3">0</td>
+<td></td>
+<td>271</td>
+<td></td>
 <td>Управление строительства области</td>
 <td>386 797,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">009</td>
+<td></td>
+<td></td>
+<td>009</td>
 <td>Кредитование бюджетов районов (городов областного значения) на проектирование и (или) строительство жилья</td>
 <td>386 797,0</td>
 </tr>
 <tr>
-<td colspan="9">Категория</td>
+<td colspan="5">Категория</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="8">Класс</td>
-</tr>
-<tr>
-<td colspan="3" rowspan="2"></td>
-<td colspan="5">Подкласс</td>
+<td></td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Специфика</td>
+<td></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
+<td></td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
 <td>151 459,0</td>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
+<td></td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
 <td>151 459,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">01</td>
+<td>01</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
 <td>151 459,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
+<td></td>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="2">Погашение бюджетных кредитов, выданных из государственного бюджета</td>
+<td></td>
+<td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td>151 459,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="2">03</td>
-<td colspan="2">Погашение бюджетных кредитов, выданных из областного бюджета местным исполнительным органам районов (городов областного значения)</td>
+<td></td>
+<td>03</td>
+<td>Погашение бюджетных кредитов, выданных из областного бюджета местным исполнительным органам районов (городов областного значения)</td>
 <td>151 459,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">V. Дефицит (профицит) бюджета</td>
+<td></td>
+<td></td>
+<td>V. Дефицит (профицит) бюджета</td>
 <td>-1 213 338,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td></td>
+<td></td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
 <td>1 213 338,0</td>
+</tr>
+</table>
+
+> *Приложение 3*  
+> *к решению маслихата*  
+> *от 12 декабря 2014 года № 354*
+
+# Областной бюджет Костанайской области на 2017 год
+
+<table>
+<tr>
+<td colspan="5">Категория</td>
+<td rowspan="4">
+Сумма,
+тысяч тенге
+</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>I. Доходы</td>
+<td>97 382 318,0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Налоговые поступления</td>
+<td>7 264 407,0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>05</td>
+<td>0</td>
+<td>0</td>
+<td>Внутренние налоги на товары, работы и услуги</td>
+<td>7 264 407,0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>05</td>
+<td>3</td>
+<td>0</td>
+<td>Поступления за использование природных и других ресурсов</td>
+<td>7 263 675,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>00</td>
+<td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
+<td>732,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Неналоговые поступления</td>
+<td>45 741,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>01</td>
+<td>0</td>
+<td>0</td>
+<td>Доходы от государственной собственности</td>
+<td>38 924,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>01</td>
+<td>5</td>
+<td>0</td>
+<td>Доходы от аренды имущества, находящегося в государственной собственности</td>
+<td>38 749,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>01</td>
+<td>7</td>
+<td>0</td>
+<td>Вознаграждения по кредитам, выданным из государственного бюджета</td>
+<td>175,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>02</td>
+<td>0</td>
+<td>0</td>
+<td>Поступления от реализации товаров (работ, услуг) государственными учреждениями, финансируемыми из государственного бюджета</td>
+<td>3 598,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>02</td>
+<td>1</td>
+<td>0</td>
+<td>Поступления от реализации товаров (работ, услуг) государственными учреждениями, финансируемыми из государственного бюджета</td>
+<td>3 598,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>04</td>
+<td>0</td>
+<td>0</td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td>1 467,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>04</td>
+<td>1</td>
+<td>0</td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
+<td>1 467,0</td>
+</tr>
+<tr>
+<td></td>
+<td>06</td>
+<td></td>
+<td></td>
+<td>Прочие неналоговые поступления</td>
+<td>1 752,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Прочие неналоговые поступления</td>
+<td>1 752,0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Поступления от продажи основного капитала</td>
+<td>18 204,0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>01</td>
+<td>0</td>
+<td>0</td>
+<td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
+<td>18 204,0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>01</td>
+<td>1</td>
+<td>0</td>
+<td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
+<td>18 204,0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Поступления трансфертов</td>
+<td>90 053 966,0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>01</td>
+<td>0</td>
+<td>0</td>
+<td>Трансферты из нижестоящих органов государственного управления</td>
+<td>23 087 460,0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>01</td>
+<td>2</td>
+<td>0</td>
+<td>Трансферты из районных (городских) бюджетов</td>
+<td>23 087 460,0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>02</td>
+<td>0</td>
+<td>0</td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
+<td>66 966 506,0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>02</td>
+<td>1</td>
+<td>0</td>
+<td>Трансферты из республиканского бюджета</td>
+<td>66 966 506,0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>II. Затраты</td>
+<td>97 382 318,0</td>
+</tr>
+<tr>
+<td>01</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Государственные услуги общего характера</td>
+<td>1 320 851,0</td>
+</tr>
+<tr>
+<td>01</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>972 692,0</td>
+</tr>
+<tr>
+<td>01</td>
+<td>1</td>
+<td>110</td>
+<td>0</td>
+<td>Аппарат маслихата области</td>
+<td>50 401,0</td>
+</tr>
+<tr>
+<td>01</td>
+<td>1</td>
+<td>110</td>
+<td>001</td>
+<td>Услуги по обеспечению деятельности маслихата области</td>
+<td>50 401,0</td>
+</tr>
+<tr>
+<td>01</td>
+<td>1</td>
+<td>120</td>
+<td>0</td>
+<td>Аппарат акима области</td>
+<td>744 853,0</td>
+</tr>
+<tr>
+<td>01</td>
+<td>1</td>
+<td>120</td>
+<td>001</td>
+<td>Услуги по обеспечению деятельности акима области</td>
+<td>714 536,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>013</td>
+<td>Обеспечение деятельности Ассамблеи народа Казахстана области</td>
+<td>30 317,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>282</td>
+<td></td>
+<td>Ревизионная комиссия области</td>
+<td>177 438,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Услуги по обеспечению деятельности ревизионной комиссии области</td>
+<td>177 438,0</td>
+</tr>
+<tr>
+<td>01</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>Финансовая деятельность</td>
+<td>163 822,0</td>
+</tr>
+<tr>
+<td>01</td>
+<td>2</td>
+<td>257</td>
+<td>0</td>
+<td>Управление финансов области</td>
+<td>160 339,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Услуги по реализации государственной политики в области исполнения местного бюджета и управления коммунальной собственностью области</td>
+<td>154 598,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Приватизация, управление коммунальным имуществом, постприватизационная деятельность и регулирование споров, связанных с этим</td>
+<td>5 741,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>718</td>
+<td></td>
+<td>Управление государственных закупок области</td>
+<td>3 483,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Услуги по реализации государственной политики в области государственных закупок на местном уровне</td>
+<td>3 483,0</td>
+</tr>
+<tr>
+<td>01</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td>Планирование и статистическая деятельность</td>
+<td>132 987,0</td>
+</tr>
+<tr>
+<td>01</td>
+<td>5</td>
+<td>258</td>
+<td>0</td>
+<td>Управление экономики и бюджетного планирования области</td>
+<td>132 987,0</td>
+</tr>
+<tr>
+<td>01</td>
+<td>5</td>
+<td>258</td>
+<td>001</td>
+<td>Услуги по реализации государственной политики в области формирования и развития экономической политики, системы государственного планирования</td>
+<td>132 987,0</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие государственные услуги общего характера</td>
+<td>51 350,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>269</td>
+<td></td>
+<td>Управление по делам религий области</td>
+<td>51 350,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Услуги по реализации государственной политики в области в сфере религиозной деятельности на местном уровне</td>
+<td>22 155,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>005</td>
+<td>Изучение и анализ религиозной ситуации в регионе</td>
+<td>29 195,0</td>
+</tr>
+<tr>
+<td>02</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Оборона</td>
+<td>100 029,0</td>
+</tr>
+<tr>
+<td>02</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>Военные нужды</td>
+<td>61 804,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>120</td>
+<td></td>
+<td>Аппарат акима области</td>
+<td>61 804,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>010</td>
+<td>Мероприятия в рамках исполнения всеобщей воинской обязанности</td>
+<td>49 172,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>011</td>
+<td>Подготовка территориальной обороны и территориальная оборона областного масштаба</td>
+<td>12 632,0</td>
+</tr>
+<tr>
+<td>02</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>Организация работы по чрезвычайным ситуациям</td>
+<td>38 225,0</td>
+</tr>
+<tr>
+<td>02</td>
+<td>2</td>
+<td>287</td>
+<td>0</td>
+<td>Территориальный орган, уполномоченных органов в области чрезвычайных ситуаций природного и техногенного характера, Гражданской обороны, финансируемый из областного бюджета</td>
+<td>38 225,0</td>
+</tr>
+<tr>
+<td>02</td>
+<td>2</td>
+<td>250</td>
+<td>003</td>
+<td>Мероприятия гражданской обороны областного масштаба</td>
+<td>7 277,0</td>
+</tr>
+<tr>
+<td>02</td>
+<td>2</td>
+<td>250</td>
+<td>004</td>
+<td>Предупреждение и ликвидация чрезвычайных ситуаций областного масштаба</td>
+<td>30 948,0</td>
+</tr>
+<tr>
+<td>03</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
+<td>6 863 932,0</td>
+</tr>
+<tr>
+<td>03</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>Правоохранительная деятельность</td>
+<td>6 863 932,0</td>
+</tr>
+<tr>
+<td>03</td>
+<td>1</td>
+<td>252</td>
+<td>0</td>
+<td>Исполнительный орган внутренних дел, финансируемый из областного бюджета</td>
+<td>6 270 437,0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>1</td>
+<td>252</td>
+<td>001</td>
+<td>Услуги по реализации государственной политики в области обеспечения охраны общественного порядка и безопасности на территории области</td>
+<td>6 104 426,0</td>
+</tr>
+<tr>
+<td>03</td>
+<td>1</td>
+<td>252</td>
+<td>003</td>
+<td>Поощрение граждан, участвующих в охране общественного порядка</td>
+<td>4 956,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>013</td>
+<td>Услуги по размещению лиц, не имеющих определенного места жительства и документов</td>
+<td>56 213,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>014</td>
+<td>Организация содержания лиц, арестованных в административном порядке</td>
+<td>59 691,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>015</td>
+<td>Организация содержания служебных животных</td>
+<td>45 151,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>271</td>
+<td></td>
+<td>Управление строительства области</td>
+<td>593 495,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>003</td>
+<td>Развитие объектов органов внутренних дел</td>
+<td>593 495,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Образование</td>
+<td>12 239 690,0</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Начальное, основное среднее и общее среднее образование</td>
+<td>2 318 194,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>2</td>
+<td>261</td>
+<td>0</td>
+<td>Управление образования области</td>
+<td>1 809 317,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>2</td>
+<td>261</td>
+<td>003</td>
+<td>Общеобразовательное обучение по специальным образовательным учебным программам</td>
+<td>1 266 455,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>2</td>
+<td>261</td>
+<td>006</td>
+<td>Общеобразовательное обучение одаренных детей в специализированных организациях образования</td>
+<td>542 862,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>285</td>
+<td>0</td>
+<td>Управление физической культуры и спорта области</td>
+<td>508 877,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>260</td>
+<td>006</td>
+<td>Дополнительное образование для детей и юношества по спорту</td>
+<td>508 877,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>Техническое и профессиональное, послесреднее образование</td>
+<td>5 737 815,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>4</td>
+<td>253</td>
+<td>0</td>
+<td>Управление здравоохранения области</td>
+<td>220 212,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>4</td>
+<td>253</td>
+<td>043</td>
+<td>Подготовка специалистов в организациях технического и профессионального, послесреднего образования</td>
+<td>220 212,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>4</td>
+<td>261</td>
+<td>0</td>
+<td>Управление образования области</td>
+<td>5 517 603,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>024</td>
+<td>Подготовка специалистов в организациях технического и профессионального образования</td>
+<td>5 517 603,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td>Переподготовка и повышение квалификации специалистов</td>
+<td>107 168,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>5</td>
+<td>252</td>
+<td>0</td>
+<td>Исполнительный орган внутренних дел, финансируемый из областного бюджета</td>
+<td>96 704,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>5</td>
+<td>252</td>
+<td>007</td>
+<td>Повышение квалификации и переподготовка кадров</td>
+<td>96 704,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>5</td>
+<td>253</td>
+<td>0</td>
+<td>Управление здравоохранения области</td>
+<td>10 464,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>5</td>
+<td>253</td>
+<td>003</td>
+<td>Повышение квалификации и переподготовка кадров</td>
+<td>10 464,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>Прочие услуги в области образования</td>
+<td>4 076 513,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>9</td>
+<td>261</td>
+<td>0</td>
+<td>Управление образования области</td>
+<td>810 199,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>9</td>
+<td>261</td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне в области образования</td>
+<td>130 909,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>2</td>
+<td>261</td>
+<td>004</td>
+<td>Информатизация системы образования в областных государственных учреждениях образования</td>
+<td>24 402,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>2</td>
+<td>261</td>
+<td>005</td>
+<td>Приобретение и доставка учебников, учебно-методических комплексов для областных государственных учреждений образования</td>
+<td>11 882,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>2</td>
+<td>261</td>
+<td>007</td>
+<td>Проведение школьных олимпиад, внешкольных мероприятий и конкурсов областного масштаба</td>
+<td>305 501,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>9</td>
+<td>261</td>
+<td>011</td>
+<td>Обследование психического здоровья детей и подростков и оказание психолого-медико-педагогической консультативной помощи населению</td>
+<td>52 384,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>029</td>
+<td>Методическая работа</td>
+<td>39 693,0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>9</td>
+<td>261</td>
+<td>113</td>
+<td>Целевые текущие трансферты из местных бюджетов</td>
+<td>245 428,0</td>
+</tr>
+<tr>
+<td>04</td>
+<td>9</td>
+<td>271</td>
+<td>0</td>
+<td>Управление строительства области</td>
+<td>3 266 314,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>007</td>
+<td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на строительство и реконструкцию объектов образования</td>
+<td>3 266 314,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Здравоохранение</td>
+<td>9 670 058,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>Охрана здоровья населения</td>
+<td>1 327 119,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>2</td>
+<td>253</td>
+<td>0</td>
+<td>Управление здравоохранения области</td>
+<td>1 327 119,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>2</td>
+<td>253</td>
+<td>005</td>
+<td>Производство крови, ее компонентов и препаратов для местных организаций здравоохранения</td>
+<td>880 336,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>2</td>
+<td>253</td>
+<td>006</td>
+<td>Услуги по охране материнства и детства</td>
+<td>314 427,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>2</td>
+<td>253</td>
+<td>007</td>
+<td>Пропаганда здорового образа жизни</td>
+<td>132 356,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>Специализированная медицинская помощь</td>
+<td>5 795 781,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>3</td>
+<td>253</td>
+<td>0</td>
+<td>Управление здравоохранения области</td>
+<td>5 795 781,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>3</td>
+<td>253</td>
+<td>009</td>
+<td>Оказание медицинской помощи лицам, страдающим туберкулезом, инфекционными заболеваниями, психическими расстройствами и расстройствами поведения, в том числе связанные с употреблением психоактивных веществ</td>
+<td>5 354 771,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>3</td>
+<td>253</td>
+<td>020</td>
+<td>Обеспечение больных диабетом противодиабетическими препаратами</td>
+<td>100 325,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>027</td>
+<td>Централизованный закуп и хранение вакцин и других медицинских иммунобиологических препаратов для проведения иммунопрофилактики населения</td>
+<td>98 052,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>046</td>
+<td>Оказание медицинской помощи онкологическим больным в рамках гарантированного объема бесплатной медицинской помощи</td>
+<td>242 633,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>Поликлиники</td>
+<td>1 340 338,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>4</td>
+<td>253</td>
+<td>0</td>
+<td>Управление здравоохранения области</td>
+<td>1 340 338,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>4</td>
+<td>253</td>
+<td>014</td>
+<td>Обеспечение лекарственными средствами и специализированными продуктами детского и лечебного питания отдельных категорий населения на амбулаторном уровне</td>
+<td>581 686,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>039</td>
+<td>Оказание медицинской помощи населению субъектами здравоохранения районного значения и села и амбулаторно-поликлинической помощи в рамках гарантированного объема бесплатной медицинской помощи</td>
+<td>639 314,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>045</td>
+<td>Обеспечение лекарственными средствами на льготных условиях отдельных категорий граждан на амбулаторном уровне лечения</td>
+<td>119 338,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td>Другие виды медицинской помощи</td>
+<td>786 824,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>5</td>
+<td>253</td>
+<td>0</td>
+<td>Управление здравоохранения области</td>
+<td>786 824,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>5</td>
+<td>253</td>
+<td>011</td>
+<td>Оказание скорой медицинской помощи и санитарная авиация, за исключением оказываемой за счет средств республиканского бюджета и субъектами здравоохранения районного значения и села</td>
+<td>719 371,0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>5</td>
+<td>253</td>
+<td>029</td>
+<td>Областные базы спецмедснабжения</td>
+<td>67 453,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>Прочие услуги в области здравоохранения</td>
+<td>419 996,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>9</td>
+<td>253</td>
+<td>0</td>
+<td>Управление здравоохранения области</td>
+<td>419 996,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>9</td>
+<td>253</td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне в области здравоохранения</td>
+<td>127 864,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>9</td>
+<td>253</td>
+<td>008</td>
+<td>Реализация мероприятий по профилактике и борьбе со СПИД в Республике Казахстан</td>
+<td>151 456,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>9</td>
+<td>253</td>
+<td>013</td>
+<td>Проведение патологоанатомического вскрытия</td>
+<td>101 347,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>9</td>
+<td>253</td>
+<td>016</td>
+<td>Обеспечение граждан бесплатным или льготным проездом за пределы населенного пункта на лечение</td>
+<td>14 615,0</td>
+</tr>
+<tr>
+<td>05</td>
+<td>9</td>
+<td>253</td>
+<td>018</td>
+<td>Информационно-аналитические услуги в области здравоохранения</td>
+<td>24 714,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Социальная помощь и социальное обеспечение</td>
+<td>3 519 934,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>Социальное обеспечение</td>
+<td>3 007 036,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>1</td>
+<td>256</td>
+<td>0</td>
+<td>Управление координации занятости и социальных программ области</td>
+<td>1 899 116,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>1</td>
+<td>256</td>
+<td>002</td>
+<td>Предоставление специальных социальных услуг для престарелых и инвалидов в медико-социальных учреждениях (организациях) общего типа</td>
+<td>651 799,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>1</td>
+<td>256</td>
+<td>013</td>
+<td>Предоставление специальных социальных услуг для инвалидов с психоневрологическими заболеваниями, в психоневрологических медико-социальных учреждениях (организациях)</td>
+<td>846 119,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>1</td>
+<td>256</td>
+<td>014</td>
+<td>Предоставление специальных социальных услуг для престарелых, инвалидов, в том числе детей-инвалидов, в реабилитационных центрах</td>
+<td>138 307,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>1</td>
+<td>256</td>
+<td>015</td>
+<td>Предоставление специальных социальных услуг для детей-инвалидов с психоневрологическими патологиями в детских психоневрологических медико-социальных учреждениях (организациях)</td>
+<td>262 891,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>1</td>
+<td>261</td>
+<td>0</td>
+<td>Управление образования области</td>
+<td>971 486,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>1</td>
+<td>261</td>
+<td>015</td>
+<td>Социальное обеспечение сирот, детей, оставшихся без попечения родителей</td>
+<td>929 937,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>037</td>
+<td>Социальная реабилитация</td>
+<td>41 549,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>1</td>
+<td>271</td>
+<td>0</td>
+<td>Управление строительства области</td>
+<td>136 434,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>1</td>
+<td>271</td>
+<td>039</td>
+<td>Строительство и реконструкция объектов социального обеспечения</td>
+<td>136 434,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>Социальная помощь</td>
+<td>345 173,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>2</td>
+<td>256</td>
+<td>0</td>
+<td>Управление координации занятости и социальных программ области</td>
+<td>345 173,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>2</td>
+<td>256</td>
+<td>003</td>
+<td>Социальная поддержка инвалидов</td>
+<td>345 173,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>Прочие услуги в области социальной помощи и социального обеспечения</td>
+<td>167 725,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td>9</td>
+<td>256</td>
+<td>0</td>
+<td>Управление координации занятости и социальных программ области</td>
+<td>131 921,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне в области обеспечения занятости и реализации социальных программ для населения</td>
+<td>126 477,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>044</td>
+<td>Реализация миграционных мероприятий на местном уровне</td>
+<td>5 444,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>270</td>
+<td></td>
+<td>Управление по инспекции труда области</td>
+<td>35 804,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Услуги по реализации государственной политики в области регулирования трудовых отношений на местном уровне</td>
+<td>35 804,0</td>
+</tr>
+<tr>
+<td>07</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Жилищно-коммунальное хозяйство</td>
+<td>4 392 388,0</td>
+</tr>
+<tr>
+<td>07</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>Жилищное хозяйство</td>
+<td>349 019,0</td>
+</tr>
+<tr>
+<td>07</td>
+<td>1</td>
+<td>271</td>
+<td>0</td>
+<td>Управление строительства области</td>
+<td>349 019,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>027</td>
+<td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
+<td>349 019,0</td>
+</tr>
+<tr>
+<td>07</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>Коммунальное хозяйство</td>
+<td>4 043 369,0</td>
+</tr>
+<tr>
+<td>07</td>
+<td>2</td>
+<td>271</td>
+<td>0</td>
+<td>Управление строительства области</td>
+<td>818 685,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>033</td>
+<td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на развитие системы водоснабжения и водоотведения</td>
+<td>105 773,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>058</td>
+<td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
+<td>712 912,0</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td>279</td>
+<td>00</td>
+<td>Управление энергетики и жилищно-коммунального хозяйства области</td>
+<td>3 224 684,0</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне в области энергетики и жилищно-коммунального хозяйства</td>
+<td>66 963,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>004</td>
+<td>Газификация населенных пунктов</td>
+<td>443 443,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>010</td>
+<td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на развитие системы водоснабжения и водоотведения</td>
+<td>2 598 080,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>014</td>
+<td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на развитие коммунального хозяйства</td>
+<td>116 198,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Культура, спорт, туризм и информационное пространство</td>
+<td>5 849 552,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>Деятельность в области культуры</td>
+<td>1 043 570,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>1</td>
+<td>262</td>
+<td>0</td>
+<td>Управление культуры области</td>
+<td>1 043 570,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>1</td>
+<td>262</td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне в области культуры</td>
+<td>52 696,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>1</td>
+<td>262</td>
+<td>003</td>
+<td>Поддержка культурно-досуговой работы</td>
+<td>85 420,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>1</td>
+<td>262</td>
+<td>005</td>
+<td>Обеспечение сохранности историко-культурного наследия и доступа к ним</td>
+<td>222 063,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>1</td>
+<td>262</td>
+<td>007</td>
+<td>Поддержка театрального и музыкального искусства</td>
+<td>683 391,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>Спорт</td>
+<td>3 719 378,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>2</td>
+<td>271</td>
+<td>000</td>
+<td>Управление строительства области</td>
+<td>1 069 102,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>2</td>
+<td>271</td>
+<td>034</td>
+<td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на развитие объектов спорта</td>
+<td>1 069 102,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>285</td>
+<td>0</td>
+<td>Управление физической культуры и спорта области</td>
+<td>2 650 276,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>260</td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне в сфере физической культуры и спорта</td>
+<td>54 403,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>260</td>
+<td>002</td>
+<td>Проведение спортивных соревнований на областном уровне</td>
+<td>39 971,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>260</td>
+<td>003</td>
+<td>Подготовка и участие членов областных сборных команд по различным видам спорта на республиканских и международных спортивных соревнованиях</td>
+<td>1 779 243,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>260</td>
+<td>113</td>
+<td>Целевые текущие трансферты из местных бюджетов</td>
+<td>776 659,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>Информационное пространство</td>
+<td>860 877,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>3</td>
+<td>259</td>
+<td>0</td>
+<td>Управление архивов и документации области</td>
+<td>271 114,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>3</td>
+<td>259</td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне по управлению архивным делом</td>
+<td>27 106,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>3</td>
+<td>259</td>
+<td>002</td>
+<td>Обеспечение сохранности архивного фонда</td>
+<td>244 008,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>3</td>
+<td>262</td>
+<td>0</td>
+<td>Управление культуры области</td>
+<td>233 686,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>3</td>
+<td>262</td>
+<td>008</td>
+<td>Обеспечение функционирования областных библиотек</td>
+<td>233 686,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>3</td>
+<td>263</td>
+<td>0</td>
+<td>Управление внутренней политики области</td>
+<td>284 558,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>3</td>
+<td>263</td>
+<td>007</td>
+<td>Услуги по проведению государственной информационной политики</td>
+<td>284 558,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>3</td>
+<td>264</td>
+<td>0</td>
+<td>Управление по развитию языков области</td>
+<td>71 519,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>3</td>
+<td>264</td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне в области развития языков</td>
+<td>36 247,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>3</td>
+<td>264</td>
+<td>002</td>
+<td>Развитие государственного языка и других языков народа Казахстана</td>
+<td>35 272,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>Туризм</td>
+<td>9 257,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>266</td>
+<td>0</td>
+<td>Управление предпринимательства и индустриально-инновационного развития области</td>
+<td>9 257,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>265</td>
+<td>021</td>
+<td>Регулирование туристской деятельности</td>
+<td>9 257,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>Прочие услуги по организации культуры, спорта, туризма и информационного пространства</td>
+<td>216 470,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>9</td>
+<td>263</td>
+<td>0</td>
+<td>Управление внутренней политики области</td>
+<td>115 659,0</td>
+</tr>
+<tr>
+<td>08</td>
+<td>9</td>
+<td>263</td>
+<td>001</td>
+<td>Услуги по реализации государственной внутренней политики на местном уровне</td>
+<td>115 659,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>283</td>
+<td></td>
+<td>Управление по вопросам молодежной политики области</td>
+<td>100 811,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Услуги по реализации молодежной политики на местном уровне</td>
+<td>28 932,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>005</td>
+<td>Реализация мероприятий в сфере молодежной политики</td>
+<td>71 879,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
+<td>20 166 936,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>Сельское хозяйство</td>
+<td>18 944 905,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>1</td>
+<td>255</td>
+<td>0</td>
+<td>Управление сельского хозяйства области</td>
+<td>18 899 681,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>1</td>
+<td>255</td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне в сфере сельского хозяйства</td>
+<td>122 544,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>1</td>
+<td>255</td>
+<td>002</td>
+<td>Поддержка семеноводства</td>
+<td>393 274,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>1</td>
+<td>255</td>
+<td>010</td>
+<td>Государственная поддержка племенного животноводства</td>
+<td>1 393 243,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>013</td>
+<td>Субсидирование повышения продуктивности и качества продукции животноводства</td>
+<td>2 395 957,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>1</td>
+<td>255</td>
+<td>014</td>
+<td>Субсидирование стоимости услуг по доставке воды сельскохозяйственным товаропроизводителям</td>
+<td>1 445,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>1</td>
+<td>255</td>
+<td>018</td>
+<td>Обезвреживание пестицидов (ядохимикатов)</td>
+<td>4 575,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>020</td>
+<td>Субсидирование повышения урожайности и качества продукции растениеводства, удешевление стоимости горюче-смазочных материалов и других товарно-материальных ценностей, необходимых для проведения весенне-полевых и уборочных работ, путем субсидирования производства приоритетных культур</td>
+<td>5 550 202,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>041</td>
+<td>Удешевление сельхозтоваропроизводителям стоимости гербицидов, биоагентов (энтомофагов) и биопрепаратов, предназначенных для обработки сельскохозяйственных культур в целях защиты растений</td>
+<td>4 583 880,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>045</td>
+<td>Определение сортовых и посевных качеств семенного и посадочного материала</td>
+<td>89 924,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>046</td>
+<td>Государственный учет и регистрация тракторов, прицепов к ним, самоходных сельскохозяйственных, мелиоративных и дорожно-строительных машин и механизмов</td>
+<td>1 017,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>047</td>
+<td>Субсидирование стоимости удобрений (за исключением органических)</td>
+<td>4 363 620,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>719</td>
+<td></td>
+<td>Управление ветеринарии области</td>
+<td>45 224,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне в сфере ветеринарии</td>
+<td>5 901,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>030</td>
+<td>Централизованный закуп ветеринарных препаратов по профилактике и диагностике энзоотических болезней животных, услуг по их профилактике и диагностике, организация их хранения и транспортировки (доставки) местным исполнительным органам районов (городов областного значения)</td>
+<td>39 323,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>Водное хозяйство</td>
+<td>298 271,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>279</td>
+<td></td>
+<td>Управление энергетики и жилищно-коммунального хозяйства области</td>
+<td>298 271,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>032</td>
+<td>Субсидирование стоимости услуг по подаче питьевой воды из особо важных групповых и локальных систем водоснабжения, являющихся безальтернативными источниками питьевого водоснабжения</td>
+<td>298 271,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>Лесное хозяйство</td>
+<td>709 895,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>3</td>
+<td>254</td>
+<td>0</td>
+<td>Управление природных ресурсов и регулирования природопользования области</td>
+<td>709 895,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>3</td>
+<td>254</td>
+<td>005</td>
+<td>Охрана,защита,воспроизводство лесов и лесоразведение</td>
+<td>694 683,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>3</td>
+<td>254</td>
+<td>006</td>
+<td>Охрана животного мира</td>
+<td>15 212,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td>Охрана окружающей среды</td>
+<td>147 088,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>5</td>
+<td>254</td>
+<td>0</td>
+<td>Управление природных ресурсов и регулирования природопользования области</td>
+<td>147 088,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>5</td>
+<td>254</td>
+<td>001</td>
+<td>Услуги по реализации государственной политики в сфере охраны окружающей среды на местном уровне</td>
+<td>73 583,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>5</td>
+<td>254</td>
+<td>008</td>
+<td>Мероприятия по охране окружающей среды</td>
+<td>73 505,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td>Земельные отношения</td>
+<td>47 448,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>6</td>
+<td>251</td>
+<td>0</td>
+<td>Управление земельных отношений области</td>
+<td>47 448,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>6</td>
+<td>251</td>
+<td>001</td>
+<td>Услуги по реализации государственной политики в области регулирования земельных отношений на территории области</td>
+<td>47 448,0</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие услуги в области сельского, водного, лесного, рыбного хозяйства, охраны окружающей среды и земельных отношений</td>
+<td>19 329,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>255</td>
+<td></td>
+<td>Управление сельского хозяйства области</td>
+<td>16 059,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>019</td>
+<td>Услуги по распространению и внедрению инновационного опыта</td>
+<td>16 059,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>719</td>
+<td></td>
+<td>Управление ветеринарии области</td>
+<td>3 270,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>028</td>
+<td>Услуги по транспортировке ветеринарных препаратов до пункта временного хранения</td>
+<td>3 270,0</td>
+</tr>
+<tr>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Промышленность, архитектурная, градостроительная и строительная деятельность</td>
+<td>85 633,0</td>
+</tr>
+<tr>
+<td>11</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>Архитектурная, градостроительная и строительная деятельность</td>
+<td>85 633,0</td>
+</tr>
+<tr>
+<td>11</td>
+<td>2</td>
+<td>271</td>
+<td>0</td>
+<td>Управление строительства области</td>
+<td>48 901,0</td>
+</tr>
+<tr>
+<td>11</td>
+<td>2</td>
+<td>271</td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне в области строительства</td>
+<td>48 901,0</td>
+</tr>
+<tr>
+<td>11</td>
+<td>2</td>
+<td>272</td>
+<td>0</td>
+<td>Управление архитектуры и градостроительства области</td>
+<td>36 732,0</td>
+</tr>
+<tr>
+<td>11</td>
+<td>2</td>
+<td>272</td>
+<td>001</td>
+<td>Услуги по реализации государственной политики в области архитектуры и градостроительства на местном уровне</td>
+<td>36 732,0</td>
+</tr>
+<tr>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Транспорт и коммуникации</td>
+<td>9 953 538,0</td>
+</tr>
+<tr>
+<td>12</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>Автомобильный транспорт</td>
+<td>9 744 225,0</td>
+</tr>
+<tr>
+<td>12</td>
+<td>1</td>
+<td>268</td>
+<td>0</td>
+<td>Управление пассажирского транспорта и автомобильных дорог области</td>
+<td>9 744 225,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>002</td>
+<td>Развитие транспортной инфраструктуры</td>
+<td>3 279 100,0</td>
+</tr>
+<tr>
+<td>12</td>
+<td>1</td>
+<td>268</td>
+<td>003</td>
+<td>Обеспечение функционирования автомобильных дорог</td>
+<td>1 807 955,0</td>
+</tr>
+<tr>
+<td>12</td>
+<td>1</td>
+<td>268</td>
+<td>007</td>
+<td>Целевые трансферты на развитие бюджетам районов (городов областного значения) на развитие транспортной инфраструктуры</td>
+<td>2 597 914,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>025</td>
+<td>Капитальный и средний ремонт автомобильных дорог областного значения и улиц населенных пунктов</td>
+<td>2 059 256,0</td>
+</tr>
+<tr>
+<td>12</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>Прочие услуги в сфере транспорта и коммуникаций</td>
+<td>209 313,0</td>
+</tr>
+<tr>
+<td>12</td>
+<td>9</td>
+<td>268</td>
+<td>0</td>
+<td>Управление пассажирского транспорта и автомобильных дорог области</td>
+<td>209 313,0</td>
+</tr>
+<tr>
+<td>12</td>
+<td>9</td>
+<td>268</td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне в области транспорта и коммуникаций</td>
+<td>53 764,0</td>
+</tr>
+<tr>
+<td>12</td>
+<td>9</td>
+<td>268</td>
+<td>005</td>
+<td>Субсидирование пассажирских перевозок по социально значимым межрайонным (междугородним) сообщениям</td>
+<td>155 549,0</td>
+</tr>
+<tr>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Прочие</td>
+<td>353 912,0</td>
+</tr>
+<tr>
+<td>13</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>Прочие</td>
+<td>353 912,0</td>
+</tr>
+<tr>
+<td>13</td>
+<td>9</td>
+<td>257</td>
+<td>0</td>
+<td>Управление финансов области</td>
+<td>140 788,0</td>
+</tr>
+<tr>
+<td>13</td>
+<td>9</td>
+<td>257</td>
+<td>012</td>
+<td>Резерв местного исполнительного органа области</td>
+<td>140 788,0</td>
+</tr>
+<tr>
+<td>13</td>
+<td>9</td>
+<td>258</td>
+<td>0</td>
+<td>Управление экономики и бюджетного планирования области</td>
+<td>127 455,0</td>
+</tr>
+<tr>
+<td>13</td>
+<td>9</td>
+<td>258</td>
+<td>003</td>
+<td>Разработка или корректировка, а также проведение необходимых экспертиз технико-экономических обоснований местных бюджетных инвестиционных проектов и конкурсных документаций концессионных проектов, консультативное сопровождение концессионных проектов</td>
+<td>127 455,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>266</td>
+<td></td>
+<td>Управление предпринимательства и индустриально-инновационного развития области</td>
+<td>85 669,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне в области развития предпринимательства и индустриально-инновационной деятельности</td>
+<td>85 669,0</td>
+</tr>
+<tr>
+<td>15</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Трансферты</td>
+<td>21 179 589,0</td>
+</tr>
+<tr>
+<td>15</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>Трансферты</td>
+<td>21 179 589,0</td>
+</tr>
+<tr>
+<td>15</td>
+<td>1</td>
+<td>257</td>
+<td>0</td>
+<td>Управление финансов области</td>
+<td>21 179 589,0</td>
+</tr>
+<tr>
+<td>15</td>
+<td>1</td>
+<td>257</td>
+<td>007</td>
+<td>Субвенции</td>
+<td>21 179 589,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>III. Чистое бюджетное кредитование</td>
+<td>687 541,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бюджетные кредиты</td>
+<td>1 011 000,0</td>
+</tr>
+<tr>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Социальная помощь и социальное обеспечение</td>
+<td>1 011 000,0</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие услуги в области социальной помощи и социального обеспечения</td>
+<td>1 011 000,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>266</td>
+<td></td>
+<td>Управление предпринимательства и индустриально-инновационного развития области</td>
+<td>1 011 000,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>006</td>
+<td>Предоставление бюджетных кредитов для содействия развитию предпринимательства на селе в рамках Дорожной карты занятости 2020</td>
+<td>1 011 000,0</td>
+</tr>
+<tr>
+<td colspan="5">Категория</td>
+<td rowspan="4">
+Сумма,
+тысяч тенге
+</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
+<td>323 459,0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Погашение бюджетных кредитов</td>
+<td>323 459,0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>01</td>
+<td>0</td>
+<td>0</td>
+<td>Погашение бюджетных кредитов</td>
+<td>323 459,0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>01</td>
+<td>1</td>
+<td>0</td>
+<td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
+<td>323 459,0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>01</td>
+<td>1</td>
+<td>03</td>
+<td>Погашение бюджетных кредитов, выданных из областного бюджета местным исполнительным органам районов (городов областного значения)</td>
+<td>323 459,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>V. Дефицит (профицит) бюджета</td>
+<td>-687 541,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td>687 541,0</td>
+</tr>
+</table>
+
+> *Приложение 4*  
+> *к решению маслихата*  
+> *от 12 декабря 2014 года № 354*
+
+# Перечень бюджетных программ, не подлежащих секвестру в процессе исполнения областного бюджета на 2015 год
+
+<table>
+<tr>
+<td>Наименование</td>
+</tr>
+<tr>
+<th>Образование</th>
+</tr>
+<tr>
+<td>Общеобразовательное обучение</td>
+</tr>
+<tr>
+<td>Общеобразовательное обучение по специальным образовательным учебным программам</td>
+</tr>
+<tr>
+<td>Общеобразовательное обучение одаренных детей в специализированных организациях образования</td>
+</tr>
+<tr>
+<th>Здравоохранение</th>
+</tr>
+<tr>
+<td>Оказание медицинской помощи населению субъектами здравоохранения районного значения и села и амбулаторно-поликлинической помощи в рамках гарантированного объема бесплатной медицинской помощи</td>
+</tr>
+<tr>
+<td>Оказание стационарной и стационарозамещающей медицинской помощи субъектами здравоохранения по направлению специалистов первичной медико-санитарной помощи и медицинских организаций, за исключением оказываемой за счет средств республиканского бюджета, и субъектами здравоохранения районного значения и села</td>
+</tr>
+<tr>
+<td>Производство крови, ее компонентов и препаратов для местных организаций здравоохранения</td>
+</tr>
+<tr>
+<td>Пропаганда здорового образа жизни</td>
+</tr>
+<tr>
+<td>Оказание скорой медицинской помощи и санитарная авиация, за исключением оказываемой за счет средств республиканского бюджета и субъектами здравоохранения районного значения и села</td>
+</tr>
+<tr>
+<td>Оказание медицинской помощи лицам, страдающим туберкулезом, инфекционными заболеваниями, психическими расстройствами и расстройствами поведения, в том числе связанные с употреблением психоактивных веществ</td>
+</tr>
+<tr>
+<td>Реализация мероприятий по профилактике и борьбе со СПИД в Республике Казахстан</td>
+</tr>
+<tr>
+<td>Обеспечение больных туберкулезом противотуберкулезными препаратами</td>
+</tr>
+<tr>
+<td>Обеспечение больных диабетом противодиабетическими препаратами</td>
+</tr>
+<tr>
+<td>Обеспечение онкогематологических больных химиопрепаратами</td>
+</tr>
+<tr>
+<td>Обеспечение лекарственными средствами больных с хронической почечной недостаточностью, аутоиммунными, орфанными заболеваниями, иммунодефицитными состояниями, а также больных после трансплантации почек</td>
+</tr>
+<tr>
+<td>Оказание медицинской помощи онкологическим больным в рамках гарантированного объема бесплатной медицинской помощи</td>
+</tr>
+<tr>
+<td>Проведение скрининговых исследований в рамках гарантированного объема бесплатной медицинской помощи</td>
+</tr>
+<tr>
+<td>Содержание вновь вводимых объектов здравоохранения</td>
+</tr>
+<tr>
+<td>Обеспечение лекарственными средствами и специализированными продуктами детского и лечебного питания отдельных категорий населения на амбулаторном уровне</td>
+</tr>
+<tr>
+<td>Обеспечение лекарственными средствами на льготных условиях отдельных категорий граждан на амбулаторном уровне лечения</td>
+</tr>
+<tr>
+<td>Обеспечение факторами свертывания крови больных гемофилией</td>
+</tr>
+<tr>
+<td>Централизованный закуп и хранение вакцин и других медицинских иммунобиологических препаратов для проведения иммунопрофилактики населения</td>
+</tr>
+<tr>
+<td>Обеспечение тромболитическими препаратами больных с острым инфарктом миокарда</td>
+</tr>
+<tr>
+<td>Организация в экстренных случаях доставки тяжелобольных людей до ближайшей организации здравоохранения, оказывающей врачебную помощь</td>
+</tr>
+<tr>
+<td>Услуги по охране материнства и детства</td>
 </tr>
 </table>
