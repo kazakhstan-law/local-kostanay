@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85287/rus/11.08.2015
+source: https://zan.gov.kz/client/#!/doc/85287/rus/11.09.2015
 ---
 
 # Об областном бюджете Костанайской области на 2015-2017 годы

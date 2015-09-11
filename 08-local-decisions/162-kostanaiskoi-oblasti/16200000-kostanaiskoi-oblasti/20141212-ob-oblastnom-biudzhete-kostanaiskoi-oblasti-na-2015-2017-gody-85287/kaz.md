@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85287/kaz/11.08.2015
+source: https://zan.gov.kz/client/#!/doc/85287/kaz/11.09.2015
 ---
 
 # Қостанай облысының 2015-2017 жылдарға арналған облыстық бюджеті туралы
