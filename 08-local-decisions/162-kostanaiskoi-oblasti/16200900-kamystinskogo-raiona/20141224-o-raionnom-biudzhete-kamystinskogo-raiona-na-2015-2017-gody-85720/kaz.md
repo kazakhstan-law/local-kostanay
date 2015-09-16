@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85720/kaz/18.08.2015
+source: https://zan.gov.kz/client/#!/doc/85720/kaz/16.09.2015
 ---
 
 # Қамысты ауданының 2015-2017 жылдарға арналған аудандық бюджеті туралы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85720/rus/18.08.2015
+source: https://zan.gov.kz/client/#!/doc/85720/rus/16.09.2015
 ---
 
 # О районном бюджете Камыстинского района на 2015-2017 годы
