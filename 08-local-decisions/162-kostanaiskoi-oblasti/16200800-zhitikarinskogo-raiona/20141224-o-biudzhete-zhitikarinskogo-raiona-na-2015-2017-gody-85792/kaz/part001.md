@@ -1,37 +1,32 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85792/kaz/18.08.2015
+source: https://zan.gov.kz/client/#!/doc/85792/kaz/16.09.2015
 ---
 
 > *Мәслихаттың*  
 > *2014 жылғы 24 желтоқсандағы*  
-> *№ 283*  
-> *шешіміне 1-қосымша*
+> *№ 283 шешіміне 1-қосымша*
 
 # Жітіқара ауданының 2015 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қостанай облысы Жітіқара ауданы мәслихатының 18.08.2015 № 348 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қостанай облысы Жітіқара ауданы мәслихатының 16.09.2015 № 356 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
 <td colspan="8">Санаты</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="7">Сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
+<td colspan="2" rowspan="2"></td>
 <td colspan="5">Iшкi сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">АТАУЫ</td>
-<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -294,29 +289,23 @@ source: https://zan.gov.kz/client/#!/doc/85792/kaz/18.08.2015
 </tr>
 <tr>
 <td colspan="8">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="7">Кіші функция</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
+<td colspan="2" rowspan="3"></td>
 <td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2" rowspan="2"></td>
 <td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">АТАУЫ</td>
-<td></td>
+<td>АТАУЫ</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1748,7 +1737,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/kaz/18.08.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>ІІІ. Таза бюджеттік кредиттеу</td>
-<td>18702</td>
+<td>1719</td>
 </tr>
 <tr>
 <td></td>
@@ -1756,7 +1745,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/kaz/18.08.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджеттік кредиттер</td>
-<td>19011</td>
+<td>2028</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1791,52 +1780,18 @@ source: https://zan.gov.kz/client/#!/doc/85792/kaz/18.08.2015
 <td>2028</td>
 </tr>
 <tr>
-<td>13</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Басқалар</td>
-<td>16983</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Кәсiпкерлiк қызметтi қолдау және бәсекелестікті қорғау</td>
-<td>16983</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">469</td>
-<td colspan="2"></td>
-<td>Ауданның (облыстық маңызы бар қаланың) кәсіпкерлік бөлімі</td>
-<td>16983</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">008</td>
-<td>Моноқалалардағы кәсіпкерлікті дамытуға жәрдемдесуге кредит беру</td>
-<td>16983</td>
-</tr>
-<tr>
 <td colspan="8">Санаты</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td rowspan="3"></td>
 <td colspan="7">Сыныбы</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="6">Iшкi сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td colspan="2"></td>
 <td colspan="4">Ерекшелігі</td>
 </tr>
@@ -1886,7 +1841,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/kaz/18.08.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>-76263,6</td>
+<td>-59280,6</td>
 </tr>
 <tr>
 <td></td>
@@ -1894,7 +1849,7 @@ source: https://zan.gov.kz/client/#!/doc/85792/kaz/18.08.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">VІ. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>76263,6</td>
+<td>59280,6</td>
 </tr>
 </table>
 
