@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85803/kaz/18.08.2015
+source: https://zan.gov.kz/client/#!/doc/85803/kaz/20.10.2015
 ---
 
 > *Мәслихаттың*  
@@ -9,48 +9,52 @@ source: https://zan.gov.kz/client/#!/doc/85803/kaz/18.08.2015
 
 # Қостанай қаласының 2017 жылға арналған бюджеті
 
-> *Ескерту. 3-қосымша жаңа редакцияда - Қостанай облысы Қостанай қаласы мәслихатының 18.08.2015 № 351 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
+> *Ескерту. 3-қосымша жаңа редакцияда - Қостанай облысы Қостанай қаласы мәслихатының 20.10.2015 № 377 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
 <td rowspan="4">
+
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>28081022</td>
+<td>27892927</td>
 </tr>
 <tr>
 <td>1</td>
 <td>00</td>
 <td>0</td>
 <td>Салықтық түсімдер</td>
-<td>22058399</td>
+<td>22048399</td>
 </tr>
 <tr>
 <td>1</td>
@@ -71,14 +75,14 @@ source: https://zan.gov.kz/client/#!/doc/85803/kaz/18.08.2015
 <td>03</td>
 <td>0</td>
 <td>Әлеуметтік салық</td>
-<td>7629338</td>
+<td>7619338</td>
 </tr>
 <tr>
 <td>1</td>
 <td>03</td>
 <td>1</td>
 <td>Әлеуметтік салық</td>
-<td>7629338</td>
+<td>7619338</td>
 </tr>
 <tr>
 <td>1</td>
@@ -260,21 +264,21 @@ source: https://zan.gov.kz/client/#!/doc/85803/kaz/18.08.2015
 <td>00</td>
 <td>0</td>
 <td>Трансферттердің түсімдері</td>
-<td>4537671</td>
+<td>4359576</td>
 </tr>
 <tr>
 <td>4</td>
 <td>02</td>
 <td>0</td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>4537671</td>
+<td>4359576</td>
 </tr>
 <tr>
 <td>4</td>
 <td>02</td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
-<td>4537671</td>
+<td>4359576</td>
 </tr>
 </table>
 
@@ -287,22 +291,32 @@ source: https://zan.gov.kz/client/#!/doc/85803/kaz/18.08.2015
 </td>
 </tr>
 <tr>
-<td rowspan="5"></td>
+<td></td>
 <td colspan="5">Кіші функция</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
+<td></td>
 <td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -313,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/85803/kaz/18.08.2015
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>28081022</td>
+<td>27892927</td>
 </tr>
 <tr>
 <td>01</td>
@@ -988,7 +1002,7 @@ source: https://zan.gov.kz/client/#!/doc/85803/kaz/18.08.2015
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>4186263</td>
+<td>3998168</td>
 </tr>
 <tr>
 <td></td>
@@ -1105,7 +1119,7 @@ source: https://zan.gov.kz/client/#!/doc/85803/kaz/18.08.2015
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>1984626</td>
+<td>1796531</td>
 </tr>
 <tr>
 <td></td>
@@ -1114,7 +1128,7 @@ source: https://zan.gov.kz/client/#!/doc/85803/kaz/18.08.2015
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>1984626</td>
+<td>1796531</td>
 </tr>
 <tr>
 <td></td>
@@ -1132,7 +1146,7 @@ source: https://zan.gov.kz/client/#!/doc/85803/kaz/18.08.2015
 <td>028</td>
 <td></td>
 <td>Коммуналдық шаруашылығын дамыту</td>
-<td>229178</td>
+<td>219178</td>
 </tr>
 <tr>
 <td></td>
@@ -1141,7 +1155,7 @@ source: https://zan.gov.kz/client/#!/doc/85803/kaz/18.08.2015
 <td>029</td>
 <td></td>
 <td>Сумен жабдықтау және су бұру жүйелерін дамыту</td>
-<td>1753948</td>
+<td>1575853</td>
 </tr>
 <tr>
 <td></td>
