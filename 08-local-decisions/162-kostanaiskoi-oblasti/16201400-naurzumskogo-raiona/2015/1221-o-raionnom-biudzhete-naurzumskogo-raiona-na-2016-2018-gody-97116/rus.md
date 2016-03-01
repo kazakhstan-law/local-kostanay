@@ -16,7 +16,7 @@
 
       поступлениям трансфертов –1362797,0 тысяч тенге;
 
-   2) затраты – 1558234,0 тысяч тенге;
+   2) затраты – 1589282,0 тысяч тенге;
 
    3) чистое бюджетное кредитование – 3413,0 тысячи тенге, в том числе:
 
@@ -26,13 +26,17 @@
 
    4) сальдо по операциям с финансовыми активами – 0,0 тысяч тенге;
 
-   5) дефицит (профицит) бюджета – -3413,0 тысячи тенге;
+   5) дефицит (профицит) бюджета – -34461,0 тысячи тенге;
 
-   6) финансирование дефицита (использование профицита) бюджета – 3413,0 тысячи тенге:
+   6) финансирование дефицита (использование профицита) бюджета – 34461,0 тысячи тенге:
 
       поступление займов – 6363,0 тысяч тенге;
 
       погашение займов – 2950,0 тысячи тенге.
+
+      используемые остатки бюджетных средств – 31048,0 тысяч тенге.
+
+> *Сноска. Пункт 1 – в редакции решения маслихата Наурзумского района Костанайской области от 01.03.2016 № 395 (вводится в действие с 01.01.2016).*
 
 <a id="p2"></a>
 
@@ -106,21 +110,23 @@
 
 # Бюджет Наурзумского района на 2016 год
 
+> *Сноска. Приложение 1 – в редакции решения маслихата Наурзумского района Костанайской области от 01.03.2016 № 395 (вводится в действие с 01.01.2016).*
+
 <table>
 <tr>
-<td colspan="9">Категория</td>
+<td colspan="8">Категория</td>
 <td rowspan="5">Сумма тысяч тенге</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
-<td colspan="8">Класс</td>
+<td colspan="2" rowspan="4"></td>
+<td colspan="6">Класс</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3"></td>
-<td colspan="6">Подкласс</td>
+<td rowspan="3"></td>
+<td colspan="5">Подкласс</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
 <td colspan="4">Специфика</td>
 </tr>
 <tr>
@@ -128,235 +134,235 @@
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">I. Доходы</td>
 <td>1558234,0</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">1</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
 <td>188865,0</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">01</td>
 <td colspan="2"></td>
+<td>01</td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
 <td>80957,0</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2">2</td>
+<td></td>
+<td>2</td>
 <td colspan="2"></td>
 <td colspan="2">Индивидуальный подоходный налог</td>
 <td>80957,0</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">03</td>
 <td colspan="2"></td>
+<td>03</td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">Социальный налог</td>
 <td>63412,0</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td></td>
+<td>1</td>
 <td colspan="2"></td>
 <td colspan="2">Социальный налог</td>
 <td>63412,0</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">04</td>
 <td colspan="2"></td>
+<td>04</td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">Налоги на собственность</td>
 <td>28004,0</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td></td>
+<td>1</td>
 <td colspan="2"></td>
 <td colspan="2">Налоги на имущество</td>
 <td>7182,0</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2">3</td>
+<td></td>
+<td>3</td>
 <td colspan="2"></td>
 <td colspan="2">Земельный налог</td>
 <td>1603,0</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2">4</td>
+<td></td>
+<td>4</td>
 <td colspan="2"></td>
 <td colspan="2">Налог на транспортные средства</td>
 <td>15119,0</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2">5</td>
+<td></td>
+<td>5</td>
 <td colspan="2"></td>
 <td colspan="2">Единый земельный налог</td>
 <td>4100,0</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">05</td>
 <td colspan="2"></td>
+<td>05</td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
 <td>14859,0</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2">2</td>
+<td></td>
+<td>2</td>
 <td colspan="2"></td>
 <td colspan="2">Акцизы</td>
 <td>230,0</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2">3</td>
+<td></td>
+<td>3</td>
 <td colspan="2"></td>
 <td colspan="2">Поступления за использование природных и других ресурсов</td>
 <td>11250,0</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2">4</td>
+<td></td>
+<td>4</td>
 <td colspan="2"></td>
 <td colspan="2">Сборы за ведение предпринимательской и профессиональной деятельности</td>
 <td>3379,0</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">08</td>
 <td colspan="2"></td>
+<td>08</td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
 <td>1633,0</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td></td>
+<td>1</td>
 <td colspan="2"></td>
 <td colspan="2">Государственная пошлина</td>
 <td>1633,0</td>
 </tr>
 <tr>
-<td>2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">2</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">Неналоговые поступления</td>
 <td>5982,0</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">01</td>
 <td colspan="2"></td>
+<td>01</td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">Доходы от государственной собственности</td>
 <td>1037,0</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2">5</td>
+<td></td>
+<td>5</td>
 <td colspan="2"></td>
 <td colspan="2">Доходы от аренды имущества, находящегося в государственой собственности</td>
 <td>1037,0</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">06</td>
 <td colspan="2"></td>
+<td>06</td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">Прочие неналоговые поступления</td>
 <td>4945,0</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td></td>
+<td>1</td>
 <td colspan="2"></td>
 <td colspan="2">Прочие неналоговые поступления</td>
 <td>4945,0</td>
 </tr>
 <tr>
-<td>3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">3</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления от продажи основного капитала</td>
 <td>590,0</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">03</td>
 <td colspan="2"></td>
+<td>03</td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">Продажа земли и нематериальных активов</td>
 <td>590,0</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td></td>
+<td>1</td>
 <td colspan="2"></td>
 <td colspan="2">Продажа земли</td>
 <td>590,0</td>
 </tr>
 <tr>
-<td>4</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">4</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
 <td>1362797,0</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">02</td>
 <td colspan="2"></td>
+<td>02</td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
 <td>1362797,0</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2">2</td>
+<td></td>
+<td>2</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из областного бюджета</td>
 <td>1362797,0</td>
 </tr>
 <tr>
-<td colspan="9">Функциональная группа</td>
+<td colspan="8">Функциональная группа</td>
 <td rowspan="5">Сумма тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4"></td>
+<td rowspan="4"></td>
 <td colspan="7">Функциональная подгруппа</td>
 </tr>
 <tr>
@@ -372,15 +378,15 @@
 <td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td>1558234,0</td>
+<td>1589282,0</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -388,7 +394,7 @@
 <td>234892,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -396,7 +402,7 @@
 <td>190067,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">112</td>
 <td colspan="2"></td>
@@ -404,7 +410,7 @@
 <td>14660,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -412,7 +418,7 @@
 <td>14660,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">122</td>
 <td colspan="2"></td>
@@ -420,7 +426,7 @@
 <td>87846,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -428,7 +434,7 @@
 <td>87747,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -436,7 +442,7 @@
 <td>99,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">123</td>
 <td colspan="2"></td>
@@ -444,7 +450,7 @@
 <td>87561,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -452,7 +458,7 @@
 <td>87329,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">022</td>
@@ -460,7 +466,7 @@
 <td>232,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -468,7 +474,7 @@
 <td>600,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">461</td>
 <td colspan="2"></td>
@@ -476,7 +482,7 @@
 <td>600,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
@@ -484,7 +490,7 @@
 <td>400,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
@@ -492,7 +498,7 @@
 <td>200,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">5</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -500,7 +506,7 @@
 <td>27209,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">461</td>
 <td colspan="2"></td>
@@ -508,7 +514,7 @@
 <td>27209,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -516,7 +522,7 @@
 <td>27209,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -524,7 +530,7 @@
 <td>17016,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">458</td>
 <td colspan="2"></td>
@@ -532,7 +538,7 @@
 <td>17016,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -540,7 +546,7 @@
 <td>17016,0</td>
 </tr>
 <tr>
-<td colspan="2">02</td>
+<td>02</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -548,7 +554,7 @@
 <td>7493,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -556,7 +562,7 @@
 <td>1801,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">122</td>
 <td colspan="2"></td>
@@ -564,7 +570,7 @@
 <td>1801,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
@@ -572,7 +578,7 @@
 <td>1801,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -580,7 +586,7 @@
 <td>5692,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">122</td>
 <td colspan="2"></td>
@@ -588,7 +594,7 @@
 <td>5692,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -596,7 +602,7 @@
 <td>5692,0</td>
 </tr>
 <tr>
-<td colspan="2">04</td>
+<td>04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -604,7 +610,7 @@
 <td>925288,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -612,7 +618,7 @@
 <td>110741,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">464</td>
 <td colspan="2"></td>
@@ -620,7 +626,7 @@
 <td>110741,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">009</td>
@@ -628,7 +634,7 @@
 <td>78163,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">040</td>
@@ -636,7 +642,7 @@
 <td>32578,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -644,7 +650,7 @@
 <td>776642,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">464</td>
 <td colspan="2"></td>
@@ -652,7 +658,7 @@
 <td>747859,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -660,7 +666,7 @@
 <td>734976,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -668,7 +674,7 @@
 <td>12883,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">465</td>
 <td colspan="2"></td>
@@ -676,7 +682,7 @@
 <td>28783,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">017</td>
@@ -684,7 +690,7 @@
 <td>28783,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -692,7 +698,7 @@
 <td>37905,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">464</td>
 <td colspan="2"></td>
@@ -700,7 +706,7 @@
 <td>37905,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -708,7 +714,7 @@
 <td>9733,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
@@ -716,15 +722,15 @@
 <td>14826,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">015</td>
-<td>Ежемесячная выплата денежных средств опекунам (попечителям) на содержание ребенка-сироты (детей-сирот), и ребенка (детей), оставшегося без попечения родителей</td>
+<td>Ежемесячные выплаты денежных средств опекунам (попечителям) на содержание ребенка-сироты (детей-сирот), и ребенка (детей), оставшегося без попечения родителей</td>
 <td>3875,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">029</td>
@@ -732,7 +738,7 @@
 <td>9118,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">067</td>
@@ -740,7 +746,7 @@
 <td>353,0</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td>06</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -748,7 +754,7 @@
 <td>88710,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -756,7 +762,7 @@
 <td>27580,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">451</td>
 <td colspan="2"></td>
@@ -764,7 +770,7 @@
 <td>27580,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
@@ -772,7 +778,7 @@
 <td>5946,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">016</td>
@@ -780,7 +786,7 @@
 <td>21634,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -788,7 +794,7 @@
 <td>41843,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">451</td>
 <td colspan="2"></td>
@@ -796,7 +802,7 @@
 <td>41843,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">002</td>
@@ -804,7 +810,7 @@
 <td>16939,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
@@ -812,7 +818,7 @@
 <td>9995,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">010</td>
@@ -820,7 +826,7 @@
 <td>458,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">014</td>
@@ -828,7 +834,7 @@
 <td>13416,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">017</td>
@@ -836,7 +842,7 @@
 <td>1035,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -844,7 +850,7 @@
 <td>19287,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">451</td>
 <td colspan="2"></td>
@@ -852,7 +858,7 @@
 <td>19287,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -860,7 +866,7 @@
 <td>17014,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">011</td>
@@ -868,7 +874,7 @@
 <td>520,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">050</td>
@@ -876,7 +882,7 @@
 <td>1753,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -884,7 +890,7 @@
 <td>36185,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -892,7 +898,7 @@
 <td>3346,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">464</td>
 <td colspan="2"></td>
@@ -900,7 +906,7 @@
 <td>3346,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">026</td>
@@ -908,7 +914,7 @@
 <td>3346,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -916,7 +922,7 @@
 <td>32839,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">123</td>
 <td colspan="2"></td>
@@ -924,7 +930,7 @@
 <td>32839,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">008</td>
@@ -932,7 +938,7 @@
 <td>7398,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">009</td>
@@ -940,7 +946,7 @@
 <td>1832,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">011</td>
@@ -948,7 +954,7 @@
 <td>23609,0</td>
 </tr>
 <tr>
-<td colspan="2">08</td>
+<td>08</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -956,7 +962,7 @@
 <td>124298,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -964,7 +970,7 @@
 <td>48681,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">455</td>
 <td colspan="2"></td>
@@ -972,7 +978,7 @@
 <td>48681,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -980,7 +986,7 @@
 <td>48681,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -988,7 +994,7 @@
 <td>12918,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">465</td>
 <td colspan="2"></td>
@@ -996,7 +1002,7 @@
 <td>12918,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1004,7 +1010,7 @@
 <td>6692,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -1012,7 +1018,7 @@
 <td>2849,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
@@ -1020,7 +1026,7 @@
 <td>3377,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1028,7 +1034,7 @@
 <td>39986,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">455</td>
 <td colspan="2"></td>
@@ -1036,7 +1042,7 @@
 <td>38486,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -1044,7 +1050,7 @@
 <td>33912,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
@@ -1052,7 +1058,7 @@
 <td>4574,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">456</td>
 <td colspan="2"></td>
@@ -1060,7 +1066,7 @@
 <td>1500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">002</td>
@@ -1068,7 +1074,7 @@
 <td>1500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1076,7 +1082,7 @@
 <td>22713,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">455</td>
 <td colspan="2"></td>
@@ -1084,7 +1090,7 @@
 <td>11645,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1092,7 +1098,7 @@
 <td>10495,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">032</td>
@@ -1100,7 +1106,7 @@
 <td>1150,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">456</td>
 <td colspan="2"></td>
@@ -1108,7 +1114,7 @@
 <td>11068,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1116,7 +1122,7 @@
 <td>7457,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -1124,7 +1130,7 @@
 <td>3611,0</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1132,7 +1138,7 @@
 <td>73346,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1140,7 +1146,7 @@
 <td>29540,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">461</td>
 <td colspan="2"></td>
@@ -1148,7 +1154,7 @@
 <td>3367,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">099</td>
@@ -1156,7 +1162,7 @@
 <td>3367,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">462</td>
 <td colspan="2"></td>
@@ -1164,7 +1170,7 @@
 <td>15669,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1172,7 +1178,7 @@
 <td>15669,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">473</td>
 <td colspan="2"></td>
@@ -1180,7 +1186,7 @@
 <td>10504,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1188,7 +1194,7 @@
 <td>7799,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -1196,7 +1202,7 @@
 <td>9,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
@@ -1204,7 +1210,7 @@
 <td>306,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">008</td>
@@ -1212,7 +1218,7 @@
 <td>2390,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">6</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1220,7 +1226,7 @@
 <td>9663,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">463</td>
 <td colspan="2"></td>
@@ -1228,7 +1234,7 @@
 <td>9663,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1236,7 +1242,7 @@
 <td>9663,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1244,7 +1250,7 @@
 <td>34143,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">473</td>
 <td colspan="2"></td>
@@ -1252,7 +1258,7 @@
 <td>34143,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">011</td>
@@ -1260,7 +1266,7 @@
 <td>34143,0</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
+<td>11</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1268,7 +1274,7 @@
 <td>9624,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1276,7 +1282,7 @@
 <td>9624,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">472</td>
 <td colspan="2"></td>
@@ -1284,7 +1290,7 @@
 <td>9624,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1292,7 +1298,7 @@
 <td>9624,0</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1300,7 +1306,7 @@
 <td>43924,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1308,7 +1314,7 @@
 <td>43924,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">123</td>
 <td colspan="2"></td>
@@ -1316,7 +1322,7 @@
 <td>9712,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">013</td>
@@ -1324,7 +1330,7 @@
 <td>9712,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">458</td>
 <td colspan="2"></td>
@@ -1332,7 +1338,7 @@
 <td>34212,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">023</td>
@@ -1340,7 +1346,7 @@
 <td>34212,0</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1348,7 +1354,7 @@
 <td>13904,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1356,7 +1362,7 @@
 <td>13904,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">123</td>
 <td colspan="2"></td>
@@ -1364,7 +1370,7 @@
 <td>11550,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">040</td>
@@ -1372,7 +1378,7 @@
 <td>11550,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">461</td>
 <td colspan="2"></td>
@@ -1380,7 +1386,7 @@
 <td>2354,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">011</td>
@@ -1388,31 +1394,39 @@
 <td>2354,0</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
+<td>15</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферты</td>
-<td>570,0</td>
+<td>31618,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферты</td>
-<td>570,0</td>
+<td>31618,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">461</td>
 <td colspan="2"></td>
 <td>Отдел экономики, финансов и предпринимательства района (города областного значения)</td>
-<td>570,0</td>
+<td>31618,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">015</td>
+<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td>31048,0</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">051</td>
@@ -1420,7 +1434,7 @@
 <td>570,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1428,7 +1442,7 @@
 <td>3413,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1436,7 +1450,7 @@
 <td>6363,0</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1444,7 +1458,7 @@
 <td>6363,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1452,7 +1466,7 @@
 <td>6363,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">461</td>
 <td colspan="2"></td>
@@ -1460,7 +1474,7 @@
 <td>6363,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">004</td>
@@ -1468,7 +1482,7 @@
 <td>6363,0</td>
 </tr>
 <tr>
-<td colspan="2">5</td>
+<td>5</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1476,7 +1490,7 @@
 <td>2950,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1484,7 +1498,7 @@
 <td>2950,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
@@ -1492,7 +1506,7 @@
 <td>2950,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">13</td>
@@ -1500,7 +1514,7 @@
 <td>2950,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1508,7 +1522,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1516,20 +1530,20 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-3413,0</td>
+<td>-34461,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>3413,0</td>
+<td>34461,0</td>
 </tr>
 </table>
 
@@ -1539,1316 +1553,1334 @@
 
 # Бюджет Наурзумского района на 2017 год
 
+> *Сноска. Приложение 2 – в редакции решения маслихата Наурзумского района Костанайской области от 01.03.2016 № 395 (вводится в действие с 01.01.2016).*
+
 <table>
 <tr>
 <td colspan="8">Категория</td>
 <td rowspan="5">Сумма тысяч тенге</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
-<td colspan="7">Класс</td>
+<td colspan="2" rowspan="4"></td>
+<td colspan="6">Класс</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="3"></td>
-<td colspan="5">Подкласс</td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="2"></td>
-<td colspan="3">Специфика</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>Наименование</td>
+<td colspan="2">Специфика</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>I. Доходы</td>
-<td>1247023,0</td>
+<td>Наименование</td>
 </tr>
 <tr>
-<td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
+<td>I. Доходы</td>
+<td>1514957,9</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td>Налоговые поступления</td>
 <td>203925,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Подоходный налог</td>
 <td>86624,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
-<td colspan="2"></td>
+<td></td>
 <td>Индивидуальный подоходный налог</td>
 <td>86624,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">03</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Социальный налог</td>
 <td>69690,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="2"></td>
+<td></td>
 <td>Социальный налог</td>
 <td>69690,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Налоги на собственность</td>
 <td>29964,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="2"></td>
+<td></td>
 <td>Налоги на имущество</td>
 <td>7685,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
-<td colspan="2"></td>
+<td></td>
 <td>Земельный налог</td>
 <td>1715,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
-<td colspan="2"></td>
+<td></td>
 <td>Налог на транспортные средства</td>
 <td>16177,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
-<td colspan="2"></td>
+<td></td>
 <td>Единый земельный налог</td>
 <td>4387,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">05</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
 <td>15900,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
-<td colspan="2"></td>
+<td></td>
 <td>Акцизы</td>
 <td>246,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
-<td colspan="2"></td>
+<td></td>
 <td>Поступления за использование природных и других ресурсов</td>
 <td>12038,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
-<td colspan="2"></td>
+<td></td>
 <td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
 <td>3616,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">08</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
 <td>1747,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="2"></td>
+<td></td>
 <td>Государственная пошлина</td>
 <td>1747,0</td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Неналоговые поступления</td>
 <td>6400,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Доходы от государственной собственности</td>
 <td>1109,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
-<td colspan="2"></td>
+<td></td>
 <td>Доходы от аренды имущества, находящегося в государственой собственности</td>
 <td>1109,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">06</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Прочие неналоговые поступления</td>
 <td>5291,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="2"></td>
+<td></td>
 <td>Прочие неналоговые поступления</td>
 <td>5291,0</td>
 </tr>
 <tr>
-<td>3</td>
+<td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Поступления от продажи основного капитала</td>
 <td>631,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">03</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Продажа земли и нематериальных активов</td>
 <td>631,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="2"></td>
+<td></td>
 <td>Продажа земли</td>
 <td>631,0</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Поступления трансфертов</td>
-<td>1036067,0</td>
+<td>1304001,9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>1036067,0</td>
+<td>1304001,9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
-<td colspan="2"></td>
+<td></td>
 <td>Трансферты из областного бюджета</td>
-<td>1036067,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>1304001,9</td>
 </tr>
 <tr>
 <td colspan="8">Функциональная группа</td>
 <td rowspan="5">Сумма тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4"></td>
-<td colspan="6">Функциональная подгруппа</td>
+<td rowspan="4"></td>
+<td colspan="7">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="3"></td>
-<td colspan="4">Администратор бюджетных программ</td>
+<td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="2"></td>
-<td colspan="2">Программа</td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>II. Затраты</td>
-<td>1247023,0</td>
+<td>1514957,9</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
 <td>209518,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>161426,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">112</td>
-<td></td>
+<td colspan="2"></td>
 <td>Аппарат маслихата района (города областного значения)</td>
 <td>11869,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
+<td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности маслихата района (города областного значения)</td>
 <td>11869,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">122</td>
-<td></td>
+<td colspan="2"></td>
 <td>Аппарат акима района (города областного значения)</td>
 <td>77170,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
+<td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима района (города областного значения)</td>
 <td>77064,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>003</td>
+<td colspan="2">003</td>
 <td>Капитальные расходы государственного органа</td>
 <td>106,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">123</td>
-<td></td>
+<td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>72387,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
+<td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>72139,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>022</td>
+<td colspan="2">022</td>
 <td>Капитальные расходы государственного органа</td>
 <td>248,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">5</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Планирование и статистическая деятельность</td>
 <td>21099,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">461</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел экономики, финансов и предпринимательства района (города областного значения)</td>
 <td>21099,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики в области формирования и развития экономической политики, системы государственного планирования, исполнения бюджета, управления коммунальной собственностью района (города областного значения), развития предпринимательства и промышленности</td>
 <td>21099,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Прочие государственные услуги общего характера</td>
 <td>26993,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">458</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
 <td>26993,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог</td>
 <td>14993,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>067</td>
+<td colspan="2">067</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
 <td>12000,0</td>
 </tr>
 <tr>
-<td colspan="2">02</td>
+<td>02</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Оборона</td>
 <td>8182,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Военные нужды</td>
 <td>2092,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">122</td>
-<td></td>
+<td colspan="2"></td>
 <td>Аппарат акима района (города областного значения)</td>
 <td>2092,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>005</td>
+<td colspan="2">005</td>
 <td>Мероприятия в рамках исполнения всеобщей воинской обязанности</td>
 <td>2092,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Организация работы по чрезвычайным ситуациям</td>
 <td>6090,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">122</td>
-<td></td>
+<td colspan="2"></td>
 <td>Аппарат акима района (города областного значения)</td>
 <td>6090,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>006</td>
+<td colspan="2">006</td>
 <td>Предупреждение и ликвидация чрезвычайных ситуаций масштаба района (города областного значения)</td>
 <td>6090,0</td>
 </tr>
 <tr>
-<td colspan="2">04</td>
+<td>04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Образование</td>
 <td>672241,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Дошкольное воспитание и обучение</td>
 <td>61502,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">464</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
 <td>61502,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>009</td>
+<td colspan="2">009</td>
 <td>Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
 <td>61502,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
 <td>530489,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">464</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
 <td>530489,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>003</td>
+<td colspan="2">003</td>
 <td>Общеобразовательное обучение</td>
 <td>521413,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>006</td>
+<td colspan="2">006</td>
 <td>Дополнительное образование для детей</td>
 <td>9076,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Прочие услуги в области образования</td>
 <td>80250,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">464</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
 <td>80250,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области образования</td>
 <td>7818,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>005</td>
+<td colspan="2">005</td>
 <td>Приобретение и доставка учебников, учебно-методических комплексов для государственных учреждений образования района (города областного значения)</td>
 <td>15864,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>015</td>
-<td>Ежемесячная выплата денежных средств опекунам (попечителям) на содержание ребенка-сироты (детей-сирот), и ребенка (детей), оставшегося без попечения родителей</td>
+<td colspan="2">015</td>
+<td>Ежемесячные выплаты денежных средств опекунам (попечителям) на содержание ребенка-сироты (детей-сирот), и ребенка (детей), оставшегося без попечения родителей</td>
 <td>4146,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>029</td>
+<td colspan="2">029</td>
 <td>Обследование психического здоровья детей и подростков и оказание психолого-медико-педагогической консультативной помощи населению</td>
 <td>6941,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>067</td>
+<td colspan="2">067</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
 <td>45481,0</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td>06</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Социальная помощь и социальное обеспечение</td>
 <td>82695,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Социальное обеспечение</td>
 <td>29510,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">451</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
 <td>29510,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>005</td>
+<td colspan="2">005</td>
 <td>Государственная адресная социальная помощь</td>
 <td>6362,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>016</td>
+<td colspan="2">016</td>
 <td>Государственные пособия на детей до 18 лет</td>
 <td>23148,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Социальная помощь</td>
 <td>38499,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">451</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
 <td>38499,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>002</td>
+<td colspan="2">002</td>
 <td>Программа занятости</td>
 <td>18125,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>007</td>
+<td colspan="2">007</td>
 <td>Социальная помощь отдельным категориям нуждающихся граждан по решениям местных представительных органов</td>
 <td>10695,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>010</td>
+<td colspan="2">010</td>
 <td>Материальное обеспечение детей-инвалидов, воспитывающихся и обучающихся на дому</td>
 <td>490,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>014</td>
+<td colspan="2">014</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
 <td>8082,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>017</td>
+<td colspan="2">017</td>
 <td>Обеспечение нуждающихся инвалидов обязательными гигиеническими средствами и предоставление услуг специалистами жестового языка, индивидуальными помощниками в соответствии с индивидуальной программой реабилитации инвалида</td>
 <td>1107,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Прочие услуги в области социальной помощи и социального обеспечения</td>
 <td>14686,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">451</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
 <td>14686,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области обеспечения занятости и реализации социальных программ для населения</td>
 <td>14130,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>Оплата услуг по зачислению, выплате и доставке пособий и других социальных выплат</td>
 <td>556,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>9876,0</td>
+<td>277810,9</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td>Жилищное хозяйство</td>
+<td>267934,9</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">464</td>
+<td colspan="2"></td>
+<td>Отдел образования района (города областного значения)</td>
+<td>267934,9</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">026</td>
+<td>Ремонт объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
+<td>267934,9</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2">3</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
 <td>9876,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">123</td>
-<td></td>
+<td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>9876,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>008</td>
+<td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
 <td>7916,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>009</td>
+<td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
 <td>1960,0</td>
 </tr>
 <tr>
-<td colspan="2">08</td>
+<td>08</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
 <td>98107,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Деятельность в области культуры</td>
 <td>35601,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">455</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел культуры и развития языков района (города областного значения)</td>
 <td>35601,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>003</td>
+<td colspan="2">003</td>
 <td>Поддержка культурно-досуговой работы</td>
 <td>35601,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Спорт</td>
 <td>10040,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">465</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел физической культуры и спорта района (города областного значения)</td>
 <td>10040,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере физической культуры и спорта</td>
 <td>5519,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>006</td>
+<td colspan="2">006</td>
 <td>Проведение спортивных соревнований на районном (города областного значения) уровне</td>
 <td>1978,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>007</td>
+<td colspan="2">007</td>
 <td>Подготовка и участие членов сборных команд района (города областного значения) по различным видам спорта на областных спортивных соревнованиях</td>
 <td>2543,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">3</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Информационное пространство</td>
 <td>30017,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">455</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел культуры и развития языков района (города областного значения)</td>
 <td>28196,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>006</td>
+<td colspan="2">006</td>
 <td>Функционирование районных (городских) библиотек</td>
 <td>24483,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>007</td>
+<td colspan="2">007</td>
 <td>Развитие государственного языка и других языков народа Казахстана</td>
 <td>3713,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">456</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел внутренней политики района (города областного значения)</td>
 <td>1821,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>002</td>
+<td colspan="2">002</td>
 <td>Услуги по проведению государственной информационной политики</td>
 <td>1821,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Прочие услуги по организации культуры, спорта, туризма и информационного пространства</td>
 <td>22449,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">455</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел культуры и развития языков района (города областного значения)</td>
 <td>12989,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области развития языков и культуры</td>
 <td>8998,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>032</td>
+<td colspan="2">032</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
 <td>3991,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">456</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел внутренней политики района (города областного значения)</td>
 <td>9460,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области информации, укрепления государственности и формирования социального оптимизма граждан</td>
 <td>6554,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>003</td>
+<td colspan="2">003</td>
 <td>Реализация мероприятий в сфере молодежной политики</td>
 <td>2906,0</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
 <td>66767,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Сельское хозяйство</td>
 <td>24418,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">461</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел экономики, финансов и предпринимательства района (города областного значения)</td>
 <td>3603,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>099</td>
+<td colspan="2">099</td>
 <td>Реализация мер по оказанию социальной поддержки специалистов</td>
 <td>3603,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">462</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел сельского хозяйства района (города областного значения)</td>
 <td>12889,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере сельского хозяйства</td>
 <td>12889,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">473</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел ветеринарии района (города областного значения)</td>
 <td>7926,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере ветеринарии</td>
 <td>5520,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>003</td>
+<td colspan="2">003</td>
 <td>Капитальные расходы государственного органа</td>
 <td>10,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>007</td>
+<td colspan="2">007</td>
 <td>Организация отлова и уничтожения бродячих собак и кошек</td>
 <td>306,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>008</td>
+<td colspan="2">008</td>
 <td>Возмещение владельцам стоимости изымаемых и уничтожаемых больных животных, продуктов и сырья животного происхождения</td>
 <td>2090,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">6</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Земельные отношения</td>
 <td>8206,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">463</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел земельных отношений района (города областного значения)</td>
 <td>8206,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики в области регулирования земельных отношений на территории района (города областного значения)</td>
 <td>8206,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Прочие услуги в области сельского, водного, лесного, рыбного хозяйства, охраны окружающей среды и земельных отношений</td>
 <td>34143,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">473</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел ветеринарии района (города областного значения)</td>
 <td>34143,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>Проведение противоэпизоотических мероприятий</td>
 <td>34143,0</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
+<td>11</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Промышленность, архитектурная, градостроительная и строительная деятельность</td>
 <td>7959,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Архитектурная, градостроительная и строительная деятельность</td>
 <td>7959,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">472</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел строительства, архитектуры и градостроительства района (города областного значения)</td>
 <td>7959,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики в области строительства, архитектуры и градостроительства на местном уровне</td>
 <td>7959,0</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Транспорт и коммуникации</td>
 <td>76999,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Автомобильный транспорт</td>
 <td>76999,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">123</td>
-<td></td>
+<td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>20392,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>013</td>
+<td colspan="2">013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 <td>20392,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">458</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
 <td>56607,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>023</td>
+<td colspan="2">023</td>
 <td>Обеспечение функционирования автомобильных дорог</td>
 <td>56607,0</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Прочие</td>
 <td>14069,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Прочие</td>
 <td>14069,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">123</td>
-<td></td>
+<td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>11550,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>040</td>
+<td colspan="2">040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
 <td>11550,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">461</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел экономики, финансов и предпринимательства района (города областного значения)</td>
 <td>2519,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>Резерв местного исполнительного органа района (города областного значения)</td>
 <td>2519,0</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
+<td>15</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Трансферты</td>
 <td>610,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Трансферты</td>
 <td>610,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">461</td>
-<td></td>
+<td colspan="2"></td>
 <td>Отдел экономики, финансов и предпринимательства района (города областного значения)</td>
 <td>610,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>051</td>
+<td colspan="2">051</td>
 <td>Трансферты органам местного самоуправления</td>
 <td>610,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>III. Чистое бюджетное кредитование</td>
 <td>-2950,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Бюджетные кредиты</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2">5</td>
+<td>5</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Погашение бюджетных кредитов</td>
 <td>2950,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td>Погашение бюджетных кредитов</td>
 <td>2950,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
-<td></td>
+<td colspan="2"></td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td>2950,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td>13</td>
+<td colspan="2">13</td>
 <td>Погашение бюджетных кредитов, выданных из местного бюджета физическим лицам</td>
 <td>2950,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>IV. Сальдо по операциям с финансовыми активами</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Приобретение финансовых активов</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>V. Дефицит (профицит) бюджета</td>
 <td>2950,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
 <td>-2950,0</td>
 </tr>
