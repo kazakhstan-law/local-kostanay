@@ -1,5 +1,5 @@
 ---
-version_id: '97120_65596'
+version_id: '97120_69975'
 act_code: '97120'
 language: kaz
 title: Арқалық қаласының 2016-2018 жылдарға арналған бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '162019000002'
 approval_date: 2015-12-21
-version_date: 2016-03-01
+version_date: 2016-04-01
 registry_number: '97120'
 caused_by:
-  code: '100316'
-  title: Мәслихаттың 2015 жылғы 21 желтоқсандағы № 278 «Арқалық қаласының 2016-2018  жылдарға арналған бюджеті туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/100316/kaz
-source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
+  code: '101086'
+  title: Мәслихаттың 2015 жылғы 21 желтоқсандағы № 278 "Арқалық қаласының 2016-2018 жылдарға арналған бюджеті туралы" шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/101086/kaz
+source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.04.2016
 ---
 
 # Арқалық қаласының 2016-2018 жылдарға арналған бюджеті туралы
@@ -25,7 +25,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 
 1. Арқалық қаласының 2016-2018 жылдарға арналған бюджеті тиісінше 1, 2, 3 қосымшаларға сәйкес, оның ішінде 2016 жылға мынадай көлемдерде бекітілсін:
 
-   1) кірістер – 3942015,0 мың теңге, оның ішінде:
+   1) кірістер – 3942987,8 мың теңге, оның ішінде:
 
       салықтық түсімдер бойынша – 1244687,0 мың теңге;
 
@@ -33,9 +33,9 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 
       негізгі капиталды сатудан түсетін түсімдер бойынша – 177416,0 мың теңге;
 
-      трансферттердің түсімдері бойынша – 2506779,0 мың тенге, оның ішінде субвенция көлемі – 1575286,0 мың теңге;
+      трансферттердің түсімдері бойынша – 2507751,8 мың тенге, оның ішінде субвенция көлемі – 1575286,0 мың теңге;
 
-   2) шығындар – 4019527,9 мың теңге;
+   2) шығындар – 4020500,7 мың теңге;
 
    3) таза бюджеттік кредит беру – 8402,0 мың теңге;
 
@@ -45,9 +45,9 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 
    6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 85914,9 мың теңге.
 
-> *Ескерту. 1-тармақ жаңа редакцияда - Қостанай облысы Арқалық қаласы мәслихатының 01.03.2016 № 298 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-тармақ жаңа редакцияда - Қостанай облысы Арқалық қаласы мәслихатының 01.04.2016 № 10 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
 
-2. 2016 жылға арналған қалалық бюджетте республикалық бюджеттен ағымдағы нысаналы трансферттер көлемі 892125,0 мың теңге сомасында көзделген, оның ішінде:
+2. 2016 жылға арналған қалалық бюджетте республикалық бюджеттен ағымдағы нысаналы трансферттер көлемі 892708,7 мың теңге сомасында көзделген, оның ішінде:
 
    мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға 142014,0 мың теңге сомасында;
 
@@ -61,13 +61,25 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 
    әкімшілік мемлекеттік қызметшілердің еңбекақысының деңгейін арттыруға 67207,0 мың теңге сомасында;
 
-   жергілікті бюджеттерден қаржыландырылатын азаматтық қызметшілерге еңбекақы төлеу жүйесінің жаңа моделіне көшуге, сонымен қатар оларға лауазымдық айлықақыларына ерекше еңбек жағдайлары үшін ай сайынғы үстемеақы төлеуге 660485,0 мың теңге сомасында.
+   жергілікті бюджеттерден қаржыландырылатын азаматтық қызметшілерге еңбекақы төлеу жүйесінің жаңа моделіне көшуге, сонымен қатар оларға лауазымдық айлықақыларына ерекше еңбек жағдайлары үшін ай сайынғы үстемеақы төлеуге 660485,0 мың теңге сомасында;
 
-3. 2016 жылға арналған қалалық бюджетте облыстық бюджеттен ағымдағы нысаналы трансферттер көлемі 39368,0 мың теңге сомасында көзделген, оның ішінде:
+   мүгедектерге қызмет көрсетуге бағдарланған ұйымдардың орналасқан жерлерінде жол белгілері мен сілтегіштерді орнатуға 345,0 мың теңге сомасында;
+
+   мүгедектерге қызмет көрсетуге бағдарланған ұйымдардың орналасқан жерлерінде жаяу жүргіншілер өткелдерін дыбыстық және жарықтандыру құрылғылармен жабдықтауға 238,7 мың теңге сомасында.
+
+> *Ескерту. 2-тармақ жаңа редакцияда - Қостанай облысы Арқалық қаласы мәслихатының 01.04.2016 № 10 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+
+3. 2016 жылға арналған қалалық бюджетте облыстық бюджеттен ағымдағы нысаналы трансферттер көлемі 39757,1 мың теңге сомасында көзделген, оның ішінде:
 
    аудандар және қалалар деңгейіне ақшалай қаражаттарды оның ағымдағы шотына аудару арқылы патронат тәрбиешілерге еңбекақы төлеу бойынша функцияларды беруге байланысты патронат тәрбиешілерге берілген баланы (балаларды) асырап бағуға 3868,0 мың теңге сомасында;
 
-   аудандар және қалалар деңгейіне аудандық және қалалық мамандандырылмаған балалар мен жасөспірімдер спорт мектептерінің қызметін қамтамасыз ету бойынша функцияларды беруге байланысты балалар мен жасөспірімдер спорт мектептерін ұстауға 35500,0 мың теңге сомасында.
+   аудандар және қалалар деңгейіне аудандық және қалалық мамандандырылмаған балалар мен жасөспірімдер спорт мектептерінің қызметін қамтамасыз ету бойынша функцияларды беруге байланысты балалар мен жасөспірімдер спорт мектептерін ұстауға 35500,0 мың теңге сомасында;
+
+   мүгедектерге қызмет көрсетуге бағдарланған ұйымдардың орналасқан жерлерінде жол белгілері мен сілтегіштерді орнатуға 230,0 мың теңге сомасында;
+
+   мүгедектерге қызмет көрсетуге бағдарланған ұйымдардың орналасқан жерлерінде жаяу жүргіншілер өткелдерін дыбыстық және жарықтандыру құрылғылармен жабдықтауға 159,1 мың теңге сомасында.
+
+> *Ескерту. 3-тармақ жаңа редакцияда - Қостанай облысы Арқалық қаласы мәслихатының 01.04.2016 № 10 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
 
 4. 2016 жылға арналған қалалық бюджеттен республикалық бюджеттен бюджеттік кредиттер көлемі 12726,0 мың теңге сомасында көзделген, оның ішінде:
 
@@ -105,7 +117,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 
 # Арқалық қаласының 2016 жылға арналған бюджетi
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қостанай облысы Арқалық қаласы мәслихатының 01.03.2016 № 298 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қостанай облысы Арқалық қаласы мәслихатының 01.04.2016 № 10 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -135,7 +147,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td></td>
 <td></td>
 <td>І.Кiрiстер</td>
-<td>3 942 015,0</td>
+<td>3 942 987,8</td>
 </tr>
 <tr>
 <td>1</td>
@@ -324,64 +336,64 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>2 506 779,0</td>
+<td>2 507 751,8</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>2 506 779,0</td>
+<td>2 507 751,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>2 506 779,0</td>
+<td>2 507 751,8</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="6">Функционалдық топ</td>
 <td rowspan="5">
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшісі</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>ІІ. Шығындар</td>
-<td>4 019 527,9</td>
+<td>4 020 500,7</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -389,7 +401,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>326 195,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -397,7 +409,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>261 725,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>112</td>
 <td></td>
@@ -405,7 +417,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>19 207,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -413,7 +425,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>19 207,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -421,7 +433,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>99 016,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -429,7 +441,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>99 016,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -437,7 +449,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>143 502,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -445,7 +457,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>143 502,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -453,7 +465,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>28 726,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -461,7 +473,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>28 726,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -469,7 +481,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>23 375,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -477,7 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>1 544,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -485,7 +497,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>3 807,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -493,7 +505,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>17 771,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>453</td>
 <td></td>
@@ -501,7 +513,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>17 771,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -509,7 +521,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>17 771,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -517,7 +529,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>17 973,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -525,7 +537,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>17 973,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -533,7 +545,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>17 973,0</td>
 </tr>
 <tr>
-<td>02</td>
+<td colspan="2">02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -541,7 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>13 777,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -549,7 +561,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>5 918,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -557,7 +569,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>5 918,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -565,7 +577,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>5 918,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -573,7 +585,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>7 859,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -581,7 +593,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>7 859,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -589,7 +601,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>7 645,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -597,7 +609,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>214,0</td>
 </tr>
 <tr>
-<td>03</td>
+<td colspan="2">03</td>
 <td></td>
 <td></td>
 <td></td>
@@ -605,7 +617,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>4 964,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -613,7 +625,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>4 964,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -621,7 +633,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>4 964,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>021</td>
@@ -629,15 +641,15 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>4 964,0</td>
 </tr>
 <tr>
-<td>04</td>
+<td colspan="2">04</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>2 601 767,0</td>
+<td>2 591 496,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -645,7 +657,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>334 993,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -653,7 +665,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>334 993,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -661,7 +673,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>192 979,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>040</td>
@@ -669,7 +681,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>142 014,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -677,7 +689,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>2 172 353,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -685,7 +697,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>2 124 999,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -693,7 +705,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>1 955 756,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -701,7 +713,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>169 243,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>465</td>
 <td></td>
@@ -709,7 +721,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>47 354,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -717,23 +729,23 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>47 354,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>94 421,0</td>
+<td>84 150,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) бiлiм бөлiмi</td>
-<td>94 421,0</td>
+<td>84 150,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -741,7 +753,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>9 968,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -749,15 +761,15 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>49 213,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
-<td>Аудандық (қалалалық) ауқымдағы мектеп олимпиадаларын және мектептен тыс іс-шараларды өткiзу</td>
+<td>Аудандық (қалалық) ауқымдағы мектеп олимпиадаларын және мектептен тыс іс-шараларды өткiзу</td>
 <td>3 386,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -765,23 +777,23 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>20 854,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>067</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td>11 000,0</td>
+<td>729,0</td>
 </tr>
 <tr>
-<td>06</td>
+<td colspan="2">06</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>447 046,6</td>
+<td>448 019,4</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -789,7 +801,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>84 057,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -797,7 +809,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>80 068,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -805,7 +817,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>4 540,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -813,7 +825,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>75 528,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -821,7 +833,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>3 989,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>030</td>
@@ -829,7 +841,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>3 989,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -837,7 +849,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>314 541,6</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -845,7 +857,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>314 541,6</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -853,7 +865,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>96 695,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -861,7 +873,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>2 700,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -869,7 +881,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>107 108,6</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -877,7 +889,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>21 000,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -885,7 +897,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>1 190,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -893,7 +905,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>29 735,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -901,7 +913,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>32 529,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -909,7 +921,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>19 961,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -917,15 +929,15 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>3 623,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету салаларындағы өзге де қызметтер</td>
-<td>48 448,0</td>
+<td>49 420,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -933,7 +945,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>48 448,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -941,7 +953,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>40 534,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -949,7 +961,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>1 018,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>050</td>
@@ -957,23 +969,39 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>6 896,0</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2"></td>
+<td></td>
+<td>458</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
+<td>972,8</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>050</td>
+<td>Қазақстан Республикасында мүгедектердің құқықтарын қамтамасыз ету және өмір сүру сапасын жақсарту жөніндегі 2012 - 2018 жылдарға арналған іс-шаралар жоспарын іске асыру</td>
+<td>972,8</td>
+</tr>
+<tr>
+<td colspan="2">07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>85 860,0</td>
+<td>96 131,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td>30 436,0</td>
+<td>40 707,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -981,7 +1009,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>22 459,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -989,7 +1017,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>17 114,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -997,7 +1025,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>2 200,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>031</td>
@@ -1005,7 +1033,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>1 090,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>049</td>
@@ -1013,7 +1041,23 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>2 055,0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
+<td>464</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) бiлiм бөлiмi</td>
+<td>10 271,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>026</td>
+<td>Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу</td>
+<td>10 271,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td>479</td>
 <td></td>
@@ -1021,7 +1065,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>7 977,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1029,7 +1073,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>7 977,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1037,7 +1081,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>18 000,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>472</td>
 <td></td>
@@ -1045,7 +1089,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>18 000,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1053,7 +1097,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>18 000,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1061,7 +1105,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>37 424,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1069,7 +1113,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>37 424,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -1077,7 +1121,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>18 677,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -1085,7 +1129,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>7 546,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -1093,7 +1137,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>2 458,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1101,7 +1145,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>8 743,0</td>
 </tr>
 <tr>
-<td>08</td>
+<td colspan="2">08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1109,7 +1153,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>212 537,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1117,7 +1161,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>92 869,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1125,7 +1169,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>92 869,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1133,7 +1177,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>92 869,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1141,7 +1185,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>31 643,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>465</td>
 <td></td>
@@ -1149,7 +1193,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>31 643,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1157,7 +1201,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>5 656,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1165,7 +1209,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>17 036,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1173,7 +1217,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>1 960,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1181,7 +1225,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>6 991,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1189,7 +1233,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>57 424,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1197,7 +1241,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>51 347,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1205,7 +1249,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>42 119,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1213,7 +1257,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>9 228,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>456</td>
 <td></td>
@@ -1221,7 +1265,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>6 077,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1229,7 +1273,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>6 077,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1237,7 +1281,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>30 601,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1245,7 +1289,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>11 127,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1253,7 +1297,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>10 017,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -1261,7 +1305,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>1 110,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>456</td>
 <td></td>
@@ -1269,7 +1313,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>19 474,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1277,7 +1321,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>12 004,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1285,7 +1329,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>7 470,0</td>
 </tr>
 <tr>
-<td>10</td>
+<td colspan="2">10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1293,7 +1337,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>96 455,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1301,7 +1345,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>51 387,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>453</td>
 <td></td>
@@ -1309,7 +1353,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>6 703,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>099</td>
@@ -1317,7 +1361,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>6 703,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>462</td>
 <td></td>
@@ -1325,7 +1369,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>18 761,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1333,7 +1377,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>18 761,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>473</td>
 <td></td>
@@ -1341,7 +1385,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>25 923,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1349,7 +1393,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>18 976,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1357,7 +1401,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>270,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1365,7 +1409,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>4 740,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1373,7 +1417,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>1 937,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -1381,7 +1425,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>11 692,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>463</td>
 <td></td>
@@ -1389,7 +1433,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>11 692,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1397,7 +1441,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>10 617,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1405,7 +1449,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>1 075,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1413,7 +1457,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>33 376,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>473</td>
 <td></td>
@@ -1421,7 +1465,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>33 376,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -1429,7 +1473,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>33 376,0</td>
 </tr>
 <tr>
-<td>11</td>
+<td colspan="2">11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1437,7 +1481,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>17 170,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1445,7 +1489,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>17 170,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>472</td>
 <td></td>
@@ -1453,7 +1497,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>17 170,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1461,7 +1505,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>17 170,0</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1469,7 +1513,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>33 843,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1477,7 +1521,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>33 843,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1485,7 +1529,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>33 843,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>023</td>
@@ -1493,7 +1537,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>33 843,0</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1501,7 +1545,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>171 750,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1509,7 +1553,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>11 075,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>469</td>
 <td></td>
@@ -1517,7 +1561,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>11 075,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1525,7 +1569,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>11 075,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1533,7 +1577,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>160 675,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -1541,7 +1585,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>11 730,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>040</td>
@@ -1549,7 +1593,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>11 730,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -1557,7 +1601,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>148 945,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -1565,7 +1609,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>148 945,0</td>
 </tr>
 <tr>
-<td>15</td>
+<td colspan="2">15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1573,7 +1617,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>8 163,3</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1581,7 +1625,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>8 163,3</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -1589,7 +1633,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>8 163,3</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1597,7 +1641,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>369,1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>051</td>
@@ -1605,7 +1649,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>7 605,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>054</td>
@@ -1613,7 +1657,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>189,2</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1621,7 +1665,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>8 402,0</td>
 </tr>
 <tr>
-<td>10</td>
+<td colspan="2">10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1629,7 +1673,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>12 726,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1637,7 +1681,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>12 726,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>453</td>
 <td></td>
@@ -1645,7 +1689,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>12 726,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1653,7 +1697,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>12 726,0</td>
 </tr>
 <tr>
-<td>5</td>
+<td colspan="2">5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1661,7 +1705,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>4 324,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -1669,7 +1713,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>4 324,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -1677,7 +1721,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>4 324,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>13</td>
@@ -1685,21 +1729,13 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 <td>4 324,0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ІV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>0,0</td>
-</tr>
-<tr>
-<td colspan="4"></td>
+<td colspan="5"></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
 <td>-85 914,9</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
@@ -1707,7 +1743,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 </tr>
 <tr>
 <td>7</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Қарыздар түсімдері</td>
@@ -1715,7 +1751,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td colspan="2">01</td>
 <td></td>
 <td></td>
 <td>Мемлекеттік ішкі қарыздар</td>
@@ -1723,7 +1759,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td>Қарыз алу келісім-шарттары</td>
@@ -1731,7 +1767,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>03</td>
 <td>Ауданның (облыстық маңызы бар қаланың) жергілікті атқарушы органы алатын қарыздар</td>
@@ -1739,15 +1775,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 </tr>
 <tr>
 <td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарыздарды өтеу</td>
-<td>4 324,0</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Қарыздарды өтеу</td>
@@ -1755,7 +1783,15 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 </tr>
 <tr>
 <td></td>
+<td colspan="2">1</td>
 <td></td>
+<td></td>
+<td>Қарыздарды өтеу</td>
+<td>4 324,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
 <td>452</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
@@ -1763,7 +1799,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>008</td>
 <td>Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
@@ -1771,7 +1807,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 </tr>
 <tr>
 <td>8</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
@@ -1779,7 +1815,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td colspan="2">01</td>
 <td></td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
@@ -1787,7 +1823,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
@@ -1795,7 +1831,7 @@ source: https://zan.gov.kz/client/#!/doc/97120/kaz/01.03.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>01</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
