@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/96422/rus/27.05.2016
+source: https://zan.gov.kz/client/#!/doc/96422/rus/27.06.2016
 ---
 
 > *Приложение 2*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/rus/27.05.2016
 
 # Областной бюджет Костанайской области на 2017 год
 
-> *Сноска. Приложение 2 - в редакции решения маслихата Костанайской области от 27.05.2016 № 13 (вводится в действие с 01.01.2016).*
+> *Сноска. Приложение 2 - в редакции решения маслихата Костанайской области от 27.06.2016 № 34 (вводится в действие с 01.01.2016).*
 
 <table>
 <tr>
@@ -17,17 +17,14 @@ source: https://zan.gov.kz/client/#!/doc/96422/rus/27.05.2016
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
@@ -90,7 +87,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/rus/27.05.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td>01</td>
 <td>1</td>
 <td></td>
 <td>Поступления части чистого дохода государственных предприятий</td>
@@ -264,24 +261,18 @@ source: https://zan.gov.kz/client/#!/doc/96422/rus/27.05.2016
 <td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
@@ -2243,7 +2234,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/rus/27.05.2016
 <td></td>
 <td></td>
 <td>III. Чистое бюджетное кредитование</td>
-<td>243 641,0</td>
+<td>1 529 698,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2251,7 +2242,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/rus/27.05.2016
 <td></td>
 <td></td>
 <td>Бюджетные кредиты</td>
-<td>603 000,0</td>
+<td>1 889 057,0</td>
 </tr>
 <tr>
 <td>06</td>
@@ -2286,21 +2277,53 @@ source: https://zan.gov.kz/client/#!/doc/96422/rus/27.05.2016
 <td>603 000,0</td>
 </tr>
 <tr>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жилищно-коммунальное хозяйство</td>
+<td>1 286 057,0</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Жилищное хозяйство</td>
+<td>1 286 057,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>271</td>
+<td></td>
+<td>Управление строительства области</td>
+<td>1 286 057,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Кредитование бюджетов районов (городов областного значения) на проектирование и (или) строительство жилья</td>
+<td>1 286 057,0</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td colspan="5">Категория</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
 <td colspan="2">Специфика</td>
 </tr>
@@ -2342,7 +2365,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/rus/27.05.2016
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-243 641,0</td>
+<td>-1 529 698,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2350,7 +2373,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/rus/27.05.2016
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>243 641,0</td>
+<td>1 529 698,0</td>
 </tr>
 </table>
 

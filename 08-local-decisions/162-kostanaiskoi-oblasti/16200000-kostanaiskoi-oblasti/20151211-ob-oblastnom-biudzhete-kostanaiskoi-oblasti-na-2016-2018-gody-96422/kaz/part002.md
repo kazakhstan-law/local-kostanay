@@ -1,15 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
+source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.06.2016
 ---
 
 > *Мәслихаттың*  
-> *2015 жылғы 11 желтоқсандағы № 467*  
-> *шешіміне 2 - қосымша*
+> *2015 жылғы 11 желтоқсандағы*  
+> *№ 467 шешіміне 2 - қосымша*
 
 # Қостанай облысының 2017 жылға арналған облыстық бюджеті
 
-> *Ескерту. 2-қосымша жаңа редакцияда - Қостанай облысы мәслихатының 27.05.2016 № 13 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+> *Ескерту. 2-қосымша жаңа редакцияда - Қостанай облысы мәслихатының 27.06.2016 № 34 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -17,17 +17,14 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td>Атауы</td>
@@ -260,33 +257,27 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 
 <table>
 <tr>
-<td colspan="6">Функционалдық топ</td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td rowspan="4"></td>
 <td colspan="4">Кiшi функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -294,7 +285,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>95 872 504,0</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -302,7 +293,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 393 387,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -310,7 +301,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 033 484,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>110</td>
 <td></td>
@@ -318,7 +309,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>50 401,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -326,7 +317,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>50 401,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>120</td>
 <td></td>
@@ -334,7 +325,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>805 645,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -342,7 +333,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>713 922,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -350,7 +341,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>91 723,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>282</td>
 <td></td>
@@ -358,7 +349,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>177 438,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -366,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>177 438,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -374,7 +365,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>179 370,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -382,7 +373,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>156 507,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -390,7 +381,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>150 766,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -398,7 +389,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>5 741,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>718</td>
 <td></td>
@@ -406,7 +397,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>22 863,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -414,7 +405,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>20 810,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -422,7 +413,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>2 053,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -430,7 +421,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>129 183,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>258</td>
 <td></td>
@@ -438,7 +429,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>129 183,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -446,7 +437,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>129 183,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -454,7 +445,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>51 350,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>269</td>
 <td></td>
@@ -462,7 +453,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>51 350,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -470,7 +461,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>22 155,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -478,7 +469,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>29 195,0</td>
 </tr>
 <tr>
-<td colspan="2">02</td>
+<td>02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -486,7 +477,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>116 118,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -494,7 +485,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>77 893,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>120</td>
 <td></td>
@@ -502,7 +493,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>77 893,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -510,7 +501,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>48 412,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -518,7 +509,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>29 481,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -526,7 +517,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>38 225,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>287</td>
 <td></td>
@@ -534,7 +525,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>38 225,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -542,7 +533,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>8 375,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -550,7 +541,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>29 850,0</td>
 </tr>
 <tr>
-<td colspan="2">03</td>
+<td>03</td>
 <td></td>
 <td></td>
 <td></td>
@@ -558,7 +549,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>6 279 967,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -566,7 +557,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>6 279 967,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>252</td>
 <td></td>
@@ -574,7 +565,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>6 279 967,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -582,7 +573,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>6 103 617,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -590,7 +581,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>4 956,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -598,7 +589,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>9 530,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -606,7 +597,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>57 022,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -614,7 +605,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>59 691,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -622,7 +613,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>45 151,0</td>
 </tr>
 <tr>
-<td colspan="2">04</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -630,7 +621,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>9 368 864,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -638,7 +629,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>405 071,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -646,7 +637,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>405 071,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -654,7 +645,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>405 071,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -662,7 +653,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>2 284 512,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -670,7 +661,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 745 976,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -678,7 +669,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 228 071,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -686,7 +677,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>517 905,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>285</td>
 <td></td>
@@ -694,7 +685,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>538 536,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -702,7 +693,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>538 536,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -710,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>5 677 391,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -718,7 +709,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>217 226,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>043</td>
@@ -726,7 +717,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>217 226,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -734,7 +725,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>5 460 165,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>024</td>
@@ -742,7 +733,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>5 460 165,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -750,7 +741,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>107 168,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>252</td>
 <td></td>
@@ -758,7 +749,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>96 704,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -766,7 +757,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>96 704,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -774,7 +765,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>10 464,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -782,7 +773,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>10 464,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -790,7 +781,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>894 722,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -798,7 +789,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>894 722,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -806,7 +797,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>124 406,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -814,7 +805,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>23 527,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -822,7 +813,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>11 232,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -830,7 +821,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>289 897,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -838,7 +829,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>52 064,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>029</td>
@@ -846,7 +837,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>38 333,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -854,7 +845,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>355 263,0</td>
 </tr>
 <tr>
-<td colspan="2">05</td>
+<td>05</td>
 <td></td>
 <td></td>
 <td></td>
@@ -862,7 +853,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>10 186 619,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -870,7 +861,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 377 472,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -878,7 +869,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 377 472,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -886,7 +877,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>875 638,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -894,7 +885,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>366 719,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -902,7 +893,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>135 115,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -910,7 +901,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>5 412 143,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -918,7 +909,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>5 412 143,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -926,7 +917,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>4 832 995,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>020</td>
@@ -934,7 +925,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>226 264,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>027</td>
@@ -942,7 +933,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>120 950,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>046</td>
@@ -950,7 +941,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>231 934,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -958,7 +949,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 966 214,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -966,7 +957,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 966 214,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -974,7 +965,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>760 589,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>039</td>
@@ -982,7 +973,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>964 628,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -990,7 +981,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>240 997,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -998,7 +989,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>982 165,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -1006,7 +997,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>982 165,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -1014,7 +1005,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>912 390,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>029</td>
@@ -1022,7 +1013,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>69 775,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1030,7 +1021,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>448 625,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -1038,7 +1029,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>448 625,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1046,7 +1037,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>130 308,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1054,7 +1045,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>169 129,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -1062,7 +1053,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>98 888,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -1070,7 +1061,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>19 557,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1078,7 +1069,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>30 743,0</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1086,7 +1077,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>3 366 795,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1094,7 +1085,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>2 832 086,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>256</td>
 <td></td>
@@ -1102,7 +1093,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 899 445,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1110,7 +1101,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>650 638,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -1118,7 +1109,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>842 331,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -1126,7 +1117,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>139 086,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -1134,7 +1125,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>267 390,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -1142,7 +1133,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>932 641,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -1150,7 +1141,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>892 704,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>037</td>
@@ -1158,7 +1149,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>39 937,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1166,7 +1157,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>335 115,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>256</td>
 <td></td>
@@ -1174,7 +1165,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>335 115,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1182,7 +1173,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>335 115,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1190,7 +1181,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>199 594,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>256</td>
 <td></td>
@@ -1198,7 +1189,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>147 220,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1206,7 +1197,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>143 513,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>044</td>
@@ -1214,7 +1205,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>3 707,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>270</td>
 <td></td>
@@ -1222,7 +1213,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>52 374,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1230,7 +1221,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>52 374,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1238,7 +1229,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>10 191 237,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1246,7 +1237,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>5 279 867,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>256</td>
 <td></td>
@@ -1254,7 +1245,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>83 616,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>042</td>
@@ -1262,7 +1253,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>83 616,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -1270,7 +1261,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>2 692 676,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>062</td>
@@ -1278,7 +1269,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>2 692 676,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>262</td>
 <td></td>
@@ -1286,7 +1277,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>463 856,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -1294,7 +1285,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>463 856,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -1302,7 +1293,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>2 039 719,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -1310,7 +1301,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>599 918,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>027</td>
@@ -1318,7 +1309,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 439 801,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1326,7 +1317,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>4 911 370,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -1334,7 +1325,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>385 096,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>058</td>
@@ -1342,7 +1333,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>385 096,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>279</td>
 <td></td>
@@ -1350,7 +1341,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>4 526 274,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1358,7 +1349,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>75 719,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -1366,7 +1357,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>2 118 747,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -1374,7 +1365,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 281 560,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -1382,7 +1373,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>751 977,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -1390,7 +1381,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>298 271,0</td>
 </tr>
 <tr>
-<td colspan="2">08</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1398,7 +1389,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>4 187 159,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1406,7 +1397,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 040 075,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>262</td>
 <td></td>
@@ -1414,7 +1405,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 040 075,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1422,7 +1413,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>53 024,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1430,7 +1421,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>79 939,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1438,7 +1429,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>226 964,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1446,7 +1437,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>680 148,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1454,7 +1445,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>2 057 927,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>285</td>
 <td></td>
@@ -1462,7 +1453,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>2 057 927,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1470,7 +1461,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>57 765,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1478,7 +1469,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>26 777,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1486,7 +1477,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 831 235,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -1494,7 +1485,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>142 150,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1502,7 +1493,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>863 431,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>259</td>
 <td></td>
@@ -1510,7 +1501,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>271 114,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1518,7 +1509,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>27 106,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1526,7 +1517,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>244 008,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>262</td>
 <td></td>
@@ -1534,7 +1525,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>236 240,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1542,7 +1533,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>236 240,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>263</td>
 <td></td>
@@ -1550,7 +1541,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>284 558,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1558,7 +1549,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>284 558,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>264</td>
 <td></td>
@@ -1566,7 +1557,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>71 519,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1574,7 +1565,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>36 545,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1582,7 +1573,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>34 974,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -1590,7 +1581,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>9 256,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>266</td>
 <td></td>
@@ -1598,7 +1589,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>9 256,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>021</td>
@@ -1606,7 +1597,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>9 256,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1614,7 +1605,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>216 470,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>263</td>
 <td></td>
@@ -1622,7 +1613,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>115 659,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1630,7 +1621,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>115 659,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>283</td>
 <td></td>
@@ -1638,7 +1629,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>100 811,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1646,7 +1637,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>28 932,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1654,7 +1645,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>71 879,0</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1662,7 +1653,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>19 913 345,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1670,7 +1661,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>18 977 563,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>255</td>
 <td></td>
@@ -1678,7 +1669,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>18 907 183,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1686,7 +1677,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>130 046,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1694,7 +1685,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>393 274,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -1702,7 +1693,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 445,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1710,7 +1701,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>4 575,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>020</td>
@@ -1718,7 +1709,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>5 550 202,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>041</td>
@@ -1726,7 +1717,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>4 583 880,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -1734,7 +1725,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>89 924,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>046</td>
@@ -1742,7 +1733,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 017,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>047</td>
@@ -1750,7 +1741,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>4 363 620,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>053</td>
@@ -1758,7 +1749,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>3 789 200,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>719</td>
 <td></td>
@@ -1766,7 +1757,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>70 380,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1774,7 +1765,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>37 193,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>030</td>
@@ -1782,7 +1773,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>33 187,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1790,7 +1781,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>711 225,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>254</td>
 <td></td>
@@ -1798,7 +1789,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>711 225,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1806,7 +1797,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>695 852,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1814,7 +1805,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>15 373,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -1822,7 +1813,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>157 550,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>254</td>
 <td></td>
@@ -1830,7 +1821,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>157 550,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1838,7 +1829,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>84 045,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1846,7 +1837,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>73 505,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -1854,7 +1845,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>47 448,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>251</td>
 <td></td>
@@ -1862,7 +1853,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>47 448,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1870,7 +1861,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>47 448,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1878,7 +1869,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>19 559,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>255</td>
 <td></td>
@@ -1886,7 +1877,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>16 059,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>019</td>
@@ -1894,7 +1885,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>16 059,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>719</td>
 <td></td>
@@ -1902,7 +1893,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>3 500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>028</td>
@@ -1910,7 +1901,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>3 500,0</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
+<td>11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1918,7 +1909,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>99 980,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1926,7 +1917,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>99 980,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -1934,7 +1925,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>57 502,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1942,7 +1933,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>57 502,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>272</td>
 <td></td>
@@ -1950,7 +1941,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>36 732,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1958,7 +1949,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>36 732,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>724</td>
 <td></td>
@@ -1966,7 +1957,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>5 746,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1974,7 +1965,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>5 746,0</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1982,7 +1973,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>7 408 167,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1990,7 +1981,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>7 198 854,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>268</td>
 <td></td>
@@ -1998,7 +1989,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>7 198 854,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -2006,7 +1997,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 480 483,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -2014,7 +2005,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 807 955,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -2022,7 +2013,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 851 160,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>025</td>
@@ -2030,7 +2021,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>2 059 256,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -2038,7 +2029,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>209 313,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>268</td>
 <td></td>
@@ -2046,7 +2037,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>209 313,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2054,7 +2045,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>53 764,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -2062,7 +2053,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>155 549,0</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2070,7 +2061,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 900 576,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -2078,7 +2069,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>897 796,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -2086,7 +2077,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>897 796,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>051</td>
@@ -2094,7 +2085,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>897 796,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -2102,7 +2093,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>1 002 780,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -2110,7 +2101,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>144 419,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -2118,7 +2109,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>144 419,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>258</td>
 <td></td>
@@ -2126,7 +2117,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>675 506,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -2134,7 +2125,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>131 259,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -2142,7 +2133,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>544 247,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>266</td>
 <td></td>
@@ -2150,7 +2141,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>94 655,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2158,7 +2149,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>94 655,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -2166,7 +2157,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>88 200,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>084</td>
@@ -2174,7 +2165,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>88 200,0</td>
 </tr>
 <tr>
-<td colspan="2">14</td>
+<td>14</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2182,7 +2173,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>95,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2190,7 +2181,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>95,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -2198,7 +2189,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>95,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -2206,7 +2197,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>95,0</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
+<td>15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2214,7 +2205,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>21 460 194,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2222,7 +2213,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>21 460 194,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -2230,7 +2221,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>21 460 194,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -2238,23 +2229,23 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>21 460 194,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>ІІІ. Таза бюджеттік кредиттеу</td>
-<td>243 641,0</td>
+<td>1 529 698,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттер</td>
-<td>603 000,0</td>
+<td>1 889 057,0</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2262,7 +2253,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>603 000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -2270,7 +2261,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>603 000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>266</td>
 <td></td>
@@ -2278,7 +2269,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>603 000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -2286,27 +2277,59 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td>603 000,0</td>
 </tr>
 <tr>
-<td colspan="6">Санаты</td>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td>1 286 057,0</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Тұрғын үй шаруашылығы</td>
+<td>1 286 057,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>271</td>
+<td></td>
+<td>Облыстың құрылыс басқармасы</td>
+<td>1 286 057,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Аудандардың (облыстық маңызы бар қалалардың) бюджеттеріне тұрғын үй жобалауға және салуға кредит беру</td>
+<td>1 286 057,0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="5">Санаты</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="5">Сыныбы</td>
+<td rowspan="3"></td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
+<td rowspan="2"></td>
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
@@ -2314,15 +2337,7 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 </tr>
 <tr>
 <td>5</td>
-<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>359 359,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">01</td>
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
@@ -2330,7 +2345,15 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td>359 359,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
@@ -2338,19 +2361,19 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>-243 641,0</td>
+<td>-1 529 698,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>VІ. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>243 641,0</td>
+<td>1 529 698,0</td>
 </tr>
 </table>
 
@@ -4593,5 +4616,95 @@ source: https://zan.gov.kz/client/#!/doc/96422/kaz/27.05.2016
 <td></td>
 <td>VІ. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>-671 259,0</td>
+</tr>
+</table>
+
+> *Мәслихаттың*  
+> *2015 жылғы 11 желтоқсандағы*  
+> *№ 467 шешіміне 4-қосымша*
+
+# 2016 жылға арналған жергілікті бюджеттерді атқару процесінде секвестрлеуге жатпайтын жергілікті бюджеттік бағдарламалардың тізбесі
+
+<table>
+<tr>
+<td>Атауы</td>
+</tr>
+<tr>
+<td>Білім беру</td>
+</tr>
+<tr>
+<td>Жалпы білім беру</td>
+</tr>
+<tr>
+<td>Арнаулы білім беру бағдарламалары бойынша жалпы білім беру</td>
+</tr>
+<tr>
+<td>Мамандандырылған білім беру ұйымдарында дарынды балаларға жалпы білім беру</td>
+</tr>
+<tr>
+<td>Денсаулық сақтау</td>
+</tr>
+<tr>
+<td>Аудандық маңызы бар және ауыл денсаулық сақтау субъектілерінің медициналық көмекті және амбулаториялық-емханалық көмекті халыққа тегін медициналық көмектің кепілдік берілген көлемі шеңберінде көрсетуі</td>
+</tr>
+<tr>
+<td>Республикалық бюджет қаражаты есебінен көрсетілетін және аудандық маңызы бар және ауылдың денсаулық сақтау субъектілері көрсететін медициналық көмекті қоспағанда, бастапқы медициналық-санитариялық көмек және медициналық ұйымдар мамандарын жіберу бойынша денсаулық сақтау субъектілерінің стационарлық және стационарды алмастыратын медициналық көмек көрсетуі</td>
+</tr>
+<tr>
+<td>Жергілікті денсаулық сақтау ұйымдары үшін қанды, оның құрамдауыштары мен препараттарын өндіру</td>
+</tr>
+<tr>
+<td>Салауатты өмір салтын насихаттау</td>
+</tr>
+<tr>
+<td>Республикалық бюджет қаражаты есебінен көрсетілетін және аудандық маңызы бар және ауылдың денсаулық сақтау субъектілері көрсететін медициналық көмекті қоспағанда, жедел медициналық көмек көрсету және санитариялық авиация</td>
+</tr>
+<tr>
+<td>Туберкулез, жұқпалы аурулар, психикалық күйзеліс және мінез-құлқының бұзылуынан, оның ішінде психикаға белсенді әсер ететін заттарды қолдануға байланысты, зардап шегетін адамдарға медициналық көмек көрсету</td>
+</tr>
+<tr>
+<td>Қазақстан Республикасында ЖИТС-тің алдын алу және оған қарсы күрес жөніндегі іс-шараларды іске асыру</td>
+</tr>
+<tr>
+<td>Туберкулезбен ауыратын науқастарды туберкулезге қарсы препараттармен қамтамасыз ету</td>
+</tr>
+<tr>
+<td>Диабетпен ауыратын науқастарды диабетке қарсы препараттармен қамтамасыз ету</td>
+</tr>
+<tr>
+<td>Онкогематологиялық науқастарды химия препараттарымен қамтамасыз ету</td>
+</tr>
+<tr>
+<td>Созылмалы бүйрек функциясының жетіспеушілігі бар, аутоиммунды, орфандық аурулармен ауыратын, иммунитеті жеткіліксіз науқастарды, сондай-ақ бүйрегін транспланттаудан кейінгі науқастарды дәрілік заттармен қамтамасыз ету</td>
+</tr>
+<tr>
+<td>Онкологиялық науқастарға тегін медициналық көмектің кепілдік берілген көлемі шеңберінде медициналық көмек көрсету</td>
+</tr>
+<tr>
+<td>Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде скринингтік зерттеулер жүргізу</td>
+</tr>
+<tr>
+<td>Жаңадан іске қосылатын денсаулық сақтау объектілерін күтіп-ұстау</td>
+</tr>
+<tr>
+<td>Халықтың жекелеген санаттарын амбулаториялық деңгейде дәрілік заттармен және балаларға арналған және емдік тағамдардың арнаулы өнімдерімен қамтамасыз ету</td>
+</tr>
+<tr>
+<td>Азаматтардың жекелеген санаттарын дәрілік заттармен амбулаториялық емдеу деңгейінде жеңілдетілген жағдайда қамтамасыз ету</td>
+</tr>
+<tr>
+<td>Гемофилиямен ауыратын науқастарды қанды ұйыту факторларымен қамтамасыз ету</td>
+</tr>
+<tr>
+<td>Халыққа иммундық профилактика жүргізу үшін вакциналарды және басқа медциналық иммундық биологиялық препараттарды орталықтандырылған сатып алу және сақтау</td>
+</tr>
+<tr>
+<td>Жіті миокард инфаркті бар науқастарды тромболитикалық препараттармен қамтамасыз ету</td>
+</tr>
+<tr>
+<td>Шұғыл жағдайларда сырқаты ауыр адамдарды дәрігерлік көмек көрсететін ең жақын денсаулық сақтау ұйымына дейін жеткізуді ұйымдастыру</td>
+</tr>
+<tr>
+<td>Ана мен баланы қорғау бойынша қызмет көрсету</td>
 </tr>
 </table>
