@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
+source: https://zan.gov.kz/client/#!/doc/97097/kaz/12.08.2016
 ---
 
 > *Мәслихаттың*  
@@ -9,25 +9,25 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 
 # 2016-2018 жылдарға арналған ауылдар мен ауылдық округтердің бюджеттік бағдарламаларының тізбесі
 
-> *Ескерту. 4-қосымша жаңа редакцияда – Қостанай облысы Қарасу ауданы мәслихатының 06.06.2016 № 29 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+> *Ескерту. 4-қосымша жаңа редакцияда – Қостанай облысы Қарасу ауданы мәслихатының 12.08.2016 № 47 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="6">Функционалдық топ</td>
 <td rowspan="5">2016 жыл</td>
 <td rowspan="5">2017 жыл</td>
 <td rowspan="5">2018 жыл</td>
 </tr>
 <tr>
 <td rowspan="4"></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
@@ -35,61 +35,61 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>203575,9</td>
+<td>203485,4</td>
 <td>170008,0</td>
 <td>170008,0</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>203575,9</td>
+<td>203485,4</td>
 <td>170008,0</td>
 <td>170008,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>123</td>
+<td colspan="2">123</td>
 <td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
-<td>203575,9</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл ,ауылдық округ әкімінің аппараты</td>
+<td>203485,4</td>
 <td>170008,0</td>
 <td>170008,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>198625,9</td>
+<td>198535,4</td>
 <td>170008,0</td>
 <td>170008,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>оның ішінде бағдарламалардың әкімшілері бойынша:</td>
+<td>Оның ішінде бағдарламалардың әкімшілері бойынша:</td>
 <td></td>
 <td></td>
 <td></td>
@@ -97,7 +97,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Айдарлы ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>9504,0</td>
@@ -107,7 +107,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Белорус ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>8556,8</td>
@@ -117,7 +117,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Восток ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>11095,0</td>
@@ -127,7 +127,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Жалғысқан ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>7347,0</td>
@@ -137,7 +137,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Жамбыл ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>8974,0</td>
@@ -147,17 +147,17 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Железнодорожный ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
-<td>12769,0</td>
+<td>12678,5</td>
 <td>10896,0</td>
 <td>10896,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Ильичев ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>7244,0</td>
@@ -167,7 +167,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Қарамырза ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>8865,0</td>
@@ -177,7 +177,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Қарасу ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>23538,1</td>
@@ -187,7 +187,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Қойбағар ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>10888,0</td>
@@ -197,7 +197,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Люблин ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>10140,0</td>
@@ -207,7 +207,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Новопавлов ауылы округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>9610,0</td>
@@ -217,7 +217,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Новоселов ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>7129,0</td>
@@ -227,7 +227,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Октябрь ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>14402,0</td>
@@ -237,7 +237,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>&quot;Павлов ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>8610,0</td>
@@ -246,7 +246,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Ушаков ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -256,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Целинный ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -266,7 +266,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Шолақашы ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -276,17 +276,17 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Черняев ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
-<td>8146,0</td>
+<td>8746,0</td>
 <td>7464,0</td>
 <td>7464,0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
@@ -296,7 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Айдарлы ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -306,7 +306,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Белорус ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -316,7 +316,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Восток ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -326,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Жалғысқан ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -336,7 +336,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Жамбыл ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -346,7 +346,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Железнодорожный ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -356,7 +356,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Ильичев ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -366,7 +366,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Қарамырза ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -376,7 +376,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Қарасу ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -386,7 +386,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Қойбағар ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -396,7 +396,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Люблин ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -406,7 +406,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Новопавлов ауылы округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -416,7 +416,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Новоселов ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -426,7 +426,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Октябрь ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -436,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Павлов ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -446,7 +446,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Ушаков ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -456,7 +456,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Целинный ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -466,7 +466,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Шолақашы ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -476,7 +476,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Черняев ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -486,7 +486,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td>07</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
@@ -496,7 +496,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td>3</td>
+<td colspan="2">3</td>
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
@@ -506,7 +506,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
@@ -516,7 +516,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
@@ -526,7 +526,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Восток ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -536,7 +536,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Жалғысқан ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -546,7 +546,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Жамбыл ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -556,7 +556,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Железнодорожный ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -566,7 +566,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Қарасу ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -576,7 +576,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Қойбағар ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -586,7 +586,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Люблин ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -596,7 +596,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Новоселов ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -606,7 +606,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Новопавлов ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -616,7 +616,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Октябрь ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -626,7 +626,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Ильичев ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -636,7 +636,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Павлов ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -646,7 +646,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Ушаков ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -656,7 +656,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Черняев ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -666,7 +666,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
@@ -676,7 +676,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Қарасу ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -686,7 +686,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>010</td>
 <td>Жерлеу орындарын ұстау және туыстары жоқ адамдарды жерлеу</td>
@@ -696,7 +696,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Қарасу ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -706,7 +706,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
@@ -716,7 +716,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td>12</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Көлік және коммуникация</td>
@@ -726,7 +726,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td>1</td>
+<td colspan="2">1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлігі</td>
@@ -736,7 +736,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
@@ -746,7 +746,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
@@ -756,7 +756,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Қарасу ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -766,17 +766,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Басқалар</td>
-<td></td>
-<td>25493,0</td>
-<td>25493,0</td>
-</tr>
-<tr>
-<td></td>
-<td>9</td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Басқалар</td>
@@ -786,7 +776,17 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
+<td colspan="2">9</td>
 <td></td>
+<td></td>
+<td>Басқалар</td>
+<td></td>
+<td>25493,0</td>
+<td>25493,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
@@ -796,7 +796,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>040</td>
 <td>&quot;Өңірлерді дамыту&quot; Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
@@ -806,7 +806,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Айдарлы ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -816,7 +816,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Белорус ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -826,7 +826,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Железнодорожный ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -836,7 +836,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Жамбыл ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -846,7 +846,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Ильичев ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -856,7 +856,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Қарамырза ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -866,7 +866,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Қойбағар ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -876,7 +876,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Новоселов ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -886,7 +886,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Октябрь ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -896,7 +896,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Ушаков ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -906,7 +906,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Целинный ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -916,7 +916,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Шолақашы ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -926,7 +926,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>&quot;Черняев ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
@@ -955,42 +955,36 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 </tr>
 </table>
 
-> *Мәслихаттың 2015 жылғы 22 желтоқсандағы*  
+> *Мәслихаттың*  
+> *2015 жылғы 22 желтоқсандағы*  
 > *№ 332 шешіміне 6-қосымша*
 
 # Қарасу ауданының ауыл және ауылдық округтерінің 2016-2018 жылдарға арналған жергілікті өзін-өзі басқару органдарына берілетін трансферттер
 
+> *Ескерту. 6-қосымша жаңа редакцияда – Қостанай облысы Қарасу ауданы мәслихатының 12.08.2016 № 47 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">2016</td>
-<td rowspan="4">2017</td>
-<td rowspan="4">2018</td>
+<td rowspan="5">2016</td>
+<td rowspan="5">2017</td>
+<td rowspan="5">2018</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Атауы</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -1008,7 +1002,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>6922,0</td>
+<td>7512,5</td>
 <td>9219,0</td>
 <td>9219,0</td>
 </tr>
@@ -1018,7 +1012,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>6922,0</td>
+<td>7512,5</td>
 <td>9219,0</td>
 <td>9219,0</td>
 </tr>
@@ -1028,7 +1022,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <td>452</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
-<td>6922,0</td>
+<td>7512,5</td>
 <td>9219,0</td>
 <td>9219,0</td>
 </tr>
@@ -1038,7 +1032,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <td></td>
 <td>051</td>
 <td>Жергілікті өзін-өзі басқару органдарына берілетін трансферттер</td>
-<td>6922,0</td>
+<td>7512,5</td>
 <td>9219,0</td>
 <td>9219,0</td>
 </tr>
@@ -1058,7 +1052,7 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <td></td>
 <td></td>
 <td>&quot;Восток ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
-<td>148,0</td>
+<td>242,6</td>
 <td>158,0</td>
 <td>158,0</td>
 </tr>
@@ -1068,9 +1062,29 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <td></td>
 <td></td>
 <td>&quot;Жамбыл ауылы әкімінің аппараты&quot; мемлекеттік мекемесі</td>
-<td>21,0</td>
+<td>111,5</td>
 <td>22,0</td>
 <td>22,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>&quot;Железнодорожный ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
+<td>90,5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>&quot;Қарамырза ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
+<td>90,5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1087,9 +1101,29 @@ source: https://zan.gov.kz/client/#!/doc/97097/kaz/06.06.2016
 <td></td>
 <td></td>
 <td></td>
+<td>&quot;Люблин ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
+<td>133,9</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>&quot;Новопавлов ауылы округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
 <td>113,0</td>
 <td>121,0</td>
 <td>121,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>&quot;Ушаков ауылдық округі әкімінің аппараты&quot; мемлекеттік мекемесі</td>
+<td>90,5</td>
+<td></td>
+<td></td>
 </tr>
 </table>
