@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97055/kaz/06.06.2016
+source: https://zan.gov.kz/client/#!/doc/97055/kaz/16.08.2016
 ---
 
 > *Мәслихаттың*  
