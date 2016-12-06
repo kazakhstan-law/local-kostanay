@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/96855/rus/24.10.2016
+source: https://zan.gov.kz/client/#!/doc/96855/rus/06.12.2016
 ---
 
 > *Приложение 3*  
@@ -1394,1106 +1394,1112 @@ source: https://zan.gov.kz/client/#!/doc/96855/rus/24.10.2016
 
 # Перечень бюджетных программ сел и сельских округов Сарыкольского района на 2016-2018 годы
 
-> *Сноска. Приложение 5 - в редакции решения маслихата Сарыкольского района Костанайской области от 24.10.2016 № 54 (вводится в действие с 01.01.2016).*
+> *Сноска. Приложение 5 - в редакции решения маслихата Сарыкольского района Костанайской области от 06.12.2016 № 62 (вводится в действие с 01.01.2016).*
 
 <table>
 <tr>
-<td colspan="21">Функциональная группа</td>
-<td colspan="3" rowspan="5">2016 год</td>
-<td colspan="3" rowspan="5">2017 год</td>
-<td colspan="2" rowspan="5">2018 год</td>
+<th colspan="7">Функциональная группа</th>
+<th colspan="3" rowspan="5">
+2016
+год
+</th>
+<th colspan="2" rowspan="5">
+2017
+год
+</th>
+<th rowspan="5">
+2018
+год
+</th>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="19">Функциональная подгруппа</td>
+<td></td>
+<td colspan="6">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="14">Администратор бюджетных программ</td>
+<td></td>
+<td colspan="2" rowspan="3"></td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="6">Программа</td>
+<td></td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">НАИМЕНОВАНИЕ</td>
+<td></td>
+<td></td>
+<td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="5">2</th>
-<th colspan="8">3</th>
-<th colspan="4">4</th>
-<th colspan="2">5</th>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th>4</th>
+<th>5</th>
 <th colspan="3">6</th>
-<th colspan="3">7</th>
-<th colspan="2">8</th>
+<th colspan="2">7</th>
+<th>8</th>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td>Государственные услуги общего характера</td>
+<td colspan="3">144649,8</td>
+<td colspan="2">111707,0</td>
+<td>111707,0</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2">1</td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">Государственные услуги общего характера</td>
-<td colspan="3">143575,8</td>
-<td colspan="3">111707,0</td>
+<td colspan="2"></td>
+<td></td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td colspan="3">144649,8</td>
 <td colspan="2">111707,0</td>
+<td>111707,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5">1</td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="3">143575,8</td>
-<td colspan="3">111707,0</td>
+<td colspan="2">123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td colspan="3">144649,8</td>
 <td colspan="2">111707,0</td>
+<td>111707,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8">123</td>
-<td colspan="4"></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="3">143575,8</td>
-<td colspan="3">111707,0</td>
+<td colspan="2"></td>
+<td>001</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td colspan="3">140489,8</td>
 <td colspan="2">111707,0</td>
+<td>111707,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4">001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="3">139415,8</td>
-<td colspan="3">111707,0</td>
-<td colspan="2">111707,0</td>
-</tr>
-<tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">в том числе:</td>
-<td colspan="3"></td>
+<td></td>
+<td>в том числе:</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима поселка Сарыколь акимата Сарыкольского района»</td>
-<td colspan="3">21667,6</td>
-<td colspan="3">16909,0</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима поселка Сарыколь акимата Сарыкольского района»</td>
+<td colspan="3">21817,6</td>
 <td colspan="2">16909,0</td>
+<td>16909,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Барвиновского сельского округа акимата Сарыкольского района»</td>
-<td colspan="3">9769,1</td>
-<td colspan="3">7878,0</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Барвиновского сельского округа акимата Сарыкольского района»</td>
+<td colspan="3">10059,1</td>
 <td colspan="2">7878,0</td>
+<td>7878,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Златоустовского сельского округа акимата Сарыкольского района»</td>
-<td colspan="3">8431,6</td>
-<td colspan="3">6233,0</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Златоустовского сельского округа акимата Сарыкольского района»</td>
+<td colspan="3">8605,6</td>
 <td colspan="2">6233,0</td>
+<td>6233,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Веселоподольского сельского округа акимата Сарыкольского района»</td>
-<td colspan="3">11210,8</td>
-<td colspan="3">9007,0</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Веселоподольского сельского округа акимата Сарыкольского района»</td>
+<td colspan="3">11384,8</td>
 <td colspan="2">9007,0</td>
+<td>9007,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Комсомольского сельского округа акимата Сарыкольского района»</td>
-<td colspan="3">9248,7</td>
-<td colspan="3">7163,0</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Комсомольского сельского округа акимата Сарыкольского района»</td>
+<td colspan="3">9240,7</td>
 <td colspan="2">7163,0</td>
+<td>7163,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Краснознаменского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Краснознаменского сельского округа акимата Сарыкольского района»</td>
 <td colspan="3">7561,0</td>
-<td colspan="3">7275,0</td>
 <td colspan="2">7275,0</td>
+<td>7275,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Ленинградского сельского округа акимата Сарыкольского района»</td>
-<td colspan="3">8909,4</td>
-<td colspan="3">7139,0</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Ленинградского сельского округа акимата Сарыкольского района»</td>
+<td colspan="3">8842,4</td>
 <td colspan="2">7139,0</td>
+<td>7139,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Лесного сельского округа акимата Сарыкольского района»</td>
-<td colspan="3">7485,0</td>
-<td colspan="3">6060,0</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Лесного сельского округа акимата Сарыкольского района»</td>
+<td colspan="3">7659,0</td>
 <td colspan="2">6060,0</td>
+<td>6060,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима села Маяк акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима села Маяк акимата Сарыкольского района»</td>
 <td colspan="3">9196,6</td>
-<td colspan="3">7593,0</td>
 <td colspan="2">7593,0</td>
+<td>7593,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Севастопольского сельского округа акимата Сарыкольского района»</td>
-<td colspan="3">7821,0</td>
-<td colspan="3">6327,0</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Севастопольского сельского округа акимата Сарыкольского района»</td>
+<td colspan="3">8041,0</td>
 <td colspan="2">6327,0</td>
+<td>6327,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Тагильского сельского округа акимата Сарыкольского района»</td>
-<td colspan="3">11246,2</td>
-<td colspan="3">8731,0</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Тагильского сельского округа акимата Сарыкольского района»</td>
+<td colspan="3">11076,2</td>
 <td colspan="2">8731,0</td>
+<td>8731,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Тимирязевского сельского округа акимата Сарыкольского района»</td>
-<td colspan="3">9067,1</td>
-<td colspan="3">6580,0</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Тимирязевского сельского округа акимата Сарыкольского района»</td>
+<td colspan="3">9241,1</td>
 <td colspan="2">6580,0</td>
+<td>6580,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Сорочинского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Сорочинского сельского округа акимата Сарыкольского района»</td>
 <td colspan="3">9846,0</td>
-<td colspan="3">7869,0</td>
 <td colspan="2">7869,0</td>
+<td>7869,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Чеховского сельского округа акимата Сарыкольского района»</td>
-<td colspan="3">7955,7</td>
-<td colspan="3">6943,0</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Чеховского сельского округа акимата Сарыкольского района»</td>
+<td colspan="3">7918,7</td>
 <td colspan="2">6943,0</td>
+<td>6943,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4">022</td>
-<td colspan="2">Капитальные расходы государственного органа</td>
+<td colspan="2"></td>
+<td>022</td>
+<td>Капитальные расходы государственного органа</td>
 <td colspan="3">4160,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">в том числе:</td>
+<td colspan="2"></td>
+<td></td>
+<td>в том числе:</td>
 <td colspan="3"></td>
-<td colspan="3"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима поселка Сарыколь акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима поселка Сарыколь акимата Сарыкольского района»</td>
 <td colspan="3">190,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Барвиновского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Барвиновского сельского округа акимата Сарыкольского района»</td>
 <td colspan="3">190,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Златоустовского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Златоустовского сельского округа акимата Сарыкольского района»</td>
 <td colspan="3">190,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Веселоподольского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Веселоподольского сельского округа акимата Сарыкольского района»</td>
 <td colspan="3">190,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Комсомольского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Комсомольского сельского округа акимата Сарыкольского района»</td>
 <td colspan="3">190,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Краснознаменского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Краснознаменского сельского округа акимата Сарыкольского района»</td>
 <td colspan="3">190,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Ленинградского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Ленинградского сельского округа акимата Сарыкольского района»</td>
 <td colspan="3">190,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Лесного сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Лесного сельского округа акимата Сарыкольского района»</td>
 <td colspan="3">190,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима села Маяк акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима села Маяк акимата Сарыкольского района»</td>
 <td colspan="3">190,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Севастопольского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Севастопольского сельского округа акимата Сарыкольского района»</td>
 <td colspan="3">190,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Тагильского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Тагильского сельского округа акимата Сарыкольского района»</td>
 <td colspan="3">190,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Тимирязевского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Тимирязевского сельского округа акимата Сарыкольского района»</td>
 <td colspan="3">190,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Сорочинского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Сорочинского сельского округа акимата Сарыкольского района»</td>
 <td colspan="3">1690,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="2">ГУ «Аппарат акима Чеховского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td>ГУ «Аппарат акима Чеховского сельского округа акимата Сарыкольского района»</td>
 <td colspan="3">190,0</td>
-<td colspan="3">0,0</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
-<td colspan="2">04</td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td>04</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="3">1932,0</td>
-<td colspan="3">1766,0</td>
+<td colspan="2">1932,0</td>
 <td colspan="2">1766,0</td>
+<td>1766,0</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
-<td colspan="5">2</td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td></td>
 <td colspan="2">Начальное, основное среднее и общее среднее образование</td>
-<td colspan="3">1932,0</td>
-<td colspan="3">1766,0</td>
+<td colspan="2">1932,0</td>
 <td colspan="2">1766,0</td>
+<td>1766,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8">123</td>
-<td colspan="4"></td>
+<td colspan="2">123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="3">1932,0</td>
-<td colspan="3">1766,0</td>
+<td colspan="2">1932,0</td>
 <td colspan="2">1766,0</td>
+<td>1766,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4">005</td>
+<td colspan="2"></td>
+<td>005</td>
 <td colspan="2">Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
-<td colspan="3">1932,0</td>
-<td colspan="3">1766,0</td>
+<td colspan="2">1932,0</td>
 <td colspan="2">1766,0</td>
+<td>1766,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">в том числе:</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">ГУ «Аппарат акима Барвиновского сельского округа акимата Сарыкольского района»</td>
-<td colspan="3">164,0</td>
-<td colspan="3">164,0</td>
 <td colspan="2">164,0</td>
+<td colspan="2">164,0</td>
+<td>164,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">ГУ «Аппарат акима Комсомольского сельского округа акимата Сарыкольского района»</td>
-<td colspan="3">1436,0</td>
-<td colspan="3">1270,0</td>
+<td colspan="2">1436,0</td>
 <td colspan="2">1270,0</td>
+<td>1270,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">ГУ «Аппарат акима Тимирязевского сельского округа акимата Сарыкольского района»</td>
-<td colspan="3">332,0</td>
-<td colspan="3">332,0</td>
 <td colspan="2">332,0</td>
+<td colspan="2">332,0</td>
+<td>332,0</td>
 </tr>
 <tr>
-<td colspan="2">7</td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td>7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="3">27450,0</td>
-<td colspan="3">14277,0</td>
+<td colspan="2">26923,8</td>
 <td colspan="2">14277,0</td>
+<td>14277,0</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
-<td colspan="5">1</td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td></td>
 <td colspan="2">Жилищное хозяйство</td>
-<td colspan="3">7140,0</td>
-<td colspan="3">0,0</td>
+<td colspan="2">6620,8</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8">123</td>
-<td colspan="4"></td>
+<td colspan="2">123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="3">7140,0</td>
-<td colspan="3">0,0</td>
+<td colspan="2">6620,8</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4">027</td>
+<td colspan="2"></td>
+<td>027</td>
 <td colspan="2">Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
-<td colspan="3">7140,0</td>
-<td colspan="3">0,0</td>
+<td colspan="2">6620,8</td>
 <td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">в том числе:</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">ГУ «Аппарат акима поселка Сарыколь акимата Сарыкольского района»</td>
-<td colspan="3">1940,0</td>
-<td colspan="3">0,0</td>
+<td colspan="2">1940,0</td>
+<td colspan="2">0,0</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">ГУ «Аппарат акима Барвиновского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2">302,2</td>
+<td colspan="2">0,0</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="3">ГУ «Аппарат акима Барвиновского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">ГУ «Аппарат акима Златоустовского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">400,0</td>
-<td colspan="3">0,0</td>
+<td colspan="2">0,0</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="3">ГУ «Аппарат акима Златоустовского сельского округа акимата Сарыкольского района»</td>
-<td colspan="2">400,0</td>
-<td colspan="3">0,0</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">ГУ «Аппарат акима Веселоподольского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2">625,0</td>
+<td colspan="2">0,0</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="3">ГУ «Аппарат акима Веселоподольского сельского округа акимата Сарыкольского района»</td>
-<td colspan="2">700,0</td>
-<td colspan="3">0,0</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">ГУ «Аппарат акима Комсомольского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2">357,2</td>
+<td colspan="2">0,0</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="3">ГУ «Аппарат акима Комсомольского сельского округа акимата Сарыкольского района»</td>
-<td colspan="2">400,0</td>
-<td colspan="3">0,0</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">ГУ «Аппарат акима Краснознаменского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2">267,9</td>
+<td colspan="2">0,0</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="3">ГУ «Аппарат акима Краснознаменского сельского округа акимата Сарыкольского района»</td>
-<td colspan="2">300,0</td>
-<td colspan="3">0,0</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">ГУ «Аппарат акима Лесного сельского округа акимата Сарыкольского района»</td>
+<td colspan="2">357,2</td>
+<td colspan="2">0,0</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="3">ГУ «Аппарат акима Лесного сельского округа акимата Сарыкольского района»</td>
-<td colspan="2">400,0</td>
-<td colspan="3">0,0</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">ГУ «Аппарат акима села Маяк акимата Сарыкольского района»</td>
+<td colspan="2">267,9</td>
+<td colspan="2">0,0</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="3">ГУ «Аппарат акима села Маяк акимата Сарыкольского района»</td>
-<td colspan="2">300,0</td>
-<td colspan="3">0,0</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">ГУ «Аппарат акима Севастопольского сельского округа акимата Сарыкольского района»</td>
+<td colspan="2">321,2</td>
+<td colspan="2">0,0</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
-<td colspan="3">ГУ «Аппарат акима Севастопольского сельского округа акимата Сарыкольского района»</td>
-<td colspan="2">400,0</td>
-<td colspan="3">0,0</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Тагильского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">400,0</td>
-<td colspan="3">0,0</td>
+<td>0,0</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Тимирязевского сельского округа акимата Сарыкольского района»</td>
-<td colspan="2">700,0</td>
-<td colspan="3">0,0</td>
+<td colspan="2">625,0</td>
+<td>0,0</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Сорочинского сельского округа акимата Сарыкольского района»</td>
-<td colspan="2">400,0</td>
-<td colspan="3">0,0</td>
+<td colspan="2">357,2</td>
+<td>0,0</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Чеховского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">400,0</td>
-<td colspan="3">0,0</td>
+<td>0,0</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5">3</td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2">3</td>
+<td></td>
+<td></td>
 <td colspan="3">Благоустройство населенных пунктов</td>
-<td colspan="2">20310,0</td>
-<td colspan="3">14277,0</td>
+<td colspan="2">20303,0</td>
+<td>14277,0</td>
 <td colspan="2">14277,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8">123</td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td>123</td>
+<td></td>
 <td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">20310,0</td>
-<td colspan="3">14277,0</td>
+<td colspan="2">20303,0</td>
+<td>14277,0</td>
 <td colspan="2">14277,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4">008</td>
+<td colspan="2"></td>
+<td></td>
+<td>008</td>
 <td colspan="3">Освещение улиц населенных пунктов</td>
-<td colspan="2">8563,1</td>
-<td colspan="3">9757,0</td>
+<td colspan="2">8556,1</td>
+<td>9757,0</td>
 <td colspan="2">9757,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">в том числе:</td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима поселка Сарыколь акимата Сарыкольского района»</td>
 <td colspan="2">5507,1</td>
-<td colspan="3">6507,0</td>
+<td>6507,0</td>
 <td colspan="2">6507,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Барвиновского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">398,0</td>
-<td colspan="3">398,0</td>
+<td>398,0</td>
 <td colspan="2">398,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Златоустовского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">281,0</td>
-<td colspan="3">281,0</td>
+<td>281,0</td>
 <td colspan="2">281,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Веселоподольского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">215,0</td>
-<td colspan="3">215,0</td>
+<td>215,0</td>
 <td colspan="2">215,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Комсомольского сельского округа акимата Сарыкольского района»</td>
-<td colspan="2">300,0</td>
-<td colspan="3">300,0</td>
+<td colspan="2">293,0</td>
+<td>300,0</td>
 <td colspan="2">300,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Краснознаменского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">171,0</td>
-<td colspan="3">171,0</td>
+<td>171,0</td>
 <td colspan="2">171,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Ленинградского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">80,0</td>
-<td colspan="3">130,0</td>
+<td>130,0</td>
 <td colspan="2">130,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Лесного сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">136,0</td>
-<td colspan="3">136,0</td>
+<td>136,0</td>
 <td colspan="2">136,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима села Маяк акимата Сарыкольского района»</td>
 <td colspan="2">270,0</td>
-<td colspan="3">270,0</td>
+<td>270,0</td>
 <td colspan="2">270,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Севастопольского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">243,0</td>
-<td colspan="3">243,0</td>
+<td>243,0</td>
 <td colspan="2">243,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Тагильского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">379,0</td>
-<td colspan="3">379,0</td>
+<td>379,0</td>
 <td colspan="2">379,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Тимирязевского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">310,0</td>
-<td colspan="3">310,0</td>
-<td colspan="2">310,0</td>
+<td>310,0</td>
+<td>310,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Сорочинского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">200,0</td>
-<td colspan="3">279,0</td>
-<td colspan="2">279,0</td>
+<td>279,0</td>
+<td>279,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Чеховского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">73,0</td>
-<td colspan="3">138,0</td>
-<td colspan="2">138,0</td>
+<td>138,0</td>
+<td>138,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4">010</td>
+<td colspan="2"></td>
+<td>010</td>
 <td colspan="3">Содержание мест захоронений и погребение безродных</td>
 <td colspan="2">312,5</td>
-<td colspan="3">350,0</td>
-<td colspan="2">350,0</td>
+<td>350,0</td>
+<td>350,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">в том числе:</td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима поселка Сарыколь акимата Сарыкольского района»</td>
 <td colspan="2">312,5</td>
-<td colspan="3">350,0</td>
-<td colspan="2">350,0</td>
+<td>350,0</td>
+<td>350,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4">011</td>
+<td colspan="2"></td>
+<td>011</td>
 <td colspan="3">Благоустройство и озеленение населенных пунктов</td>
 <td colspan="2">11434,4</td>
-<td colspan="3">4170,0</td>
-<td colspan="2">4170,0</td>
+<td>4170,0</td>
+<td>4170,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">в том числе:</td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима поселка Сарыколь акимата Сарыкольского района»</td>
 <td colspan="2">11434,4</td>
-<td colspan="3">4170,0</td>
-<td colspan="2">4170,0</td>
+<td>4170,0</td>
+<td>4170,0</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td>12</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">Транспорт и коммуникации</td>
-<td colspan="2">13053,0</td>
-<td colspan="3">10170,0</td>
-<td colspan="2">10170,0</td>
+<td colspan="2">12428,0</td>
+<td>10170,0</td>
+<td>10170,0</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
-<td colspan="5">1</td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td></td>
 <td colspan="3">Автомобильный транспорт</td>
-<td colspan="2">13053,0</td>
-<td colspan="3">10170,0</td>
-<td colspan="2">10170,0</td>
+<td colspan="2">12428,0</td>
+<td>10170,0</td>
+<td>10170,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8">123</td>
-<td colspan="4"></td>
+<td colspan="2">123</td>
+<td></td>
 <td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">13053,0</td>
-<td colspan="3">10170,0</td>
-<td colspan="2">10170,0</td>
+<td colspan="2">12428,0</td>
+<td>10170,0</td>
+<td>10170,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4">013</td>
+<td colspan="2"></td>
+<td>013</td>
 <td colspan="3">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
-<td colspan="2">13053,0</td>
-<td colspan="3">10170,0</td>
-<td colspan="2">10170,0</td>
+<td colspan="2">12428,0</td>
+<td>10170,0</td>
+<td>10170,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">в том числе:</td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима поселка Сарыколь акимата Сарыкольского района»</td>
-<td colspan="2">6915,0</td>
-<td colspan="3">3500,0</td>
-<td colspan="2">3500,0</td>
+<td colspan="2">6290,0</td>
+<td>3500,0</td>
+<td>3500,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Златоустовского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">750,0</td>
-<td colspan="3">750,0</td>
-<td colspan="2">750,0</td>
+<td>750,0</td>
+<td>750,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Веселоподольского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">700,0</td>
-<td colspan="3">700,0</td>
-<td colspan="2">700,0</td>
+<td>700,0</td>
+<td>700,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Комсомольского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">900,0</td>
-<td colspan="3">900,0</td>
-<td colspan="2">900,0</td>
+<td>900,0</td>
+<td>900,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Лесного сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">300,0</td>
-<td colspan="3">300,0</td>
-<td colspan="2">300,0</td>
+<td>300,0</td>
+<td>300,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима села Маяк акимата Сарыкольского района»</td>
 <td colspan="2">500,0</td>
-<td colspan="3">500,0</td>
-<td colspan="2">500,0</td>
+<td>500,0</td>
+<td>500,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Севастопольского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">570,0</td>
-<td colspan="3">570,0</td>
-<td colspan="2">570,0</td>
+<td>570,0</td>
+<td>570,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Тагильского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">700,0</td>
-<td colspan="3">1200,0</td>
-<td colspan="2">1200,0</td>
+<td>1200,0</td>
+<td>1200,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Тимирязевского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">800,0</td>
-<td colspan="3">800,0</td>
-<td colspan="2">800,0</td>
+<td>800,0</td>
+<td>800,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима Чеховского сельского округа акимата Сарыкольского района»</td>
 <td colspan="2">918,0</td>
-<td colspan="3">950,0</td>
-<td colspan="2">950,0</td>
+<td>950,0</td>
+<td>950,0</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td>13</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">Прочие</td>
 <td colspan="2">0,0</td>
-<td colspan="3">21288,0</td>
-<td colspan="2">21288,0</td>
+<td>21288,0</td>
+<td>21288,0</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2">9</td>
 <td colspan="2"></td>
-<td colspan="5">9</td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td></td>
 <td colspan="3">Прочие</td>
 <td colspan="2">0,0</td>
-<td colspan="3">21288,0</td>
-<td colspan="2">21288,0</td>
+<td>21288,0</td>
+<td>21288,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8">123</td>
-<td colspan="4"></td>
+<td colspan="2">123</td>
+<td></td>
 <td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td colspan="2">0,0</td>
-<td colspan="3">21288,0</td>
-<td colspan="2">21288,0</td>
+<td>21288,0</td>
+<td>21288,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4">040</td>
+<td colspan="2"></td>
+<td>040</td>
 <td colspan="3">Реализация мер по содействию экономическому развитию регионов в рамках Программы &quot;Развитие регионов&quot;</td>
 <td colspan="2">0,0</td>
-<td colspan="3">21288,0</td>
-<td colspan="2">21288,0</td>
+<td>21288,0</td>
+<td>21288,0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">в том числе:</td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="8"></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="3">ГУ «Аппарат акима поселка Сарыколь акимата Сарыкольского района»</td>
 <td colspan="2">0,0</td>
-<td colspan="3">21288,0</td>
-<td colspan="2">21288,0</td>
+<td>21288,0</td>
+<td>21288,0</td>
 </tr>
 </table>
 
@@ -2503,85 +2509,85 @@ source: https://zan.gov.kz/client/#!/doc/96855/rus/24.10.2016
 
 # Распределение трансфертов органам местного самоуправления между селами, поселками, сельскими округами Сарыкольского района на 2016 год
 
-> *Сноска. Решение дополнено приложением 6 в соответствии с решением маслихата Сарыкольского района Костанайской области от 06.06.2016 № 27 (вводится в действие с 01.01.2016); в редакции решения маслихата Сарыкольского района Костанайской области от 24.10.2016 № 54 (вводится в действие с 01.01.2016).*
+> *Сноска. Приложение 6 - в редакции решения маслихата Сарыкольского района Костанайской области от 06.12.2016 № 62 (вводится в действие с 01.01.2016).*
 
 <table>
 <tr>
 <td>№</td>
-<td colspan="2">Наименование села, поселка, сельского округа</td>
+<td>Наименование села, поселка, сельского округа</td>
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="3">Всего:</td>
-<td>9804,6</td>
+<td colspan="2">Всего:</td>
+<td>17804,6</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td>поселок Сарыколь</td>
-<td>3304,6</td>
+<td>11304,6</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
+<td>2</td>
 <td>Барвиновский сельский округ</td>
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
+<td>3</td>
 <td>Златоустовский сельский округ</td>
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
+<td>4</td>
 <td>Веселоподольский сельский округ</td>
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2">5</td>
+<td>5</td>
 <td>Комсомольский сельский округ</td>
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2">6</td>
+<td>6</td>
 <td>Краснознаменский сельский округ</td>
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2">7</td>
+<td>7</td>
 <td>Ленинградский сельский округ</td>
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2">8</td>
+<td>8</td>
 <td>Лесной сельский округ</td>
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2">9</td>
+<td>9</td>
 <td>село Маяк</td>
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td>Севастопольский сельский округ</td>
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
+<td>11</td>
 <td>Тагильский сельский округ</td>
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td>Тимирязевский сельский округ</td>
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td>Сорочинский сельский округ</td>
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2">14</td>
+<td>14</td>
 <td>Чеховский сельский округ</td>
 <td>500,0</td>
 </tr>
