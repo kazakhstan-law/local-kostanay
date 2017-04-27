@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108834/kaz/27.02.2017
+source: https://zan.gov.kz/client/#!/doc/108834/kaz/27.04.2017
 ---
 
 > *Мәслихаттың*  
@@ -1692,7 +1692,7 @@ source: https://zan.gov.kz/client/#!/doc/108834/kaz/27.02.2017
 
 # Ауылдық округтер және ауылдар әкімдіктерінің бюджеттік бағдарламаларының тізбесі
 
-> *Ескерту. 5-қосымша жаңа редакцияда – Қостанай облысы Қамысты ауданы мәслихатының 27.02.2017 № 72 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
+> *Ескерту. 5-қосымша жаңа редакцияда – Қостанай облысы Қамысты ауданы мәслихатының 27.04.2017 № 92 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -1703,8 +1703,7 @@ source: https://zan.gov.kz/client/#!/doc/108834/kaz/27.02.2017
 <td colspan="24">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="5"></td>
 <td colspan="23">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
@@ -1718,7 +1717,13 @@ source: https://zan.gov.kz/client/#!/doc/108834/kaz/27.02.2017
 <td colspan="3"></td>
 <td></td>
 <td colspan="3"></td>
-<td colspan="16">Атауы</td>
+<td colspan="16" rowspan="2">Атауы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1994,7 +1999,7 @@ source: https://zan.gov.kz/client/#!/doc/108834/kaz/27.02.2017
 <td colspan="3">3</td>
 <td></td>
 <td colspan="3"></td>
-<td colspan="16">Елді- мекендерді көркейту</td>
+<td colspan="16">Елді - мекендерді көркейту</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2634,13 +2639,6 @@ source: https://zan.gov.kz/client/#!/doc/108834/kaz/27.02.2017
 <td colspan="16">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3">022</td>
-<td colspan="16">Мемлекеттік органның күрделі шығыстары</td>
-</tr>
-<tr>
 <td colspan="2">04</td>
 <td colspan="3"></td>
 <td></td>
@@ -3115,6 +3113,13 @@ source: https://zan.gov.kz/client/#!/doc/108834/kaz/27.02.2017
 <td></td>
 <td colspan="3">001</td>
 <td colspan="16">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3">022</td>
+<td colspan="16">Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
