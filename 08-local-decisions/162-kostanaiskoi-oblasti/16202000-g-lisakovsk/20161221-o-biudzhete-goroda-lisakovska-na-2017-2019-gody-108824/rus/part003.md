@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
+source: https://zan.gov.kz/client/#!/doc/108824/rus/13.06.2017
 ---
 
 > *Приложение 3*  
@@ -10,22 +10,16 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 
 # Бюджет города Лисаковска на 2019 год
 
-> *Сноска. Приложение 3 – в редакции решения маслихата города Лисаковска Костанайской области от 23.02.2017 № 106 (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 3 – в редакции решения маслихата города Лисаковска Костанайской области от 13.06.2017 № 124 (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
 <td colspan="8">Категория</td>
-<td rowspan="5">
-Сумма,
-тысяч
-тенге
-</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="7">Класс</td>
-</tr>
-<tr>
 </tr>
 <tr>
 <td></td>
@@ -37,6 +31,13 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Наименование</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="4">4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -274,11 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">
-Сумма,
-тысяч
-тенге
-</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -301,6 +298,14 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -548,7 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>1 451 971,0</td>
+<td>1 154 971,0</td>
 </tr>
 <tr>
 <td></td>
@@ -556,7 +561,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>465 069,0</td>
+<td>265 069,0</td>
 </tr>
 <tr>
 <td></td>
@@ -564,7 +569,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <td>464</td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>465 069,0</td>
+<td>265 069,0</td>
 </tr>
 <tr>
 <td></td>
@@ -572,7 +577,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <td></td>
 <td>009</td>
 <td>Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
-<td>465 069,0</td>
+<td>265 069,0</td>
 </tr>
 <tr>
 <td></td>
@@ -580,7 +585,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <td></td>
 <td></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>907 169,0</td>
+<td>810 169,0</td>
 </tr>
 <tr>
 <td></td>
@@ -588,7 +593,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <td>464</td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>907 169,0</td>
+<td>810 169,0</td>
 </tr>
 <tr>
 <td></td>
@@ -596,7 +601,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <td></td>
 <td>003</td>
 <td>Общеобразовательное обучение</td>
-<td>737 842,0</td>
+<td>640 842,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1028,7 +1033,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <td></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>671 088,0</td>
+<td>968 088,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1060,7 +1065,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <td></td>
 <td></td>
 <td>Спорт</td>
-<td>489 768,0</td>
+<td>786 768,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1108,7 +1113,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <td>467</td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>450 000,0</td>
+<td>747 000,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1116,7 +1121,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <td></td>
 <td>008</td>
 <td>Развитие объектов спорта</td>
-<td>450 000,0</td>
+<td>747 000,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1552,17 +1557,16 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="6">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Подкласс</td>
-</tr>
-<tr>
 </tr>
 <tr>
 <td></td>
@@ -1576,6 +1580,14 @@ source: https://zan.gov.kz/client/#!/doc/108824/rus/04.05.2017
 <td></td>
 <td></td>
 <td>Наименование</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>5</td>

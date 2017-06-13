@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
+source: https://zan.gov.kz/client/#!/doc/108824/kaz/13.06.2017
 ---
 
 > *Мәслихаттың*  
@@ -10,22 +10,16 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 
 # Лисаков қаласының 2019 жылға арналған бюджеті
 
-> *Ескерту. 3-қосымша жаңа редакцияда – Қостанай облысы Лисаков қаласы мәслихатының 23.02.2017 № 106 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
+> *Ескерту. 3-қосымша жаңа редакцияда - Қостанай облысы Лисаков қаласы мәслихатының 13.06.2017 № 124 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="5">
-Сомасы,
-мың
-теңге
-</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Сыныбы</td>
-</tr>
-<tr>
 </tr>
 <tr>
 <td></td>
@@ -37,6 +31,13 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td></td>
 <td>Атауы</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -274,11 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">
-Сомасы,
-мың
-теңге
-</td>
+<td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -301,6 +298,14 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td></td>
 <td>Атауы</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -548,7 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>1 451 971,0</td>
+<td>1 154 971,0</td>
 </tr>
 <tr>
 <td></td>
@@ -556,7 +561,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>465 069,0</td>
+<td>265 069,0</td>
 </tr>
 <tr>
 <td></td>
@@ -564,7 +569,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>465 069,0</td>
+<td>265 069,0</td>
 </tr>
 <tr>
 <td></td>
@@ -572,7 +577,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td>009</td>
 <td>Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
-<td>465 069,0</td>
+<td>265 069,0</td>
 </tr>
 <tr>
 <td></td>
@@ -580,7 +585,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>907 169,0</td>
+<td>810 169,0</td>
 </tr>
 <tr>
 <td></td>
@@ -588,7 +593,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>907 169,0</td>
+<td>810 169,0</td>
 </tr>
 <tr>
 <td></td>
@@ -596,7 +601,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td>003</td>
 <td>Жалпы білім беру</td>
-<td>737 842,0</td>
+<td>640 842,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1028,7 +1033,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>671 088,0</td>
+<td>968 088,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1060,7 +1065,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td></td>
 <td>Спорт</td>
-<td>489 768,0</td>
+<td>786 768,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1108,7 +1113,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>450 000,0</td>
+<td>747 000,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1116,7 +1121,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td>008</td>
 <td>Cпорт объектілерін дамыту</td>
-<td>450 000,0</td>
+<td>747 000,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1140,7 +1145,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td>006</td>
 <td>Аудандық (қалалық) кiтапханалардың жұмыс iстеуi</td>
-<td>38 928,0</td>
+<td>38928,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1148,7 +1153,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td>007</td>
 <td>Мемлекеттiк тiлдi және Қазақстан халқының басқа да тiлдерін дамыту</td>
-<td>8 751,0</td>
+<td>8751,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1156,7 +1161,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td>456</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ішкі саясат бөлімі</td>
-<td>26 640,0</td>
+<td>26640,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1164,7 +1169,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td>002</td>
 <td>Мемлекеттік ақпараттық саясат жүргізу жөніндегі қызметтер</td>
-<td>26 640,0</td>
+<td>26640,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1172,7 +1177,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңiстiктi ұйымдастыру жөнiндегi өзге де қызметтер</td>
-<td>30 383,0</td>
+<td>30383,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1540,7 +1545,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td></td>
 <td>III. Таза бюджеттік кредиттеу</td>
-<td>-25 107,0</td>
+<td>- 25 107,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1552,21 +1557,16 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="6">
-Сомасы,
-мың
-теңге
-</td>
+<td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3" rowspan="2">Ішкі сыныбы</td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -1580,6 +1580,14 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td></td>
 <td>Атауы</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1635,7 +1643,7 @@ source: https://zan.gov.kz/client/#!/doc/108824/kaz/04.05.2017
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитті пайдалану)</td>
-<td>-25 107,0</td>
+<td>- 25 107,0</td>
 </tr>
 </table>
 
