@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108989/kaz/15.05.2017
+source: https://zan.gov.kz/client/#!/doc/108989/kaz/07.08.2017
 ---
 
 > *Мәслихаттың*  
@@ -1517,746 +1517,752 @@ source: https://zan.gov.kz/client/#!/doc/108989/kaz/15.05.2017
 
 # Сарыкөл ауданының кент, ауыл және ауылдық округтерінің 2017-2019 жылдарға арналған бюджеттік бағдарламасының тізбесі
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Қостанай облысы Сарыкөл ауданы мәслихатының 15.05.2017 № 99 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
+> *Ескерту. 5-қосымша жаңа редакцияда - Қостанай облысы Сарыкөл ауданы мәслихатының 07.08.2017 № 110 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
-<td colspan="9">Функционалдық топ</td>
-<td rowspan="5">2017 жыл</td>
-<td rowspan="5">2018 жыл</td>
-<td colspan="4" rowspan="5">2019 жыл</td>
+<td colspan="8">Функционалдық топ</td>
+<td colspan="2" rowspan="5">2017 жыл</td>
+<td colspan="2" rowspan="5">2018 жыл</td>
+<td colspan="2" rowspan="5">2019 жыл</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="8">Кіші функция</td>
+<td colspan="7">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">Бағдарлама</td>
+<td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>АТАУЫ</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td colspan="4">8</td>
+<td></td>
+<td colspan="3">АТАУЫ</td>
 </tr>
 <tr>
 <td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="3">5</td>
+<td colspan="2">6</td>
+<td colspan="2">7</td>
+<td colspan="2">8</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>149856,6</td>
-<td>140121,0</td>
-<td colspan="4">140121,0</td>
+<td></td>
+<td colspan="3">Жалпы сипаттағы мемлекеттік қызметтер</td>
+<td colspan="2">150920,2</td>
+<td colspan="2">140121,0</td>
+<td colspan="2">140121,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="3"></td>
+<td>1</td>
 <td colspan="2"></td>
-<td>Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>149856,6</td>
-<td>140121,0</td>
-<td colspan="4">140121,0</td>
+<td></td>
+<td colspan="3">Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
+<td colspan="2">150920,2</td>
+<td colspan="2">140121,0</td>
+<td colspan="2">140121,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">123</td>
-<td colspan="2"></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>149856,6</td>
-<td>140121,0</td>
-<td colspan="4">140121,0</td>
+<td></td>
+<td colspan="2">123</td>
+<td></td>
+<td colspan="3">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td colspan="2">150920,2</td>
+<td colspan="2">140121,0</td>
+<td colspan="2">140121,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">001</td>
-<td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>141369,6</td>
-<td>140121,0</td>
-<td colspan="4">140121,0</td>
+<td>001</td>
+<td colspan="3">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="2">142433,2</td>
+<td colspan="2">140121,0</td>
+<td colspan="2">140121,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>оның ішінде:</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="3">оның ішінде:</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Сарыкөл кенті әкімінің аппараты&quot; ММ</td>
-<td>21625,0</td>
-<td>20730,0</td>
-<td colspan="4">20730,0</td>
+<td></td>
+<td colspan="3">&quot;Сарыкөл ауданы Сарыкөл кенті әкімінің аппараты&quot; ММ</td>
+<td colspan="2">22798,4</td>
+<td colspan="2">20730,0</td>
+<td colspan="2">20730,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Барвин ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>9830,0</td>
-<td>9830,0</td>
-<td colspan="4">9830,0</td>
+<td></td>
+<td colspan="3">&quot;Сарыкөл ауданы Барвин ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">9830,0</td>
+<td colspan="2">9830,0</td>
+<td colspan="2">9830,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Златоуст ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>8156,0</td>
-<td>8427,0</td>
-<td colspan="4">8427,0</td>
+<td></td>
+<td colspan="3">&quot;Сарыкөл ауданы Златоуст ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">8206,0</td>
+<td colspan="2">8427,0</td>
+<td colspan="2">8427,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Веселоподол ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>11473,7</td>
-<td>10806,0</td>
-<td colspan="4">10806,0</td>
+<td></td>
+<td colspan="3">&quot;Сарыкөл ауданы Веселоподол ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">11703,9</td>
+<td colspan="2">10806,0</td>
+<td colspan="2">10806,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Комсомол ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>9083,0</td>
-<td>9083,0</td>
-<td colspan="4">9083,0</td>
+<td></td>
+<td colspan="3">&quot;Сарыкөл ауданы Комсомол ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">9083,0</td>
+<td colspan="2">9083,0</td>
+<td colspan="2">9083,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Краснознамен ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>8235,0</td>
-<td>8235,0</td>
-<td colspan="4">8235,0</td>
+<td></td>
+<td colspan="3">&quot;Сарыкөл ауданы Краснознамен ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">8235,0</td>
+<td colspan="2">8235,0</td>
+<td colspan="2">8235,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Ленинград ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>8553,0</td>
-<td>8553,0</td>
-<td colspan="4">8553,0</td>
+<td></td>
+<td colspan="3">&quot;Сарыкөл ауданы Ленинград ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">8553,0</td>
+<td colspan="2">8553,0</td>
+<td colspan="2">8553,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Лесной ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>7740,0</td>
-<td>7740,0</td>
-<td colspan="4">7740,0</td>
+<td></td>
+<td colspan="3">&quot;Сарыкөл ауданы Лесной ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">7740,0</td>
+<td colspan="2">7740,0</td>
+<td colspan="2">7740,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Маяк ауыл әкімінің аппараты&quot; ММ</td>
-<td>9332,0</td>
-<td>9693,0</td>
-<td colspan="4">9693,0</td>
+<td></td>
+<td colspan="3">&quot;Сарыкөл ауданы Маяк ауыл әкімінің аппараты&quot; ММ</td>
+<td colspan="2">9332,0</td>
+<td colspan="2">9693,0</td>
+<td colspan="2">9693,0</td>
+</tr>
+<tr>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Севастополь ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>8053,0</td>
-<td>8053,0</td>
-<td colspan="4">8053,0</td>
+<td></td>
+<td colspan="3">&quot;Сарыкөл ауданы Севастополь ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">7953,0</td>
+<td colspan="2">8053,0</td>
+<td colspan="2">8053,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Тағыл ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>11080,9</td>
-<td>11062,0</td>
-<td colspan="4">11062,0</td>
+<td></td>
+<td colspan="3">&quot;Сарыкөл ауданы Тағыл ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">11080,9</td>
+<td colspan="2">11062,0</td>
+<td colspan="2">11062,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Тимирязев ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>8637,0</td>
-<td>8637,0</td>
-<td colspan="4">8637,0</td>
+<td></td>
+<td colspan="3">&quot;Сарыкөл ауданы Тимирязев ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">8637,0</td>
+<td colspan="2">8637,0</td>
+<td colspan="2">8637,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Сорочин ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>10840,0</td>
-<td>10641,0</td>
-<td colspan="4">10641,0</td>
+<td></td>
+<td colspan="3">&quot;Сарыкөл ауданы Сорочин ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">10550,0</td>
+<td colspan="2">10641,0</td>
+<td colspan="2">10641,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Чехов ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>8731,0</td>
-<td>8631,0</td>
-<td colspan="4">8631,0</td>
+<td></td>
+<td colspan="3">&quot;Сарыкөл ауданы Чехов ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">8731,0</td>
+<td colspan="2">8631,0</td>
+<td colspan="2">8631,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">022</td>
+<td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>8487,0</td>
-<td>0,0</td>
-<td colspan="4">0,0</td>
+<td colspan="4">8487,0</td>
+<td colspan="2">0,0</td>
+<td colspan="2">0,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>оның ішінде:</td>
-<td></td>
-<td></td>
 <td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Барвин ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>2829,0</td>
-<td>0,0</td>
-<td colspan="4">0,0</td>
+<td colspan="4">2829,0</td>
+<td colspan="2">0,0</td>
+<td colspan="2">0,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Краснознамен ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>2829,0</td>
-<td>0,0</td>
-<td colspan="4">0,0</td>
+<td colspan="4">2829,0</td>
+<td colspan="2">0,0</td>
+<td colspan="2">0,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Чехов ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>2829,0</td>
-<td>0,0</td>
-<td colspan="4">0,0</td>
+<td colspan="4">2829,0</td>
+<td colspan="2">0,0</td>
+<td colspan="2">0,0</td>
 </tr>
 <tr>
 <td>04</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Бiлiм беру</td>
-<td>1875,0</td>
-<td>1716,0</td>
-<td colspan="4">1716,0</td>
+<td colspan="4">1875,0</td>
+<td colspan="2">1716,0</td>
+<td colspan="2">1716,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="3"></td>
+<td>2</td>
 <td colspan="2"></td>
+<td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>1875,0</td>
-<td>1716,0</td>
-<td colspan="4">1716,0</td>
+<td colspan="4">1875,0</td>
+<td colspan="2">1716,0</td>
+<td colspan="2">1716,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">123</td>
-<td colspan="2"></td>
+<td></td>
+<td colspan="2">123</td>
+<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>1875,0</td>
-<td>1716,0</td>
-<td colspan="4">1716,0</td>
+<td colspan="4">1875,0</td>
+<td colspan="2">1716,0</td>
+<td colspan="2">1716,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">005</td>
+<td>005</td>
 <td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td>1875,0</td>
-<td>1716,0</td>
-<td colspan="4">1716,0</td>
+<td colspan="4">1875,0</td>
+<td colspan="2">1716,0</td>
+<td colspan="2">1716,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>оның ішінде:</td>
-<td></td>
-<td></td>
 <td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Барвин ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>183,0</td>
-<td>183,0</td>
 <td colspan="4">183,0</td>
+<td colspan="2">183,0</td>
+<td colspan="2">183,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Комсомол ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>1322,0</td>
-<td>1163,0</td>
-<td colspan="4">1163,0</td>
+<td colspan="4">1322,0</td>
+<td colspan="2">1163,0</td>
+<td colspan="2">1163,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Тимирязев ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>370,0</td>
-<td>370,0</td>
 <td colspan="4">370,0</td>
+<td colspan="2">370,0</td>
+<td colspan="2">370,0</td>
 </tr>
 <tr>
 <td>7</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>9104,0</td>
-<td>9104,0</td>
 <td colspan="4">9104,0</td>
+<td colspan="2">9104,0</td>
+<td colspan="2">9104,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">3</td>
-<td colspan="3"></td>
+<td>3</td>
 <td colspan="2"></td>
+<td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>9104,0</td>
-<td>9104,0</td>
 <td colspan="4">9104,0</td>
+<td colspan="2">9104,0</td>
+<td colspan="2">9104,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">123</td>
-<td colspan="2"></td>
+<td></td>
+<td colspan="2">123</td>
+<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>9104,0</td>
-<td>9104,0</td>
 <td colspan="4">9104,0</td>
+<td colspan="2">9104,0</td>
+<td colspan="2">9104,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">008</td>
+<td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>8754,0</td>
-<td>8754,0</td>
 <td colspan="4">8754,0</td>
+<td colspan="2">8754,0</td>
+<td colspan="2">8754,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>оның ішінде:</td>
-<td></td>
-<td></td>
 <td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Сарыкөл кенті әкімінің аппараты&quot; ММ</td>
-<td>5507,0</td>
-<td>5507,0</td>
 <td colspan="4">5507,0</td>
+<td colspan="2">5507,0</td>
+<td colspan="2">5507,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Барвин ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>398,0</td>
-<td>398,0</td>
 <td colspan="4">398,0</td>
+<td colspan="2">398,0</td>
+<td colspan="2">398,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Златоуст ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>281,0</td>
-<td>281,0</td>
 <td colspan="4">281,0</td>
+<td colspan="2">281,0</td>
+<td colspan="2">281,0</td>
+</tr>
+<tr>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Веселоподол ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>215,0</td>
-<td>215,0</td>
 <td colspan="4">215,0</td>
+<td colspan="2">215,0</td>
+<td colspan="2">215,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Комсомол ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>300,0</td>
-<td>300,0</td>
 <td colspan="4">300,0</td>
+<td colspan="2">300,0</td>
+<td colspan="2">300,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Краснознамен ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>171,0</td>
-<td>171,0</td>
 <td colspan="4">171,0</td>
+<td colspan="2">171,0</td>
+<td colspan="2">171,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Ленинград ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>130,0</td>
-<td>130,0</td>
 <td colspan="4">130,0</td>
+<td colspan="2">130,0</td>
+<td colspan="2">130,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Лесной ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>136,0</td>
-<td>136,0</td>
 <td colspan="4">136,0</td>
+<td colspan="2">136,0</td>
+<td colspan="2">136,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Маяк ауыл әкімінің аппараты&quot; ММ</td>
-<td>270,0</td>
-<td>270,0</td>
 <td colspan="4">270,0</td>
+<td colspan="2">270,0</td>
+<td colspan="2">270,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Севастополь ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>243,0</td>
-<td>243,0</td>
 <td colspan="4">243,0</td>
+<td colspan="2">243,0</td>
+<td colspan="2">243,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Тағыл ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>379,0</td>
-<td>379,0</td>
 <td colspan="4">379,0</td>
+<td colspan="2">379,0</td>
+<td colspan="2">379,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td>&quot;Сарыкөл ауданы Тимирязев ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="5">310,0</td>
+<td colspan="2">310,0</td>
 <td>310,0</td>
-<td>310,0</td>
-<td colspan="4">310,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Сорочин ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>279,0</td>
-<td>279,0</td>
+<td></td>
+<td colspan="2">&quot;Сарыкөл ауданы Сорочин ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">279,0</td>
 <td colspan="4">279,0</td>
+<td colspan="2">279,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Чехов ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>135,0</td>
-<td>135,0</td>
+<td></td>
+<td colspan="2">&quot;Сарыкөл ауданы Чехов ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">135,0</td>
 <td colspan="4">135,0</td>
+<td colspan="2">135,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">010</td>
-<td>Жерлеу орындарын ұстау және туыстары жоқ адамдарды жерлеу</td>
-<td>350,0</td>
-<td>350,0</td>
+<td>010</td>
+<td colspan="2">Жерлеу орындарын ұстау және туыстары жоқ адамдарды жерлеу</td>
+<td colspan="2">350,0</td>
 <td colspan="4">350,0</td>
+<td colspan="2">350,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>оның ішінде:</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2">оның ішінде:</td>
+<td colspan="2"></td>
 <td colspan="4"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Сарыкөл кенті әкімінің аппараты&quot; ММ</td>
-<td>350,0</td>
-<td>350,0</td>
+<td></td>
+<td colspan="2">&quot;Сарыкөл ауданы Сарыкөл кенті әкімінің аппараты&quot; ММ</td>
+<td colspan="2">350,0</td>
 <td colspan="4">350,0</td>
+<td colspan="2">350,0</td>
 </tr>
 <tr>
 <td>12</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>Көлiк және коммуникация</td>
-<td>10770,0</td>
-<td>10170,0</td>
+<td></td>
+<td colspan="2">Көлiк және коммуникация</td>
+<td colspan="2">9927,2</td>
 <td colspan="4">10170,0</td>
+<td colspan="2">10170,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="3"></td>
+<td>1</td>
 <td colspan="2"></td>
-<td>Автомобиль көлiгi</td>
-<td>10770,0</td>
-<td>10170,0</td>
+<td></td>
+<td colspan="2">Автомобиль көлiгi</td>
+<td colspan="2">9927,2</td>
 <td colspan="4">10170,0</td>
+<td colspan="2">10170,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">123</td>
-<td colspan="2"></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>10770,0</td>
-<td>10170,0</td>
+<td></td>
+<td colspan="2">123</td>
+<td></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td colspan="2">9927,2</td>
 <td colspan="4">10170,0</td>
+<td colspan="2">10170,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">013</td>
-<td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>10770,0</td>
-<td>10170,0</td>
+<td>013</td>
+<td colspan="2">Аудандық маңызы бар қалаларда, кенттерде, ауылдарда , ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td colspan="2">9927,2</td>
 <td colspan="4">10170,0</td>
+<td colspan="2">10170,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>оның ішінде:</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2">оның ішінде:</td>
+<td colspan="2"></td>
 <td colspan="4"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Сарыкөл кенті әкімінің аппараты&quot; ММ</td>
-<td>3500,0</td>
-<td>3500,0</td>
+<td></td>
+<td colspan="2">&quot;Сарыкөл ауданы Сарыкөл кенті әкімінің аппараты&quot; ММ</td>
+<td colspan="2">2657,2</td>
 <td colspan="4">3500,0</td>
+<td colspan="2">3500,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Златоуст ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>750,0</td>
-<td>750,0</td>
+<td></td>
+<td colspan="2">&quot;Сарыкөл ауданы Златоуст ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">750,0</td>
 <td colspan="4">750,0</td>
+<td colspan="2">750,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Веселоподол ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>700,0</td>
-<td>700,0</td>
+<td></td>
+<td colspan="2">&quot;Сарыкөл ауданы Веселоподол ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">700,0</td>
 <td colspan="4">700,0</td>
+<td colspan="2">700,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Комсомол ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>900,0</td>
-<td>900,0</td>
+<td></td>
+<td colspan="2">&quot;Сарыкөл ауданы Комсомол ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">900,0</td>
 <td colspan="4">900,0</td>
+<td colspan="2">900,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Ленинград ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>600,0</td>
-<td>0,0</td>
+<td></td>
+<td colspan="2">&quot;Сарыкөл ауданы Ленинград ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">600,0</td>
 <td colspan="4">0,0</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Лесной ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>300,0</td>
-<td>300,0</td>
+<td></td>
+<td colspan="2">&quot;Сарыкөл ауданы Лесной ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">300,0</td>
 <td colspan="4">300,0</td>
+<td colspan="2">300,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Маяк ауыл әкімінің аппараты&quot; ММ</td>
-<td>500,0</td>
-<td>500,0</td>
+<td></td>
+<td colspan="2">&quot;Сарыкөл ауданы Маяк ауыл әкімінің аппараты&quot; ММ</td>
+<td colspan="2">500,0</td>
 <td colspan="4">500,0</td>
+<td colspan="2">500,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Севастополь ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>725,0</td>
-<td>570,0</td>
+<td></td>
+<td colspan="2">&quot;Сарыкөл ауданы Севастополь ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">725,0</td>
 <td colspan="4">570,0</td>
+<td colspan="2">570,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Тағыл ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>1045,0</td>
-<td>1200,0</td>
+<td></td>
+<td colspan="2">&quot;Сарыкөл ауданы Тағыл ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">1045,0</td>
 <td colspan="4">1200,0</td>
+<td colspan="2">1200,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Тимирязев ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>800,0</td>
-<td>800,0</td>
+<td></td>
+<td colspan="2">&quot;Сарыкөл ауданы Тимирязев ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">800,0</td>
 <td colspan="4">800,0</td>
+<td colspan="2">800,0</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>&quot;Сарыкөл ауданы Чехов ауылдық округі әкімінің аппараты&quot; ММ</td>
-<td>950,0</td>
-<td>950,0</td>
+<td></td>
+<td colspan="2">&quot;Сарыкөл ауданы Чехов ауылдық округі әкімінің аппараты&quot; ММ</td>
+<td colspan="2">950,0</td>
 <td colspan="4">950,0</td>
+<td colspan="2">950,0</td>
 </tr>
 </table>
 
