@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/116777/rus/02.02.2018
+source: https://zan.gov.kz/client/#!/doc/116777/rus/12.03.2018
 ---
 
 > *Приложение 3*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/116777/rus/02.02.2018
 
 ## Областной бюджет Костанайской области на 2020 год
 
-> *Сноска. Приложение 3 - в редакции решения маслихата Костанайской области от 02.02.2018 № 226 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 3 - в редакции решения маслихата Костанайской области от 12.03.2018 № 252 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -18,17 +18,14 @@ source: https://zan.gov.kz/client/#!/doc/116777/rus/02.02.2018
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
@@ -39,7 +36,7 @@ source: https://zan.gov.kz/client/#!/doc/116777/rus/02.02.2018
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>140 566 413,0</td>
+<td>140 119 813,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -47,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/116777/rus/02.02.2018
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>12 332 164,0</td>
+<td>11 885 564,0</td>
 </tr>
 <tr>
 <td></td>
@@ -55,7 +52,7 @@ source: https://zan.gov.kz/client/#!/doc/116777/rus/02.02.2018
 <td></td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>12 332 164,0</td>
+<td>11 885 564,0</td>
 </tr>
 <tr>
 <td></td>
@@ -63,7 +60,7 @@ source: https://zan.gov.kz/client/#!/doc/116777/rus/02.02.2018
 <td>3</td>
 <td></td>
 <td>Поступления за использование природных и других ресурсов</td>
-<td>12 330 626,0</td>
+<td>11 884 026,0</td>
 </tr>
 <tr>
 <td></td>
@@ -246,24 +243,18 @@ source: https://zan.gov.kz/client/#!/doc/116777/rus/02.02.2018
 <td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
@@ -273,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/116777/rus/02.02.2018
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>140 428 403,0</td>
+<td>139 981 803,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2161,7 +2152,7 @@ source: https://zan.gov.kz/client/#!/doc/116777/rus/02.02.2018
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>4 679 982,0</td>
+<td>4 233 382,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2209,7 +2200,7 @@ source: https://zan.gov.kz/client/#!/doc/116777/rus/02.02.2018
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>2 503 071,0</td>
+<td>2 056 471,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2217,7 +2208,7 @@ source: https://zan.gov.kz/client/#!/doc/116777/rus/02.02.2018
 <td>253</td>
 <td></td>
 <td>Управление здравоохранения области</td>
-<td>452 481,0</td>
+<td>5 881,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2225,7 +2216,7 @@ source: https://zan.gov.kz/client/#!/doc/116777/rus/02.02.2018
 <td></td>
 <td>096</td>
 <td>Выполнение государственных обязательств по проектам государственно-частного партнерства</td>
-<td>452 481,0</td>
+<td>5 881,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2432,17 +2423,14 @@ source: https://zan.gov.kz/client/#!/doc/116777/rus/02.02.2018
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
 <td colspan="2">Специфика</td>
 </tr>
