@@ -1,40 +1,32 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
+source: https://zan.gov.kz/client/#!/doc/117676/rus/28.03.2018
 ---
-
-> *Приложение 1*  
-> *к решению маслихата*  
-> *от 15 декабря 2017 года*  
-> *№ 155*
 
 ## Районный бюджет Аулиекольского района на 2018 год
 
-> *Сноска. Приложение 1 - в редакции решения маслихата Аулиекольского района Костанайской области от 14.02.2018 № 171 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 1 - в редакции решения маслихата Аулиекольского района Костанайской области от 28.03.2018 № 191 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="5">Категория</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td rowspan="3"></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
@@ -42,15 +34,15 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>4590923,0</td>
+<td>4612011,0</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -58,7 +50,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>832990,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -66,7 +58,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>373919,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -74,7 +66,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>373919,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -82,7 +74,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>281037,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -90,7 +82,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>281037,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -98,7 +90,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>118296,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -106,7 +98,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>106983,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>3</td>
 <td></td>
@@ -114,7 +106,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>1187,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>4</td>
 <td></td>
@@ -122,7 +114,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>6941,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>5</td>
 <td></td>
@@ -130,7 +122,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>3185,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>05</td>
 <td></td>
 <td></td>
@@ -138,7 +130,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>52032,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -146,7 +138,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>5569,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>3</td>
 <td></td>
@@ -154,7 +146,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>28069,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>4</td>
 <td></td>
@@ -162,7 +154,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>18394,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>08</td>
 <td></td>
 <td></td>
@@ -170,7 +162,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>7706,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -178,7 +170,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>7706,0</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -186,7 +178,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>26634,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -194,7 +186,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>1959,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>5</td>
 <td></td>
@@ -202,15 +194,15 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>1959,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
-<td>Поступления от реализации товаров (работ , услуг) государственными учреждениями, финансируемыми из государственного бюджета</td>
+<td>Поступления от реализации товаров (работ, услуг) государственными учреждениями, финансируемыми из государственного бюджета</td>
 <td>9220,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -218,7 +210,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>9220,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -226,7 +218,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>832,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -234,7 +226,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>832,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>06</td>
 <td></td>
 <td></td>
@@ -242,7 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>14623,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -250,7 +242,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>14623,0</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -258,7 +250,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>4200,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -266,7 +258,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>4200,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -274,7 +266,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>3000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -282,35 +274,41 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>1200,0</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
+<td>4</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>3727099,0</td>
+<td>3748187,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>3727099,0</td>
+<td>3748187,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td></td>
 <td>Трансферты из областного бюджета</td>
-<td>3727099,0</td>
+<td>3748187,0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="5">
+
+Сумма, тысяч тенге
+</td>
 </tr>
 <tr>
-<td colspan="6">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="4"></td>
+<td rowspan="4"></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
@@ -326,7 +324,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
@@ -334,15 +332,15 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>4651839,1</td>
+<td>4672927,1</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -350,7 +348,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>447734,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -358,7 +356,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>224354,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>112</td>
 <td></td>
@@ -366,7 +364,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>17586,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -374,7 +372,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>17586,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -382,7 +380,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>92033,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -390,7 +388,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>92033,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -398,7 +396,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>114735,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -406,7 +404,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>114735,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -414,7 +412,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>24945,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -422,7 +420,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>24945,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -430,7 +428,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>19584,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -438,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>5361,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -446,7 +444,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>17299,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>453</td>
 <td></td>
@@ -454,7 +452,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>17299,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -462,7 +460,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>17299,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -470,7 +468,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>181136,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -478,7 +476,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>181136,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -486,7 +484,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>12728,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -494,7 +492,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>168408,0</td>
 </tr>
 <tr>
-<td colspan="2">02</td>
+<td>02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -502,7 +500,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>11324,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -510,7 +508,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>10824,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -518,7 +516,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>10824,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -526,7 +524,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>10824,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -534,7 +532,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -542,7 +540,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -550,15 +548,15 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>500,0</td>
 </tr>
 <tr>
-<td colspan="2">04</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>2824381,0</td>
+<td>2859332,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -566,7 +564,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>259853,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -574,7 +572,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>259853,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -582,7 +580,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>191269,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>040</td>
@@ -590,31 +588,31 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>68584,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>2494959,0</td>
+<td>2506095,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>464</td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>2430740,0</td>
+<td>2441876,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
 <td>Общеобразовательное обучение</td>
-<td>2341208,0</td>
+<td>2352344,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -622,7 +620,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>89532,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>465</td>
 <td></td>
@@ -630,7 +628,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>48093,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -638,7 +636,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>48093,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>467</td>
 <td></td>
@@ -646,7 +644,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>16126,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>024</td>
@@ -654,23 +652,23 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>16126,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>69569,0</td>
+<td>93384,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>464</td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>69569,0</td>
+<td>93384,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -678,15 +676,15 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>17096,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
 <td>Приобретение и доставка учебников, учебно-методических комплексов для государственных учреждений образования района (города областного значения)</td>
-<td>29364,0</td>
+<td>53179,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -694,7 +692,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>22511,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>067</td>
@@ -702,15 +700,15 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>598,0</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>332331,0</td>
+<td>317468,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -718,7 +716,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>80881,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -726,7 +724,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>77375,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -734,7 +732,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>77375,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -742,7 +740,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>3506,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>030</td>
@@ -750,31 +748,31 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>3506,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Социальная помощь</td>
-<td>212564,0</td>
+<td>197629,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>451</td>
 <td></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>212564,0</td>
+<td>197629,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
 <td>Программа занятости</td>
-<td>115494,0</td>
+<td>100559,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -782,7 +780,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>7000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -790,7 +788,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>21100,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -798,7 +796,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>1700,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -806,7 +804,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>32318,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -814,7 +812,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>9843,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>023</td>
@@ -822,23 +820,23 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>25109,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Прочие услуги в области социальной помощи и социального обеспечения</td>
-<td>38886,0</td>
+<td>38958,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>451</td>
 <td></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>38886,0</td>
+<td>38958,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -846,7 +844,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>28896,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -854,47 +852,47 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>637,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>050</td>
 <td>Реализация Плана мероприятий по обеспечению прав и улучшению качества жизни инвалидов в Республике Казахстан на 2012 – 2018 годы</td>
-<td>9353,0</td>
+<td>9425,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>4746,0</td>
+<td>5746,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>1746,0</td>
+<td>2746,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>467</td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>1746,0</td>
+<td>2746,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>058</td>
 <td>Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td>1746,0</td>
+<td>2746,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -902,7 +900,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>3000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -910,7 +908,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>3000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -918,7 +916,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>3000,0</td>
 </tr>
 <tr>
-<td colspan="2">08</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -926,7 +924,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>209666,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -934,7 +932,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>61843,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -942,7 +940,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>61843,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -950,7 +948,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>61843,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -958,7 +956,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>42265,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>465</td>
 <td></td>
@@ -966,7 +964,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>42265,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -974,7 +972,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>9750,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -982,7 +980,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>22141,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -990,7 +988,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>1059,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -998,7 +996,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>9315,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1006,7 +1004,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>79299,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1014,7 +1012,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>73399,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1022,7 +1020,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>64371,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1030,7 +1028,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>9028,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>456</td>
 <td></td>
@@ -1038,7 +1036,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>5900,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1046,7 +1044,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>5900,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1054,7 +1052,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>26259,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1062,7 +1060,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>10729,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1070,7 +1068,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>10729,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>456</td>
 <td></td>
@@ -1078,7 +1076,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>15530,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1086,7 +1084,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>9037,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1094,7 +1092,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>6493,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1102,7 +1100,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td></td>
 </tr>
 <tr>
-<td colspan="2">09</td>
+<td>09</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1110,7 +1108,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>8842,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1118,7 +1116,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>8842,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1126,7 +1124,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>8842,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>019</td>
@@ -1134,7 +1132,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>8842,9</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1142,7 +1140,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>138330,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1150,7 +1148,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>98950,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>462</td>
 <td></td>
@@ -1158,7 +1156,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>17472,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1166,7 +1164,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>17472,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>473</td>
 <td></td>
@@ -1174,7 +1172,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>81478,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1182,7 +1180,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>13882,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1190,7 +1188,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>2632,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1198,7 +1196,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>1000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -1206,7 +1204,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>7025,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -1214,7 +1212,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>56731,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>047</td>
@@ -1222,7 +1220,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>208,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -1230,7 +1228,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>20522,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>463</td>
 <td></td>
@@ -1238,7 +1236,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>20522,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1246,7 +1244,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>10562,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1254,7 +1252,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>9960,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1262,7 +1260,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>18858,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>453</td>
 <td></td>
@@ -1270,7 +1268,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>18858,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>099</td>
@@ -1278,7 +1276,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>18858,0</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
+<td>11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1286,7 +1284,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>18363,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1294,7 +1292,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>18363,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>467</td>
 <td></td>
@@ -1302,7 +1300,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>9867,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1310,7 +1308,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>9867,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>468</td>
 <td></td>
@@ -1318,7 +1316,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>8496,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1326,7 +1324,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>8496,0</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1334,7 +1332,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>405434,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1342,7 +1340,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>405434,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1350,7 +1348,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>405434,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>023</td>
@@ -1358,7 +1356,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>152500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -1366,7 +1364,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>252934,0</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1374,7 +1372,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>8949,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1382,7 +1380,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>8949,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>469</td>
 <td></td>
@@ -1390,7 +1388,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>8949,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1398,7 +1396,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>8799,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1406,7 +1404,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>150,0</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
+<td>15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1414,7 +1412,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>241738,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1422,7 +1420,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>241738,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -1430,7 +1428,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>241738,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1438,7 +1436,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>14,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>024</td>
@@ -1446,7 +1444,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>182325,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>038</td>
@@ -1454,7 +1452,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>46479,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>051</td>
@@ -1462,7 +1460,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>12920,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1470,7 +1468,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>208154,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1478,7 +1476,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>234488,0</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1486,7 +1484,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>234488,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1494,7 +1492,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>234488,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>453</td>
 <td></td>
@@ -1502,7 +1500,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>234488,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1510,7 +1508,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>234488,0</td>
 </tr>
 <tr>
-<td colspan="2">5</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1518,7 +1516,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>26334,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -1526,7 +1524,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>26334,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -1534,7 +1532,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>26334,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1542,7 +1540,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1550,7 +1548,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>-269070,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1566,7 +1564,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 
 ## Районный бюджет Аулиекольского района на 2019 год
 
-> *Сноска. Приложение 2 - в редакции решения маслихата Аулиекольского района Костанайской области от 14.02.2018 № 171 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 2 - в редакции решения маслихата Аулиекольского района Костанайской области от 28.03.2018 № 191 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -1858,6 +1856,9 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td>Трансферты из областного бюджета</td>
 <td>6406696,0</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td colspan="5">Функциональная группа</td>
 <td rowspan="5">Сумма, тысяч тенге</td>
@@ -1939,7 +1940,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td></td>
 <td></td>
 <td>001</td>
-<td>Услуги по обеспечению деятельности акима района ( города областного значения)</td>
+<td>Услуги по обеспечению деятельности акима района (города областного значения)</td>
 <td>93566,0</td>
 </tr>
 <tr>
@@ -2710,10 +2711,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 <td></td>
 <td></td>
 <td>047</td>
-<td>
-Возмещение владельцам стоимости обезвреженных (обеззараженных) и переработанных без изъятия животных, продукции и сырья животного
-происхождения, представляющих опасность для здоровья животных и человека
-</td>
+<td>Возмещение владельцам стоимости обезвреженных (обеззараженных) и переработанных без изъятия животных, продукции и сырья животного происхождения, представляющих опасность для здоровья животных и человека</td>
 <td>220,0</td>
 </tr>
 <tr>
@@ -2994,7 +2992,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 > *к решению маслихата*  
 > *от 15 декабря 2017 года № 155*
 
-## Районный бюджет Аулиекольского района на 2020 год
+### Районный бюджет Аулиекольского района на 2020 год
 
 <table>
 <tr>
@@ -4415,7 +4413,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 > *к решению маслихата*  
 > *от 15 декабря 2017 года № 155*
 
-## Перечень бюджетных программ, не подлежащих секвестру в процессе исполнения районного бюджета на 2018 год
+### Перечень бюджетных программ, не подлежащих секвестру в процессе исполнения районного бюджета на 2018 год
 
 <table>
 <tr>
@@ -4484,7 +4482,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 > *к решению маслихата*  
 > *от 15 декабря 2017 года № 155*
 
-## Перечень бюджетных программ сел, сельских округов на 2018 год
+### Перечень бюджетных программ сел, сельских округов на 2018 год
 
 <table>
 <tr>
@@ -4647,7 +4645,7 @@ source: https://zan.gov.kz/client/#!/doc/117676/rus/14.02.2018
 > *к решению маслихата*  
 > *от 15 декабря 2017 года № 155*
 
-## Распределение трансфертов органам местного самоуправления между селами, сельскими округами на 2018 год
+### Распределение трансфертов органам местного самоуправления между селами, сельскими округами на 2018 год
 
 <table>
 <tr>
