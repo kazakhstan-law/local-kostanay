@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
+source: https://zan.gov.kz/client/#!/doc/117767/kaz/04.12.2018
 ---
 
 > *Мәслихаттың*  
@@ -10,12 +10,12 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 
 ## Лисаков қаласының 2018 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қостанай облысы Лисаков қаласы мәслихатының 09.11.2018 № 284 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қостанай облысы Лисаков қаласы мәслихатының 04.12.2018 № 291 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
 <td colspan="8">Санаты</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -31,62 +31,63 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">I. Кірістер</td>
-<td>5 068 471,0</td>
+<td>5 149 675,0</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Салықтық түсімдер</td>
-<td>2 183 698,0</td>
+<td>2 179 429,0</td>
 </tr>
 <tr>
 <td>1</td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="4">Табыс салығы</td>
-<td>948 646,0</td>
+<td>945 152,0</td>
 </tr>
 <tr>
 <td>1</td>
 <td>01</td>
 <td colspan="2">2</td>
 <td colspan="4">Жеке табыс салығы</td>
-<td>948 646,0</td>
+<td>945 152,0</td>
 </tr>
 <tr>
 <td>1</td>
 <td>03</td>
 <td colspan="2"></td>
 <td colspan="4">Әлеуметтiк салық</td>
-<td>694 639,0</td>
+<td>695 950,0</td>
 </tr>
 <tr>
 <td>1</td>
 <td>03</td>
 <td colspan="2">1</td>
 <td colspan="4">Әлеуметтiк салық</td>
-<td>694 639,0</td>
+<td>695 950,0</td>
 </tr>
 <tr>
 <td>1</td>
 <td>04</td>
 <td colspan="2"></td>
 <td colspan="4">Меншiкке салынатын салықтар</td>
-<td>252 006,0</td>
+<td>249 221,0</td>
 </tr>
 <tr>
 <td>1</td>
 <td>04</td>
 <td colspan="2">1</td>
 <td colspan="4">Мүлiкке салынатын салықтар</td>
-<td>157 919,0</td>
+<td>158 317,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -100,7 +101,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td>04</td>
 <td colspan="2">4</td>
 <td colspan="4">Көлiк құралдарына салынатын салық</td>
-<td>85 364,0</td>
+<td>82 181,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -114,7 +115,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td>05</td>
 <td colspan="2"></td>
 <td colspan="4">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
-<td>279 746,0</td>
+<td>280 263,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -135,7 +136,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td>05</td>
 <td colspan="2">4</td>
 <td colspan="4">Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
-<td>19 457,0</td>
+<td>19 956,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -149,14 +150,14 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td>08</td>
 <td colspan="2"></td>
 <td colspan="4">Заңдық маңызы бар әрекеттерді жасағаны және (немесе) оған уәкілеттігі бар мемлекеттік органдар немесе лауазымды адамдар құжаттар бергені үшін алынатын міндетті төлемдер</td>
-<td>8 643,0</td>
+<td>8 843,0</td>
 </tr>
 <tr>
 <td>1</td>
 <td>08</td>
 <td colspan="2">1</td>
 <td colspan="4">Мемлекеттік баж</td>
-<td>8 643,0</td>
+<td>8 843,0</td>
 </tr>
 <tr>
 <td>2</td>
@@ -261,21 +262,21 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td>2 834 991,0</td>
+<td>2 920 464,0</td>
 </tr>
 <tr>
 <td>4</td>
 <td>02</td>
 <td colspan="2"></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>2 834 991,0</td>
+<td>2 920 464,0</td>
 </tr>
 <tr>
 <td>4</td>
 <td>02</td>
 <td colspan="2">2</td>
 <td colspan="4">Облыстық бюджеттен түсетiн трансферттер</td>
-<td>2 834 991,0</td>
+<td>2 920 464,0</td>
 </tr>
 </table>
 
@@ -311,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td></td>
 <td>II. Шығыстар</td>
-<td>5 186 822,6</td>
+<td>5 272 295,6</td>
 </tr>
 <tr>
 <td>01</td>
@@ -607,7 +608,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td></td>
 <td>Қоғамдық тәртіп, қауіпсіздік, құқықтық, сот, қылмыстық-атқару қызметі</td>
-<td>7 701,2</td>
+<td>6 501,2</td>
 </tr>
 <tr>
 <td></td>
@@ -615,7 +616,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td></td>
 <td>Қоғамдық тәртіп және қауіпсіздік саласындағы басқа да қызметтер</td>
-<td>7 701,2</td>
+<td>6 501,2</td>
 </tr>
 <tr>
 <td></td>
@@ -623,7 +624,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>7 701,2</td>
+<td>6 501,2</td>
 </tr>
 <tr>
 <td></td>
@@ -631,7 +632,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td>021</td>
 <td>Елдi мекендерде жол қозғалысы қауiпсiздiгін қамтамасыз ету</td>
-<td>7 701,2</td>
+<td>6 501,2</td>
 </tr>
 <tr>
 <td>04</td>
@@ -639,7 +640,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>1 771 298,1</td>
+<td>1 744 981,1</td>
 </tr>
 <tr>
 <td></td>
@@ -671,7 +672,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>1 141 748,2</td>
+<td>1 115 431,2</td>
 </tr>
 <tr>
 <td></td>
@@ -679,7 +680,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>1 141 748,2</td>
+<td>1 115 431,2</td>
 </tr>
 <tr>
 <td></td>
@@ -687,7 +688,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td>003</td>
 <td>Жалпы білім беру</td>
-<td>985 593,2</td>
+<td>959 276,2</td>
 </tr>
 <tr>
 <td></td>
@@ -799,7 +800,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>275 702,5</td>
+<td>275 565,5</td>
 </tr>
 <tr>
 <td></td>
@@ -855,7 +856,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>203 489,3</td>
+<td>203 352,3</td>
 </tr>
 <tr>
 <td></td>
@@ -863,7 +864,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td>451</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>203 489,3</td>
+<td>203 352,3</td>
 </tr>
 <tr>
 <td></td>
@@ -871,7 +872,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td>002</td>
 <td>Жұмыспен қамту бағдарламасы</td>
-<td>83 595,6</td>
+<td>83 458,6</td>
 </tr>
 <tr>
 <td></td>
@@ -991,7 +992,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1 281 924,1</td>
+<td>1 377 051,1</td>
 </tr>
 <tr>
 <td></td>
@@ -1071,7 +1072,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>1 072 158,9</td>
+<td>1 184 085,9</td>
 </tr>
 <tr>
 <td></td>
@@ -1111,7 +1112,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>726 580,4</td>
+<td>838 507,4</td>
 </tr>
 <tr>
 <td></td>
@@ -1127,7 +1128,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td>006</td>
 <td>Сумен жабдықтау және су бұру жүйесін дамыту</td>
-<td>628 162,5</td>
+<td>740 089,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1135,7 +1136,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>108 024,6</td>
+<td>91 224,6</td>
 </tr>
 <tr>
 <td></td>
@@ -1159,7 +1160,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>107 385,3</td>
+<td>90 585,3</td>
 </tr>
 <tr>
 <td></td>
@@ -1191,7 +1192,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td>018</td>
 <td>Елдi мекендердi абаттандыру және көгалдандыру</td>
-<td>34 541,0</td>
+<td>17 741,0</td>
 </tr>
 <tr>
 <td>08</td>
@@ -1199,7 +1200,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>741 439,2</td>
+<td>759 439,2</td>
 </tr>
 <tr>
 <td></td>
@@ -1231,7 +1232,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td></td>
 <td>Спорт</td>
-<td>402 899,1</td>
+<td>420 899,1</td>
 </tr>
 <tr>
 <td></td>
@@ -1287,7 +1288,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>331 342,0</td>
+<td>349 342,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1295,7 +1296,7 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td></td>
 <td>008</td>
 <td>Cпорт объектілерін дамыту</td>
-<td>331 342,0</td>
+<td>349 342,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1873,20 +1874,26 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td>III. Таза бюджеттік кредиттеу</td>
 <td>- 31 760,6</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td colspan="4">Санаты</td>
 <td rowspan="4">Атауы</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2">Кіші сыныбы</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td></td>
 <td>Ерекшелігі</td>
 </tr>
@@ -1937,6 +1944,16 @@ source: https://zan.gov.kz/client/#!/doc/117767/kaz/09.11.2018
 <td>21</td>
 <td>Мамандандырылған ұйымдарды қоспағанда, жергілікті бюджеттен заңды тұлғаларға берілген бюджеттік кредиттерді өтеу</td>
 <td>6 653,6</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td>IV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td>- 4 269,0</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td>Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
+<td>4 269,0</td>
 </tr>
 <tr>
 <td></td>
