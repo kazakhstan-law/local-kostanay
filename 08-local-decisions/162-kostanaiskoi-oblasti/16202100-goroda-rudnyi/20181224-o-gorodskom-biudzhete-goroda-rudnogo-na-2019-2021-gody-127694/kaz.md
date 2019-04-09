@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/127694/kaz/08.02.2019
+source: https://zan.gov.kz/client/#!/doc/127694/kaz/09.04.2019
 ---
 
 # Рудный қаласының 2019-2021 жылдарға арналған қалалық бюджеті туралы
