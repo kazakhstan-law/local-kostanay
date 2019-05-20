@@ -1,5 +1,5 @@
 ---
-version_id: '127686_406938'
+version_id: '127686_407082'
 act_code: '127686'
 language: kaz
 title: Қарабалық ауданы Қостанай ауылдық округінің 2019-2021 жылдарға арналған бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '162010000002'
 approval_date: 2018-12-28
-version_date: 2019-04-02
+version_date: 2019-05-20
 registry_number: '127686'
 caused_by:
-  code: '130679'
+  code: '131834'
   title: Мәслихаттың 2018 жылғы 28 желтоқсандағы № 339 «Қарабалық ауданы Қостанай ауылдық округінің 2019–2021 жылдарға арналған бюджеті туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/130679/kaz
-source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
+  link: https://zan.gov.kz/client/#!/doc/131834/kaz
+source: https://zan.gov.kz/client/#!/doc/127686/kaz/20.05.2019
 ---
 
 # Қарабалық ауданы Қостанай ауылдық округінің 2019-2021 жылдарға арналған бюджеті туралы
@@ -25,23 +25,23 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 
 1. Қостанай ауылдық округінің 2019-2021 жылдарға арналған бюджеті тиісінше 1, 2 және 3-қосымшаларға сәйкес, оның ішінде 2019 жылға мынадай көлемдерде бекітілсін:
 
-   1) кірістер – 16 761,0 мың теңге, оның iшiнде:
+   1) кірістер – 18 646,0 мың теңге, оның iшiнде:
 
       салықтық түсімдер бойынша – 5 830,0 мың теңге;
 
-      трансферттер түсімі бойынша – 10 931,0 мың теңге;
+      трансферттер түсімі бойынша – 12 816,0 мың теңге;
 
-   2) шығындар – 17 271,0 мың теңге;
+   2) шығындар – 19 247,6 мың теңге;
 
    3) таза бюджеттiк кредиттеу – 0,0 мың теңге;
 
    4) қаржы активтерімен операциялар бойынша сальдо – 0,0 мың теңге;
 
-   5) бюджет тапшылығы (профициті) – -510,0 мың теңге;
+   5) бюджет тапшылығы (профициті) – -601,6 мың теңге;
 
-   6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 510,0 мың теңге.
+   6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 601,6 мың теңге.
 
-> *Ескерту. 1-тармақ жаңа редакцияда – Қостанай облысы Қарабалық ауданы мәслихатының 02.04.2019 № 368 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-тармақ жаңа редакцияда – Қостанай облысы Қарабалық ауданы мәслихатының 20.05.2019 № 394 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
 
 2. 2019 жылға арналған Қостанай ауылдық округінің бюджетіне аудандық бюджеттен берілетін субвенциялардың көлемі 10 931,0 мың теңге көзделгені ескерілсін.
 
@@ -54,12 +54,12 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 
 ## Қостанай ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда – Қостанай облысы Қарабалық ауданы мәслихатының 02.04.2019 № 368 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда – Қостанай облысы Қарабалық ауданы мәслихатының 20.05.2019 № 394 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
 <td colspan="14">Санаты</td>
-<td colspan="3" rowspan="4">Сома, мың теңге</td>
+<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -83,7 +83,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">1. Кірістер</td>
-<td colspan="2">16761,0</td>
+<td colspan="2">18646,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -147,7 +147,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td colspan="2">10931,0</td>
+<td colspan="2">12816,0</td>
 </tr>
 <tr>
 <td></td>
@@ -155,7 +155,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">10931,0</td>
+<td colspan="2">12816,0</td>
 </tr>
 <tr>
 <td></td>
@@ -163,11 +163,11 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3">2</td>
 <td colspan="3"></td>
 <td colspan="4">Облыстық бюджеттен түсетін трансферттер</td>
-<td colspan="2">10931,0</td>
+<td colspan="2">12816,0</td>
 </tr>
 <tr>
 <td colspan="14">Функционалдық топ</td>
-<td colspan="2" rowspan="4">Сома, мың теңге</td>
+<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -176,13 +176,13 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="11">Бюджеттік бағдарлама әкімшісі</td>
+<td colspan="11">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3"></td>
-<td colspan="5">Бағдарлама</td>
+<td colspan="8">Бағдарлама</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -190,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">II. Шығындар</td>
-<td colspan="2">17271,0</td>
+<td colspan="2">19247,6</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -198,7 +198,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">14765,0</td>
+<td colspan="2">16441,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -206,7 +206,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">14765,0</td>
+<td colspan="2">16441,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -214,7 +214,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">14765,0</td>
+<td colspan="2">16441,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -222,7 +222,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">14765,0</td>
+<td colspan="2">16441,6</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -230,7 +230,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">2006,0</td>
+<td colspan="2">2306,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -238,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Елді-мекендерді көркейту</td>
-<td colspan="2">2006,0</td>
+<td colspan="2">2306,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -246,7 +246,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">2006,0</td>
+<td colspan="2">2306,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -278,7 +278,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3"></td>
 <td colspan="3">011</td>
 <td colspan="5">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">263,0</td>
+<td colspan="2">563,0</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -350,7 +350,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">V. Бюджет тапшылығы (профициті)</td>
-<td colspan="2">-510,0</td>
+<td colspan="2">-601,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -358,14 +358,14 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td colspan="2">510,0</td>
+<td colspan="2">601,6</td>
 </tr>
 <tr>
 <td colspan="3">Санаты</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5" rowspan="3">Атауы</td>
-<td colspan="2" rowspan="3">Сома, мың теңге</td>
+<td colspan="2" rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -415,7 +415,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td colspan="2">510,0</td>
+<td colspan="2">601,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -423,7 +423,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Бюджет қаражаты қалдықтары</td>
-<td colspan="2">510,0</td>
+<td colspan="2">601,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -431,7 +431,7 @@ source: https://zan.gov.kz/client/#!/doc/127686/kaz/02.04.2019
 <td colspan="3">1</td>
 <td colspan="3"></td>
 <td colspan="5">Бюджет қаражатының бос қалдықтары</td>
-<td colspan="2">510,0</td>
+<td colspan="2">601,6</td>
 </tr>
 </table>
 
