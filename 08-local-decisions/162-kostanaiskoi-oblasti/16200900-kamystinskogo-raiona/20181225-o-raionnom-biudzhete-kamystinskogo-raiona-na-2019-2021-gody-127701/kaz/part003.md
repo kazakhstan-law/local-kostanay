@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127701/kaz/28.06.2019
+source: https://zan.gov.kz/client/#!/doc/127701/kaz/15.08.2019
 ---
 
 > *Мәслихаттың*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/127701/kaz/28.06.2019
 > *3-қосымша*
 
 ## Қамысты ауданының 2021 жылға арналған аудандық бюджеті
+
+> *Ескерту. 3-қосымша жаңа редакцияда - Қостанай облысы Қамысты ауданы мәслихатының 15.08.2019 № 268 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -35,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/127701/kaz/28.06.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">І. Кірістер</td>
-<td>2325590,0</td>
+<td>2335590,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -203,21 +205,21 @@ source: https://zan.gov.kz/client/#!/doc/127701/kaz/28.06.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>1512853,0</td>
+<td>1522853,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>1512853,0</td>
+<td>1522853,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Облыстық бюджеттен түсетін трансферттер</td>
-<td>1512853,0</td>
+<td>1522853,0</td>
 </tr>
 <tr>
 <td colspan="8">Функционалдық топ</td>
@@ -251,7 +253,7 @@ source: https://zan.gov.kz/client/#!/doc/127701/kaz/28.06.2019
 <td></td>
 <td></td>
 <td colspan="2">ІІ. Шығындар</td>
-<td>2325590,0</td>
+<td>2335590,0</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -771,7 +773,7 @@ source: https://zan.gov.kz/client/#!/doc/127701/kaz/28.06.2019
 <td></td>
 <td></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>114244,0</td>
+<td>124244,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -803,7 +805,7 @@ source: https://zan.gov.kz/client/#!/doc/127701/kaz/28.06.2019
 <td></td>
 <td></td>
 <td colspan="2">Коммуналдық шаруашылық</td>
-<td>259,0</td>
+<td>10259,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -823,10 +825,26 @@ source: https://zan.gov.kz/client/#!/doc/127701/kaz/28.06.2019
 </tr>
 <tr>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td>466</td>
+<td></td>
+<td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
+<td>10000,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td>058</td>
+<td colspan="2">Елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамыту</td>
+<td>10000,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td colspan="2">3</td>
 <td></td>
 <td></td>
-<td colspan="2">Елді-мекендерді көркейту</td>
+<td colspan="2">Елді - мекендерді көркейту</td>
 <td>108361,0</td>
 </tr>
 <tr>
@@ -1355,7 +1373,7 @@ source: https://zan.gov.kz/client/#!/doc/127701/kaz/28.06.2019
 <td></td>
 <td></td>
 <td colspan="2">ІІІ. Таза бюджеттік кредиттеу</td>
-<td>12532,0</td>
+<td>-12532,0</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -1363,7 +1381,7 @@ source: https://zan.gov.kz/client/#!/doc/127701/kaz/28.06.2019
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td>-12532,0</td>
+<td>12532,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1395,7 +1413,7 @@ source: https://zan.gov.kz/client/#!/doc/127701/kaz/28.06.2019
 <td></td>
 <td></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>-12532,0</td>
+<td>12532,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1403,7 +1421,7 @@ source: https://zan.gov.kz/client/#!/doc/127701/kaz/28.06.2019
 <td></td>
 <td></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>12532,0</td>
+<td>-12532,0</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
