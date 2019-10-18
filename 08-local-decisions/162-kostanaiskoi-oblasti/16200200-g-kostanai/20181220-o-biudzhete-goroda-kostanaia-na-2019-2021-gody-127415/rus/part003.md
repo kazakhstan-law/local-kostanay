@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/127415/rus/19.07.2019
+source: https://zan.gov.kz/client/#!/doc/127415/rus/18.10.2019
 ---
 
 > *Приложение 3*  
@@ -10,258 +10,255 @@ source: https://zan.gov.kz/client/#!/doc/127415/rus/19.07.2019
 
 ## Бюджет города Костаная на 2021 год
 
-> *Сноска. Приложение 3 - в редакции решения маслихата города Костаная Костанайской области от 19.07.2019 № 381 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 3 - в редакции решения маслихата города Костаная Костанайской области от 18.10.2019 № 407 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
-<td colspan="7">Категория</td>
-<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="4">Класс</td>
+<td rowspan="3"></td>
+<td colspan="3">Класс</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td rowspan="2"></td>
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td>1</td>
+<td>2</td>
 <td>3</td>
 <td>4</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>39435825,6</td>
+<td>41429873,4</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">00</td>
+<td>1</td>
+<td>00</td>
 <td>0</td>
 <td>Налоговые поступления</td>
 <td>22462177,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">01</td>
+<td>1</td>
+<td>01</td>
 <td>0</td>
 <td>Подоходный налог</td>
 <td>10619059,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">01</td>
+<td>1</td>
+<td>01</td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
 <td>10619059,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">03</td>
+<td>1</td>
+<td>03</td>
 <td>0</td>
 <td>Социальный налог</td>
 <td>7982358,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">03</td>
+<td>1</td>
+<td>03</td>
 <td>1</td>
 <td>Социальный налог</td>
 <td>7982358,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">04</td>
+<td>1</td>
+<td>04</td>
 <td>0</td>
 <td>Hалоги на собственность</td>
 <td>2745327,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">04</td>
+<td>1</td>
+<td>04</td>
 <td>1</td>
 <td>Hалоги на имущество</td>
 <td>1675125,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">04</td>
+<td>1</td>
+<td>04</td>
 <td>3</td>
 <td>Земельный налог</td>
 <td>209984,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">04</td>
+<td>1</td>
+<td>04</td>
 <td>4</td>
 <td>Hалог на транспортные средства</td>
 <td>860137,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">04</td>
+<td>1</td>
+<td>04</td>
 <td>5</td>
 <td>Единый земельный налог</td>
 <td>81,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">05</td>
+<td>1</td>
+<td>05</td>
 <td>0</td>
 <td>Внутренние налоги на товары, работы и услуги</td>
 <td>744561,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">05</td>
+<td>1</td>
+<td>05</td>
 <td>2</td>
 <td>Акцизы</td>
 <td>209180,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">05</td>
+<td>1</td>
+<td>05</td>
 <td>3</td>
 <td>Поступления за использование природных и других ресурсов</td>
 <td>53861,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">05</td>
+<td>1</td>
+<td>05</td>
 <td>4</td>
 <td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
 <td>481520,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">08</td>
+<td>1</td>
+<td>08</td>
 <td>0</td>
 <td>Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
 <td>370872,0</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">08</td>
+<td>1</td>
+<td>08</td>
 <td>1</td>
 <td>Государственная пошлина</td>
 <td>370872,0</td>
 </tr>
 <tr>
-<td colspan="3">2</td>
-<td colspan="2">00</td>
+<td>2</td>
+<td>00</td>
 <td>0</td>
 <td>Неналоговые поступления</td>
 <td>102354,0</td>
 </tr>
 <tr>
-<td colspan="3">2</td>
-<td colspan="2">01</td>
+<td>2</td>
+<td>01</td>
 <td>0</td>
 <td>Доходы от государственной собственности</td>
 <td>78540,0</td>
 </tr>
 <tr>
-<td colspan="3">2</td>
-<td colspan="2">01</td>
+<td>2</td>
+<td>01</td>
 <td>1</td>
 <td>Поступления части чистого дохода государственных предприятий</td>
 <td>687,0</td>
 </tr>
 <tr>
-<td colspan="3">2</td>
-<td colspan="2">01</td>
+<td>2</td>
+<td>01</td>
 <td>5</td>
 <td>Доходы от аренды имущества, находящегося в государственной собственности</td>
 <td>77853,0</td>
 </tr>
 <tr>
-<td colspan="3">2</td>
-<td colspan="2">06</td>
+<td>2</td>
+<td>06</td>
 <td>0</td>
 <td>Прочие неналоговые поступления</td>
 <td>23814,0</td>
 </tr>
 <tr>
-<td colspan="3">2</td>
-<td colspan="2">06</td>
+<td>2</td>
+<td>06</td>
 <td>1</td>
 <td>Прочие неналоговые поступления</td>
 <td>23814,0</td>
 </tr>
 <tr>
-<td colspan="3">3</td>
-<td colspan="2">00</td>
+<td>3</td>
+<td>00</td>
 <td>0</td>
 <td>Поступления от продажи основного капитала</td>
 <td>2220614,0</td>
 </tr>
 <tr>
-<td colspan="3">3</td>
-<td colspan="2">01</td>
+<td>3</td>
+<td>01</td>
 <td>0</td>
 <td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td>2070060,0</td>
 </tr>
 <tr>
-<td colspan="3">3</td>
-<td colspan="2">01</td>
+<td>3</td>
+<td>01</td>
 <td>1</td>
 <td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td>2070060,0</td>
 </tr>
 <tr>
-<td colspan="3">3</td>
-<td colspan="2">03</td>
+<td>3</td>
+<td>03</td>
 <td>0</td>
 <td>Продажа земли и нематериальных активов</td>
 <td>150554,0</td>
 </tr>
 <tr>
-<td colspan="3">3</td>
-<td colspan="2">03</td>
+<td>3</td>
+<td>03</td>
 <td>1</td>
 <td>Продажа земли</td>
 <td>140250,0</td>
 </tr>
 <tr>
-<td colspan="3">3</td>
-<td colspan="2">03</td>
+<td>3</td>
+<td>03</td>
 <td>2</td>
 <td>Продажа нематериальных активов</td>
 <td>10304,0</td>
 </tr>
 <tr>
-<td colspan="3">4</td>
-<td colspan="2">00</td>
+<td>4</td>
+<td>00</td>
 <td>0</td>
 <td>Поступления трансфертов</td>
-<td>14650680,6</td>
+<td>16644728,4</td>
 </tr>
 <tr>
-<td colspan="3">4</td>
-<td colspan="2">02</td>
+<td>4</td>
+<td>02</td>
 <td>0</td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>14650680,6</td>
+<td>16644728,4</td>
 </tr>
 <tr>
-<td colspan="3">4</td>
-<td colspan="2">02</td>
+<td>4</td>
+<td>02</td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td>14650680,6</td>
+<td>16644728,4</td>
 </tr>
 </table>
 
@@ -271,24 +268,18 @@ source: https://zan.gov.kz/client/#!/doc/127415/rus/19.07.2019
 <td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
@@ -298,7 +289,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/rus/19.07.2019
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>39435825,6</td>
+<td>41429873,4</td>
 </tr>
 <tr>
 <td>01</td>
@@ -338,7 +329,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/rus/19.07.2019
 <td></td>
 <td>003</td>
 <td>Капитальные расходы государственного органа</td>
-<td>200,</td>
+<td>200,0</td>
 </tr>
 <tr>
 <td></td>
@@ -962,7 +953,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/rus/19.07.2019
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>14511135,6</td>
+<td>16505183,4</td>
 </tr>
 <tr>
 <td></td>
@@ -970,7 +961,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/rus/19.07.2019
 <td></td>
 <td></td>
 <td>Жилищное хозяйство</td>
-<td>9361484,6</td>
+<td>9348784,6</td>
 </tr>
 <tr>
 <td></td>
@@ -978,7 +969,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/rus/19.07.2019
 <td>467</td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>9322191,6</td>
+<td>9309491,6</td>
 </tr>
 <tr>
 <td></td>
@@ -994,7 +985,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/rus/19.07.2019
 <td></td>
 <td>004</td>
 <td>Проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
-<td>5272191,6</td>
+<td>5259491,6</td>
 </tr>
 <tr>
 <td></td>
@@ -1058,7 +1049,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/rus/19.07.2019
 <td></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>4463018,0</td>
+<td>6469765,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1066,7 +1057,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/rus/19.07.2019
 <td>458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>4463018,0</td>
+<td>6469765,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1082,7 +1073,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/rus/19.07.2019
 <td></td>
 <td>029</td>
 <td>Развитие системы водоснабжения и водоотведения</td>
-<td>4461518,0</td>
+<td>6468265,8</td>
 </tr>
 <tr>
 <td></td>

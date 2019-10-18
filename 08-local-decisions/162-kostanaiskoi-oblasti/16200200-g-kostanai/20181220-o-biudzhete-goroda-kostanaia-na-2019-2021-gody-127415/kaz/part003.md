@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127415/kaz/19.07.2019
+source: https://zan.gov.kz/client/#!/doc/127415/kaz/18.10.2019
 ---
 
 > *Мәслихаттың*  
@@ -10,25 +10,22 @@ source: https://zan.gov.kz/client/#!/doc/127415/kaz/19.07.2019
 
 ## Қостанай қаласының 2021 жылға арналған бюджеті
 
-> *Ескерту. 3-қосымша жаңа редакцияда - Қостанай облысы Қостанай қаласы мәслихатының 19.07.2019 № 381 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
+> *Ескерту. 3-қосымша жаңа редакцияда - Қостанай облысы Қостанай қаласы мәслихатының 18.10.2019 № 407 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
 <td colspan="9">Санаты</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="2" rowspan="3"></td>
 <td colspan="7">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2" rowspan="2"></td>
 <td colspan="5">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Атауы</td>
 </tr>
@@ -37,7 +34,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/kaz/19.07.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">I. Кірістер</td>
-<td>39435825,6</td>
+<td>41429873,4</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -240,21 +237,28 @@ source: https://zan.gov.kz/client/#!/doc/127415/kaz/19.07.2019
 <td colspan="2">00</td>
 <td colspan="2">0</td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>14650680,6</td>
+<td>16644728,4</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td colspan="2">02</td>
 <td colspan="2">0</td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>14650680,6</td>
+<td>16644728,4</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td colspan="2">02</td>
 <td colspan="2">2</td>
 <td colspan="3">Облыстық бюджеттен түсетін трансферттер</td>
-<td>14650680,6</td>
+<td>16644728,4</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
 </tr>
 </table>
 
@@ -264,24 +268,18 @@ source: https://zan.gov.kz/client/#!/doc/127415/kaz/19.07.2019
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -291,7 +289,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/kaz/19.07.2019
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>39435825,6</td>
+<td>41429873,4</td>
 </tr>
 <tr>
 <td>01</td>
@@ -955,7 +953,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/kaz/19.07.2019
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>14511135,6</td>
+<td>16505183,4</td>
 </tr>
 <tr>
 <td></td>
@@ -963,7 +961,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/kaz/19.07.2019
 <td></td>
 <td></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td>9361484,6</td>
+<td>9348784,6</td>
 </tr>
 <tr>
 <td></td>
@@ -971,7 +969,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/kaz/19.07.2019
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>9322191,6</td>
+<td>9309491,6</td>
 </tr>
 <tr>
 <td></td>
@@ -987,7 +985,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/kaz/19.07.2019
 <td></td>
 <td>004</td>
 <td>Инженерлік-коммуникациялық инфрақұрылымды жобалау, дамыту және (немесе) жайластыру</td>
-<td>5272191,6</td>
+<td>5259491,6</td>
 </tr>
 <tr>
 <td></td>
@@ -1051,7 +1049,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/kaz/19.07.2019
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>4463018,0</td>
+<td>6469765,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1059,7 +1057,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/kaz/19.07.2019
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>4463018,0</td>
+<td>6469765,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1075,7 +1073,7 @@ source: https://zan.gov.kz/client/#!/doc/127415/kaz/19.07.2019
 <td></td>
 <td>029</td>
 <td>Сумен жабдықтау және су бұру жүйелерін дамыту</td>
-<td>4461518,0</td>
+<td>6468265,8</td>
 </tr>
 <tr>
 <td></td>
