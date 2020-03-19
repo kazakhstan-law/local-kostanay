@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/137129/rus/05.02.2020
+source: https://zan.gov.kz/client/#!/doc/137129/rus/19.03.2020
 ---
 
 > *Приложение 2*  
@@ -11,7 +11,7 @@ source: https://zan.gov.kz/client/#!/doc/137129/rus/05.02.2020
 
 ## Областной бюджет Костанайской области на 2021 год
 
-> *Сноска. Приложение 2 в редакции решения маслихата Костанайской области от 05.02.2020 № 475 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 2 в редакции решения маслихата Костанайской области от 05.02.2020 № 475 (вводится в действие с 01.01.2020); в редакции решения маслихата Костанайской области от 19.03.2020 № 489 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -19,14 +19,17 @@ source: https://zan.gov.kz/client/#!/doc/137129/rus/05.02.2020
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
@@ -37,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/137129/rus/05.02.2020
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>189 657 961,0</td>
+<td>190 307 646,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -45,7 +48,7 @@ source: https://zan.gov.kz/client/#!/doc/137129/rus/05.02.2020
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>5 306 276,0</td>
+<td>5 955 961,0</td>
 </tr>
 <tr>
 <td></td>
@@ -53,7 +56,7 @@ source: https://zan.gov.kz/client/#!/doc/137129/rus/05.02.2020
 <td></td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>5 306 276,0</td>
+<td>5 955 961,0</td>
 </tr>
 <tr>
 <td></td>
@@ -61,7 +64,7 @@ source: https://zan.gov.kz/client/#!/doc/137129/rus/05.02.2020
 <td>3</td>
 <td></td>
 <td>Поступления за использование природных и других ресурсов</td>
-<td>5 290 603,0</td>
+<td>5 940 288,0</td>
 </tr>
 <tr>
 <td></td>
@@ -260,28 +263,24 @@ source: https://zan.gov.kz/client/#!/doc/137129/rus/05.02.2020
 <td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td rowspan="5"></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td rowspan="4"></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td rowspan="3"></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="2"></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>II. Затраты</td>
-<td>189 697 963,0</td>
+<td>190 347 648,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2169,7 +2168,7 @@ source: https://zan.gov.kz/client/#!/doc/137129/rus/05.02.2020
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>5 363 083,0</td>
+<td>6 012 768,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2225,7 +2224,7 @@ source: https://zan.gov.kz/client/#!/doc/137129/rus/05.02.2020
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>2 607 388,0</td>
+<td>3 257 073,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2337,7 +2336,7 @@ source: https://zan.gov.kz/client/#!/doc/137129/rus/05.02.2020
 <td>285</td>
 <td></td>
 <td>Управление физической культуры и спорта области</td>
-<td>1 499 124,0</td>
+<td>2 148 809,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2345,7 +2344,7 @@ source: https://zan.gov.kz/client/#!/doc/137129/rus/05.02.2020
 <td></td>
 <td>096</td>
 <td>Выполнение государственных обязательств по проектам государственно-частного партнерства</td>
-<td>1 499 124,0</td>
+<td>2 148 809,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2488,14 +2487,17 @@ source: https://zan.gov.kz/client/#!/doc/137129/rus/05.02.2020
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Специфика</td>
 </tr>
