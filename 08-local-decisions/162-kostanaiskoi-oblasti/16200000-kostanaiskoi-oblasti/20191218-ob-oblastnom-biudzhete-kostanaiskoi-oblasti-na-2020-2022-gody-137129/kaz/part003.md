@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137129/kaz/19.03.2020
+source: https://zan.gov.kz/client/#!/doc/137129/kaz/08.04.2020
 ---
 
 > *Қостанай*  
