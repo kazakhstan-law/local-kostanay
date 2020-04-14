@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138412/kaz/13.01.2020
+source: https://zan.gov.kz/client/#!/doc/138412/kaz/14.04.2020
 ---
 
 > *Меңдіқара*  
