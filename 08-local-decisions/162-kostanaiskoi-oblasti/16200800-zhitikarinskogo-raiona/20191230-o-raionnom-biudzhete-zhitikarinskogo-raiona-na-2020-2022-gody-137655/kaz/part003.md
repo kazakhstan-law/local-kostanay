@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137655/kaz/24.06.2020
+source: https://zan.gov.kz/client/#!/doc/137655/kaz/03.08.2020
 ---
 
 > *Жітіқара*  
