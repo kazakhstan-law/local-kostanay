@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151420/kaz/10.03.2021
+source: https://zan.gov.kz/client/#!/doc/151420/kaz/13.08.2021
 ---
 
 > *Амангелді*  
