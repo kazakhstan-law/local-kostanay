@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
+source: https://zan.gov.kz/client/#!/doc/151548/rus/15.12.2021
 ---
 
 > *Приложение 1*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 
 ## Бюджет села Бауманское на 2021 год
 
-> *Сноска. Приложение 1 в редакции решений маслихата Узункольского района Костанайской области от 02.07.2021 № 45 (вводится в действие с 01.01.2021); от 01.10.2021 № 66 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 1 в редакции решений маслихата Узункольского района Костанайской области от 02.07.2021 № 45 (вводится в действие с 01.01.2021); от 01.10.2021 № 66 (вводится в действие с 01.01.2021); от 15.12.2021 № 81 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -39,7 +39,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">I. Доходы</td>
-<td>18757,0</td>
+<td>18542,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -79,7 +79,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">1</td>
 <td></td>
 <td colspan="4">Налоги на имущество</td>
-<td>49,0</td>
+<td>81,0</td>
 </tr>
 <tr>
 <td></td>
@@ -95,7 +95,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">4</td>
 <td></td>
 <td colspan="4">Налог на транспортные средства</td>
-<td>410,0</td>
+<td>378,0</td>
 </tr>
 <tr>
 <td>2</td>
@@ -127,7 +127,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>18207,0</td>
+<td>17992,0</td>
 </tr>
 <tr>
 <td></td>
@@ -135,7 +135,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>18207,0</td>
+<td>17992,0</td>
 </tr>
 <tr>
 <td></td>
@@ -143,7 +143,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>18207,0</td>
+<td>17992,0</td>
 </tr>
 <tr>
 <td colspan="9">Функциональная группа</td>
@@ -177,7 +177,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">II. Затраты</td>
-<td>19392,0</td>
+<td>19177,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -185,7 +185,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Государственные услуги общего характера</td>
-<td>16738,0</td>
+<td>16523,0</td>
 </tr>
 <tr>
 <td></td>
@@ -193,7 +193,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>16738,0</td>
+<td>16523,0</td>
 </tr>
 <tr>
 <td></td>
@@ -201,7 +201,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>16738,0</td>
+<td>16523,0</td>
 </tr>
 <tr>
 <td></td>
@@ -209,7 +209,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td>001</td>
 <td colspan="4">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>16398,0</td>
+<td>16319,0</td>
 </tr>
 <tr>
 <td></td>
@@ -217,7 +217,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td>022</td>
 <td colspan="4">Капитальные расходы государственных органов</td>
-<td>340,0</td>
+<td>204,0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -924,7 +924,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 
 ## Бюджет Ершовского сельского округа на 2021 год
 
-> *Сноска. Приложение 4 в редакции решений маслихата Узункольского района Костанайской области от 02.07.2021 № 45 (вводится в действие с 01.01.2021); от 01.10.2021 № 66 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 4 в редакции решений маслихата Узункольского района Костанайской области от 02.07.2021 № 45 (вводится в действие с 01.01.2021); от 01.10.2021 № 66 (вводится в действие с 01.01.2021); от 15.12.2021 № 81 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -953,7 +953,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">I. Доходы</td>
-<td>27783,0</td>
+<td>26553,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -961,7 +961,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Налоговые поступления</td>
-<td>2093,0</td>
+<td>2152,0</td>
 </tr>
 <tr>
 <td></td>
@@ -969,7 +969,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Налоги на собственность</td>
-<td>2093,0</td>
+<td>2152,0</td>
 </tr>
 <tr>
 <td></td>
@@ -977,7 +977,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">1</td>
 <td></td>
 <td colspan="4">Налоги на имущество</td>
-<td>36,0</td>
+<td>131,4</td>
 </tr>
 <tr>
 <td></td>
@@ -985,7 +985,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Земельный налог</td>
-<td>202,0</td>
+<td>106,6</td>
 </tr>
 <tr>
 <td></td>
@@ -993,31 +993,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">4</td>
 <td></td>
 <td colspan="4">Налог на транспортные средства</td>
-<td>1855,0</td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="4">Неналоговые поступления</td>
-<td>59,0</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="4">Доходы от государственной собственности</td>
-<td>59,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">5</td>
-<td></td>
-<td colspan="4">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>59,0</td>
+<td>1914,0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1025,7 +1001,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>25631,0</td>
+<td>24401,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1033,7 +1009,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>25631,0</td>
+<td>24401,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1041,7 +1017,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>25631,0</td>
+<td>24401,0</td>
 </tr>
 <tr>
 <td colspan="9">Функциональная группа</td>
@@ -1075,7 +1051,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">II. Затраты</td>
-<td>29405,5</td>
+<td>28175,5</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1083,7 +1059,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Государственные услуги общего характера</td>
-<td>17854,0</td>
+<td>16637,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1091,7 +1067,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>17854,0</td>
+<td>16637,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1099,7 +1075,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>17854,0</td>
+<td>16637,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1107,7 +1083,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td>001</td>
 <td colspan="4">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>17514,0</td>
+<td>16390,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1115,7 +1091,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td>022</td>
 <td colspan="4">Капитальные расходы государственных органов</td>
-<td>340,0</td>
+<td>247,0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1123,7 +1099,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Жилищно-коммунальное хозяйство</td>
-<td>7991,5</td>
+<td>7978,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1131,7 +1107,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Благоустройство населенных пунктов</td>
-<td>7991,5</td>
+<td>7978,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1139,7 +1115,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>7991,5</td>
+<td>7978,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1155,7 +1131,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td>011</td>
 <td colspan="4">Благоустройство и озеленение населенных пунктов</td>
-<td>6525,0</td>
+<td>6512,0</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1822,7 +1798,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 
 ## Бюджет Кировского сельского округа на 2021 год
 
-> *Сноска. Приложение 7 в редакции решений маслихата Узункольского района Костанайской области от 02.07.2021 № 45 (вводится в действие с 01.01.2021); от 01.10.2021 № 66 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 7 в редакции решений маслихата Узункольского района Костанайской области от 02.07.2021 № 45 (вводится в действие с 01.01.2021); от 01.10.2021 № 66 (вводится в действие с 01.01.2021); от 15.12.2021 № 81 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -1851,7 +1827,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">I. Доходы</td>
-<td>18419,0</td>
+<td>18322,2</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1859,7 +1835,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Налоговые поступления</td>
-<td>733,0</td>
+<td>728,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1883,7 +1859,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Налоги на собственность</td>
-<td>660,0</td>
+<td>655,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1891,7 +1867,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">1</td>
 <td></td>
 <td colspan="4">Налоги на имущество</td>
-<td>13,0</td>
+<td>79,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1899,7 +1875,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Земельный налог</td>
-<td>75,0</td>
+<td>3,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1915,7 +1891,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Неналоговые поступления</td>
-<td>60,0</td>
+<td>65,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1923,7 +1899,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Доходы от государственной собственности</td>
-<td>60,0</td>
+<td>65,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1931,7 +1907,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">5</td>
 <td></td>
 <td colspan="4">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>60,0</td>
+<td>65,0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1939,7 +1915,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>17626,0</td>
+<td>17529,2</td>
 </tr>
 <tr>
 <td></td>
@@ -1947,7 +1923,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>17626,0</td>
+<td>17529,2</td>
 </tr>
 <tr>
 <td></td>
@@ -1955,7 +1931,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>17626,0</td>
+<td>17529,2</td>
 </tr>
 <tr>
 <td colspan="9">Функциональная группа</td>
@@ -1989,7 +1965,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">II. Затраты</td>
-<td>18640,0</td>
+<td>18543,2</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1997,7 +1973,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Государственные услуги общего характера</td>
-<td>16361,0</td>
+<td>16264,2</td>
 </tr>
 <tr>
 <td></td>
@@ -2005,7 +1981,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>16361,0</td>
+<td>16264,2</td>
 </tr>
 <tr>
 <td></td>
@@ -2013,7 +1989,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>16361,0</td>
+<td>16264,2</td>
 </tr>
 <tr>
 <td></td>
@@ -2029,7 +2005,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td>022</td>
 <td colspan="4">Капитальные расходы государственных органов</td>
-<td>340,0</td>
+<td>243,2</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2736,7 +2712,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 
 ## Бюджет Новопокровского сельского округа на 2021 год
 
-> *Сноска. Приложение 10 в редакции решений маслихата Узункольского района Костанайской области от 02.07.2021 № 45 (вводится в действие с 01.01.2021); от 01.10.2021 № 66 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 10 в редакции решений маслихата Узункольского района Костанайской области от 02.07.2021 № 45 (вводится в действие с 01.01.2021); от 01.10.2021 № 66 (вводится в действие с 01.01.2021); от 15.12.2021 № 81 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -2765,7 +2741,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">I. Доходы</td>
-<td>26164,0</td>
+<td>25224,8</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2781,7 +2757,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Подоходный налог</td>
-<td>184,0</td>
+<td>207,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2789,7 +2765,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">2</td>
 <td></td>
 <td colspan="4">Индивидуальный подоходный налог</td>
-<td>184,0</td>
+<td>207,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2797,7 +2773,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Налоги на собственность</td>
-<td>1895,0</td>
+<td>1872,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2805,7 +2781,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">1</td>
 <td></td>
 <td colspan="4">Налоги на имущество</td>
-<td>101,0</td>
+<td>133,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2813,7 +2789,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Земельный налог</td>
-<td>75,0</td>
+<td>43,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2821,7 +2797,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">4</td>
 <td></td>
 <td colspan="4">Налог на транспортные средства</td>
-<td>1719,0</td>
+<td>1696,0</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2853,7 +2829,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>24039,0</td>
+<td>23099,8</td>
 </tr>
 <tr>
 <td></td>
@@ -2861,7 +2837,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>24039,0</td>
+<td>23099,8</td>
 </tr>
 <tr>
 <td></td>
@@ -2869,7 +2845,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>24039,0</td>
+<td>23099,8</td>
 </tr>
 <tr>
 <td colspan="9">Функциональная группа</td>
@@ -2903,7 +2879,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">II. Затраты</td>
-<td>26730,0</td>
+<td>25790,8</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2911,7 +2887,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Государственные услуги общего характера</td>
-<td>21784,0</td>
+<td>20844,8</td>
 </tr>
 <tr>
 <td></td>
@@ -2919,7 +2895,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>21784,0</td>
+<td>20844,8</td>
 </tr>
 <tr>
 <td></td>
@@ -2927,7 +2903,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>21784,0</td>
+<td>20844,8</td>
 </tr>
 <tr>
 <td></td>
@@ -2943,7 +2919,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td>022</td>
 <td colspan="4">Капитальные расходы государственных органов</td>
-<td>5150,0</td>
+<td>4210,8</td>
 </tr>
 <tr>
 <td>07</td>
@@ -3650,7 +3626,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 
 ## Бюджет сельского округа Обаған на 2021 год
 
-> *Сноска. Приложение 13 в редакции решений маслихата Узункольского района Костанайской области от 29.03.2021 № 29 (вводится в действие с 01.01.2021); от 02.07.2021 № 45 (вводится в действие с 01.01.2021); от 01.10.2021 № 66 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 13 в редакции решений маслихата Узункольского района Костанайской области от 29.03.2021 № 29 (вводится в действие с 01.01.2021); от 02.07.2021 № 45 (вводится в действие с 01.01.2021); от 01.10.2021 № 66 (вводится в действие с 01.01.2021); от 15.12.2021 № 81 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -3679,7 +3655,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">I. Доходы</td>
-<td>29350,0</td>
+<td>29195,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3687,7 +3663,23 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Налоговые поступления</td>
-<td>666,0</td>
+<td>669,0</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4">Подоходный налог</td>
+<td>37,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">2</td>
+<td></td>
+<td colspan="4">Индивидуальный подоходный налог</td>
+<td>37,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3695,7 +3687,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Налоги на собственность</td>
-<td>666,0</td>
+<td>632,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3703,7 +3695,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">1</td>
 <td></td>
 <td colspan="4">Налоги на имущество</td>
-<td>51,0</td>
+<td>63,5</td>
 </tr>
 <tr>
 <td></td>
@@ -3711,7 +3703,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Земельный налог</td>
-<td>15,0</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td></td>
@@ -3719,31 +3711,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">4</td>
 <td></td>
 <td colspan="4">Налог на транспортные средства</td>
-<td>600,0</td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="4">Неналоговые поступления</td>
-<td>3,0</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="4">Доходы от государственной собственности</td>
-<td>3,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">5</td>
-<td></td>
-<td colspan="4">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>3,0</td>
+<td>566,0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -3751,7 +3719,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>28681,0</td>
+<td>28526,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3759,7 +3727,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>28681,0</td>
+<td>28526,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3767,7 +3735,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>28681,0</td>
+<td>28526,0</td>
 </tr>
 <tr>
 <td colspan="9">Функциональная группа</td>
@@ -3801,7 +3769,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">II. Затраты</td>
-<td>29777,0</td>
+<td>29622,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3809,7 +3777,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Государственные услуги общего характера</td>
-<td>15652,0</td>
+<td>15497,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3817,7 +3785,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>15652,0</td>
+<td>15497,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3825,7 +3793,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>15652,0</td>
+<td>15497,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3841,7 +3809,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td>022</td>
 <td colspan="4">Капитальные расходы государственных органов</td>
-<td>340,0</td>
+<td>185,0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4548,7 +4516,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 
 ## Бюджет Пресногорьковского сельского округа на 2021 год
 
-> *Сноска. Приложение 16 в редакции решений маслихата Узункольского района Костанайской области от 02.07.2021 № 45 (вводится в действие с 01.01.2021); от 01.10.2021 № 66 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 16 в редакции решений маслихата Узункольского района Костанайской области от 02.07.2021 № 45 (вводится в действие с 01.01.2021); от 01.10.2021 № 66 (вводится в действие с 01.01.2021); от 15.12.2021 № 81 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -4577,7 +4545,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">I. Доходы</td>
-<td>27654,0</td>
+<td>27587,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4593,7 +4561,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Подоходный налог</td>
-<td>468,0</td>
+<td>768,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4601,7 +4569,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">2</td>
 <td></td>
 <td colspan="4">Индивидуальный подоходный налог</td>
-<td>468,0</td>
+<td>768,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4609,7 +4577,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Налоги на собственность</td>
-<td>4378,0</td>
+<td>4078,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4617,7 +4585,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">1</td>
 <td></td>
 <td colspan="4">Налоги на имущество</td>
-<td>188,0</td>
+<td>362,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4625,7 +4593,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Земельный налог</td>
-<td>188,0</td>
+<td>218,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4633,7 +4601,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">4</td>
 <td></td>
 <td colspan="4">Налог на транспортные средства</td>
-<td>4002,0</td>
+<td>3498,0</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4665,7 +4633,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>22806,0</td>
+<td>22739,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4673,7 +4641,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>22806,0</td>
+<td>22739,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4681,7 +4649,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>22806,0</td>
+<td>22739,0</td>
 </tr>
 <tr>
 <td colspan="9">Функциональная группа</td>
@@ -4715,7 +4683,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">II. Затраты</td>
-<td>28836,0</td>
+<td>28769,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4723,7 +4691,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Государственные услуги общего характера</td>
-<td>22557,0</td>
+<td>22490,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4731,7 +4699,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>22557,0</td>
+<td>22490,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4739,7 +4707,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>22557,0</td>
+<td>22490,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4755,7 +4723,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td>022</td>
 <td colspan="4">Капитальные расходы государственных органов</td>
-<td>340,0</td>
+<td>273,0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -5492,9 +5460,9 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 > *от «8» января 2021 года*  
 > *№ 442*
 
-## Бюджет села Ряжское на 2021 год
+## Бюджет Ряжского сельского округа на 2021 год
 
-> *Сноска. Приложение 19 в редакции решений маслихата Узункольского района Костанайской области от 02.07.2021 № 45 (вводится в действие с 01.01.2021); от 01.10.2021 № 66 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 19 в редакции решений маслихата Узункольского района Костанайской области от 02.07.2021 № 45 (вводится в действие с 01.01.2021); от 01.10.2021 № 66 (вводится в действие с 01.01.2021); от 15.12.2021 № 81 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -5523,7 +5491,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">I. Доходы</td>
-<td>19594,0</td>
+<td>19548,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5531,7 +5499,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Налоговые поступления</td>
-<td>1131,0</td>
+<td>1137,3</td>
 </tr>
 <tr>
 <td></td>
@@ -5555,7 +5523,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Налоги на собственность</td>
-<td>1033,0</td>
+<td>1039,3</td>
 </tr>
 <tr>
 <td></td>
@@ -5563,7 +5531,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">1</td>
 <td></td>
 <td colspan="4">Налоги на имущество</td>
-<td>42,0</td>
+<td>61,4</td>
 </tr>
 <tr>
 <td></td>
@@ -5579,7 +5547,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">4</td>
 <td></td>
 <td colspan="4">Налог на транспортные средства</td>
-<td>952,0</td>
+<td>938,9</td>
 </tr>
 <tr>
 <td>2</td>
@@ -5587,7 +5555,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Неналоговые поступления</td>
-<td>10,0</td>
+<td>3,7</td>
 </tr>
 <tr>
 <td></td>
@@ -5595,7 +5563,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Доходы от государственной собственности</td>
-<td>10,0</td>
+<td>3,7</td>
 </tr>
 <tr>
 <td></td>
@@ -5603,7 +5571,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">5</td>
 <td></td>
 <td colspan="4">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>10,0</td>
+<td>3,7</td>
 </tr>
 <tr>
 <td>4</td>
@@ -5611,7 +5579,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>18453,0</td>
+<td>18407,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5619,7 +5587,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>18453,0</td>
+<td>18407,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5627,7 +5595,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>18453,0</td>
+<td>18407,0</td>
 </tr>
 <tr>
 <td colspan="9">Функциональная группа</td>
@@ -5661,7 +5629,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">II. Затраты</td>
-<td>20076,0</td>
+<td>20030,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5669,7 +5637,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Государственные услуги общего характера</td>
-<td>16611,0</td>
+<td>16565,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5677,7 +5645,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>16611,0</td>
+<td>16565,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5685,7 +5653,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>16611,0</td>
+<td>16565,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5701,7 +5669,7 @@ source: https://zan.gov.kz/client/#!/doc/151548/rus/01.10.2021
 <td colspan="2"></td>
 <td>022</td>
 <td colspan="4">Капитальные расходы государственных органов</td>
-<td>340,0</td>
+<td>294,0</td>
 </tr>
 <tr>
 <td>07</td>
