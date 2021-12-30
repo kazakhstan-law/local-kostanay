@@ -1,0 +1,25 @@
+key: G21ND00105M
+akn: /akn/kz/act/2021-12-30/G21ND00105M
+act_code: '162768'
+requisite: Решение маслихата города Лисаковска Костанайской области от 30 декабря 2021 года № 105
+title:
+  rus: О бюджете поселка Октябрьский города Лисаковска на 2022-2024 годы
+  kaz: Лисаков қаласы Октябрь кентінің 2022-2024 жылдарға арналған бюджеті туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2021-12-30
+in_force_from: 2022-01-01
+approved_by:
+- '162020000002'
+versions:
+- date: 2021-12-30
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2021-12-30
+  rus: 2021-12-30
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/162768/kaz/30.12.2021
+  rus: https://zan.gov.kz/client/#!/doc/162768/rus/30.12.2021
