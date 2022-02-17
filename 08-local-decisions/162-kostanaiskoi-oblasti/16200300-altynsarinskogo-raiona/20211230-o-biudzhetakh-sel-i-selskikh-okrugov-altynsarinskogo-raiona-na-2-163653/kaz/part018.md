@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
+source: https://zan.gov.kz/client/#!/doc/163653/kaz/17.02.2022
 ---
 
 > *Мәслихаттың*  
@@ -344,6 +344,8 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 
 ## Алтынсарин ауданы Красный Кордон ауылдық округінің 2022 жылғы бюджеті
 
+> *Ескерту. 19-қосымша жаңа редакцияда – Қостанай облысы Алтынсарин ауданы мәслихатының 17.02.2022 № 71 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="9">Санаты</td>
@@ -507,7 +509,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">II. ШЫҒЫНДАР</td>
-<td>24560,0</td>
+<td>25161,2</td>
 </tr>
 <tr>
 <td>01</td>
@@ -547,7 +549,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>750,0</td>
+<td>1351,2</td>
 </tr>
 <tr>
 <td>07</td>
@@ -555,7 +557,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>750,0</td>
+<td>1351,2</td>
 </tr>
 <tr>
 <td>07</td>
@@ -563,7 +565,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>750,0</td>
+<td>1351,2</td>
 </tr>
 <tr>
 <td>07</td>
@@ -579,7 +581,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2">124</td>
 <td colspan="2">011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>250,0</td>
+<td>851,2</td>
 </tr>
 <tr>
 <td>12</td>
@@ -635,7 +637,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-601,2</td>
 </tr>
 <tr>
 <td></td>
@@ -643,7 +645,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
+<td>601,2</td>
 </tr>
 <tr>
 <td>8</td>
@@ -651,7 +653,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0,0</td>
+<td>601,2</td>
 </tr>
 <tr>
 <td>8</td>
@@ -659,7 +661,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0,0</td>
+<td>601,2</td>
 </tr>
 <tr>
 <td>8</td>
@@ -667,7 +669,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0,0</td>
+<td>601,2</td>
 </tr>
 </table>
 
@@ -1346,6 +1348,8 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 
 ## Алтынсарин ауданы Новоалексеев ауылдық округінің 2022 жылғы бюджеті
 
+> *Ескерту. 22-қосымша жаңа редакцияда – Қостанай облысы Алтынсарин ауданы мәслихатының 17.02.2022 № 71 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="9">Санаты</td>
@@ -1509,7 +1513,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>II. ШЫҒЫНДАР</td>
-<td>18482,0</td>
+<td>18745,7</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1549,7 +1553,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>380,0</td>
+<td>643,7</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -1557,7 +1561,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>380,0</td>
+<td>643,7</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -1565,7 +1569,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>380,0</td>
+<td>643,7</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -1581,7 +1585,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2">124</td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>250,0</td>
+<td>513,7</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -1637,7 +1641,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-263,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1645,7 +1649,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
+<td>263,7</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -1653,7 +1657,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0,0</td>
+<td>263,7</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -1661,7 +1665,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0,0</td>
+<td>263,7</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -1669,7 +1673,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0,0</td>
+<td>263,7</td>
 </tr>
 </table>
 
@@ -2349,6 +2353,8 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 
 ## Алтынсарин ауданы Свердловка атындағы ауылдық округінің 2022 жылғы бюджеті
 
+> *Ескерту. 25-қосымша жаңа редакцияда – Қостанай облысы Алтынсарин ауданы мәслихатының 17.02.2022 № 71 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="7">Санаты</td>
@@ -2512,7 +2518,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">II. ШЫҒЫНДАР</td>
-<td>21138,0</td>
+<td>22512,3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2520,7 +2526,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>20688,0</td>
+<td>21062,3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2528,7 +2534,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>20688,0</td>
+<td>21062,3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2536,7 +2542,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>20688,0</td>
+<td>21062,3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2544,7 +2550,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td>124</td>
 <td colspan="2">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>20688,0</td>
+<td>21062,3</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2640,7 +2646,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-374,3</td>
 </tr>
 <tr>
 <td></td>
@@ -2648,7 +2654,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
+<td>374,3</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2656,7 +2662,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0,0</td>
+<td>374,3</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2664,7 +2670,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0,0</td>
+<td>374,3</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2672,7 +2678,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/kaz/30.12.2021
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0,0</td>
+<td>374,3</td>
 </tr>
 </table>
 

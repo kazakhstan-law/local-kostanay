@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
+source: https://zan.gov.kz/client/#!/doc/163653/rus/17.02.2022
 ---
 
 > *Приложение 19*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 > *№ 64*
 
 ## Бюджет села Красный Кордон Алтынсаринского района на 2022 год
+
+> *Сноска. Приложение 19 в редакции решения маслихата Алтынсаринского района Костанайской области от 17.02.2022 № 71 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -173,7 +175,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">II. ЗАТРАТЫ</td>
-<td>24560,0</td>
+<td>25161,2</td>
 </tr>
 <tr>
 <td>01</td>
@@ -213,7 +215,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>750,0</td>
+<td>1351,2</td>
 </tr>
 <tr>
 <td>07</td>
@@ -221,7 +223,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>750,0</td>
+<td>1351,2</td>
 </tr>
 <tr>
 <td>07</td>
@@ -229,7 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>750,0</td>
+<td>1351,2</td>
 </tr>
 <tr>
 <td>07</td>
@@ -245,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td colspan="2">124</td>
 <td colspan="2">011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>250,0</td>
+<td>851,2</td>
 </tr>
 <tr>
 <td></td>
@@ -253,7 +255,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Дефицит ( профицит) бюджета</td>
-<td>0,0</td>
+<td>-601,2</td>
 </tr>
 <tr>
 <td></td>
@@ -261,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">VI. Финансирование дефицита (использование профицита) бюджета:</td>
-<td>0,0</td>
+<td>601,2</td>
 </tr>
 <tr>
 <td>8</td>
@@ -269,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0,0</td>
+<td>601,2</td>
 </tr>
 <tr>
 <td>8</td>
@@ -277,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>0,0</td>
+<td>601,2</td>
 </tr>
 <tr>
 <td>8</td>
@@ -285,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0,0</td>
+<td>601,2</td>
 </tr>
 </table>
 
@@ -868,6 +870,8 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 
 ## Бюджет села Новоалексеевка Алтынсаринского района на 2022 год
 
+> *Сноска. Приложение 22 в редакции решения маслихата Алтынсаринского района Костанайской области от 17.02.2022 № 71 (вводится в действие с 01.01.2022).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -1031,7 +1035,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td></td>
 <td></td>
 <td>II. ЗАТРАТЫ</td>
-<td>18482,0</td>
+<td>18745,7</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1071,7 +1075,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>380,0</td>
+<td>643,7</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1079,7 +1083,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>380,0</td>
+<td>643,7</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1087,7 +1091,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>380,0</td>
+<td>643,7</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1103,7 +1107,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td>124</td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>250,0</td>
+<td>513,7</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1143,7 +1147,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td></td>
 <td></td>
 <td>V. Дефицит ( профицит) бюджета</td>
-<td>0,0</td>
+<td>-263,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1151,7 +1155,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета:</td>
-<td>0,0</td>
+<td>263,7</td>
 </tr>
 <tr>
 <td>8</td>
@@ -1159,7 +1163,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0,0</td>
+<td>263,7</td>
 </tr>
 <tr>
 <td>8</td>
@@ -1167,7 +1171,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0,0</td>
+<td>263,7</td>
 </tr>
 <tr>
 <td>8</td>
@@ -1175,7 +1179,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0,0</td>
+<td>263,7</td>
 </tr>
 </table>
 
@@ -1822,6 +1826,8 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 
 ## Бюджет села Свердловка Алтынсаринского района на 2022 год
 
+> *Сноска. Приложение 25 в редакции решения маслихата Алтынсаринского района Костанайской области от 17.02.2022 № 71 (вводится в действие с 01.01.2022).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -1985,7 +1991,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td></td>
 <td></td>
 <td>II. ЗАТРАТЫ</td>
-<td>22138,0</td>
+<td>22512,3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1993,7 +1999,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>20688,0</td>
+<td>21062,3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2001,7 +2007,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>20688,0</td>
+<td>21062,3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2009,7 +2015,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>20688,0</td>
+<td>21062,3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2017,7 +2023,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td>124</td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>20688,0</td>
+<td>21062,3</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2121,7 +2127,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td></td>
 <td></td>
 <td>V. Дефицит ( профицит) бюджета</td>
-<td>0,0</td>
+<td>-374,3</td>
 </tr>
 <tr>
 <td></td>
@@ -2129,7 +2135,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета:</td>
-<td>0,0</td>
+<td>374,3</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2137,7 +2143,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0,0</td>
+<td>374,3</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2145,7 +2151,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0,0</td>
+<td>374,3</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2153,7 +2159,7 @@ source: https://zan.gov.kz/client/#!/doc/163653/rus/30.12.2021
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0,0</td>
+<td>374,3</td>
 </tr>
 </table>
 
