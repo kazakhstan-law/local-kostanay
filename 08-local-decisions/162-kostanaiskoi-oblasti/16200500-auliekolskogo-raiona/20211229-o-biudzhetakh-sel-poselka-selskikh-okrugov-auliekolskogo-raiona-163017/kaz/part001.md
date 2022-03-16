@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
+source: https://zan.gov.kz/client/#!/doc/163017/kaz/16.03.2022
 ---
 
 > *Мәслихаттың*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 > *1-қосымша*
 
 ## Әулиекөл ауданы Әулиекөл ауылының 2022 жылға арналған бюджеті
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Қостанай облысы Әулиекөл ауданы мәслихатының 16.03.2022 № 110 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -45,7 +47,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>91354,6</td>
+<td>96137,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -189,7 +191,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>56987,6</td>
+<td>61770,0</td>
 </tr>
 <tr>
 <td></td>
@@ -197,7 +199,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>56987,6</td>
+<td>61770,0</td>
 </tr>
 <tr>
 <td></td>
@@ -205,39 +207,39 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>56987,6</td>
+<td>61770,0</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="6">Функционалдық топ</td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
@@ -245,79 +247,79 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>91354,6</td>
+<td>98682,8</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>48794,0</td>
+<td>49076,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>48794,0</td>
+<td>49076,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>48794,0</td>
+<td>49076,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>48794,0</td>
+<td>49076,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>27300,0</td>
+<td>32845,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>27300,0</td>
+<td>32845,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>27300,0</td>
+<td>32845,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>10000,0</td>
+<td>12545,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -325,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>2000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -333,79 +335,79 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>300,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру және көгалдандыру</td>
-<td>15000,0</td>
+<td>18000,0</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Көлік және коммуникация</td>
-<td>9800,0</td>
+<td>11300,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>9800,0</td>
+<td>11300,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>9800,0</td>
+<td>11300,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>9800,0</td>
+<td>11300,0</td>
 </tr>
 <tr>
-<td colspan="2">14</td>
+<td>14</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Борышқа қызмет көрсету</td>
-<td>5460,6</td>
+<td>5461,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Борышқа қызмет көрсету</td>
-<td>5460,6</td>
+<td>5461,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>5460,6</td>
+<td>5461,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>042</td>
 <td>Қаладағы ауданның, аудандық маңызы бар қаланың, ауылдың, кенттің, ауылдық округ әкімі аппаратының аудандық (облыстық маңызы бар қаланың) бюджеттен қарыздар бойынша сыйақылар мен өзге де төлемдерді төлеу бойынша борышына қызмет көрсету</td>
-<td>5460,6</td>
+<td>5461,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -413,7 +415,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -421,20 +423,20 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-2545,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
+<td>2545,8</td>
 </tr>
 </table>
 
@@ -1248,6 +1250,8 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 
 ## Әулиекөл ауданы Көктал ауылының 2022 жылға арналған бюджеті
 
+> *Ескерту. 4-қосымша жаңа редакцияда - Қостанай облысы Әулиекөл ауданы мәслихатының 16.03.2022 № 110 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
@@ -1409,33 +1413,33 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 
 <table>
 <tr>
-<td colspan="6">Функционалдық топ</td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
@@ -1443,79 +1447,127 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>24043,0</td>
+<td>27201,3</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>23283,0</td>
+<td>24483,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>23283,0</td>
+<td>24483,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>23283,0</td>
+<td>24483,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>23283,0</td>
+<td>24483,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>760,0</td>
+<td>2218,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>760,0</td>
+<td>2218,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>760,0</td>
+<td>2218,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>760,0</td>
+<td>1260,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td>500,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>011</td>
+<td>Елді мекендерді абаттандыру және көгалдандыру</td>
+<td>458,3</td>
+</tr>
+<tr>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Көлік және коммуникация</td>
+<td>500,0</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Автомобиль көлiгi</td>
+<td>500,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>500,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>013</td>
+<td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td>500,0</td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1523,7 +1575,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1531,20 +1583,20 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-3158,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
+<td>3158,3</td>
 </tr>
 </table>
 
@@ -2265,6 +2317,8 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 
 ## Әулиекөл ауданы Первомай ауылының 2022 жылға арналған бюджеті
 
+> *Ескерту. 7-қосымша жаңа редакцияда - Қостанай облысы Әулиекөл ауданы мәслихатының 16.03.2022 № 110 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
@@ -2418,33 +2472,33 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 
 <table>
 <tr>
-<td colspan="6">Функционалдық топ</td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
@@ -2452,15 +2506,15 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>21853,0</td>
+<td>22091,4</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2468,7 +2522,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>20653,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2476,7 +2530,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>20653,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -2484,7 +2538,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>20653,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2492,39 +2546,39 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>20653,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1000,0</td>
+<td>1438,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>1000,0</td>
+<td>1438,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1000,0</td>
+<td>1438,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>450,0</td>
+<td>888,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -2532,7 +2586,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>250,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -2540,39 +2594,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>300,0</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
 <td></td>
-<td></td>
-<td></td>
-<td>Көлік және коммуникация</td>
-<td>200,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Автомобиль көлiгi</td>
-<td>200,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>200,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td>013</td>
-<td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>200,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2580,7 +2602,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2588,20 +2610,20 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-238,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
+<td>238,4</td>
 </tr>
 </table>
 
@@ -3306,6 +3328,8 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 
 ## Әулиекөл ауданы Тимофеев ауылының 2022 жылға арналған бюджеті
 
+> *Ескерту. 10-қосымша жаңа редакцияда - Қостанай облысы Әулиекөл ауданы мәслихатының 16.03.2022 № 110 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
@@ -3475,33 +3499,33 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 
 <table>
 <tr>
-<td colspan="6">Функционалдық топ</td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
@@ -3509,15 +3533,15 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>25702,0</td>
+<td>26814,1</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3525,7 +3549,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>25052,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -3533,7 +3557,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>25052,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -3541,7 +3565,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>25052,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -3549,39 +3573,39 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>25052,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>300,0</td>
+<td>1412,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>300,0</td>
+<td>1412,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>300,0</td>
+<td>1412,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру және көгалдандыру</td>
-<td>300,0</td>
+<td>1412,1</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3589,7 +3613,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>350,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -3597,7 +3621,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>350,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -3605,7 +3629,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>350,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -3613,7 +3637,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>350,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3621,7 +3645,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3629,20 +3653,20 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-1112,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
+<td>1112,1</td>
 </tr>
 </table>
 
@@ -4363,6 +4387,8 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 
 ## Әулиекөл ауданы Құсмұрын кентінің 2022 жылға арналған бюджеті
 
+> *Ескерту. 13-қосымша жаңа редакцияда - Қостанай облысы Әулиекөл ауданы мәслихатының 16.03.2022 № 110 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
@@ -4398,7 +4424,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>346872,0</td>
+<td>364795,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4550,7 +4576,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>329951,0</td>
+<td>347874,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4558,7 +4584,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>329951,0</td>
+<td>347874,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4566,39 +4592,39 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>329951,0</td>
+<td>347874,0</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="6">Функционалдық топ</td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
@@ -4606,79 +4632,79 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>346872,0</td>
+<td>365966,6</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>51089,0</td>
+<td>55451,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>51089,0</td>
+<td>55451,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>51089,0</td>
+<td>55451,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>51089,0</td>
+<td>55451,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>7925,0</td>
+<td>21103,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>7925,0</td>
+<td>21103,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>7925,0</td>
+<td>21103,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>3500,0</td>
+<td>7876,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -4686,7 +4712,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>2200,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -4694,47 +4720,47 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>225,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру және көгалдандыру</td>
-<td>2000,0</td>
+<td>10802,0</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Көлік және коммуникация</td>
-<td>4000,0</td>
+<td>5500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>4000,0</td>
+<td>5500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>4000,0</td>
+<td>5500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>4000,0</td>
+<td>5500,0</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4742,7 +4768,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>283858,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -4750,7 +4776,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>283858,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -4758,7 +4784,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>283858,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>057</td>
@@ -4766,7 +4792,39 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>283858,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td>54,1</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td>54,1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>54,1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>048</td>
+<td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>54,1</td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4774,7 +4832,7 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4782,20 +4840,20 @@ source: https://zan.gov.kz/client/#!/doc/163017/kaz/29.12.2021
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-1171,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
+<td>1176,6</td>
 </tr>
 </table>
 
