@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
+source: https://zan.gov.kz/client/#!/doc/163602/rus/03.05.2022
 ---
 
 # О бюджете поселка Сарыколь Сарыкольского района Костанайской области на 2022-2024 годы
@@ -10,17 +10,17 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 
 1. Утвердить бюджет поселка Сарыколь Сарыкольского района на 2022-2024 годы согласно приложениям 1, 2 и 3 соответственно, в том числе на 2022 год в следующих объемах:
 
-   1) доходы – 135 459,0 тысяч тенге, в том числе по:
+   1) доходы – 140 228,1 тысяч тенге, в том числе по:
 
-      налоговым поступлениям – 24 445,0 тысяч тенге;
+      налоговым поступлениям – 27 950,0 тысяч тенге;
 
       неналоговым поступлениям – 0,0 тысяч тенге;
 
       поступлениям от продажи основного капитала – 0,0 тысяч тенге;
 
-      поступлениям трансфертов – 111 014,0 тысяч тенге;
+      поступлениям трансфертов – 112 278,1 тысяч тенге;
 
-   2) затраты – 143 243,6 тысячи тенге;
+   2) затраты – 148 012,7 тысяч тенге;
 
    3) чистое бюджетное кредитование – 0,0 тысяч тенге, в том числе:
 
@@ -32,11 +32,11 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 
    5) дефицит (профицит) бюджета – - 7 784,6 тысячи тенге;
 
-   6) финансирование дефицита (использование профицита) бюджета – 7 784,6 тысяч тенге;
+   6) финансирование дефицита (использование профицита) бюджета – 7 784,6 тысячи тенге;
 
       используемые остатки бюджетных средств – 7 784,6 тысячи тенге.
 
-> *Сноска. Пункт 1 в редакции решения маслихата Сарыкольского района Костанайской области от 10.03.2022 № 124 (вводится в действие с 01.01.2022).*
+> *Сноска. Пункт 1 в редакции решений маслихата Сарыкольского района Костанайской области от 10.03.2022 № 124 (вводится в действие с 01.01.2022); от 03.05.2022 № 160 (вводится в действие с 01.01.2022).*
 
 2. Учесть, что в бюджете поселка Сарыколь на 2022 год предусмотрен объем субвенций, передаваемых из районного бюджета, в сумме 98 622,0 тысячи тенге.
 
@@ -55,12 +55,12 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 
 ## Бюджет поселка Сарыколь Сарыкольского района на 2022 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата Сарыкольского района Костанайской области от 10.03.2022 № 124 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 1 в редакции решений маслихата Сарыкольского района Костанайской области от 10.03.2022 № 124 (вводится в действие с 01.01.2022); от 03.05.2022 № 160 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
 <td colspan="12">Категория</td>
-<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
@@ -81,75 +81,86 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="4">2</td>
 <td colspan="3">3</td>
 <td colspan="4">4</td>
-<td colspan="2">5</td>
+<td>5</td>
 </tr>
 <tr>
 <td colspan="8">I</td>
 <td colspan="4">Доходы</td>
-<td colspan="2">135 459,0</td>
+<td>140 228,1</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Налоговые поступления</td>
-<td colspan="2">24 445,0</td>
+<td>27 950,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">01</td>
+<td colspan="3"></td>
+<td colspan="4">Подоходный налог</td>
+<td>3 505,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4"></td>
+<td colspan="3">2</td>
+<td colspan="4">Индивидуальный подоходный налог</td>
+<td>3 505,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">04</td>
 <td colspan="3"></td>
 <td colspan="4">Налоги на собственность</td>
-<td colspan="2">24 445,0</td>
+<td>24 445,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4"></td>
 <td colspan="3">1</td>
 <td colspan="4">Hалоги на имущество</td>
-<td colspan="2">309,0</td>
+<td>309,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4"></td>
 <td colspan="3">3</td>
 <td colspan="4">Земельный налог</td>
-<td colspan="2">977,0</td>
+<td>977,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4"></td>
 <td colspan="3">4</td>
 <td colspan="4">Налог на транспортные средства</td>
-<td colspan="2">23 159,0</td>
+<td>23 159,0</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td colspan="2">111 014,0</td>
+<td>112 278,1</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">02</td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">111 014,0</td>
+<td>112 278,1</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4"></td>
 <td colspan="3">3</td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">111 014,0</td>
+<td>112 278,1</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="12">Функциональная группа</td>
-<td colspan="2" rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -160,36 +171,36 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="8">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="5"></td>
-<td colspan="3">Программа</td>
+<td colspan="4"></td>
+<td colspan="4">Программа</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
 <td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3">2</td>
-<td colspan="5">3</td>
-<td colspan="2">4</td>
+<td colspan="4">3</td>
+<td colspan="3">4</td>
 <td>5</td>
-<td colspan="2">6</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="11">II</td>
 <td>Затраты</td>
-<td colspan="2">143 243,6</td>
+<td>148 012,7</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">49 672,5</td>
+<td>51 566,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -197,7 +208,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">49 672,5</td>
+<td>51 566,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -205,7 +216,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">49 672,5</td>
+<td>51 566,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -213,7 +224,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">49 161,3</td>
+<td>51 055,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -221,7 +232,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2">022</td>
 <td>Капитальные расходы государственного органа</td>
-<td colspan="2">511,2</td>
+<td>511,2</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -229,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">69 244,0</td>
+<td>68 600,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -237,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td colspan="2">69 244,0</td>
+<td>68 600,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -245,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">69 244,0</td>
+<td>68 600,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -253,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">23 366,0</td>
+<td>20 205,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -261,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">2 189,0</td>
+<td>4 286,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -269,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2">010</td>
 <td>Содержание мест захоронений и погребение безродных</td>
-<td colspan="2">685,0</td>
+<td>685,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -277,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">43 004,0</td>
+<td>43 424,5</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -285,7 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникации</td>
-<td colspan="2">13 224,0</td>
+<td>16 742,1</td>
 </tr>
 <tr>
 <td></td>
@@ -293,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Автомобильный транспорт</td>
-<td colspan="2">13 224,0</td>
+<td>16 742,1</td>
 </tr>
 <tr>
 <td></td>
@@ -301,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">13 224,0</td>
+<td>16 742,1</td>
 </tr>
 <tr>
 <td></td>
@@ -309,7 +320,15 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2">013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">13 224,0</td>
+<td>16 242,1</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2">045</td>
+<td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>500,0</td>
 </tr>
 <tr>
 <td>14</td>
@@ -317,7 +336,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Обслуживание долга</td>
-<td colspan="2">11 103,0</td>
+<td>11 103,0</td>
 </tr>
 <tr>
 <td></td>
@@ -325,7 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Обслуживание долга</td>
-<td colspan="2">11 103,0</td>
+<td>11 103,0</td>
 </tr>
 <tr>
 <td></td>
@@ -333,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">11 103,0</td>
+<td>11 103,0</td>
 </tr>
 <tr>
 <td></td>
@@ -341,7 +360,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2">042</td>
 <td>Обслуживание долга аппарата акима города районного значения, села, поселка, сельского округа по выплате вознаграждений и иных платежей по займам из районного (города областного значения) бюджета</td>
-<td colspan="2">11 103,0</td>
+<td>11 103,0</td>
 </tr>
 <tr>
 <td>15</td>
@@ -349,7 +368,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Трансферты</td>
-<td colspan="2">0,1</td>
+<td>0,1</td>
 </tr>
 <tr>
 <td></td>
@@ -357,7 +376,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Трансферты</td>
-<td colspan="2">0,1</td>
+<td>0,1</td>
 </tr>
 <tr>
 <td></td>
@@ -365,7 +384,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">0,1</td>
+<td>0,1</td>
 </tr>
 <tr>
 <td></td>
@@ -373,14 +392,11 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="5"></td>
 <td colspan="2">048</td>
 <td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
-<td colspan="2">0,1</td>
+<td>0,1</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="12">Категория</td>
-<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="3" rowspan="2"></td>
@@ -401,57 +417,59 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="3">2</td>
 <td colspan="4">3</td>
 <td colspan="2">4</td>
-<td colspan="2">5</td>
+<td>5</td>
 </tr>
 <tr>
 <td colspan="10">III</td>
 <td colspan="2">Чистое бюджетное кредитование</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td colspan="10">IV</td>
 <td colspan="2">Сальдо по операциям с финансовыми активами</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td colspan="10">V</td>
 <td colspan="2">Дефицит (профицит) бюджета</td>
-<td colspan="2">-7 784,6</td>
+<td>-7 784,6</td>
 </tr>
 <tr>
 <td colspan="10">VI</td>
 <td colspan="2">Финансирование дефицита (использование профицита) бюджета</td>
-<td colspan="2">7 784,6</td>
+<td>7 784,6</td>
 </tr>
 <tr>
-<td colspan="3">8</td>
+<td>8</td>
+<td colspan="6"></td>
 <td colspan="3"></td>
-<td colspan="4"></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td colspan="2">7 784,6</td>
+<td>7 784,6</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="6">01</td>
 <td colspan="3"></td>
-<td colspan="3">01</td>
-<td colspan="4"></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td colspan="2">7 784,6</td>
+<td>7 784,6</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="3">1</td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td colspan="2">7 784,6</td>
+<td>7 784,6</td>
 </tr>
 </table>
 
 > *Приложение 2*  
 > *к решению маслихата*  
-> *от «10» января 2022 года*  
+> *от 10 января 2022 года*  
 > *№ 85*
 
 ## Бюджет поселка Сарыколь Сарыкольского района на 2023 год
+
+> *Сноска. Приложение 2 в редакции решения маслихата Сарыкольского района Костанайской области от 03.05.2022 № 160 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -482,7 +500,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <tr>
 <td colspan="5">I</td>
 <td colspan="3">Доходы</td>
-<td>134 170,0</td>
+<td>292 355,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -524,21 +542,21 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>109 725,0</td>
+<td>267 910,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>109 725,0</td>
+<td>267 910,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td>3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>109 725,0</td>
+<td>267 910,0</td>
 </tr>
 <tr>
 <td colspan="8">Функциональная группа</td>
@@ -574,7 +592,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <tr>
 <td colspan="7">II</td>
 <td>Затраты</td>
-<td>134 170,0</td>
+<td>292 355,0</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -670,7 +688,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="3"></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>13 224,0</td>
+<td>171 409,0</td>
 </tr>
 <tr>
 <td></td>
@@ -678,7 +696,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="3"></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>13 224,0</td>
+<td>171 409,0</td>
 </tr>
 <tr>
 <td></td>
@@ -686,7 +704,7 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td colspan="3">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>13 224,0</td>
+<td>171 409,0</td>
 </tr>
 <tr>
 <td></td>
@@ -695,6 +713,14 @@ source: https://zan.gov.kz/client/#!/doc/163602/rus/10.03.2022
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
 <td>13 224,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td>045</td>
+<td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>158 185,0</td>
 </tr>
 <tr>
 <td>14</td>
