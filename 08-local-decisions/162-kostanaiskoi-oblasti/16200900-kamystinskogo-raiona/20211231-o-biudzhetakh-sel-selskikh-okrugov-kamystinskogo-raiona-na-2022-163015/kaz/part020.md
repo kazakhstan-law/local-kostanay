@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163015/kaz/04.05.2022
+source: https://zan.gov.kz/client/#!/doc/163015/kaz/06.06.2022
 ---
 
 > *Мәслихаттың*  
@@ -746,33 +746,34 @@ source: https://zan.gov.kz/client/#!/doc/163015/kaz/04.05.2022
 
 ## Қамысты ауылдық округінің 2022 жылға арналған бюджеті
 
-> *Ескерту. 23-қосымша жаңа редакцияда – Қостанай облысы Қамысты ауданы мәслихатының 04.05.2022 № 135 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 23-қосымша жаңа редакцияда – Қостанай облысы Қамысты ауданы мәслихатының 04.05.2022 № 135 (01.01.2022 бастап қолданысқа енгізіледі); 06.06.2022 № 145 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
-<td colspan="6">Санаты</td>
-<td rowspan="4">Атауы</td>
+<td colspan="7">Санаты</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="5">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2" rowspan="2">Ішкі сыныбы</td>
+<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>І. Кірістер</td>
-<td>130268,2</td>
+<td>145279,4</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -828,21 +829,21 @@ source: https://zan.gov.kz/client/#!/doc/163015/kaz/04.05.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферттердің түсімдері</td>
-<td>122751,2</td>
+<td>137762,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>122751,2</td>
+<td>137762,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>122751,2</td>
+<td>137762,4</td>
 </tr>
 <tr>
 <td colspan="7">Функционалдық топ</td>
@@ -876,7 +877,7 @@ source: https://zan.gov.kz/client/#!/doc/163015/kaz/04.05.2022
 <td colspan="2"></td>
 <td></td>
 <td>ІІ. Шығындар</td>
-<td>130268,3</td>
+<td>145279,5</td>
 </tr>
 <tr>
 <td>01</td>
@@ -924,7 +925,7 @@ source: https://zan.gov.kz/client/#!/doc/163015/kaz/04.05.2022
 <td colspan="2"></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>45783,8</td>
+<td>59495,0</td>
 </tr>
 <tr>
 <td></td>
@@ -955,8 +956,8 @@ source: https://zan.gov.kz/client/#!/doc/163015/kaz/04.05.2022
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
-<td>44183,8</td>
+<td>Елді - мекендерді көркейту</td>
+<td>57895,0</td>
 </tr>
 <tr>
 <td></td>
@@ -964,7 +965,7 @@ source: https://zan.gov.kz/client/#!/doc/163015/kaz/04.05.2022
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>44183,8</td>
+<td>57895,0</td>
 </tr>
 <tr>
 <td></td>
@@ -996,7 +997,7 @@ source: https://zan.gov.kz/client/#!/doc/163015/kaz/04.05.2022
 <td colspan="2"></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>32723,8</td>
+<td>46435,0</td>
 </tr>
 <tr>
 <td>08</td>
@@ -1004,7 +1005,7 @@ source: https://zan.gov.kz/client/#!/doc/163015/kaz/04.05.2022
 <td colspan="2"></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>25226,0</td>
+<td>26526,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1012,7 +1013,7 @@ source: https://zan.gov.kz/client/#!/doc/163015/kaz/04.05.2022
 <td colspan="2"></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
-<td>22940,0</td>
+<td>24240,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1020,7 +1021,7 @@ source: https://zan.gov.kz/client/#!/doc/163015/kaz/04.05.2022
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>22940,0</td>
+<td>24240,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1028,7 +1029,7 @@ source: https://zan.gov.kz/client/#!/doc/163015/kaz/04.05.2022
 <td colspan="2"></td>
 <td>006</td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td>22940,0</td>
+<td>24240,0</td>
 </tr>
 <tr>
 <td></td>
