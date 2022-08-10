@@ -45,17 +45,24 @@ versions:
   cause:
     code: '169874'
     key: G22NK00148M
+- date: 2022-08-10
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '170614'
+    key: G22NK00160M
 version_date:
-  kaz: 2022-07-15
-  rus: 2022-07-15
+  kaz: 2022-08-10
+  rus: 2022-08-10
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/162753/kaz/15.07.2022
-  rus: https://zan.gov.kz/client/#!/doc/162753/rus/15.07.2022
+  kaz: https://zan.gov.kz/client/#!/doc/162753/kaz/10.08.2022
+  rus: https://zan.gov.kz/client/#!/doc/162753/rus/10.08.2022
 caused_by:
-  code: '169874'
-  key: G22NK00148M
-  requisite: Решение маслихата Камыстинского района Костанайской области от 15 июля 2022 года № 148
+  code: '170614'
+  key: G22NK00160M
+  requisite: Решение маслихата Камыстинского района Костанайской области от 10 августа 2022 года № 160
   title:
     rus: О внесении изменений в решение маслихата от 29 декабря 2021 года № 73 «О районном бюджете Камыстинского района на   2022-2024 годы»
     kaz: Мәслихаттың 2021 жылғы 29 желтоқсандағы № 73 «Қамысты ауданының 2022-2024 жылдарға арналған аудандық бюджеті туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/169874/rus
+  link: https://zan.gov.kz/client/#!/doc/170614/rus
