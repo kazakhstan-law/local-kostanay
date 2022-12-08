@@ -1,5 +1,5 @@
 ---
-version_id: '163598_582626'
+version_id: '163598_607632'
 act_code: '163598'
 language: kaz
 title: Қостанай облысы Сарыкөл ауданы Веселоподол ауылдық округінің 2022-2024 жылдарға арналған бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '162015000002'
 approval_date: 2022-01-10
-version_date: 2022-06-30
+version_date: 2022-12-08
 registry_number: '163598'
 caused_by:
-  code: '169424'
+  code: '175403'
   title: Мәслихаттың 2022 жылғы 10 қаңтардағы № 86 «Қостанай облысы Сарыкөл ауданы Веселоподол ауылдық округінің 2022-2024 жылдарға арналған бюджеті туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/169424/kaz
-source: https://zan.gov.kz/client/#!/doc/163598/kaz/30.06.2022
+  link: https://zan.gov.kz/client/#!/doc/175403/kaz
+source: https://zan.gov.kz/client/#!/doc/163598/kaz
 ---
 
 # Қостанай облысы Сарыкөл ауданы Веселоподол ауылдық округінің 2022-2024 жылдарға арналған бюджеті туралы
@@ -27,7 +27,7 @@ source: https://zan.gov.kz/client/#!/doc/163598/kaz/30.06.2022
 
 1. Сарыкөл ауданы Веселоподол ауылдық округінің 2022-2024 жылдарға арналған бюджеті тиісінше 1, 2 және 3-қосымшаларға сәйкес, оның ішінде 2022 жылға мынадай көлемдерде бекітілсін:
 
-   1) кірістер – 27 564,8 мың теңге, оның ішінде:
+   1) кірістер – 27 370,8 мың теңге, оның ішінде:
 
       салықтық түсімдер бойынша – 1 960,8 мың теңге;
 
@@ -35,9 +35,9 @@ source: https://zan.gov.kz/client/#!/doc/163598/kaz/30.06.2022
 
       негізгі капиталды сатудан түсетін түсімдер бойынша – 0,0 мың теңге;
 
-      трансферттер түсімі бойынша – 25 604,0 мың теңге;
+      трансферттер түсімі бойынша – 25 410,0 мың теңге;
 
-   2) шығындар – 27 877,6 мың теңге;
+   2) шығындар – 27 683,6 мың теңге;
 
    3) таза бюджеттік кредиттеу – 0,0 мың теңге, оның ішінде:
 
@@ -53,7 +53,7 @@ source: https://zan.gov.kz/client/#!/doc/163598/kaz/30.06.2022
 
       бюджет қаражатының пайдаланылатын қалдықтары – 312,8 мың теңге.
 
-> *Ескерту. 1-тармақ жаңа редакцияда – Қостанай облысы Сарыкөл ауданы мәслихатының 10.03.2022 № 125 (01.01.2022 бастап қолданысқа енгізіледі); 30.06.2022 № 175 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-тармақ жаңа редакцияда – Қостанай облысы Сарыкөл ауданы мәслихатының 10.03.2022 № 125 (01.01.2022 бастап қолданысқа енгізіледі); 30.06.2022 № 175 (01.01.2022 бастап қолданысқа енгізіледі); 08.12.2022 № 230 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 2. 2022 жылға арналған Веселоподол ауылдық округінің бюджетінде аудандық бюджеттен берілетін субвенциялардың көлемі 24 537,0 мың теңге сомасында көзделгені ескерілсін.
 
@@ -72,15 +72,15 @@ source: https://zan.gov.kz/client/#!/doc/163598/kaz/30.06.2022
 
 ## Сарыкөл ауданы Веселоподол ауылдық округінің 2022 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда – Қостанай облысы Сарыкөл ауданы мәслихатының 10.03.2022 № 125 (01.01.2022 бастап қолданысқа енгізіледі); 30.06.2022 № 175 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда – Қостанай облысы Сарыкөл ауданы мәслихатының 10.03.2022 № 125 (01.01.2022 бастап қолданысқа енгізіледі); 30.06.2022 № 175 (01.01.2022 бастап қолданысқа енгізіледі); 08.12.2022 № 230 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
-<td colspan="8">Санаты</td>
+<td colspan="9">Санаты</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
 <td colspan="7">Сыныбы</td>
 </tr>
 <tr>
@@ -88,114 +88,114 @@ source: https://zan.gov.kz/client/#!/doc/163598/kaz/30.06.2022
 <td colspan="5">Кіші сыныбы</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td colspan="2">2</td>
 <td colspan="3">3</td>
 <td colspan="2">4</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="6">I</td>
+<td colspan="7">I</td>
 <td colspan="2">Кірістер</td>
-<td>27 564,8</td>
+<td>27 370,8</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
 <td>1 960,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="2">Табыс салығы</td>
 <td>234,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="2">Жеке табыс салығы</td>
 <td>234,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
 <td>1 599,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="2">Мүлікке салынатын салықтар</td>
 <td>7,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Жер салығы</td>
 <td>82,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
 <td>1 510,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">05</td>
 <td colspan="2"></td>
-<td colspan="2">Жер учаскесін пайдаланғаны үшін төлем</td>
+<td colspan="2">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
 <td>127,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
-<td colspan="2">Жер салығы</td>
+<td colspan="2">Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
 <td>127,8</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">4</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>25 604,0</td>
+<td>25 410,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттік баскарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>25 604,0</td>
+<td>25 410,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>25 604,0</td>
+<td>25 410,0</td>
 </tr>
 <tr>
-<td colspan="8">Функционалдық топ</td>
+<td colspan="9">Функционалдық топ</td>
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="7">Кіші функционалдық топ</td>
+<td colspan="2" rowspan="3"></td>
+<td colspan="7">Функционалдық кіші топ</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="2"></td>
@@ -206,14 +206,14 @@ source: https://zan.gov.kz/client/#!/doc/163598/kaz/30.06.2022
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td colspan="2">2</td>
 <td colspan="3">3</td>
 <td>4</td>
@@ -221,108 +221,108 @@ source: https://zan.gov.kz/client/#!/doc/163598/kaz/30.06.2022
 <td>6</td>
 </tr>
 <tr>
-<td colspan="7">II</td>
+<td colspan="8">II</td>
 <td>Шығындар</td>
-<td>27 877,6</td>
+<td>27 683,6</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>26 204,4</td>
+<td>26 124,2</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>26 204,4</td>
+<td>26 124,2</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>26 204,4</td>
+<td>26 124,2</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>26 204,4</td>
+<td>26 124,2</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>575,0</td>
+<td>525,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>575,0</td>
+<td>525,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>575,0</td>
+<td>525,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>1 096,8</td>
+<td>525,0</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Көлiк және коммуникация</td>
-<td>1 096,8</td>
+<td>1 033,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Автомобиль көлiгi</td>
-<td>1 096,8</td>
+<td>1 033,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1 096,8</td>
+<td>1 033,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">013</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>1 096,8</td>
+<td>1 033,0</td>
 </tr>
 <tr>
-<td>15</td>
+<td colspan="2">15</td>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
@@ -330,7 +330,7 @@ source: https://zan.gov.kz/client/#!/doc/163598/kaz/30.06.2022
 <td>1,4</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
@@ -338,7 +338,7 @@ source: https://zan.gov.kz/client/#!/doc/163598/kaz/30.06.2022
 <td>1,4</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3">124</td>
 <td colspan="2"></td>
@@ -346,7 +346,7 @@ source: https://zan.gov.kz/client/#!/doc/163598/kaz/30.06.2022
 <td>1,4</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">048</td>
@@ -354,11 +354,11 @@ source: https://zan.gov.kz/client/#!/doc/163598/kaz/30.06.2022
 <td>1,4</td>
 </tr>
 <tr>
-<td colspan="8">Санаты</td>
+<td colspan="9">Санаты</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
 <td colspan="7">Сыныбы</td>
 </tr>
 <tr>
@@ -366,54 +366,54 @@ source: https://zan.gov.kz/client/#!/doc/163598/kaz/30.06.2022
 <td colspan="5">Кіші сыныбы</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td colspan="2">2</td>
 <td colspan="3">3</td>
 <td colspan="2">4</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="6">III</td>
+<td colspan="7">III</td>
 <td colspan="2">Таза бюджеттік кредиттеу</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="6">IV</td>
+<td colspan="7">IV</td>
 <td colspan="2">Қаржы активтерімен операциялар бойынша Сальдо</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="6">V</td>
+<td colspan="7">V</td>
 <td colspan="2">Бюджет тапшылығы (профициті)</td>
 <td>-312,8</td>
 </tr>
 <tr>
-<td colspan="6">VI</td>
+<td colspan="7">VI</td>
 <td colspan="2">Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>312,8</td>
 </tr>
 <tr>
-<td>8</td>
+<td colspan="2">8</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
 <td>312,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
 <td>312,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="2">Трансферттердің түсімдері</td>
