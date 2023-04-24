@@ -1,5 +1,5 @@
 ---
-version_id: '177215_614094'
+version_id: '177215_628550'
 act_code: '177215'
 language: rus
 title: О бюджете села Златоуст Сарыкольского района Костанайской области на 2023-2025 годы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '162015000002'
 approval_date: 2022-12-30
-version_date: 2022-12-30
+version_date: 2023-04-24
 registry_number: '177215'
-source: https://zan.gov.kz/client/#!/doc/177215/rus/30.12.2022
+caused_by:
+  code: '180361'
+  title: О внесении изменений в решение маслихата от 30 декабря 2022 года № 253 «О бюджете села Златоуст Сарыкольского района Костанайской области на 2023-2025 годы»
+  link: https://zan.gov.kz/client/#!/doc/180361/rus
+source: https://zan.gov.kz/client/#!/doc/177215/rus
 ---
 
 # О бюджете села Златоуст Сарыкольского района Костанайской области на 2023-2025 годы
@@ -33,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/177215/rus/30.12.2022
 
       поступлениям трансфертов – 17 506,0 тысяч тенге;
 
-   2) затраты – 26 468,0 тысяч тенге;
+   2) затраты – 28 888,3 тысяч тенге;
 
    3) чистое бюджетное кредитование – 0,0 тысяч тенге, в том числе:
 
@@ -43,9 +47,13 @@ source: https://zan.gov.kz/client/#!/doc/177215/rus/30.12.2022
 
    4) сальдо по операциям с финансовыми активами – 0,0 тысяч тенге;
 
-   5) дефицит (профицит) бюджета – 0,0 тысяч тенге;
+   5) дефицит (профицит) бюджета – - 2 420,3 тысяч тенге;
 
-   6) финансирование дефицита (использование профицита) бюджета – 0,0 тысяч тенге.
+   6) финансирование дефицита (использование профицита) бюджета – 2 420,3 тысяч тенге;
+
+      используемые остатки бюджетных средств – 2 420,3 тысяч тенге.
+
+> *Сноска. Пункт 1 в редакции решения маслихата Сарыкольского района Костанайской области от 24.04.2023 № 21 (вводится в действие с 01.01.2023).*
 
 2. Учесть, что в бюджете села Златоуст Сарыкольского района на 2023 год предусмотрен объем субвенций, передаваемых из районного бюджета, в сумме 17 506 тысяч тенге.
 
@@ -64,252 +72,316 @@ source: https://zan.gov.kz/client/#!/doc/177215/rus/30.12.2022
 
 ## Бюджет села Златоуст Сарыкольского района на 2023 год
 
+> *Сноска. Приложение 1 в редакции решения маслихата Сарыкольского района Костанайской области от 24.04.2023 № 21 (вводится в действие с 01.01.2023).*
+
 <table>
 <tr>
-<td colspan="8">Категория</td>
+<td colspan="11">Категория</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="7">Класс</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="9">Класс</td>
 </tr>
 <tr>
 <td colspan="3"></td>
-<td colspan="4">Подкласс</td>
+<td colspan="6">Подкласс</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="3">Наименование</td>
+<td colspan="2"></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td colspan="3">2</td>
-<td>3</td>
-<td colspan="3">4</td>
+<td colspan="2">3</td>
+<td colspan="4">4</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="5">I</td>
-<td colspan="3">Доходы</td>
+<td colspan="7">I</td>
+<td colspan="4">Доходы</td>
 <td>26 468,0</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="3">Налоговые поступления</td>
+<td colspan="2"></td>
+<td colspan="4">Налоговые поступления</td>
 <td>8 962,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">04</td>
-<td></td>
-<td colspan="3">Налоги на собственность</td>
-<td>1 753,0</td>
+<td colspan="2"></td>
+<td colspan="4">Налоги на собственность</td>
+<td>6 741,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
-<td>1</td>
-<td colspan="3">Hалоги на имущество</td>
+<td colspan="2">1</td>
+<td colspan="4">Hалоги на имущество</td>
 <td>21,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
-<td>3</td>
-<td colspan="3">Земельный налог</td>
+<td colspan="2">3</td>
+<td colspan="4">Земельный налог</td>
 <td>82,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
-<td>4</td>
-<td colspan="3">Налог на транспортные средства</td>
+<td colspan="2">4</td>
+<td colspan="4">Налог на транспортные средства</td>
 <td>1 650,0</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">04</td>
-<td></td>
-<td colspan="3">Единый земельный налог</td>
-<td>4 988,0</td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
-<td>5</td>
-<td colspan="3">Единый земельный налог</td>
+<td colspan="2">5</td>
+<td colspan="4">Единый земельный налог</td>
 <td>4 988,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">05</td>
-<td></td>
-<td colspan="3">Поступления за использование природных и других ресурсов</td>
+<td colspan="2"></td>
+<td colspan="4">Внутренние налоги на товары, работы и услуги</td>
 <td>2 221,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
-<td>3</td>
-<td colspan="3">Плата за пользование земельными участками</td>
+<td colspan="2">3</td>
+<td colspan="4">Поступление за использование природных и других ресурсов</td>
 <td>2 221,0</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">4</td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="3">Поступления трансфертов</td>
+<td colspan="2"></td>
+<td colspan="4">Поступления трансфертов</td>
 <td>17 506,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">02</td>
-<td></td>
-<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
+<td colspan="2"></td>
+<td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
 <td>17 506,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
-<td>3</td>
-<td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
+<td colspan="2">3</td>
+<td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
 <td>17 506,0</td>
 </tr>
 <tr>
-<td colspan="8">Функциональная группа</td>
+<td colspan="11">Функциональная группа</td>
 <td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="7">Функциональная подгруппа</td>
+<td colspan="2" rowspan="3"></td>
+<td colspan="9">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="2"></td>
-<td colspan="5">Администратор бюджетных программ</td>
+<td colspan="7">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4">Программа</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="3">Программа</td>
-</tr>
-<tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
 <td>5</td>
 <td>6</td>
 </tr>
 <tr>
-<td colspan="7">II</td>
+<td colspan="10">II</td>
 <td>Затраты</td>
-<td>26 468,0</td>
+<td>28 888,3</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td colspan="3">01</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>24 072,0</td>
+<td>24 352,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td>1</td>
-<td colspan="3"></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>24 072,0</td>
+<td>24 352,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3">124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>24 072,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
 <td colspan="3"></td>
-<td>001</td>
+<td></td>
+<td colspan="4">124</td>
+<td colspan="2"></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>24 352,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>24 072,0</td>
+<td>24 352,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td colspan="3">07</td>
 <td></td>
-<td colspan="3"></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>409,0</td>
+<td>2 549,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td>3</td>
-<td colspan="3"></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>409,0</td>
+<td>2 549,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3">124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>409,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
 <td colspan="3"></td>
-<td>008</td>
+<td></td>
+<td colspan="4">124</td>
+<td colspan="2"></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>2 549,3</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>409,0</td>
+<td>2 549,3</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td colspan="3">12</td>
 <td></td>
-<td colspan="3"></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Транспорт и коммуникации</td>
-<td>1 987,0</td>
+<td>1987,0</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">1</td>
 <td colspan="3"></td>
-<td></td>
+<td>1</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Автомобильный транспорт</td>
-<td>1 987,0</td>
+<td>1987,0</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1 987,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
 <td colspan="3"></td>
-<td>013</td>
+<td></td>
+<td colspan="4">124</td>
+<td colspan="2"></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>1987,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2">013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>1 987,0</td>
+<td>1987,0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="12">Категория</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="2"></td>
+<td colspan="8">Класс</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Подкласс</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td colspan="4">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="10">III</td>
+<td colspan="2">Чистое бюджетное кредитование</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="10">IV</td>
+<td colspan="2">Сальдо по операциям с финансовыми активами</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="10">V</td>
+<td colspan="2">Дефицит (профицит) бюджета</td>
+<td>- 2 420,3</td>
+</tr>
+<tr>
+<td colspan="10">VI</td>
+<td colspan="2">Финансирование дефицита (использование профицита) бюджета</td>
+<td>2 420,3</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">Используемые остатки бюджетных средств</td>
+<td>2 420,3</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5">01</td>
+<td colspan="3"></td>
+<td colspan="2">Остатки бюджетных средств</td>
+<td>2 420,3</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3">1</td>
+<td colspan="2">Свободные остатки бюджетных средств</td>
+<td>2 420,3</td>
 </tr>
 </table>
 
