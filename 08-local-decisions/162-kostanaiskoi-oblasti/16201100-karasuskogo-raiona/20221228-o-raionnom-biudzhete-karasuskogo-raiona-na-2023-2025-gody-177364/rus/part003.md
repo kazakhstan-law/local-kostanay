@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/177364/rus/28.12.2022
+source: https://zan.gov.kz/client/#!/doc/177364/rus/26.04.2023
 ---
 
 > *Приложение 3*  
@@ -10,32 +10,30 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/28.12.2022
 
 ## Районный бюджет на 2025 год
 
+> *Сноска. Приложение 3 в редакции решения маслихата Карасуского района Костанайской области от 26.04.2023 № 18 (вводится в действие с 01.01.2023).*
+
 <table>
 <tr>
-<td colspan="10">Категория</td>
-<td colspan="3" rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="8">Категория</td>
+<td rowspan="3">Наименование</td>
+<td colspan="3" rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="9">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="6">Подкласс</td>
+<td colspan="7">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
+<td colspan="3">Подкласс</td>
 <td colspan="3"></td>
-<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">I. Доходы</td>
-<td>4929638,0</td>
+<td>4959638,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -245,47 +243,44 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>2476676,0</td>
+<td>2506676,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>2476676,0</td>
+<td>2506676,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">2</td>
 <td colspan="3">Трансферты из областного бюджета</td>
-<td>2476676,0</td>
+<td>2506676,0</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td colspan="10">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td colspan="9">Функциональная группа</td>
+<td rowspan="4">Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="3"></td>
-<td colspan="7">Функциональная подгруппа</td>
+<td colspan="6">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="5">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="4">Программа</td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">Наименование</td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -293,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/28.12.2022
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">II. Затраты</td>
-<td>4929638,0</td>
+<td>4959638,0</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -540,7 +535,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/28.12.2022
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">039</td>
-<td colspan="2">Организация и осуществление социальной адаптации и реабилитации лиц отбывших уголовные наказания</td>
+<td colspan="2">Организация и осуществление социальной адаптации и реабилитации лиц, отбывших уголовные наказания</td>
 <td>757,0</td>
 </tr>
 <tr>
@@ -693,7 +688,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/28.12.2022
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>1458533,0</td>
+<td>1478533,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -725,7 +720,23 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/28.12.2022
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Коммунальное хозяйство</td>
-<td>1450000,0</td>
+<td>1470000,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>466</td>
+<td colspan="2"></td>
+<td colspan="2">Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
+<td>20000,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">058</td>
+<td colspan="2">Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
+<td>20000,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -944,6 +955,38 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/28.12.2022
 <td>36674,0</td>
 </tr>
 <tr>
+<td colspan="3">9</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Топливно-энергетический комплекс и недропользование</td>
+<td>10000,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Топливо и энергетика</td>
+<td>10000,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>466</td>
+<td colspan="2"></td>
+<td colspan="2">Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
+<td>10000,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">009</td>
+<td colspan="2">Развитие теплоэнергетической системы</td>
+<td>10000,0</td>
+</tr>
+<tr>
 <td colspan="3">10</td>
 <td colspan="2"></td>
 <td></td>
@@ -1100,7 +1143,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/28.12.2022
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">012</td>
-<td colspan="2">Резерв местного исполнительного органа района(города областного значения)</td>
+<td colspan="2">Резерв местного исполнительного органа района (города областного значения)</td>
 <td>2453,0</td>
 </tr>
 <tr>

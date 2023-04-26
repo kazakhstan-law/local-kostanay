@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177364/kaz/28.12.2022
+source: https://zan.gov.kz/client/#!/doc/177364/kaz/26.04.2023
 ---
 
 > *Мәслихаттың*  
@@ -10,32 +10,29 @@ source: https://zan.gov.kz/client/#!/doc/177364/kaz/28.12.2022
 
 ## 2025 жылға арналған аудандық бюджет
 
+> *Ескерту. 3-қосымша жаңа редакцияда - Қостанай облысы Қарасу ауданы мәслихатының 26.04.2023 № 18 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
-<td colspan="10">Санаты</td>
-<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
+<td colspan="9">Санаты</td>
+<td rowspan="3">Атауы</td>
+<td colspan="2" rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="8">Сыныбы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="5">Кіші сыныбы</td>
+<td colspan="6">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Атауы</td>
+<td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">I. Кірістер</td>
-<td>4929638,0</td>
+<td>4959638,0</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -245,47 +242,44 @@ source: https://zan.gov.kz/client/#!/doc/177364/kaz/28.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>2476676,0</td>
+<td>2506676,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>2476676,0</td>
+<td>2506676,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="3">Облыстық бюджеттен түсетін трансферттер</td>
-<td>2476676,0</td>
+<td>2506676,0</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td colspan="10">Функционалдық топ</td>
-<td rowspan="5">Сомасы, мың теңге</td>
+<td colspan="9">Функционалдық топ</td>
+<td rowspan="4">Атауы</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="9">Кіші функция</td>
+<td colspan="8">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="7">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Бағдарлама</td>
+<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Атауы</td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -293,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/kaz/28.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">II. Шығындар</td>
-<td>4929638,0</td>
+<td>4959638,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -693,7 +687,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/kaz/28.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1458533,0</td>
+<td>1478533,0</td>
 </tr>
 <tr>
 <td></td>
@@ -725,7 +719,23 @@ source: https://zan.gov.kz/client/#!/doc/177364/kaz/28.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Коммуналдық шаруашылық</td>
-<td>1450000,0</td>
+<td>1470000,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3">466</td>
+<td colspan="2"></td>
+<td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
+<td>20000,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">058</td>
+<td colspan="2">Ауылдық елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамыту</td>
+<td>20000,0</td>
 </tr>
 <tr>
 <td></td>
@@ -942,6 +952,38 @@ source: https://zan.gov.kz/client/#!/doc/177364/kaz/28.12.2022
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті деңгейде тілдерді және мәдениетті дамыту саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
 <td>36674,0</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Отын-энергетика кешенi және жер қойнауын пайдалану</td>
+<td>10000,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Отын және энергетика</td>
+<td>10000,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3">466</td>
+<td colspan="2"></td>
+<td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
+<td>10000,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">009</td>
+<td colspan="2">Жылу-энергетикалық жүйені дамыту</td>
+<td>10000,0</td>
 </tr>
 <tr>
 <td>10</td>
