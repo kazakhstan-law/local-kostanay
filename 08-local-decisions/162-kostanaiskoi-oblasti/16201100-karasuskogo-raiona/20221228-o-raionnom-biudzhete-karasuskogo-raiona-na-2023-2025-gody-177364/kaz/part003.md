@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177364/kaz/26.04.2023
+source: https://zan.gov.kz/client/#!/doc/177364/kaz/05.07.2023
 ---
 
 > *Мәслихаттың*  
@@ -10,29 +10,34 @@ source: https://zan.gov.kz/client/#!/doc/177364/kaz/26.04.2023
 
 ## 2025 жылға арналған аудандық бюджет
 
-> *Ескерту. 3-қосымша жаңа редакцияда - Қостанай облысы Қарасу ауданы мәслихатының 26.04.2023 № 18 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 3-қосымша жаңа редакцияда - Қостанай облысы Қарасу ауданы мәслихатының 26.04.2023 № 18 (01.01.2023 бастап қолданысқа енгізіледі); 05.07.2023 № 44 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
-<td colspan="9">Санаты</td>
-<td rowspan="3">Атауы</td>
-<td colspan="2" rowspan="3">Сомасы, мың теңге</td>
+<td colspan="10">Санаты</td>
+<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="6">Сыныбы</td>
+<td colspan="8">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3">Кіші сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Атауы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">I. Кірістер</td>
-<td>4959638,0</td>
+<td>4969638,0</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -242,44 +247,47 @@ source: https://zan.gov.kz/client/#!/doc/177364/kaz/26.04.2023
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>2506676,0</td>
+<td>2516676,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>2506676,0</td>
+<td>2516676,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="3">Облыстық бюджеттен түсетін трансферттер</td>
-<td>2506676,0</td>
+<td>2516676,0</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="9">Функционалдық топ</td>
-<td rowspan="4">Атауы</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td colspan="10">Функционалдық топ</td>
+<td colspan="2" rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="8">Кіші функция</td>
+<td colspan="9">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="7">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3">Бағдарлама</td>
+<td colspan="4">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -287,7 +295,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/kaz/26.04.2023
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">II. Шығындар</td>
-<td>4959638,0</td>
+<td>4969638,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1119,7 +1127,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/kaz/26.04.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Басқалар</td>
-<td>2453,0</td>
+<td>12453,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1127,7 +1135,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/kaz/26.04.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Басқалар</td>
-<td>2453,0</td>
+<td>12453,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1135,7 +1143,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/kaz/26.04.2023
 <td colspan="2">452</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
-<td>2453,0</td>
+<td>12453,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1143,7 +1151,23 @@ source: https://zan.gov.kz/client/#!/doc/177364/kaz/26.04.2023
 <td colspan="2"></td>
 <td colspan="2">012</td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жергілікті атқарушы органының резерві</td>
-<td>2453,0</td>
+<td>12453,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">466</td>
+<td colspan="2"></td>
+<td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
+<td>10000,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">079</td>
+<td colspan="2">«Ауыл-Ел бесігі» жобасы шеңберінде ауылдық елді мекендердегі әлеуметтік және инженерлік инфрақұрылымдарды дамыту</td>
+<td>10000,0</td>
 </tr>
 <tr>
 <td>14</td>

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/177364/rus/26.04.2023
+source: https://zan.gov.kz/client/#!/doc/177364/rus/05.07.2023
 ---
 
 > *Приложение 3*  
@@ -10,30 +10,34 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/26.04.2023
 
 ## Районный бюджет на 2025 год
 
-> *Сноска. Приложение 3 в редакции решения маслихата Карасуского района Костанайской области от 26.04.2023 № 18 (вводится в действие с 01.01.2023).*
+> *Сноска. Приложение 3 в редакции решений маслихата Карасуского района Костанайской области от 26.04.2023 № 18 (вводится в действие с 01.01.2023); от 05.07.2023 № 44 (вводится в действие с 01.01.2023).*
 
 <table>
 <tr>
-<td colspan="8">Категория</td>
-<td rowspan="3">Наименование</td>
-<td colspan="3" rowspan="3">Сумма, тысяч тенге</td>
+<td colspan="10">Категория</td>
+<td colspan="3" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">Класс</td>
+<td colspan="9">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="3">Подкласс</td>
+<td colspan="6">Подкласс</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">I. Доходы</td>
-<td>4959638,0</td>
+<td>4969638,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -243,44 +247,47 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/26.04.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>2506676,0</td>
+<td>2516676,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>2506676,0</td>
+<td>2516676,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">2</td>
 <td colspan="3">Трансферты из областного бюджета</td>
-<td>2506676,0</td>
+<td>2516676,0</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="9">Функциональная группа</td>
-<td rowspan="4">Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="10">Функциональная группа</td>
+<td colspan="2" rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="3"></td>
-<td colspan="6">Функциональная подгруппа</td>
+<td colspan="7">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="4">Администратор бюджетных программ</td>
+<td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="3">Программа</td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -288,7 +295,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/26.04.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">II. Затраты</td>
-<td>4959638,0</td>
+<td>4969638,0</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -535,7 +542,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/26.04.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">039</td>
-<td colspan="2">Организация и осуществление социальной адаптации и реабилитации лиц, отбывших уголовные наказания</td>
+<td colspan="2">Организация и осуществление социальной адаптации и реабилитации лиц отбывших уголовные наказания</td>
 <td>757,0</td>
 </tr>
 <tr>
@@ -1120,7 +1127,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/26.04.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Прочие</td>
-<td>2453,0</td>
+<td>12453,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1128,7 +1135,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/26.04.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Прочие</td>
-<td>2453,0</td>
+<td>12453,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1136,7 +1143,7 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/26.04.2023
 <td>452</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел финансов района (города областного значения)</td>
-<td>2453,0</td>
+<td>12453,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1144,7 +1151,23 @@ source: https://zan.gov.kz/client/#!/doc/177364/rus/26.04.2023
 <td></td>
 <td colspan="2">012</td>
 <td colspan="2">Резерв местного исполнительного органа района (города областного значения)</td>
-<td>2453,0</td>
+<td>12453,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>466</td>
+<td colspan="2"></td>
+<td colspan="2">Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
+<td>10000,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">079</td>
+<td colspan="2">Развитие социальной и инженерной инфраструктуры в сельских населенных пунктах в рамках проекта «Ауыл-Ел бесігі»</td>
+<td>10000,0</td>
 </tr>
 <tr>
 <td colspan="3">14</td>
