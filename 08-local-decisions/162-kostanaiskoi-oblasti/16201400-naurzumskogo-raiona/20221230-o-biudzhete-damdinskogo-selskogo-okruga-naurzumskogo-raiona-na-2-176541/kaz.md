@@ -1,5 +1,5 @@
 ---
-version_id: '176541_610753'
+version_id: '176541_652811'
 act_code: '176541'
 language: kaz
 title: Науырзым ауданының Дәмді ауылдық округінің 2023-2025 жылдарға арналған бюджеті туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '162014000002'
 approval_date: 2022-12-30
-version_date: 2022-12-30
+version_date: 2023-09-05
 registry_number: '176541'
-source: https://zan.gov.kz/client/#!/doc/176541/kaz/30.12.2022
+caused_by:
+  code: '185800'
+  title: Мәслихаттың 2022 жылғы 30 желтоқсандағы № 188 «Науырзым ауданы Дәмді ауылдық округінің 2023-2025 жылдарға арналған бюджеті туралы» шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/185800/kaz
+source: https://zan.gov.kz/client/#!/doc/176541/kaz/05.09.2023
 ---
 
 # Науырзым ауданының Дәмді ауылдық округінің 2023-2025 жылдарға арналған бюджеті туралы
@@ -23,19 +27,23 @@ source: https://zan.gov.kz/client/#!/doc/176541/kaz/30.12.2022
 
 1. Дәмді ауылдық округінің 2023-2025 жылдарға арналған бюджеті тиісінше 1, 2 және 3-қосымшаларға сәйкес, оның ішінде 2023 жылға мынадай көлемдерде бекітілсін:
 
-   1) кірістер – 33722,0 мың теңге, оның iшiнде:
+   1) кірістер – 50 484,3 мың теңге, оның iшiнде:
 
       салықтық түсімдер бойынша – 648,0 мың теңге;
 
-      трансферт түсімі бойынша – 33074,0 мың теңге;
+      трансферт түсімдері бойынша – 49836,3 мың теңге;
 
-   2) шығындар – 33722,0 мың теңге;
+   2) шығындар – 51 484,3 мың теңге;
 
-   3) таза бюджеттiк кредиттеу – 0,0 мың теңге, оның iшiнде:
+   3) таза бюджеттiк кредиттеу – 0,0 мың теңге;
 
-   4) бюджет тапшылығы (профициті) – 0,0 мың теңге;
+   4) бюджет тапшылығы (профициті) – -1000,0 мың теңге;
 
-   5) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 0,0 мың теңге.
+   5) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 1000,0 мың теңге;
+
+      Бюджет қаражатының пайдаланатын қалдықтары - 1000,0 мың тенге.
+
+> *Ескерту. 1-тармақ жаңа редакцияда - Қостанай облысы Науырзым ауданы мәслихатының 05.09.2023 № 35 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
 
 2. 2023 жылға арналған Дәмді ауылдық округінің бюджетінде аудандық бюджеттен берілетін субвенциялар көлемі 33074,0 мың теңге сомасында көзделгені ескерілсін.
 
@@ -52,290 +60,292 @@ source: https://zan.gov.kz/client/#!/doc/176541/kaz/30.12.2022
 
 ## Дәмді ауылдық округінің 2023 жылға арналған бюджеті
 
+> *Ескерту. 1-қосымша жаңа редакцияда - Қостанай облысы Науырзым ауданы мәслихатының 05.09.2023 № 35 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
-<td colspan="9">Санаты</td>
-<td colspan="3" rowspan="5">Сомасы, мың теңге</td>
+<td colspan="6">Санаты</td>
+<td colspan="2" rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="8">Сыныбы</td>
+<td colspan="5">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="5">Iшкi сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="3">Ерекшелiгi</td>
+<td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
 <td colspan="2"></td>
+<td></td>
+<td colspan="2">Ерекшелiгi</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>I. Кірістер</td>
-<td>33722,0</td>
+<td>50 484,3</td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>Салықтық түсімдер</td>
 <td>648,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">01</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">01</td>
+<td></td>
+<td></td>
 <td>Табыс салығы</td>
-<td>150,0</td>
+<td>50,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">2</td>
 <td colspan="2"></td>
+<td>2</td>
+<td></td>
 <td>Жеке табыс салығы</td>
-<td>150,0</td>
+<td>50,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">04</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">04</td>
+<td></td>
+<td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>498,0</td>
+<td>598,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">1</td>
 <td colspan="2"></td>
+<td>1</td>
+<td></td>
 <td>Мүлiкке салынатын салықтар</td>
 <td>70,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">3</td>
 <td colspan="2"></td>
+<td>3</td>
+<td></td>
 <td>Жер салығы</td>
 <td>0,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">4</td>
 <td colspan="2"></td>
+<td>4</td>
+<td></td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>428,0</td>
+<td>528,0</td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>Трансферттердің түсімдері</td>
-<td>33074,0</td>
+<td>49 836,3</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">02</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">02</td>
+<td></td>
+<td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>33074,0</td>
+<td>49 836,3</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">3</td>
 <td colspan="2"></td>
+<td>3</td>
+<td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>33074,0</td>
+<td>49 836,3</td>
 </tr>
 <tr>
-<td colspan="9">Функционалдық топ</td>
+<td colspan="6">Функционалдық топ</td>
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="7">Кіші функция</td>
+<td></td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>33722,0</td>
+<td>51 484,3</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
-<td colspan="3"></td>
+<td>01</td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк көрсетілетін қызметтер</td>
-<td>30508,0</td>
+<td>30 820,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">1</td>
+<td></td>
+<td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>30508,0</td>
+<td>30 820,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>30508,0</td>
+<td>30 820,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>30217,0</td>
+<td>30 529,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 <td>291,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
-<td colspan="3"></td>
+<td>07</td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>2689,0</td>
+<td>Тұрғынүй-коммуналдық шаруашылық</td>
+<td>3689,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">3</td>
+<td></td>
+<td>3</td>
 <td colspan="2"></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>2689,0</td>
+<td>3689,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>2689,0</td>
+<td>3689,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
 <td>2531,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>158,0</td>
+<td>1158,0</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
-<td colspan="3"></td>
+<td>12</td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td>Көлік және коммуникация</td>
-<td>525,0</td>
+<td>16 975,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">1</td>
+<td></td>
+<td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td>Автомобиль көлігі</td>
-<td>525,0</td>
+<td>16 975,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>525,0</td>
+<td>16 975,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>525,0</td>
+<td>16 975,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td>III. Таза бюджеттік кредиттеу</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td>IV. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-1000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td>V. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
+<td>1000,0</td>
 </tr>
 </table>
 
