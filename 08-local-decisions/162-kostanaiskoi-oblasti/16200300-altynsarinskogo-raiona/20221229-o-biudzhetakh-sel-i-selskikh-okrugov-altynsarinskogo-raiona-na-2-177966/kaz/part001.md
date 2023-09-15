@@ -1,16 +1,16 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
+source: https://zan.gov.kz/client/#!/doc/177966/kaz/15.09.2023
 ---
 
 > *Мәслихаттың*  
-> *22 жылғы 29 желтоқсандағы*  
+> *2022 жылғы 29 желтоқсандағы*  
 > *№ 143 шешіміне*  
-> *1- қосымша*
+> *1-қосымша*
 
 ## Алтынсарин ауданы Обаған ауылдық округінің 2023 жылғы бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда – Қостанай облысы Алтынсарин ауданы мәслихатының 25.04.2023 № 17 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда – Қостанай облысы Алтынсарин ауданы мәслихатының 25.04.2023 № 17 (01.01.2023 бастап қолданысқа енгізіледі); 15.09.2023 № 39 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -40,12 +40,12 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2"></th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2"></td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -53,7 +53,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td colspan="2"></td>
 <td>I. КІРІСТЕР</td>
-<td>335217,9</td>
+<td>323956,6</td>
 </tr>
 <tr>
 <td>1</td>
@@ -117,7 +117,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td colspan="2"></td>
 <td>Трансферттердің түсімдері</td>
-<td>321472,9</td>
+<td>310211,6</td>
 </tr>
 <tr>
 <td>4</td>
@@ -125,7 +125,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>321472,9</td>
+<td>310211,6</td>
 </tr>
 <tr>
 <td>4</td>
@@ -133,7 +133,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td>3</td>
 <td colspan="2"></td>
 <td>Аудандардан (облыстық маңызы бар қала) трансферттер</td>
-<td>321472,9</td>
+<td>310211,6</td>
 </tr>
 <tr>
 <td colspan="6">Функционалдық топ</td>
@@ -162,12 +162,12 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -175,7 +175,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td></td>
 <td colspan="2">II. ШЫҒЫНДАР</td>
-<td>339975,0</td>
+<td>328713,7</td>
 </tr>
 <tr>
 <td>01</td>
@@ -183,7 +183,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>43959,0</td>
+<td>54659,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -191,7 +191,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>43959,0</td>
+<td>54659,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -199,7 +199,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>43959,0</td>
+<td>54659,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -207,7 +207,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td>124</td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>43959,0</td>
+<td>54659,0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -215,7 +215,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>179477,1</td>
+<td>181567,0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -223,7 +223,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>179477,1</td>
+<td>181567,0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -231,7 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>179477,1</td>
+<td>181567,0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -239,7 +239,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td>124</td>
 <td>008</td>
 <td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>5500,0</td>
+<td>17026,4</td>
 </tr>
 <tr>
 <td>07</td>
@@ -247,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td>124</td>
 <td>011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>173977,1</td>
+<td>164540,6</td>
 </tr>
 <tr>
 <td>08</td>
@@ -287,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td></td>
 <td colspan="2">Көлік және коммуникация</td>
-<td>113961,9</td>
+<td>89910,7</td>
 </tr>
 <tr>
 <td>12</td>
@@ -295,7 +295,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td></td>
 <td colspan="2">Автомобиль көлігі</td>
-<td>113961,9</td>
+<td>89910,7</td>
 </tr>
 <tr>
 <td>12</td>
@@ -303,7 +303,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>113961,9</td>
+<td>89910,7</td>
 </tr>
 <tr>
 <td>12</td>
@@ -319,7 +319,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td>124</td>
 <td>045</td>
 <td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>107961,9</td>
+<td>83910,7</td>
 </tr>
 <tr>
 <td></td>
@@ -3336,362 +3336,338 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 </table>
 
 > *Мәслихаттың*  
-> *202 жылғы 29 желтоқсандағы*  
+> *2022 жылғы 29 желтоқсандағы*  
 > *№ 143 шешіміне*  
-> *10- қосымша*
+> *10-қосымша*
 
 ## Алтынсарин ауданы Димитров атындағы ауылдық округінің 2023 жылғы бюджеті
 
-> *Ескерту. 10-қосымша жаңа редакцияда – Қостанай облысы Алтынсарин ауданы мәслихатының 25.04.2023 № 17 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 10-қосымша жаңа редакцияда – Қостанай облысы Алтынсарин ауданы мәслихатының 25.04.2023 № 17 (01.01.2023 бастап қолданысқа енгізіледі); 15.09.2023 № 39 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
-<td colspan="5">Санаты</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td colspan="13">Санаты</td>
+<td colspan="3" rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="2"></td>
+<td colspan="11">Сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="9">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Ерекшелігі</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="7">Ерекшелігі</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="5">4</td>
+<td colspan="2">5</td>
+<td colspan="3">6</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>I. КІРІСТЕР</td>
-<td>38705,0</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">I. КІРІСТЕР</td>
+<td colspan="3">30727,5</td>
 </tr>
 <tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Салықтық түсімдер</td>
-<td>1749,0</td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Салықтық түсімдер</td>
+<td colspan="3">1749,0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Табыс салығы</td>
-<td>0,0</td>
+<td colspan="2">1</td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Табыс салығы</td>
+<td colspan="3">0,0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>2</td>
-<td></td>
-<td>Жеке табыс салығы</td>
-<td>0,0</td>
+<td colspan="2">1</td>
+<td colspan="2">01</td>
+<td colspan="2">2</td>
+<td colspan="5"></td>
+<td colspan="2">Жеке табыс салығы</td>
+<td colspan="3">0,0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>04</td>
-<td></td>
-<td></td>
-<td>Меншiкке салынатын салықтар</td>
-<td>1749,0</td>
+<td colspan="2">1</td>
+<td colspan="2">04</td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Меншiкке салынатын салықтар</td>
+<td colspan="3">1749,0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>04</td>
-<td>1</td>
-<td></td>
-<td>Мүлiкке салынатын салықтар</td>
-<td>17,0</td>
+<td colspan="2">1</td>
+<td colspan="2">04</td>
+<td colspan="2">1</td>
+<td colspan="5"></td>
+<td colspan="2">Мүлiкке салынатын салықтар</td>
+<td colspan="3">17,0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>04</td>
-<td>3</td>
-<td></td>
-<td>Жер салығы</td>
-<td>9,0</td>
+<td colspan="2">1</td>
+<td colspan="2">04</td>
+<td colspan="2">3</td>
+<td colspan="5"></td>
+<td colspan="2">Жер салығы</td>
+<td colspan="3">9,0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>04</td>
-<td>4</td>
-<td></td>
-<td>Көлiк құралдарына салынатын салық</td>
-<td>1723,0</td>
+<td colspan="2">1</td>
+<td colspan="2">04</td>
+<td colspan="2">4</td>
+<td colspan="5"></td>
+<td colspan="2">Көлiк құралдарына салынатын салық</td>
+<td colspan="3">1723,0</td>
 </tr>
 <tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Салықтық емес түсiмдер</td>
-<td>0,0</td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Трансферттердің түсімдері</td>
+<td colspan="3">28978,5</td>
 </tr>
 <tr>
-<td>2</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Мемлекеттік меншіктен түсетін кірістер</td>
-<td>0,0</td>
+<td colspan="2">4</td>
+<td colspan="2">02</td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
+<td colspan="3">28978,5</td>
 </tr>
 <tr>
-<td>2</td>
-<td>01</td>
-<td>5</td>
-<td></td>
-<td>Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td>0,0</td>
+<td colspan="2">4</td>
+<td colspan="2">02</td>
+<td colspan="2">3</td>
+<td colspan="5"></td>
+<td colspan="2">Аудандардан (облыстық маңызы бар қала) трансферттер</td>
+<td colspan="3">28978,5</td>
 </tr>
 <tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Трансферттердің түсімдері</td>
-<td>36956,0</td>
+<td colspan="13">Функционалдық топ</td>
+<td colspan="3" rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
-<td></td>
-<td></td>
-<td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>36956,0</td>
+<td colspan="2"></td>
+<td colspan="11">Функционалдық кіші топ</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
-<td>3</td>
-<td></td>
-<td>Аудандардан (облыстық маңызы бар қала) трансферттер</td>
-<td>36956,0</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="9">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="7">Бюджеттік бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="4">Функционалдық кіші топ</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="5">4</td>
+<td colspan="2">5</td>
+<td colspan="3">6</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Бюджеттік бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">II. ШЫҒЫНДАР</td>
+<td colspan="3">31915,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
+<td colspan="3">19462,0</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">01</td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td colspan="3">19462,0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>II. ШЫҒЫНДАР</td>
-<td>39889,7</td>
+<td colspan="2">01</td>
+<td colspan="2">1</td>
+<td colspan="2">124</td>
+<td colspan="5"></td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td colspan="3">19462,0</td>
 </tr>
 <tr>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>19762,0</td>
+<td colspan="2">01</td>
+<td colspan="2">1</td>
+<td colspan="2">124</td>
+<td colspan="5">001</td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="3">19462,0</td>
 </tr>
 <tr>
-<td>01</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>19762,0</td>
+<td colspan="2">07</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
+<td colspan="3">7303,2</td>
 </tr>
 <tr>
-<td>01</td>
-<td>1</td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>19762,0</td>
+<td colspan="2">07</td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Елді-мекендерді көркейту</td>
+<td colspan="3">7303,2</td>
 </tr>
 <tr>
-<td>01</td>
-<td>1</td>
-<td>124</td>
-<td>001</td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>19762,0</td>
+<td colspan="2">07</td>
+<td colspan="2">3</td>
+<td colspan="2">124</td>
+<td colspan="5"></td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td colspan="3">7303,2</td>
 </tr>
 <tr>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>9727,7</td>
+<td colspan="2">07</td>
+<td colspan="2">3</td>
+<td colspan="2">124</td>
+<td colspan="5">008</td>
+<td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
+<td colspan="3">5774,5</td>
 </tr>
 <tr>
-<td>07</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Елді-мекендерді көркейту</td>
-<td>9727,7</td>
+<td colspan="2">07</td>
+<td colspan="2">3</td>
+<td colspan="2">124</td>
+<td colspan="5">011</td>
+<td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td colspan="3">1528,7</td>
 </tr>
 <tr>
-<td>07</td>
-<td>3</td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>9727,7</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Көлік және коммуникация</td>
+<td colspan="3">5150,0</td>
 </tr>
 <tr>
-<td>07</td>
-<td>3</td>
-<td>124</td>
-<td>008</td>
-<td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>8243,0</td>
+<td colspan="2">12</td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Автомобиль көлігі</td>
+<td colspan="3">5150,0</td>
 </tr>
 <tr>
-<td>07</td>
-<td>3</td>
-<td>124</td>
-<td>011</td>
-<td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>1484,7</td>
+<td colspan="2">12</td>
+<td colspan="2">1</td>
+<td colspan="2">124</td>
+<td colspan="5"></td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td colspan="3">5150,0</td>
 </tr>
 <tr>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көлік және коммуникация</td>
-<td>10400,0</td>
+<td colspan="2">12</td>
+<td colspan="2">1</td>
+<td colspan="2">124</td>
+<td colspan="5">013</td>
+<td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td colspan="3">5150,0</td>
 </tr>
 <tr>
-<td>12</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Автомобиль көлігі</td>
-<td>10400,0</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">III. Таза бюджеттік кредиттеу</td>
+<td colspan="3">0,0</td>
 </tr>
 <tr>
-<td>12</td>
-<td>1</td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>10400,0</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">IV. Қаржы активтерімен операция бойынша сальдо</td>
+<td colspan="3">0,0</td>
 </tr>
 <tr>
-<td>12</td>
-<td>1</td>
-<td>124</td>
-<td>013</td>
-<td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>10400,0</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">V. Бюджет тапшылығы (профициті)</td>
+<td colspan="3">-1184,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>III. Таза бюджеттік кредиттеу</td>
-<td>0,0</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td colspan="3">1184,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>IV. Қаржы активтерімен операция бойынша сальдо</td>
-<td>0,0</td>
+<td colspan="2">8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td colspan="3">1184,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>V. Бюджет тапшылығы (профициті)</td>
-<td>-1184,7</td>
+<td colspan="2">8</td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="2">Бюджет қаражаты қалдықтары</td>
+<td colspan="3">1184,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>1184,7</td>
-</tr>
-<tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>1184,7</td>
-</tr>
-<tr>
-<td>8</td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Бюджет қаражаты қалдықтары</td>
-<td>1184,7</td>
-</tr>
-<tr>
-<td>8</td>
-<td>01</td>
-<td>1</td>
-<td></td>
-<td>Бюджет қаражатының бос қалдықтары</td>
-<td>1184,7</td>
+<td colspan="2">8</td>
+<td colspan="2">01</td>
+<td colspan="2">1</td>
+<td colspan="5"></td>
+<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
+<td colspan="3">1184,7</td>
 </tr>
 </table>
 
@@ -4366,336 +4342,336 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 > *Мәслихаттың*  
 > *2022 жылғы 29 желтоқсандағы*  
 > *№ 143 шешіміне*  
-> *13- қосымша*
+> *13-қосымша*
 
 ## Алтынсарин ауданы Iлияс Омарова атындағы ауылдық округінің 2023 жылғы бюджеті
 
-> *Ескерту. 13-қосымша жаңа редакцияда – Қостанай облысы Алтынсарин ауданы мәслихатының 25.04.2023 № 17 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 13-қосымша жаңа редакцияда – Қостанай облысы Алтынсарин ауданы мәслихатының 25.04.2023 № 17 (01.01.2023 бастап қолданысқа енгізіледі); 15.09.2023 № 39 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
-<td colspan="7">Санаты</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td colspan="15">Санаты</td>
+<td colspan="2" rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="6">Сыныбы</td>
+<td colspan="2"></td>
+<td colspan="13">Сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="5">Ішкі сыныбы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="11">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="3">Ерекшелігі</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="8">Ерекшелігі</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Атауы</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>I. КІРІСТЕР</td>
-<td>40952,0</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Салықтық түсімдер</td>
-<td>3140,0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>01</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Табыс салығы</td>
-<td>0,0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>01</td>
+<td colspan="2">1</td>
 <td colspan="2">2</td>
-<td colspan="2"></td>
-<td>Жеке табыс салығы</td>
-<td>0,0</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="5">5</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
-<td>1</td>
-<td>04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Меншiкке салынатын салықтар</td>
-<td>3140,0</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5">I. КІРІСТЕР</td>
+<td colspan="2">42255,8</td>
 </tr>
 <tr>
-<td>1</td>
-<td>04</td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td>Мүлiкке салынатын салықтар</td>
-<td>75,0</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5">Салықтық түсімдер</td>
+<td colspan="2">3140,0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>04</td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td>Жер салығы</td>
-<td>26,0</td>
+<td colspan="2">1</td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5">Табыс салығы</td>
+<td colspan="2">0,0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>04</td>
+<td colspan="2">1</td>
+<td colspan="2">01</td>
+<td colspan="3">2</td>
+<td colspan="3"></td>
+<td colspan="5">Жеке табыс салығы</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td colspan="2">04</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5">Меншiкке салынатын салықтар</td>
+<td colspan="2">3140,0</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td colspan="2">04</td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
+<td colspan="5">Мүлiкке салынатын салықтар</td>
+<td colspan="2">75,0</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td colspan="2">04</td>
+<td colspan="3">3</td>
+<td colspan="3"></td>
+<td colspan="5">Жер салығы</td>
+<td colspan="2">26,0</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td colspan="2">04</td>
+<td colspan="3">4</td>
+<td colspan="3"></td>
+<td colspan="5">Көлiк құралдарына салынатын салық</td>
+<td colspan="2">3039,0</td>
+</tr>
+<tr>
 <td colspan="2">4</td>
 <td colspan="2"></td>
-<td>Көлiк құралдарына салынатын салық</td>
-<td>3039,0</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5">Трансферттердің түсімдері</td>
+<td colspan="2">39115,8</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">4</td>
+<td colspan="2">02</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
+<td colspan="2">39115,8</td>
+</tr>
+<tr>
+<td colspan="2">4</td>
+<td colspan="2">02</td>
+<td colspan="3">3</td>
+<td colspan="3"></td>
+<td colspan="5">Аудандардан (облыстық маңызы бар қала) трансферттер</td>
+<td colspan="2">39115,8</td>
+</tr>
+<tr>
+<td colspan="15">Функционалдық топ</td>
+<td colspan="5" rowspan="5">Сомасы (мың теңге)</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="13">Функционалдық кіші топ</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="11">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Трансферттердің түсімдері</td>
-<td>37812,0</td>
+<td colspan="10">Бюджеттік бағдарлама</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>37812,0</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="6">Атауы</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td>3</td>
+<td colspan="4">4</td>
+<td colspan="6">5</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="6">II. ШЫҒЫНДАР</td>
+<td colspan="2">42702,7</td>
+</tr>
+<tr>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="6">Жалпы сипаттағы мемлекеттік қызметтер</td>
+<td colspan="2">28806,5</td>
+</tr>
+<tr>
+<td colspan="2">01</td>
+<td colspan="2">1</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="6">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td colspan="2">28806,5</td>
+</tr>
+<tr>
+<td colspan="2">01</td>
+<td colspan="2">1</td>
+<td>124</td>
+<td colspan="4"></td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td colspan="2">28806,5</td>
+</tr>
+<tr>
+<td colspan="2">01</td>
+<td colspan="2">1</td>
+<td>124</td>
+<td colspan="4">001</td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="2">28806,5</td>
+</tr>
+<tr>
+<td colspan="2">07</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="6">Тұрғын үй-коммуналдық шаруашылық</td>
+<td colspan="2">1992,4</td>
+</tr>
+<tr>
+<td colspan="2">07</td>
 <td colspan="2">3</td>
-<td colspan="2"></td>
-<td>Аудандардан (облыстық маңызы бар қала) трансферттер</td>
-<td>37812,0</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="6">Елді-мекендерді көркейту</td>
+<td colspan="2">1992,4</td>
 </tr>
 <tr>
-<td colspan="7">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="6">Функционалдық кіші топ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="5">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="4">Бюджеттік бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Атауы</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
-<th>6</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">II. ШЫҒЫНДАР</td>
-<td>41398,9</td>
-</tr>
-<tr>
-<td>01</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>29406,5</td>
-</tr>
-<tr>
-<td>01</td>
-<td>1</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>29406,5</td>
-</tr>
-<tr>
-<td>01</td>
-<td>1</td>
+<td colspan="2">07</td>
+<td colspan="2">3</td>
 <td>124</td>
-<td colspan="2"></td>
-<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>29406,5</td>
+<td colspan="4"></td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td colspan="2">1992,4</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">07</td>
+<td colspan="2">3</td>
+<td>124</td>
+<td colspan="4">008</td>
+<td colspan="6">Елді мекендердегі көшелерді жарықтандыру</td>
+<td colspan="2">1400,0</td>
+</tr>
+<tr>
+<td colspan="2">07</td>
+<td colspan="2">3</td>
+<td>124</td>
+<td colspan="4">011</td>
+<td colspan="6">Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td colspan="2">592,4</td>
+</tr>
+<tr>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="6">Көлік және коммуникация</td>
+<td colspan="2">11903,8</td>
+</tr>
+<tr>
+<td colspan="2">12</td>
+<td colspan="2">1</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="6">Автомобиль көлігі</td>
+<td colspan="2">11903,8</td>
+</tr>
+<tr>
+<td colspan="2">12</td>
+<td colspan="2">1</td>
+<td>124</td>
+<td colspan="4"></td>
+<td colspan="6">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td colspan="2">11903,8</td>
+</tr>
+<tr>
+<td colspan="2">12</td>
+<td colspan="2">1</td>
+<td>124</td>
+<td colspan="4">013</td>
+<td colspan="6">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td colspan="2">11903,8</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="6">III. Таза бюджеттік кредиттеу</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="6">IV. Қаржы активтерімен операция бойынша сальдо</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="6">V. Бюджет тапшылығы (профициті)</td>
+<td colspan="2">-446,9</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="6">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td colspan="2">446,9</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="6">Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td colspan="2">446,9</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td colspan="2">01</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="6">Бюджет қаражаты қалдықтары</td>
+<td colspan="2">446,9</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td colspan="2">01</td>
 <td>1</td>
-<td>124</td>
-<td colspan="2">001</td>
-<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>29406,5</td>
-</tr>
-<tr>
-<td>07</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1992,4</td>
-</tr>
-<tr>
-<td>07</td>
-<td>3</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Елді-мекендерді көркейту</td>
-<td>1992,4</td>
-</tr>
-<tr>
-<td>07</td>
-<td>3</td>
-<td>124</td>
-<td colspan="2"></td>
-<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1992,4</td>
-</tr>
-<tr>
-<td>07</td>
-<td>3</td>
-<td>124</td>
-<td colspan="2">008</td>
-<td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>1400,0</td>
-</tr>
-<tr>
-<td>07</td>
-<td>3</td>
-<td>124</td>
-<td colspan="2">011</td>
-<td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>592,4</td>
-</tr>
-<tr>
-<td>12</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Көлік және коммуникация</td>
-<td>10000,0</td>
-</tr>
-<tr>
-<td>12</td>
-<td>1</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Автомобиль көлігі</td>
-<td>10000,0</td>
-</tr>
-<tr>
-<td>12</td>
-<td>1</td>
-<td>124</td>
-<td colspan="2"></td>
-<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>10000,0</td>
-</tr>
-<tr>
-<td>12</td>
-<td>1</td>
-<td>124</td>
-<td colspan="2">013</td>
-<td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>10000,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">III. Таза бюджеттік кредиттеу</td>
-<td>0,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">IV. Қаржы активтерімен операция бойынша сальдо</td>
-<td>0,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>-446,9</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>446,9</td>
-</tr>
-<tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>446,9</td>
-</tr>
-<tr>
-<td>8</td>
-<td>01</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>446,9</td>
-</tr>
-<tr>
-<td>8</td>
-<td>01</td>
-<td>1</td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>446,9</td>
+<td colspan="4"></td>
+<td colspan="6">Бюджет қаражатының бос қалдықтары</td>
+<td colspan="2">446,9</td>
 </tr>
 </table>
 
@@ -5370,11 +5346,11 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 > *Мәслихаттың*  
 > *2022 жылғы 29 желтоқсандағы*  
 > *№ 143 шешіміне*  
-> *16- қосымша*
+> *16-қосымша*
 
 ## Алтынсарин ауданы Омар Шипин атындағы ауылдық округінің 2023 жылғы бюджеті
 
-> *Ескерту. 16-қосымша жаңа редакцияда – Қостанай облысы Алтынсарин ауданы мәслихатының 25.04.2023 № 17 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 16-қосымша жаңа редакцияда – Қостанай облысы Алтынсарин ауданы мәслихатының 25.04.2023 № 17 (01.01.2023 бастап қолданысқа енгізіледі); 15.09.2023 № 39 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -5404,12 +5380,12 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -5417,7 +5393,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>I. КІРІСТЕР</td>
-<td>36447,0</td>
+<td>35512,6</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5481,7 +5457,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферттердің түсімдері</td>
-<td>35121,0</td>
+<td>34186,6</td>
 </tr>
 <tr>
 <td>4</td>
@@ -5489,7 +5465,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>35121,0</td>
+<td>34186,6</td>
 </tr>
 <tr>
 <td>4</td>
@@ -5497,7 +5473,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td>Аудандардан (облыстық маңызы бар қала) трансферттер</td>
-<td>35121,0</td>
+<td>34186,6</td>
 </tr>
 <tr>
 <td colspan="7">Функционалдық топ</td>
@@ -5526,12 +5502,12 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -5539,7 +5515,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">II. ШЫҒЫНДАР</td>
-<td>37541,3</td>
+<td>36606,9</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5547,7 +5523,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>26797,0</td>
+<td>25597,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5555,7 +5531,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>26797,0</td>
+<td>25597,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5563,7 +5539,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>26797,0</td>
+<td>25597,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5571,7 +5547,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td>124</td>
 <td colspan="2">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>26797,0</td>
+<td>25597,0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -5619,7 +5595,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Көлік және коммуникация</td>
-<td>9000,0</td>
+<td>9265,6</td>
 </tr>
 <tr>
 <td>12</td>
@@ -5627,7 +5603,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Автомобиль көлігі</td>
-<td>9000,0</td>
+<td>9265,6</td>
 </tr>
 <tr>
 <td>12</td>
@@ -5635,7 +5611,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>9000,0</td>
+<td>9265,6</td>
 </tr>
 <tr>
 <td>12</td>
@@ -5643,7 +5619,7 @@ source: https://zan.gov.kz/client/#!/doc/177966/kaz/25.04.2023
 <td>124</td>
 <td colspan="2">013</td>
 <td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>9000,0</td>
+<td>9265,6</td>
 </tr>
 <tr>
 <td></td>
