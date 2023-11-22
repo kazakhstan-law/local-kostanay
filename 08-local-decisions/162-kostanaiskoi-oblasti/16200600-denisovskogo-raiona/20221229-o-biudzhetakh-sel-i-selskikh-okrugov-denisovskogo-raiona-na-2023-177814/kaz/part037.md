@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177814/kaz/05.09.2023
+source: https://zan.gov.kz/client/#!/doc/177814/kaz/22.11.2023
 ---
 
 > *Денисов аудандық мәслихатының*  
