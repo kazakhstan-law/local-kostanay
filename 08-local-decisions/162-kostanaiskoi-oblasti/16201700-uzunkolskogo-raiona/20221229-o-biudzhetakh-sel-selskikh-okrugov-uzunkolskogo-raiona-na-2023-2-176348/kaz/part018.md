@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
+source: https://zan.gov.kz/client/#!/doc/176348/kaz/12.12.2023
 ---
 
 > *Мәслихаттың*  
@@ -354,7 +354,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 
 ## 2023 жылға Ряжск ауылдық округінің бюджеті
 
-> *Ескерту. 19-қосымша жаңа редакцияда – Қостанай облысы Ұзынкөл ауданы мәслихатының 30.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 29.09.2023 № 43 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 19-қосымша жаңа редакцияда – Қостанай облысы Ұзынкөл ауданы мәслихатының 30.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 29.09.2023 № 43 (01.01.2023 бастап қолданысқа енгізіледі); 12.12.2023 № 58 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -383,7 +383,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">I. Кірістер</td>
-<td>43232,7</td>
+<td>43257,4</td>
 </tr>
 <tr>
 <td>1</td>
@@ -399,7 +399,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Табыс салығы</td>
-<td>1300,0</td>
+<td>392,0</td>
 </tr>
 <tr>
 <td></td>
@@ -407,7 +407,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">2</td>
 <td></td>
 <td colspan="4">Жеке табыс салығы</td>
-<td>1300,0</td>
+<td>392,0</td>
 </tr>
 <tr>
 <td></td>
@@ -415,7 +415,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Меншiкке салынатын салықтар</td>
-<td>3658,0</td>
+<td>4566,0</td>
 </tr>
 <tr>
 <td></td>
@@ -423,7 +423,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">1</td>
 <td></td>
 <td colspan="4">Мүлiкке салынатын салықтар</td>
-<td>145,0</td>
+<td>125,0</td>
 </tr>
 <tr>
 <td></td>
@@ -447,7 +447,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">5</td>
 <td></td>
 <td colspan="4">Бірыңғай жер салығы</td>
-<td>2000,0</td>
+<td>2928,0</td>
 </tr>
 <tr>
 <td></td>
@@ -471,7 +471,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td>38273,7</td>
+<td>38298,4</td>
 </tr>
 <tr>
 <td></td>
@@ -479,7 +479,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>38273,7</td>
+<td>38298,4</td>
 </tr>
 <tr>
 <td></td>
@@ -487,7 +487,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>38273,7</td>
+<td>38298,4</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -521,7 +521,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">II. Шығындар</td>
-<td>43232,7</td>
+<td>43257,4</td>
 </tr>
 <tr>
 <td>01</td>
@@ -529,7 +529,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Жалпы сипаттағы мемлекеттiк көрсетілетін қызметтер</td>
-<td>31601,7</td>
+<td>31487,6</td>
 </tr>
 <tr>
 <td></td>
@@ -537,7 +537,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>31601,7</td>
+<td>31487,6</td>
 </tr>
 <tr>
 <td></td>
@@ -545,7 +545,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>31601,7</td>
+<td>31487,6</td>
 </tr>
 <tr>
 <td></td>
@@ -561,7 +561,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>022</td>
 <td colspan="4">Мемлекеттік органның күрделі шығыстары</td>
-<td>476,0</td>
+<td>361,9</td>
 </tr>
 <tr>
 <td>07</td>
@@ -569,7 +569,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>8891,7</td>
+<td>9030,5</td>
 </tr>
 <tr>
 <td></td>
@@ -577,7 +577,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Елді-мекендерді көркейту</td>
-<td>8891,7</td>
+<td>9030,5</td>
 </tr>
 <tr>
 <td></td>
@@ -585,7 +585,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>8891,7</td>
+<td>9030,5</td>
 </tr>
 <tr>
 <td></td>
@@ -601,7 +601,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>011</td>
 <td colspan="4">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>7998,0</td>
+<td>8136,8</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1296,11 +1296,11 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 > *Мәслихаттың*  
 > *2022 жылғы «29» желтоқсандағы*  
 > *№ 211 шешіміне*  
-> *22-қосымша*
+> *22- қосымша*
 
 ## 2023 жылға Сатай ауылының бюджеті
 
-> *Ескерту. 22-қосымша жаңа редакцияда – Қостанай облысы Ұзынкөл ауданы мәслихатының 30.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 29.09.2023 № 43 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 22-қосымша жаңа редакцияда – Қостанай облысы Ұзынкөл ауданы мәслихатының 30.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 29.09.2023 № 43 (01.01.2023 бастап қолданысқа енгізіледі); 12.12.2023 № 58 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -1329,7 +1329,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">I. Кірістер</td>
-<td>298679,5</td>
+<td>299909,1</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1337,7 +1337,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Салықтық түсімдер</td>
-<td>5823,0</td>
+<td>4566,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1361,7 +1361,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Меншiкке салынатын салықтар</td>
-<td>5260,0</td>
+<td>3335,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1369,7 +1369,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">1</td>
 <td></td>
 <td colspan="4">Мүлiкке салынатын салықтар</td>
-<td>78,0</td>
+<td>63,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1377,7 +1377,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Жер салығы</td>
-<td>216,0</td>
+<td>25,2</td>
 </tr>
 <tr>
 <td></td>
@@ -1385,7 +1385,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">4</td>
 <td></td>
 <td colspan="4">Көлiк құралдарына салынатын салық</td>
-<td>1426,0</td>
+<td>1396,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1393,7 +1393,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">5</td>
 <td></td>
 <td colspan="4">Бірыңғай жер салығы</td>
-<td>3540,0</td>
+<td>1850,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1401,7 +1401,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Тауарларға, жұмыстарға және көрсетілетін қызметтерге салынатын iшкi салықтар</td>
-<td>63,0</td>
+<td>731,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1409,7 +1409,31 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
-<td>63,0</td>
+<td>731,0</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4">Негізгі капиталды сатудан түсетін түсімдер</td>
+<td>1257,0</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4">Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
+<td>1257,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">1</td>
+<td></td>
+<td colspan="4">Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
+<td>1257,0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1417,7 +1441,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td>292856,5</td>
+<td>294086,1</td>
 </tr>
 <tr>
 <td></td>
@@ -1425,7 +1449,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>292856,5</td>
+<td>294086,1</td>
 </tr>
 <tr>
 <td></td>
@@ -1433,7 +1457,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>292856,5</td>
+<td>294086,1</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -1467,7 +1491,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">II. Шығындар</td>
-<td>299512,5</td>
+<td>300742,1</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1475,7 +1499,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Жалпы сипаттағы мемлекеттiк көрсетілетін қызметтер</td>
-<td>34951,0</td>
+<td>35942,1</td>
 </tr>
 <tr>
 <td></td>
@@ -1483,7 +1507,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>34951,0</td>
+<td>35942,1</td>
 </tr>
 <tr>
 <td></td>
@@ -1491,7 +1515,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>34951,0</td>
+<td>35942,1</td>
 </tr>
 <tr>
 <td></td>
@@ -1499,7 +1523,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>001</td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>27485,0</td>
+<td>28873,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1507,7 +1531,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>022</td>
 <td colspan="4">Мемлекеттік органның күрделі шығыстары</td>
-<td>7466,0</td>
+<td>7068,4</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1515,7 +1539,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>9839,4</td>
+<td>10077,9</td>
 </tr>
 <tr>
 <td></td>
@@ -1523,7 +1547,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Елді-мекендерді көркейту</td>
-<td>9839,4</td>
+<td>10077,9</td>
 </tr>
 <tr>
 <td></td>
@@ -1531,7 +1555,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>9839,4</td>
+<td>10077,9</td>
 </tr>
 <tr>
 <td></td>
@@ -1547,7 +1571,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>011</td>
 <td colspan="4">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>8569,0</td>
+<td>8807,5</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2286,7 +2310,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 
 ## 2023 жылға Троебратское ауылының бюджеті
 
-> *Ескерту. 25-қосымша жаңа редакцияда – Қостанай облысы Ұзынкөл ауданы мәслихатының 29.09.2023 № 43 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 25-қосымша жаңа редакцияда – Қостанай облысы Ұзынкөл ауданы мәслихатының 29.09.2023 № 43 (01.01.2023 бастап қолданысқа енгізіледі); 12.12.2023 № 58 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -2315,7 +2339,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">I. Кірістер</td>
-<td>42819,5</td>
+<td>42822,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2331,7 +2355,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Табыс салығы</td>
-<td>1900,0</td>
+<td>2032,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2339,7 +2363,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">2</td>
 <td></td>
 <td colspan="4">Жеке табыс салығы</td>
-<td>1900,0</td>
+<td>2032,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2347,7 +2371,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Меншiкке салынатын салықтар</td>
-<td>3560,0</td>
+<td>3428,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2355,7 +2379,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">1</td>
 <td></td>
 <td colspan="4">Мүлiкке салынатын салықтар</td>
-<td>300,0</td>
+<td>244,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2363,7 +2387,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Жер салығы</td>
-<td>250,0</td>
+<td>174,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2395,7 +2419,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td>37323,5</td>
+<td>37326,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2403,7 +2427,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>37323,5</td>
+<td>37326,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2411,7 +2435,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>37323,5</td>
+<td>37326,0</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -2445,7 +2469,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">II. Шығындар</td>
-<td>44317,5</td>
+<td>44320,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2453,7 +2477,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Жалпы сипаттағы мемлекеттiк көрсетілетін қызметтер</td>
-<td>33710,5</td>
+<td>33453,3</td>
 </tr>
 <tr>
 <td></td>
@@ -2461,7 +2485,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>33710,5</td>
+<td>33453,3</td>
 </tr>
 <tr>
 <td></td>
@@ -2469,7 +2493,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>33710,5</td>
+<td>33453,3</td>
 </tr>
 <tr>
 <td></td>
@@ -2477,7 +2501,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>001</td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>33234,5</td>
+<td>33130,8</td>
 </tr>
 <tr>
 <td></td>
@@ -2485,7 +2509,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>022</td>
 <td colspan="4">Мемлекеттік органның күрделі шығыстары</td>
-<td>476,0</td>
+<td>322,5</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2493,7 +2517,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>7081,7</td>
+<td>7373,7</td>
 </tr>
 <tr>
 <td></td>
@@ -2501,7 +2525,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Елді-мекендерді көркейту</td>
-<td>7081,7</td>
+<td>7373,7</td>
 </tr>
 <tr>
 <td></td>
@@ -2509,7 +2533,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>7081,7</td>
+<td>7373,7</td>
 </tr>
 <tr>
 <td></td>
@@ -2517,7 +2541,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>008</td>
 <td colspan="4">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>6202,7</td>
+<td>6338,7</td>
 </tr>
 <tr>
 <td></td>
@@ -2525,7 +2549,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>011</td>
 <td colspan="4">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>879,0</td>
+<td>1035,0</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2533,7 +2557,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Көлiк және коммуникация</td>
-<td>3525,3</td>
+<td>3493,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2541,7 +2565,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Автомобиль көлiгi</td>
-<td>3525,3</td>
+<td>3493,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2549,7 +2573,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>3525,3</td>
+<td>3493,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2557,7 +2581,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>013</td>
 <td colspan="4">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>3525,3</td>
+<td>3493,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3240,7 +3264,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 
 ## 2023 жылға Федоров ауылдық округінің бюджеті
 
-> *Ескерту. 28-қосымша жаңа редакцияда – Қостанай облысы Ұзынкөл ауданы мәслихатының 30.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 29.09.2023 № 43 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 28-қосымша жаңа редакцияда – Қостанай облысы Ұзынкөл ауданы мәслихатының 30.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 29.09.2023 № 43 (01.01.2023 бастап қолданысқа енгізіледі); 12.12.2023 № 58 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -3269,7 +3293,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">I. Кірістер</td>
-<td>252684,3</td>
+<td>252745,5</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3277,7 +3301,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Салықтық түсімдер</td>
-<td>14752,0</td>
+<td>14771,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3285,7 +3309,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Табыс салығы</td>
-<td>7500,0</td>
+<td>7519,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3293,7 +3317,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">2</td>
 <td></td>
 <td colspan="4">Жеке табыс салығы</td>
-<td>7500,0</td>
+<td>7519,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3357,7 +3381,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Салықтық емес түсiмдер</td>
-<td>74,0</td>
+<td>55,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3365,7 +3389,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Мемлекеттік меншіктен түсетін кірістер</td>
-<td>74,0</td>
+<td>55,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3373,7 +3397,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">5</td>
 <td></td>
 <td colspan="4">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td>74,0</td>
+<td>55,0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -3381,7 +3405,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td>237858,3</td>
+<td>237919,5</td>
 </tr>
 <tr>
 <td></td>
@@ -3389,7 +3413,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>237858,3</td>
+<td>237919,5</td>
 </tr>
 <tr>
 <td></td>
@@ -3397,7 +3421,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>237858,3</td>
+<td>237919,5</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -3431,7 +3455,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">II. Шығындар</td>
-<td>254047,7</td>
+<td>254108,9</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3439,7 +3463,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Жалпы сипаттағы мемлекеттiк көрсетілетін қызметтер</td>
-<td>30300,0</td>
+<td>30113,5</td>
 </tr>
 <tr>
 <td></td>
@@ -3447,7 +3471,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>30300,0</td>
+<td>30113,5</td>
 </tr>
 <tr>
 <td></td>
@@ -3455,7 +3479,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>30300,0</td>
+<td>30113,5</td>
 </tr>
 <tr>
 <td></td>
@@ -3471,7 +3495,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>022</td>
 <td colspan="4">Мемлекеттік органның күрделі шығыстары</td>
-<td>476,0</td>
+<td>289,5</td>
 </tr>
 <tr>
 <td>07</td>
@@ -3479,7 +3503,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>14168,0</td>
+<td>14415,7</td>
 </tr>
 <tr>
 <td></td>
@@ -3487,7 +3511,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Елді-мекендерді көркейту</td>
-<td>14168,0</td>
+<td>14415,7</td>
 </tr>
 <tr>
 <td></td>
@@ -3495,7 +3519,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>14168,0</td>
+<td>14415,7</td>
 </tr>
 <tr>
 <td></td>
@@ -3511,7 +3535,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>011</td>
 <td colspan="4">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>10211,0</td>
+<td>10458,7</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4314,7 +4338,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 
 ## 2023 жылға Ұзынкөл ауылдық округінің бюджеті
 
-> *Ескерту. 31-қосымша жаңа редакцияда – Қостанай облысы Ұзынкөл ауданы мәслихатының 30.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 29.09.2023 № 43 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 31-қосымша жаңа редакцияда – Қостанай облысы Ұзынкөл ауданы мәслихатының 30.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 29.09.2023 № 43 (01.01.2023 бастап қолданысқа енгізіледі); 12.12.2023 № 58 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -4343,7 +4367,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">I. Кірістер</td>
-<td>484876,7</td>
+<td>442396,3</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4351,7 +4375,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Салықтық түсімдер</td>
-<td>53504,0</td>
+<td>47578,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4359,7 +4383,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Табыс салығы</td>
-<td>22000,0</td>
+<td>23325,1</td>
 </tr>
 <tr>
 <td></td>
@@ -4367,7 +4391,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">2</td>
 <td></td>
 <td colspan="4">Жеке табыс салығы</td>
-<td>22000,0</td>
+<td>23325,1</td>
 </tr>
 <tr>
 <td></td>
@@ -4375,7 +4399,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Меншiкке салынатын салықтар</td>
-<td>31337,0</td>
+<td>24061,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4383,7 +4407,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">1</td>
 <td></td>
 <td colspan="4">Мүлiкке салынатын салықтар</td>
-<td>666,0</td>
+<td>621,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4391,7 +4415,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Жер салығы</td>
-<td>876,0</td>
+<td>515,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4399,7 +4423,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">4</td>
 <td></td>
 <td colspan="4">Көлiк құралдарына салынатын салық</td>
-<td>24795,0</td>
+<td>19328,1</td>
 </tr>
 <tr>
 <td></td>
@@ -4407,7 +4431,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">5</td>
 <td></td>
 <td colspan="4">Бірыңғай жер салығы</td>
-<td>5000,0</td>
+<td>3596,9</td>
 </tr>
 <tr>
 <td></td>
@@ -4415,7 +4439,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Тауарларға, жұмыстарға және көрсетілетін қызметтерге салынатын iшкi салықтар</td>
-<td>167,0</td>
+<td>191,9</td>
 </tr>
 <tr>
 <td></td>
@@ -4423,7 +4447,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
-<td>15,0</td>
+<td>106,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4431,7 +4455,31 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">4</td>
 <td></td>
 <td colspan="4">Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
-<td>152,0</td>
+<td>85,9</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4">Салықтық емес түсiмдер</td>
+<td>926,0</td>
+</tr>
+<tr>
+<td></td>
+<td>06</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4">Басқа да салықтық емес түсiмдер</td>
+<td>926,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">1</td>
+<td></td>
+<td colspan="4">Басқа да салықтық емес түсiмдер</td>
+<td>926,0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4439,7 +4487,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td>431372,7</td>
+<td>393892,3</td>
 </tr>
 <tr>
 <td></td>
@@ -4447,7 +4495,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>431372,7</td>
+<td>393892,3</td>
 </tr>
 <tr>
 <td></td>
@@ -4455,7 +4503,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">3</td>
 <td></td>
 <td colspan="4">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>431372,7</td>
+<td>393892,3</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -4489,7 +4537,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">II. Шығындар</td>
-<td>484876,7</td>
+<td>442396,3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4497,7 +4545,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Жалпы сипаттағы мемлекеттiк көрсетілетін қызметтер</td>
-<td>54529,4</td>
+<td>56827,1</td>
 </tr>
 <tr>
 <td></td>
@@ -4505,7 +4553,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>54529,4</td>
+<td>56827,1</td>
 </tr>
 <tr>
 <td></td>
@@ -4513,7 +4561,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>54529,4</td>
+<td>56827,1</td>
 </tr>
 <tr>
 <td></td>
@@ -4521,7 +4569,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>001</td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>54053,4</td>
+<td>55833,7</td>
 </tr>
 <tr>
 <td></td>
@@ -4529,7 +4577,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>022</td>
 <td colspan="4">Мемлекеттік органның күрделі шығыстары</td>
-<td>476,0</td>
+<td>993,4</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4537,7 +4585,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>133100,5</td>
+<td>118584,3</td>
 </tr>
 <tr>
 <td></td>
@@ -4545,7 +4593,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Елді-мекендерді көркейту</td>
-<td>133100,5</td>
+<td>118584,3</td>
 </tr>
 <tr>
 <td></td>
@@ -4553,7 +4601,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>133100,5</td>
+<td>118584,3</td>
 </tr>
 <tr>
 <td></td>
@@ -4561,7 +4609,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>008</td>
 <td colspan="4">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>20130,8</td>
+<td>16243,8</td>
 </tr>
 <tr>
 <td></td>
@@ -4569,7 +4617,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>011</td>
 <td colspan="4">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>112969,7</td>
+<td>102340,5</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4577,7 +4625,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Көлiк және коммуникация</td>
-<td>297246,8</td>
+<td>266984,9</td>
 </tr>
 <tr>
 <td></td>
@@ -4585,7 +4633,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Автомобиль көлiгi</td>
-<td>297246,8</td>
+<td>266984,9</td>
 </tr>
 <tr>
 <td></td>
@@ -4593,7 +4641,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2">124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>297246,8</td>
+<td>266984,9</td>
 </tr>
 <tr>
 <td></td>
@@ -4601,7 +4649,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>013</td>
 <td colspan="4">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>26759,3</td>
+<td>23955,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4609,7 +4657,7 @@ source: https://zan.gov.kz/client/#!/doc/176348/kaz/29.09.2023
 <td colspan="2"></td>
 <td>045</td>
 <td colspan="4">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
-<td>270487,5</td>
+<td>243029,9</td>
 </tr>
 <tr>
 <td></td>
