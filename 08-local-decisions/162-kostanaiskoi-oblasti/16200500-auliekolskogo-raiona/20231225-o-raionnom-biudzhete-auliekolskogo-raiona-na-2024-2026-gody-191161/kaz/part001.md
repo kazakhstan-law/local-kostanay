@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
+source: https://zan.gov.kz/client/#!/doc/191161/kaz/26.01.2024
 ---
 
 > *Мәслихаттың*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 > *1-қосымша*
 
 ## Әулиекөл ауданының 2024 жылға арналған аудандық бюджеті
+
+> *Ескерту. 1-қосымша жаңа редакцияда – Қостанай облысы Әулиекөл ауданы мәслихатының 26.01.2024 № 143 (01.01.2024 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -335,7 +337,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2"></td>
 <td>II. Шығындар</td>
-<td>6620220,0</td>
+<td>6642281,5</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -343,7 +345,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк көрсетілетін қызметтер</td>
-<td>2018136,0</td>
+<td>2022436,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -463,7 +465,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы өзге де мемлекеттік қызметтер</td>
-<td>1644921,0</td>
+<td>1649221,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -471,7 +473,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td>458</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>1644921,0</td>
+<td>1649221,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -487,7 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2">113</td>
 <td>Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td>1538537,0</td>
+<td>1542837,0</td>
 </tr>
 <tr>
 <td colspan="2">02</td>
@@ -719,7 +721,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>25660,0</td>
+<td>29922,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -727,7 +729,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2"></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td>3000,0</td>
+<td>6850,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -735,7 +737,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td>466</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) сəулет, қала құрылысы жəне құрылыс бөлімі</td>
-<td>3000,0</td>
+<td>6850,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -743,7 +745,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2">004</td>
 <td>Инженерлік-коммуникациялық инфрақұрылымды жобалау, дамыту және (немесе) жайластыру</td>
-<td>3000,0</td>
+<td>6850,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -751,7 +753,23 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2"></td>
 <td>Коммуналдық шаруашылық</td>
-<td>16160,0</td>
+<td>16572,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>458</td>
+<td colspan="2"></td>
+<td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
+<td>412,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">012</td>
+<td>Сумен жабдықтау және су бұру жүйесінің жұмыс істеуі</td>
+<td>412,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -807,7 +825,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2"></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>647830,0</td>
+<td>659130,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -839,7 +857,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2"></td>
 <td>Спорт</td>
-<td>153285,0</td>
+<td>164585,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -880,6 +898,22 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td colspan="2">007</td>
 <td>Әртүрлi спорт түрлерi бойынша аудан (облыстық маңызы бар қала) құрама командаларының мүшелерiн дайындау және олардың облыстық спорт жарыстарына қатысуы</td>
 <td>17755,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>466</td>
+<td colspan="2"></td>
+<td>Ауданның (облыстық маңызы бар қаланың) сəулет, қала құрылысы жəне құрылыс бөлімі</td>
+<td>11300,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">008</td>
+<td>Cпорт объектілерін дамыту</td>
+<td>11300,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -991,7 +1025,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2"></td>
 <td>Отын-энергетика кешенi және жер қойнауын пайдалану</td>
-<td>44980,0</td>
+<td>47591,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -999,7 +1033,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2"></td>
 <td>Отын және энергетика</td>
-<td>26980,0</td>
+<td>29591,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1007,7 +1041,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td>458</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>26980,0</td>
+<td>29591,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1015,7 +1049,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2">019</td>
 <td>Жылу-энергетикалық жүйені дамыту</td>
-<td>26980,0</td>
+<td>29591,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1159,7 +1193,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2"></td>
 <td>Көлік және коммуникация</td>
-<td>1549894,0</td>
+<td>1549482,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1167,7 +1201,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2"></td>
 <td>Автомобиль көлігі</td>
-<td>1549894,0</td>
+<td>1549482,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1175,7 +1209,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td>458</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>1549894,0</td>
+<td>1549482,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1183,7 +1217,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td colspan="2">023</td>
 <td>Автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>60663,0</td>
+<td>60251,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1466,7 +1500,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>-134295,0</td>
+<td>-156356,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1474,7 +1508,7 @@ source: https://zan.gov.kz/client/#!/doc/191161/kaz/25.12.2023
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>134295,0</td>
+<td>156356,5</td>
 </tr>
 </table>
 
