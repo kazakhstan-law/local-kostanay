@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191533/kaz/28.02.2024
+source: https://zan.gov.kz/client/#!/doc/191533/kaz/28.05.2024
 ---
 
 > *Денисов*  
