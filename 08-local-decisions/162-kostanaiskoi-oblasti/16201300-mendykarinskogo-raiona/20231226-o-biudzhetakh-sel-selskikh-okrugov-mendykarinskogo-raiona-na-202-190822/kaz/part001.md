@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/190822/kaz/22.05.2024
+source: https://zan.gov.kz/client/#!/doc/190822/kaz/02.09.2024
 ---
 
 > *Мәслихаттың*  
@@ -1254,7 +1254,7 @@ source: https://zan.gov.kz/client/#!/doc/190822/kaz/22.05.2024
 
 ## Меңдіқара ауданы Теңіз ауылының 2024 жылға арналған бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Қостанай облысы Меңдіқара ауданы мәслихатының 22.05.2024 № 126 (01.01.2024 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 4-қосымша жаңа редакцияда - Қостанай облысы Меңдіқара ауданы мәслихатының 22.05.2024 № 126 (01.01.2024 бастап қолданысқа енгізіледі); 02.09.2024 № 145 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -1288,7 +1288,7 @@ source: https://zan.gov.kz/client/#!/doc/190822/kaz/22.05.2024
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>3674,0</td>
+<td>3844,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1296,7 +1296,7 @@ source: https://zan.gov.kz/client/#!/doc/190822/kaz/22.05.2024
 <td></td>
 <td></td>
 <td>Табыс салығы</td>
-<td>450,0</td>
+<td>536,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1304,7 +1304,7 @@ source: https://zan.gov.kz/client/#!/doc/190822/kaz/22.05.2024
 <td>2</td>
 <td></td>
 <td>Жеке табыс салығы</td>
-<td>450,0</td>
+<td>536,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1312,7 +1312,7 @@ source: https://zan.gov.kz/client/#!/doc/190822/kaz/22.05.2024
 <td></td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
-<td>3220,0</td>
+<td>3304,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1328,7 +1328,7 @@ source: https://zan.gov.kz/client/#!/doc/190822/kaz/22.05.2024
 <td>3</td>
 <td></td>
 <td>Жер салығы</td>
-<td>44,0</td>
+<td>49,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1336,7 +1336,7 @@ source: https://zan.gov.kz/client/#!/doc/190822/kaz/22.05.2024
 <td>4</td>
 <td></td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>1260,0</td>
+<td>1828,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1344,7 +1344,7 @@ source: https://zan.gov.kz/client/#!/doc/190822/kaz/22.05.2024
 <td>5</td>
 <td></td>
 <td>Бірыңғай жер салығы</td>
-<td>1880,0</td>
+<td>1391,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1392,31 +1392,7 @@ source: https://zan.gov.kz/client/#!/doc/190822/kaz/22.05.2024
 <td></td>
 <td></td>
 <td>Негізгі капиталды сатудан түсетін түсімдер</td>
-<td>170,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>03</td>
-<td></td>
-<td></td>
-<td>Жердi және материалдық емес активтердi сату</td>
-<td>170,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>Жерді сату</td>
-<td>120,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td>2</td>
-<td></td>
-<td>Материалдық емес активтерді сату</td>
-<td>50,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
