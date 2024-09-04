@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191592/kaz/26.06.2024
+source: https://zan.gov.kz/client/#!/doc/191592/kaz/04.09.2024
 ---
 
 > *Мәслихаттың*  
@@ -10,34 +10,32 @@ source: https://zan.gov.kz/client/#!/doc/191592/kaz/26.06.2024
 
 ## 2026 жылға арналған аудандық бюджет
 
-> *Ескерту. 3-қосымша жаңа редакцияда – Қостанай облысы Қарасу ауданы мәслихатының 26.02.2024 № 111 (01.01.2024 бастап қолданысқа енгізіледі); 26.06.2024 № 143 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 3-қосымша жаңа редакцияда – Қостанай облысы Қарасу ауданы мәслихатының 26.02.2024 № 111 (01.01.2024 бастап қолданысқа енгізіледі); 26.06.2024 № 143 (01.01.2024 бастап қолданысқа енгізіледі); 04.09.2024 № 157 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
-<td colspan="10">Санаты</td>
-<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
+<td colspan="7">Санаты</td>
+<td colspan="3" rowspan="4">Атауы</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="8">Сыныбы</td>
+<td colspan="5">Сыныбы</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2"></td>
+<td colspan="3" rowspan="2"></td>
+<td colspan="2">Кіші сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="5">Кіші сыныбы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Атауы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">I. Кірістер</td>
-<td>3355632,0</td>
+<td>2935632,0</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -247,50 +245,41 @@ source: https://zan.gov.kz/client/#!/doc/191592/kaz/26.06.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>1408565,0</td>
+<td>988565,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>1408565,0</td>
+<td>988565,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="3">Облыстық бюджеттен түсетін трансферттер</td>
-<td>1408565,0</td>
+<td>988565,0</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="10">Функционалдық топ</td>
-<td rowspan="5">Сомасы, мың теңге</td>
+<td colspan="9">Функционалдық топ</td>
+<td rowspan="4">Атауы</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="9">Кіші функция</td>
+<td colspan="8">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="7">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="4">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Атауы</td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -298,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/191592/kaz/26.06.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">II. Шығындар</td>
-<td>3355632,0</td>
+<td>2935632,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -642,7 +631,7 @@ source: https://zan.gov.kz/client/#!/doc/191592/kaz/26.06.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1280829,0</td>
+<td>860829,0</td>
 </tr>
 <tr>
 <td></td>
@@ -674,7 +663,7 @@ source: https://zan.gov.kz/client/#!/doc/191592/kaz/26.06.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Коммуналдық шаруашылық</td>
-<td>1270000,0</td>
+<td>850000,0</td>
 </tr>
 <tr>
 <td></td>
@@ -698,7 +687,7 @@ source: https://zan.gov.kz/client/#!/doc/191592/kaz/26.06.2024
 <td colspan="3">492</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
-<td>820000,0</td>
+<td>400000,0</td>
 </tr>
 <tr>
 <td></td>
@@ -706,7 +695,7 @@ source: https://zan.gov.kz/client/#!/doc/191592/kaz/26.06.2024
 <td colspan="3"></td>
 <td colspan="2">058</td>
 <td colspan="2">Ауылдық елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамыту</td>
-<td>820000,0</td>
+<td>400000,0</td>
 </tr>
 <tr>
 <td></td>
