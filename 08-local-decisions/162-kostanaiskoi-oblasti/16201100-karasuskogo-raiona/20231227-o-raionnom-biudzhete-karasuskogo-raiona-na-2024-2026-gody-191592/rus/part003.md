@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191592/rus/04.09.2024
+source: https://zan.gov.kz/client/#!/doc/191592/rus/06.12.2024
 ---
 
 > *Приложение 3*  
@@ -10,32 +10,34 @@ source: https://zan.gov.kz/client/#!/doc/191592/rus/04.09.2024
 
 ## Районный бюджет на 2026 год
 
-> *Сноска. Приложение 3 в редакции решений маслихата Карасуского района Костанайской области от 26.02.2024 № 111 (вводится в действие с 01.01.2024); от 26.06.2024 № 143 (вводится в действие с 01.01.2024); от 04.09.2024 № 157 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 3 в редакции решений маслихата Карасуского района Костанайской области от 26.02.2024 № 111 (вводится в действие с 01.01.2024); от 26.06.2024 № 143 (вводится в действие с 01.01.2024); от 04.09.2024 № 157 (вводится в действие с 01.01.2024); от 06.12.2024 № 179 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
-<td colspan="7">Категория</td>
-<td colspan="3" rowspan="4">Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="10">Категория</td>
+<td colspan="3" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="5">Класс</td>
+<td></td>
+<td colspan="9">Класс</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
+<td></td>
 <td colspan="3"></td>
+<td colspan="6">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">I. Доходы</td>
-<td>2935632,0</td>
+<td>2945632,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -245,22 +247,25 @@ source: https://zan.gov.kz/client/#!/doc/191592/rus/04.09.2024
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>988565,0</td>
+<td>998565,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>988565,0</td>
+<td>998565,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">2</td>
 <td colspan="3">Трансферты из областного бюджета</td>
-<td>988565,0</td>
+<td>998565,0</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td colspan="9">Функциональная группа</td>
 <td rowspan="4">Наименование</td>
@@ -287,7 +292,7 @@ source: https://zan.gov.kz/client/#!/doc/191592/rus/04.09.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">II. Затраты</td>
-<td>2935632,0</td>
+<td>2945632,0</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -631,7 +636,7 @@ source: https://zan.gov.kz/client/#!/doc/191592/rus/04.09.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>860829,0</td>
+<td>870829,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -663,7 +668,7 @@ source: https://zan.gov.kz/client/#!/doc/191592/rus/04.09.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Коммунальное хозяйство</td>
-<td>850000,0</td>
+<td>860000,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -687,7 +692,7 @@ source: https://zan.gov.kz/client/#!/doc/191592/rus/04.09.2024
 <td>492</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции района (города областного значения)</td>
-<td>400000,0</td>
+<td>410000,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -695,7 +700,7 @@ source: https://zan.gov.kz/client/#!/doc/191592/rus/04.09.2024
 <td></td>
 <td colspan="2">058</td>
 <td colspan="2">Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td>400000,0</td>
+<td>410000,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
