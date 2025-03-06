@@ -1,5 +1,5 @@
 ---
-version_id: '205155_740141'
+version_id: '205155_749020'
 act_code: '205155'
 language: rus
 title: О бюджете Новонежинского сельского округа Аулиекольского района на 2025-2027 годы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '162005000002'
 approval_date: 2024-12-27
-version_date: 2024-12-27
+version_date: 2025-03-06
 registry_number: '205155'
-source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
+caused_by:
+  code: '207889'
+  title: О внесении изменений в решение маслихата от 27 декабря 2024 года № 265 «О бюджете Новонежинского сельского округа Аулиекольского района на 2025-2027 годы»
+  link: https://zan.gov.kz/client/#!/doc/207889/rus
+source: https://zan.gov.kz/client/#!/doc/205155/rus/06.03.2025
 ---
 
 # О бюджете Новонежинского сельского округа Аулиекольского района на 2025-2027 годы
@@ -23,7 +27,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 
 1. Утвердить бюджет Новонежинского сельского округа на 2025-2027 годы согласно приложениям 1, 2 и 3 соответственно, в том числе на 2025 год в следующих объемах:
 
-   1) доходы – 53 647,0 тысяч тенге, в том числе по:
+   1) доходы – 53 921,5 тысяч тенге, в том числе по:
 
       налоговым поступлениям – 28 925,0 тысяч тенге;
 
@@ -31,17 +35,19 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 
       поступлениям от продажи основного капитала – 578,0 тысяч тенге;
 
-      поступлениям трансфертов – 24 040,0 тысяч тенге;
+      поступлениям трансфертов – 24 314,5 тысяч тенге;
 
-   2) затраты – 53 647,0 тысяч тенге;
+   2) затраты – 62 010,3 тысячи тенге;
 
    3) чистое бюджетное кредитование – 0,0 тысяч тенге;
 
    4) сальдо по операциям с финансовыми активами – 0,0 тысяч тенге;
 
-   5) дефицит (профицит) бюджета – 0,0 тысяч тенге;
+   5) дефицит (профицит) бюджета – - 8 088,8 тысяч тенге;
 
-   6) финансирование дефицита (использование профицита) бюджета – 0,0 тысяч тенге.
+   6) финансирование дефицита (использование профицита) бюджета – 8 088,8 тысяч тенге.
+
+> *Сноска. Пункт 1 в редакции решения маслихата Аулиекольского района Костанайской области от 06.03.2025 № 291 (вводится в действие с 01.01.2025).*
 
 2. Учесть, что в бюджете Новонежинского сельского округа предусмотрен объем субвенций, передаваемых из районного бюджета на 2025 год в сумме 15 040,0 тысяч тенге.
 
@@ -58,28 +64,30 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 
 ## Бюджет Новонежинского сельского округа Аулиекольского района на 2025 год
 
+> *Сноска. Приложение 1 в редакции решения маслихата Аулиекольского района Костанайской области от 06.03.2025 № 291 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="5">Категория</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Класс</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3">Подкласс</td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
 <td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
@@ -87,15 +95,15 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>53647,0</td>
+<td>53921,5</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -103,7 +111,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>28925,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -111,7 +119,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>18000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -119,7 +127,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>18000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -127,7 +135,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>10380,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -135,7 +143,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>142,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>3</td>
 <td></td>
@@ -143,7 +151,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>22,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>4</td>
 <td></td>
@@ -151,7 +159,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>7796,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>5</td>
 <td></td>
@@ -159,7 +167,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>2420,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>05</td>
 <td></td>
 <td></td>
@@ -167,7 +175,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>545,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>3</td>
 <td></td>
@@ -175,7 +183,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>545,0</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -183,7 +191,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>104,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -191,7 +199,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>54,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -199,7 +207,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>54,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>06</td>
 <td></td>
 <td></td>
@@ -207,7 +215,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>50,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -215,7 +223,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>50,0</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -223,7 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>578,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -231,7 +239,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>578,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -239,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>68,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -247,28 +255,28 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>510,0</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
+<td>4</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>24040,0</td>
+<td>24314,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>24040,0</td>
+<td>24314,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>3</td>
 <td></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>24040,0</td>
+<td>24314,5</td>
 </tr>
 </table>
 
@@ -313,7 +321,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>53647,0</td>
+<td>62010,3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -321,7 +329,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>39147,0</td>
+<td>39421,5</td>
 </tr>
 <tr>
 <td></td>
@@ -329,7 +337,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>39147,0</td>
+<td>39421,5</td>
 </tr>
 <tr>
 <td></td>
@@ -337,7 +345,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>39147,0</td>
+<td>39421,5</td>
 </tr>
 <tr>
 <td></td>
@@ -345,7 +353,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>39147,0</td>
+<td>39421,5</td>
 </tr>
 <tr>
 <td>07</td>
@@ -353,7 +361,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>12000,0</td>
+<td>20088,7</td>
 </tr>
 <tr>
 <td></td>
@@ -361,7 +369,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>12000,0</td>
+<td>20088,7</td>
 </tr>
 <tr>
 <td></td>
@@ -369,7 +377,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>12000,0</td>
+<td>20088,7</td>
 </tr>
 <tr>
 <td></td>
@@ -393,7 +401,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>3000,0</td>
+<td>11088,7</td>
 </tr>
 <tr>
 <td>12</td>
@@ -428,6 +436,38 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td>2500,0</td>
 </tr>
 <tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td>0,1</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td>0,1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>0,1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>048</td>
+<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td>0,1</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -449,7 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>0,0</td>
+<td>-8088,8</td>
 </tr>
 <tr>
 <td></td>
@@ -457,7 +497,7 @@ source: https://zan.gov.kz/client/#!/doc/205155/rus/27.12.2024
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0,0</td>
+<td>8088,8</td>
 </tr>
 </table>
 
