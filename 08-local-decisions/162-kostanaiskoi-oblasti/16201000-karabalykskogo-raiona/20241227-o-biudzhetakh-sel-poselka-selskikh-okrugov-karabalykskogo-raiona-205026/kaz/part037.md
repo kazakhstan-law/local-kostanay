@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205026/kaz/07.02.2025
+source: https://zan.gov.kz/client/#!/doc/205026/kaz/27.05.2025
 ---
 
 > *Қарабалық*  
