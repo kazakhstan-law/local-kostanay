@@ -38,17 +38,24 @@ versions:
   cause:
     code: '211332'
     key: G25NG00314M
+- date: 2025-07-23
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '212712'
+    key: G25NG00318M
 version_date:
-  kaz: 2025-06-17
-  rus: 2025-06-17
+  kaz: 2025-07-23
+  rus: 2025-07-23
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/204951/kaz/17.06.2025
-  rus: https://zan.gov.kz/client/#!/doc/204951/rus/17.06.2025
+  kaz: https://zan.gov.kz/client/#!/doc/204951/kaz/23.07.2025
+  rus: https://zan.gov.kz/client/#!/doc/204951/rus/23.07.2025
 caused_by:
-  code: '211332'
-  key: G25NG00314M
-  requisite: Решение маслихата Аулиекольского района Костанайской области от 17 июня 2025 года № 314
+  code: '212712'
+  key: G25NG00318M
+  requisite: Решение маслихата Аулиекольского района Костанайской области от 23 июля 2025 года № 318
   title:
     rus: О внесении изменений в решение маслихата от 25 декабря 2024 года № 253 «О районном бюджете Аулиекольского района на 2025-2027 годы»
     kaz: Мәслихаттың 2024 жылғы 25 желтоқсандағы № 253 «Әулиекөл ауданының 2025-2027 жылдарға арналған аудандық бюджеті туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/211332/rus
+  link: https://zan.gov.kz/client/#!/doc/212712/rus
