@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/212149/kaz/10.07.2025
   rus: https://zan.gov.kz/client/#!/doc/212149/rus/10.07.2025
+repealed_on: 2025-09-15
+repealed_by:
+  code: '214111'
+  key: G25NRC0005B
+  requisite: Решение акима Белинского сельского округа района Беимбета Майлина Костанайской области от 12 сентября 2025 года № 5
+  title:
+    rus: О снятии ограничительных мероприятий
+    kaz: Шектеу шараларын жою туралы
+  link: https://zan.gov.kz/client/#!/doc/214111/rus
