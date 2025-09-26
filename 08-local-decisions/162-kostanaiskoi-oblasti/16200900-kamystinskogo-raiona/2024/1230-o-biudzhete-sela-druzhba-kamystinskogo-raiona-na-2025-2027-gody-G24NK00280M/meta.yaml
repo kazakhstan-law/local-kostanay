@@ -38,17 +38,24 @@ versions:
   cause:
     code: '211834'
     key: G25NK00358M
+- date: 2025-09-26
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '214960'
+    key: G25NK00377M
 version_date:
-  kaz: 2025-06-30
-  rus: 2025-06-30
+  kaz: 2025-09-26
+  rus: 2025-09-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/205443/kaz/30.06.2025
-  rus: https://zan.gov.kz/client/#!/doc/205443/rus/30.06.2025
+  kaz: https://zan.gov.kz/client/#!/doc/205443/kaz/26.09.2025
+  rus: https://zan.gov.kz/client/#!/doc/205443/rus/26.09.2025
 caused_by:
-  code: '211834'
-  key: G25NK00358M
-  requisite: Решение маслихата Камыстинского района Костанайской области от 30 июня 2025 года № 358
+  code: '214960'
+  key: G25NK00377M
+  requisite: Решение маслихата Камыстинского района Костанайской области от 26 сентября 2025 года № 377
   title:
     rus: О внесении изменений в решение маслихата от 30 декабря 2024 года № 280 «О бюджете села Дружба Камыстинского района на 2025 - 2027 годы»
     kaz: Мәслихаттың 2024 жылғы 30 желтоқсандағы № 280 «Қамысты ауданы Дружба ауылының 2025-2027 жылдарға арналған бюджеті туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/211834/rus
+  link: https://zan.gov.kz/client/#!/doc/214960/rus
