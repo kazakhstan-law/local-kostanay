@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205865/kaz/23.07.2025
+source: https://zan.gov.kz/client/#!/doc/205865/kaz/20.10.2025
 ---
 
 > *Мәслихаттың*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/205865/kaz/23.07.2025
 
 ## 2027 жылға арналған аудандық бюджет
 
-> *Ескерту. 3-қосымша жаңа редакцияда - Қостанай облысы Қарасу ауданы мәслихатының 19.02.2025 № 206 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 3-қосымша жаңа редакцияда - Қостанай облысы Қарасу ауданы мәслихатының 19.02.2025 № 206 (01.01.2025 бастап қолданысқа енгізіледі); 20.10.2025 № 262 (20.10.2025 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -35,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/205865/kaz/23.07.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">I. Кірістер</td>
-<td>3526208,0</td>
+<td>3138374,0</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -280,21 +280,21 @@ source: https://zan.gov.kz/client/#!/doc/205865/kaz/23.07.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>1663259,0</td>
+<td>1275425,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>1663259,0</td>
+<td>1275425,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="3">Облыстық бюджеттен түсетін трансферттер</td>
-<td>1663259,0</td>
+<td>1275425,0</td>
 </tr>
 </table>
 
@@ -325,7 +325,7 @@ source: https://zan.gov.kz/client/#!/doc/205865/kaz/23.07.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">II. Шығындар</td>
-<td>3526208,0</td>
+<td>3138374,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -669,7 +669,7 @@ source: https://zan.gov.kz/client/#!/doc/205865/kaz/23.07.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1526957,0</td>
+<td>1139123,0</td>
 </tr>
 <tr>
 <td></td>
@@ -701,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/205865/kaz/23.07.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Коммуналдық шаруашылық</td>
-<td>1518855,0</td>
+<td>1131021,0</td>
 </tr>
 <tr>
 <td></td>
@@ -709,7 +709,7 @@ source: https://zan.gov.kz/client/#!/doc/205865/kaz/23.07.2025
 <td colspan="3">466</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
-<td>1153855,0</td>
+<td>766021,0</td>
 </tr>
 <tr>
 <td></td>
@@ -717,7 +717,7 @@ source: https://zan.gov.kz/client/#!/doc/205865/kaz/23.07.2025
 <td colspan="3"></td>
 <td colspan="2">058</td>
 <td colspan="2">Ауылдық елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамыту</td>
-<td>1153855,0</td>
+<td>766021,0</td>
 </tr>
 <tr>
 <td></td>

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/205865/rus/23.07.2025
+source: https://zan.gov.kz/client/#!/doc/205865/rus/20.10.2025
 ---
 
 > *Приложение 3*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/205865/rus/23.07.2025
 
 ## Районный бюджет на 2027 год
 
-> *Сноска. Приложение 3 в редакции решения маслихата Карасуского района Костанайской области от 19.02.2025 № 206 (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 3 в редакции решений маслихата Карасуского района Костанайской области от 19.02.2025 № 206 (вводится в действие с 01.01.2025); от 20.10.2025 № 262 (вводится в действие с 20.10.2025).*
 
 <table>
 <tr>
@@ -35,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/205865/rus/23.07.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">I. Доходы</td>
-<td>3526208,0</td>
+<td>3138374,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -280,21 +280,21 @@ source: https://zan.gov.kz/client/#!/doc/205865/rus/23.07.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>1663259,0</td>
+<td>1275425,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>1663259,0</td>
+<td>1275425,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">2</td>
 <td colspan="3">Трансферты из областного бюджета</td>
-<td>1663259,0</td>
+<td>1275425,0</td>
 </tr>
 </table>
 
@@ -325,7 +325,7 @@ source: https://zan.gov.kz/client/#!/doc/205865/rus/23.07.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">II. Затраты</td>
-<td>3526208,0</td>
+<td>3138374,0</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -669,7 +669,7 @@ source: https://zan.gov.kz/client/#!/doc/205865/rus/23.07.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>1526957,0</td>
+<td>1139123,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -701,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/205865/rus/23.07.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Коммунальное хозяйство</td>
-<td>1518855,0</td>
+<td>1131021,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -709,7 +709,7 @@ source: https://zan.gov.kz/client/#!/doc/205865/rus/23.07.2025
 <td>466</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
-<td>1153855,0</td>
+<td>766021,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -717,7 +717,7 @@ source: https://zan.gov.kz/client/#!/doc/205865/rus/23.07.2025
 <td></td>
 <td colspan="2">058</td>
 <td colspan="2">Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td>1153855,0</td>
+<td>766021,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
