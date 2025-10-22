@@ -1,0 +1,25 @@
+key: G25NRC0007B
+akn: /akn/kz/act/2025-10-22/G25NRC0007B
+act_code: '215851'
+requisite: Решение акима Белинского сельского округа района Беимбета Майлина Костанайской области от 22 октября 2025 года № 7
+title:
+  rus: О снятии ограничительных мероприятий
+  kaz: Шектеу шараларын жою туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2025-10-22
+in_force_from: 2025-10-23
+approved_by:
+- '162016003002'
+versions:
+- date: 2025-10-22
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-10-22
+  rus: 2025-10-22
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/215851/kaz/22.10.2025
+  rus: https://zan.gov.kz/client/#!/doc/215851/rus/22.10.2025
