@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205878/kaz/09.07.2025
+source: https://zan.gov.kz/client/#!/doc/205878/kaz/28.10.2025
 ---
 
 > *Мәслихаттың*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/kaz/09.07.2025
 
 ## Айдарлы ауылдық округінің 2025 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қостанай облысы Қарасу ауданы мәслихатының 29.04.2025 № 234 (01.01.2025 бастап қолданысқа енгізіледі); 09.07.2025 № 240 (09.07.2025 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қостанай облысы Қарасу ауданы мәслихатының 29.04.2025 № 234 (01.01.2025 бастап қолданысқа енгізіледі); 09.07.2025 № 240 (09.07.2025 бастап қолданысқа енгізіледі); 28.10.2025 № 265 (28.10.2025 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -35,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/kaz/09.07.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">I. Кірістер</td>
-<td>34994,1</td>
+<td>39158,1</td>
 </tr>
 <tr>
 <td>1</td>
@@ -112,35 +112,35 @@ source: https://zan.gov.kz/client/#!/doc/205878/kaz/09.07.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Салықтық емес түсiмдер</td>
-<td>527,0</td>
+<td>4691,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="4">Мемлекеттік меншіктен түсетін кірістер</td>
-<td>527,0</td>
+<td>107,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="4">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td>527,0</td>
+<td>107,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">06</td>
 <td colspan="2"></td>
 <td colspan="4">Басқа да салықтық емес түсiмдер</td>
-<td>420,0</td>
+<td>4584,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="4">Басқа да салықтық емес түсiмдер</td>
-<td>420,0</td>
+<td>4584,0</td>
 </tr>
 <tr>
 <td>3</td>
@@ -197,7 +197,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/kaz/09.07.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2">Атауы</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -205,7 +205,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/kaz/09.07.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">II. Шығындар</td>
-<td>41131,5</td>
+<td>45295,5</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -213,7 +213,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/kaz/09.07.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк көрсетілетін қызметтер</td>
-<td>33624,5</td>
+<td>36917,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -221,7 +221,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/kaz/09.07.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>33624,5</td>
+<td>36917,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -229,7 +229,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/kaz/09.07.2025
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>33624,5</td>
+<td>36917,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -237,7 +237,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/kaz/09.07.2025
 <td colspan="2"></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>33624,5</td>
+<td>36917,5</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -245,7 +245,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/kaz/09.07.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>7507,0</td>
+<td>8378,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -253,7 +253,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/kaz/09.07.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Елді - мекендерді көркейту</td>
-<td>7507,0</td>
+<td>8378,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -261,7 +261,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/kaz/09.07.2025
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>7507,0</td>
+<td>8378,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -269,7 +269,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/kaz/09.07.2025
 <td colspan="2"></td>
 <td>008</td>
 <td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>7507,0</td>
+<td>8378,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>

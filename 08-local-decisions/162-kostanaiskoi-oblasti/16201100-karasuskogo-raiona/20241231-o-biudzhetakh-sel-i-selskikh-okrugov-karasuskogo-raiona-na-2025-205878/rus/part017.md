@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
+source: https://zan.gov.kz/client/#!/doc/205878/rus/28.10.2025
 ---
 
 > *Приложение 17*  
@@ -722,7 +722,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 
 ## Бюджет Койбагарского сельского округа на 2025 год
 
-> *Сноска. Приложение 19 в редакции решений маслихата Карасуского района Костанайской области от 29.04.2025 № 234 (вводится в действие с 01.01.2025); от 09.07.2025 № 240 (вводится в действие с 09.07.2025).*
+> *Сноска. Приложение 19 в редакции решений маслихата Карасуского района Костанайской области от 29.04.2025 № 234 (вводится в действие с 01.01.2025); от 09.07.2025 № 240 (вводится в действие с 09.07.2025); от 28.10.2025 № 265 (вводится в действие с 28.10.2025).*
 
 <table>
 <tr>
@@ -747,14 +747,14 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="2">I. Доходы</td>
-<td>45585,1</td>
+<td>46185,1</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td>14270,0</td>
+<td>14870,0</td>
 </tr>
 <tr>
 <td></td>
@@ -775,7 +775,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td colspan="4">04</td>
 <td colspan="2"></td>
 <td colspan="2">Налоги на собственность</td>
-<td>8030,0</td>
+<td>8630,0</td>
 </tr>
 <tr>
 <td></td>
@@ -796,7 +796,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td colspan="4"></td>
 <td colspan="2">4</td>
 <td colspan="2">Налог на транспортные средства</td>
-<td>5683,0</td>
+<td>6283,0</td>
 </tr>
 <tr>
 <td></td>
@@ -909,7 +909,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2">Наименование</td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -917,7 +917,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">II. Затраты</td>
-<td>51369,6</td>
+<td>51969,6</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -957,7 +957,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>14661,6</td>
+<td>15261,6</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -965,7 +965,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>14661,6</td>
+<td>15261,6</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -973,7 +973,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>14661,6</td>
+<td>15261,6</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -981,7 +981,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td colspan="2"></td>
 <td>008</td>
 <td colspan="2">Освещение улиц в населенных пунктах</td>
-<td>9665,0</td>
+<td>10265,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2618,7 +2618,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 
 ## Бюджет села Новопавловка на 2025 год
 
-> *Сноска. Приложение 25 в редакции решения маслихата Карасуского района Костанайской области от 29.04.2025 № 234 (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 25 в редакции решений маслихата Карасуского района Костанайской области от 29.04.2025 № 234 (вводится в действие с 01.01.2025); от 28.10.2025 № 265 (вводится в действие с 28.10.2025).*
 
 <table>
 <tr>
@@ -2643,28 +2643,28 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">I. Доходы</td>
-<td>31771,1</td>
+<td>32461,4</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Налоговые поступления</td>
-<td>2972,0</td>
+<td>3662,3</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">01</td>
 <td colspan="3"></td>
 <td colspan="3">Подоходный налог</td>
-<td>859,0</td>
+<td>1549,3</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">2</td>
 <td colspan="3">Индивидуальный подоходный налог</td>
-<td>859,0</td>
+<td>1549,3</td>
 </tr>
 <tr>
 <td></td>
@@ -2791,7 +2791,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2">Наименование</td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2799,7 +2799,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">II. Затраты</td>
-<td>32230,2</td>
+<td>32920,5</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -2839,7 +2839,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>2353,8</td>
+<td>2344,1</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2847,7 +2847,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>2353,8</td>
+<td>2344,1</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2855,7 +2855,7 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2353,8</td>
+<td>2344,1</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2871,7 +2871,39 @@ source: https://zan.gov.kz/client/#!/doc/205878/rus/09.07.2025
 <td></td>
 <td colspan="2">011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>455,8</td>
+<td>446,1</td>
+</tr>
+<tr>
+<td colspan="3">12</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Транспорт и коммуникации</td>
+<td>700,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Автомобильный транспорт</td>
+<td>700,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>700,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">013</td>
+<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>700,0</td>
 </tr>
 <tr>
 <td colspan="3">15</td>
