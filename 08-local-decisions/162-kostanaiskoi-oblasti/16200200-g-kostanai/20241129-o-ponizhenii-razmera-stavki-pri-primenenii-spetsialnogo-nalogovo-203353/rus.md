@@ -13,6 +13,11 @@ approval_date: 2024-11-29
 version_date: 2024-11-29
 registry_number: '203353'
 source: https://zan.gov.kz/client/#!/doc/203353/rus/29.11.2024
+repealed_on: 2026-01-01
+repealed_by:
+  code: '216286'
+  title: О признании утратившим силу решения Костанайского городского маслихата
+  link: https://zan.gov.kz/client/#!/doc/216286/rus
 ---
 
 # О понижении размера ставки при применении специального налогового режима розничного налога по городу Костанай
