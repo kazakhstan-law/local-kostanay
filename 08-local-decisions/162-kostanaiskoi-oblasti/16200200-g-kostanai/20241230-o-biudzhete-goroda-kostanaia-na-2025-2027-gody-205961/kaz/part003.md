@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205961/kaz/22.09.2025
+source: https://zan.gov.kz/client/#!/doc/205961/kaz/10.12.2025
 ---
 
 > *Мәслихаттың*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/205961/kaz/22.09.2025
 
 ## Қостанай қаласының 2027 жылға арналған бюджеті
 
-> *Ескерту. 3-қосымша жаңа редакцияда - Қостанай облысы Қостанай қаласы мәслихатының 04.03.2025 № 156 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 3-қосымша жаңа редакцияда - Қостанай облысы Қостанай қаласы мәслихатының 04.03.2025 № 156 (01.01.2025 бастап қолданысқа енгізіледі); 10.12.2025 № 202 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -305,7 +305,7 @@ source: https://zan.gov.kz/client/#!/doc/205961/kaz/22.09.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">II. Шығындар</td>
-<td colspan="2">114 509 695,0</td>
+<td colspan="2">118 509 695,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -721,7 +721,7 @@ source: https://zan.gov.kz/client/#!/doc/205961/kaz/22.09.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">14 046 545,0</td>
+<td colspan="2">18 046 545,0</td>
 </tr>
 <tr>
 <td></td>
@@ -729,7 +729,23 @@ source: https://zan.gov.kz/client/#!/doc/205961/kaz/22.09.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй шаруашылығы</td>
-<td colspan="2">6 877 256,0</td>
+<td colspan="2">10 877 256,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">458</td>
+<td colspan="2"></td>
+<td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
+<td colspan="2">4 000 000,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">053</td>
+<td colspan="2">Жылу, сумен жабдықтау және су бұру жүйелерін реконструкция және құрылыс үшін кредит беру</td>
+<td colspan="2">4 000 000,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1409,7 +1425,7 @@ source: https://zan.gov.kz/client/#!/doc/205961/kaz/22.09.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td colspan="2">-4 886 760,0</td>
+<td colspan="2">-8 886 760,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1417,6 +1433,6 @@ source: https://zan.gov.kz/client/#!/doc/205961/kaz/22.09.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td colspan="2">4 886 760,0</td>
+<td colspan="2">8 886 760,0</td>
 </tr>
 </table>

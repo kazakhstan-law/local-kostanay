@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/205961/rus/22.09.2025
+source: https://zan.gov.kz/client/#!/doc/205961/rus/10.12.2025
 ---
 
 > *Приложение 3*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/205961/rus/22.09.2025
 
 ## Бюджет города Костаная на 2027 год
 
-> *Сноска. Приложение 3 в редакции решения маслихата города Костаная Костанайской области от 04.03.2025 № 156 (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 3 в редакции решений маслихата города Костаная Костанайской области от 04.03.2025 № 156 (вводится в действие с 01.01.2025); от 10.12.2025 № 202 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -305,7 +305,7 @@ source: https://zan.gov.kz/client/#!/doc/205961/rus/22.09.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">II. Затраты</td>
-<td colspan="2">114 509 695,0</td>
+<td colspan="2">118 509 695,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -456,7 +456,7 @@ source: https://zan.gov.kz/client/#!/doc/205961/rus/22.09.2025
 <td colspan="2"></td>
 <td colspan="2">454</td>
 <td colspan="2"></td>
-<td colspan="2">Ортдел предпринимательства и сельского хозяйства района (города областного значения)</td>
+<td colspan="2">Отдел предпринимательства и сельского хозяйства района (города областного значения)</td>
 <td colspan="2">43 468,0</td>
 </tr>
 <tr>
@@ -721,7 +721,7 @@ source: https://zan.gov.kz/client/#!/doc/205961/rus/22.09.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">14 046 545,0</td>
+<td colspan="2">18 046 545,0</td>
 </tr>
 <tr>
 <td></td>
@@ -729,7 +729,23 @@ source: https://zan.gov.kz/client/#!/doc/205961/rus/22.09.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищное хозяйство</td>
-<td colspan="2">6 877 256,0</td>
+<td colspan="2">10 877 256,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">458</td>
+<td colspan="2"></td>
+<td colspan="2">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
+<td colspan="2">4 000 000,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">053</td>
+<td colspan="2">Кредитование на реконструкцию и строительство систем тепло-, водоснабжения и водоотведения</td>
+<td colspan="2">4 000 000,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1409,7 +1425,7 @@ source: https://zan.gov.kz/client/#!/doc/205961/rus/22.09.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Дефицит (профицит) бюджета</td>
-<td colspan="2">-4 886 760,0</td>
+<td colspan="2">-8 886 760,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1417,6 +1433,6 @@ source: https://zan.gov.kz/client/#!/doc/205961/rus/22.09.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td colspan="2">4 886 760,0</td>
+<td colspan="2">8 886 760,0</td>
 </tr>
 </table>
