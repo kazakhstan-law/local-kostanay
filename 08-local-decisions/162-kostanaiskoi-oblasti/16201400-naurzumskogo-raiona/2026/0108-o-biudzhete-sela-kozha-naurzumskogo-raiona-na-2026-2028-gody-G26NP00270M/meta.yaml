@@ -1,0 +1,25 @@
+key: G26NP00270M
+akn: /akn/kz/act/2026-01-08/G26NP00270M
+act_code: '221229'
+requisite: Решение маслихата Наурзумского района Костанайской области от 8 января 2026 года № 270
+title:
+  rus: О бюджете села Кожа Наурзумского района на 2026-2028 годы
+  kaz: Науырзым ауданы Қожа ауылының 2026-2028 жылдарға арналған бюджеті туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2026-01-08
+in_force_from: 2026-01-01
+approved_by:
+- '162014000002'
+versions:
+- date: 2026-01-08
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-01-08
+  rus: 2026-01-08
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/221229/kaz/08.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/221229/rus/08.01.2026
