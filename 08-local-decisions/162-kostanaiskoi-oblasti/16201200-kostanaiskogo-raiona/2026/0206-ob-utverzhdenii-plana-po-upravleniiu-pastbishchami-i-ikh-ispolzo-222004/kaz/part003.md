@@ -1,0 +1,25040 @@
+↑ [Редакцияның толық мәтіні](../kaz.md)
+
+> *2026-2030 жылдарға арналған*  
+> *Қостанай ауданы бойынша жайылымдар*  
+> *және оларды пайдалануды*  
+> *басқару жоспарына*  
+> *2-қосымша*
+
+1-кесте. Ауыл шаруашылығы жануарларының иелерін көрсете отырып, олардың саны туралы деректер
+
+<table>
+<tr>
+<td rowspan="2">№ р/с</td>
+<td colspan="2" rowspan="2">Әкімшілік-аумақтық объектілер жіктеуіші бойынша кент, ауыл, ауылдық округ коды</td>
+<td colspan="2" rowspan="2">Кенттің, ауылдың, ауылдық округтің атауы</td>
+<td colspan="2" rowspan="2">Иесінің түрі</td>
+<td rowspan="2">Жеке тұлғалардың тегі, аты, әкесінің аты (бар болса) немесе заңды тұлғалардың атауы</td>
+<td rowspan="2">Бизнес сәйкестендіру нөмірі/иесінің жеке сәйкестендіру нөмірі</td>
+<td colspan="5">Бас саны, бас</td>
+</tr>
+<tr>
+<td>Ірі қара мал</td>
+<td>Ұсақ мал</td>
+<td>Жылқылар</td>
+<td colspan="2">Түйелер</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td colspan="2">10</td>
+</tr>
+<tr>
+<td colspan="14">Айсары ауылдық округі</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жанайдаров Жандос Даулетбекович</td>
+<td>-</td>
+<td>11</td>
+<td>23</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Умирбаев Жумгажан Касымович</td>
+<td>-</td>
+<td>10</td>
+<td>19</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Хамзабаев Жомарт Ихсанханович</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Умаров Жасулан Базарханович</td>
+<td>-</td>
+<td>8</td>
+<td>18</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Арыстанбеков Женис Шангалиевич</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Геворгян Сусанна Вачагановна</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кильдюшкин Юрий Борисович</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Айтпаев Амиржан Ахметжанович</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мельников Александр Сергеевич</td>
+<td>-</td>
+<td>5</td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Макишева Бейсенкул Кабдымажитовна</td>
+<td>-</td>
+<td>3</td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мензелинцев Александр Борисович</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кожахметов Тулеубай Закирович</td>
+<td>-</td>
+<td>8</td>
+<td>11</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Токбаев Болатбек Имангалиевич</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кочеткова Инна Анатольевна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Дяченко Владимир Сергеевич</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ахметов Нурлыбек Аманжолович</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ерманова Айбопе</td>
+<td>-</td>
+<td>7</td>
+<td>44</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Садакбаев Руслан Жусипбекович</td>
+<td>-</td>
+<td>4</td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Турпитко Бизара</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Куйшегулов Ерлан Аманбаевич</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Алимбаев Бакытбек Каирбекович</td>
+<td>-</td>
+<td>7</td>
+<td>9</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ахметжанов Амангелди Тулемисович</td>
+<td>-</td>
+<td></td>
+<td>27</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Медыбаев Кайрат Кайдарович</td>
+<td>-</td>
+<td></td>
+<td>3</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Абуллаев Хабиболла Сабыржановч</td>
+<td>-</td>
+<td>4</td>
+<td>36</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Карагожин Болат Толегенович</td>
+<td>-</td>
+<td>2</td>
+<td>32</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Синютин Виктор Георгиевич</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>27</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Акжанов Жумакан Тайкаринович</td>
+<td>-</td>
+<td>8</td>
+<td>111</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>28</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Башибаев Марат Кабденович</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>29</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жармухамбетов Батыр Баяхметович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>30</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Алимов Есен Садыкович</td>
+<td>-</td>
+<td>5</td>
+<td>5</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>31</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бегжанов Амангелди Култанович</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>32</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Цаан Денис Александрович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>33</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ковдий Владислав Сергеевич</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>34</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жаксыбаева Айгуль Ердаулетовна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>35</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Курманова Зауреш Керейбаевна</td>
+<td>-</td>
+<td></td>
+<td>29</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>36</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Адаев Жангельды Жумаганович</td>
+<td>-</td>
+<td>8</td>
+<td>7</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>37</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Гаммершмидт Владимир Емельянович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>38</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Хомяк Сергей Сергеевич</td>
+<td>-</td>
+<td>27</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>39</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ивко Михаил Анатольевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>40</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Байзиров Нурмухан Калмагамбетович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>41</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Фазылов Алтынбек Темирханович</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>42</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кушеков Мирамбек Базарович</td>
+<td>-</td>
+<td>8</td>
+<td>29</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>43</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Альжанова Кулдрай Арыстановна</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>44</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Абдрахманов Калкаман Кинятович</td>
+<td>-</td>
+<td></td>
+<td>39</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>45</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Каблашев Манат Турумтаевич</td>
+<td>-</td>
+<td>46</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>46</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Гольм Валентина Николаевна</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>47</td>
+<td colspan="3">395443100</td>
+<td>Айсары</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Каиров Амир Касенович</td>
+<td>-</td>
+<td>2</td>
+<td>18</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>48</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иванова Ирина Николаевна</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>49</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жусупов Медет Кенесович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>50</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бурашев Дюсембай Мурзобулатович</td>
+<td>-</td>
+<td></td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>51</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Утельбаева Назгуль Алписбаевна</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>52</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Борисенко Сергей Иванович</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>53</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Макаров Сергей Валентинович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>54</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Буркивченко Юрий Иванович</td>
+<td>-</td>
+<td></td>
+<td>26</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>55</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Хужаев Зулфикар Мукабилович</td>
+<td>-</td>
+<td>10</td>
+<td>12</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>56</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Акушеков Амангельды Асалканович</td>
+<td>-</td>
+<td>7</td>
+<td>13</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>57</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Агабаева Гульназия Есентаевна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>58</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сарымсаков Азамат Абдикаримович</td>
+<td>-</td>
+<td>1</td>
+<td>7</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>59</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Маслак Александр Васильевич</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>60</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Таран Радифа Мавлетовна</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>61</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ахметов Жанас Асылбекович</td>
+<td>-</td>
+<td>3</td>
+<td>46</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>62</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ертанов Аманжол Аскарович</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>63</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Михадюк Александр Васильевич</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>64</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Отхвани Тимур Олгуджевич</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>65</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Байдаулетов Амиржан Алимбаевич</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>66</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ертанов Жангельды Аскарович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>67</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мироевская Наталья Петровна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>68</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жетписбаев Мейрамбек Мукышевич</td>
+<td>-</td>
+<td>1</td>
+<td>6</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>69</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ертанов Аскар Нургалиевич</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>70</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жумагулова Роза Сапабековна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>71</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Таран Елена Александровна</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>72</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Азнашев Руслан Нуриманович</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>73</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Руфов Владимир Петрович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>74</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Савочкина Лидия Леонидовна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>75</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жилич Олег Васильевич</td>
+<td>-</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>76</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Забашта Валерий Вячеславович</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>77</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Валиуллина Елена Олеговна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>78</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Абайдильдина Турсынкул Гарифоллаевна</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>79</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жаксымбеков Жасулан Казымбекович</td>
+<td>-</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>80</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Матаев Балтабек Амирбекович</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>81</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Баймуханов Серик Асхатович</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>82</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мухамеджанов Муратбек Турымтаевич</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>83</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Абдиков Талгат Кожаевич</td>
+<td>-</td>
+<td>10</td>
+<td>7</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>84</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Калиева Гулжанат Конысбаевна</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>85</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Арыстанғалиқызы Меруерт</td>
+<td>-</td>
+<td>11</td>
+<td>27</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>86</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нармағанбет Мейрамбек Қайырбекұлы</td>
+<td>-</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>87</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нармағанбет Мейрам Қайырбекұлы</td>
+<td>-</td>
+<td>23</td>
+<td>32</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>88</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Оралбаев Габдолла Габдуалиевич</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>89</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Укубасов Канат Амиржанулы</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>90</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Рахметалин Аскарбек Сейдегазиевич</td>
+<td>-</td>
+<td>11</td>
+<td>9</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>91</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Аманкелдин Самат Мадешевич</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>92</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нурмагамбетов Даулет Серикович</td>
+<td>-</td>
+<td>9</td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>93</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кункубаев Салимхан Интизарович</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>94</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Болатбаев Борамбай Кабиевич</td>
+<td>-</td>
+<td>10</td>
+<td>51</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>95</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Гаврилов Александр Юрьевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>96</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кенаралов Жараскан Кульмаратович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>97</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Байдильдин Жамбыл Бугенбаевич</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>98</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Айтпаева Мариямкул</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>23</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>99</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тимохович Андрей Юльянович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>100</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Абдикаримов Рустем Жарылгасинович</td>
+<td>-</td>
+<td></td>
+<td>44</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>101</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мәмбет Нәби Нұрғалиұлы</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>102</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ерманова Асия Хамитовна</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>103</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Баймаганбетов Бакытжан Сапарович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>104</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Альшурин Бакыт Серикович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>105</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Молдағұл Абай Қамзағалиұлы</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>106</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Аманжол Айтуар Аманжолұлы</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>107</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Турганов Оразбай Каиржанович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>108</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сулейменов Уалихан Кадырович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>109</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шунушева Бибигуль Салимовна</td>
+<td>-</td>
+<td></td>
+<td>69</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>110</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жакупова Алмагуль Каскирбековна</td>
+<td>-</td>
+<td></td>
+<td>39</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>111</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Баймаганбетов Тулеген Сапарович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>112</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тимохович Юрий Юльянович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>113</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сорока Дмитрий Адамович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>114</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жанбуршин Бауржан Зулкарнаевич</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>115</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Марченко Виктор Николаевич</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>116</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Исмайлов Булат Таргынович</td>
+<td>-</td>
+<td></td>
+<td>8</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>117</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Садыков Кенжегара Ташмаганбетович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>118</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нурмаганбетов Шалдыбай</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>119</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Азбеков Ержан</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td colspan="3">46</td>
+</tr>
+<tr>
+<td>120</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Клименко Александр Вячеславович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>121</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шокпутов Алимкан Ибраевич</td>
+<td>-</td>
+<td></td>
+<td>32</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>122</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тажигулов Асылхан Дуйсекеевич</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>123</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шайкемелов Есмурат Ермуханбет</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>124</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Галиева Айсулу Негматжановна</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>125</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тумаков Владимир Григорьевич</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>126</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мукашев Медет Жаксылыкович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>127</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Укубасов Айет Амиржанович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>128</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Абдиков Жанатбек Кожаевич</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>129</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Литвинов Сергей Владимирович</td>
+<td>-</td>
+<td></td>
+<td>29</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>130</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Алмагамбетов Бакибай Жилкишевич</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>131</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Талапов Самат Маратович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>132</td>
+<td colspan="3">395443200</td>
+<td>Костомар</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шарипов Сагдат Кайрбекович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>133</td>
+<td colspan="3">395443300</td>
+<td>Степное</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Баймаганбетов Сагындык Кожахметович</td>
+<td>-</td>
+<td>41</td>
+<td></td>
+<td colspan="2">24</td>
+<td></td>
+</tr>
+<tr>
+<td>134</td>
+<td colspan="3">395443300</td>
+<td>Степное</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Угурчиева Ирина Валентиновна</td>
+<td>-</td>
+<td>41</td>
+<td>57</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>135</td>
+<td colspan="3">395443300</td>
+<td>Степное</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тлеукенов Казымбек Бауржанович</td>
+<td>-</td>
+<td></td>
+<td>5</td>
+<td colspan="2">16</td>
+<td></td>
+</tr>
+<tr>
+<td>136</td>
+<td colspan="3">395443300</td>
+<td>Степное</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кочеткова Наталья Ивановна</td>
+<td>-</td>
+<td>38</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>137</td>
+<td colspan="3">395443300</td>
+<td>Степное</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бисенова Диана Салимжановна</td>
+<td>-</td>
+<td>10</td>
+<td>48</td>
+<td colspan="2">3</td>
+<td></td>
+</tr>
+<tr>
+<td>138</td>
+<td colspan="3">395443300</td>
+<td>Степное</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Дакиев Ибрагим Гинаркович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td colspan="2">61</td>
+<td></td>
+</tr>
+<tr>
+<td>139</td>
+<td colspan="3">395443300</td>
+<td>Степное</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Дакиев Адам Гинаркович</td>
+<td>-</td>
+<td>9</td>
+<td>35</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>140</td>
+<td colspan="3">395457100</td>
+<td>Половниковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жалелов Ертай Марикович</td>
+<td>-</td>
+<td></td>
+<td>295</td>
+<td colspan="2">123</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="14">Александров ауылдық округі</td>
+</tr>
+<tr>
+<td colspan="2">141</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Акбаев А.А.</td>
+<td>-</td>
+<td>29</td>
+<td>40</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">142</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жадрина Р.</td>
+<td>-</td>
+<td>7</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">143</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шапилов Д.</td>
+<td>-</td>
+<td>2</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">144</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Заклицкая И.</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">145</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Коваль С.Ю.</td>
+<td>-</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">146</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Селиверстов В.</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">147</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Суховерков Н.</td>
+<td>-</td>
+<td>4</td>
+<td>35</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">148</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тулеуов Т.Ж.</td>
+<td>-</td>
+<td>3</td>
+<td>7</td>
+<td>10</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">149</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сыроватский А.</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">150</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ткаченко О.</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">151</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сычова Н.А.</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">152</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Фрайнд Е.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">153</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шуба Г.</td>
+<td>-</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">154</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шуба И.Г.</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">155</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Яровой С.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">156</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Худяков А.И.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">157</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Исабеков М.</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">158</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иноземцев А. В.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">159</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Звездаков А.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">160</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Веряскин В.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">161</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Агишева А.Д.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">162</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Адарченко В.</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">163</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Аллахвердиев А.</td>
+<td>-</td>
+<td>12</td>
+<td>10</td>
+<td>35</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">164</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Альмухамедов Б.С.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">165</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Анащенко М.Ф.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">166</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Анисимов А.В.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">167</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Артес А.</td>
+<td>-</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">168</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Коваль Ю.</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">169</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бабешкин Н.И.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">170</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Баженов С.В.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">171</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Баскаков И.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">172</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бекбаева Г.</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">173</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Будекенов Т.И.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">174</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Букбасаров Е.</td>
+<td>-</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">175</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бучков В.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">176</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кожахметова Г.</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">177</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Дементьев И.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">178</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Есмаганбетова Ж.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">179</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жадько П.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">180</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мусин Б.Т.</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">181</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Карпов А.</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">182</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Киреев В.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">183</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кодак Т.</td>
+<td>-</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">184</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Косогорова Р.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">185</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Костикова Л.В.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">186</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кудапин В.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">187</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кунарбекова Ы.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">188</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Курмангалиев С.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">189</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ладынин С.С</td>
+<td>-</td>
+<td>6</td>
+<td>4</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">190</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Лемешко Е.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">191</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Михайличенко В.</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">192</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мырзахметова Б.К.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">193</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Новоженов А.</td>
+<td>-</td>
+<td>1</td>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">194</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нурбаев Б.А.</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">195</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нурбаева Н.А.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">196</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нурпейсов В.М.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">197</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нурпеисов М.М.</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">198</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нурпеисов Р.М.</td>
+<td>-</td>
+<td>8</td>
+<td>1</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">199</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Пивоваров И.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">200</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Поветкин А.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">201</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Попов Н.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">202</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ромадин А.Н.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">203</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Романюк Л.М.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">204</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сагадиев Е.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">205</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сорокотяга В.</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">206</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Хасенов А.Н.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">207</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шапилов С.</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">208</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Курмангалиева Г.А.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">209</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нурбаев А.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">210</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тулебаев М.</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">211</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иноземцев В.В.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">212</td>
+<td colspan="2">395433100</td>
+<td>Александровка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жармухамбетов Р.Е.</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">213</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ладынин В.С.</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">214</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тыныштыков А.А.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">215</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Алданбаев К.</td>
+<td>-</td>
+<td>30</td>
+<td>4</td>
+<td>62</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">216</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шарипова Н.</td>
+<td>-</td>
+<td>45</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">217</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Арямнов М.И.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">218</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ахметов А.А.</td>
+<td>-</td>
+<td></td>
+<td>38</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">219</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Деменок Н.Н.</td>
+<td>-</td>
+<td>18</td>
+<td></td>
+<td>24</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">220</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Заболотный С.</td>
+<td>-</td>
+<td></td>
+<td>5</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">221</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ишмуратов Ж.С.</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">222</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Комашко В.В.</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">223</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сокитбаев С.А.</td>
+<td>-</td>
+<td>20</td>
+<td></td>
+<td>92</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">224</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Уристемов А.Б.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">225</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Хакимов Ж.Е.</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td>12</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">226</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Гежа Ю.Н.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">227</td>
+<td colspan="2">395433300</td>
+<td>Жуковка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Розумович В.</td>
+<td>-</td>
+<td></td>
+<td>100</td>
+<td>700</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">228</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Булдакова Н.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">229</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кудерина А.Ж.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td>15</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">230</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Садбеков М.К.</td>
+<td>-</td>
+<td>20</td>
+<td>30</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">231</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Садбеков К.К.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">232</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Крикливцев Г.А.</td>
+<td>-</td>
+<td>2</td>
+<td>40</td>
+<td>100</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">233</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Турганов Е.Ф.</td>
+<td>-</td>
+<td>13</td>
+<td>12</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">234</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Турганов С.Ф</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">235</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Еримбаева Г.А</td>
+<td>-</td>
+<td>1</td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">236</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Золотарев Е.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">237</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жабагин М.С.</td>
+<td>-</td>
+<td>5</td>
+<td>4</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">238</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тайгарин Ж.</td>
+<td>-</td>
+<td>4</td>
+<td>2</td>
+<td>12</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">239</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Смирнов В.Л.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">240</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Пролыгин В.А.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">241</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ахметбеков Б.Х.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">242</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жабагин С.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td>60</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">243</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Украинцева Т.Ф.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">244</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шалгинбаев Ж.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td>35</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">245</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Пак А.А.</td>
+<td>-</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">246</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Крехтяк Е.С.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">247</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Братышова В.Д.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td>15</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">248</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Букаева Л.Ф.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td>15</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">249</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Пшанов М.С.</td>
+<td>-</td>
+<td>5</td>
+<td>3</td>
+<td>20</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">250</td>
+<td colspan="2">395433200</td>
+<td>Енбек</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Какиев Е.Д.</td>
+<td>-</td>
+<td>4</td>
+<td>1</td>
+<td>70</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">251</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Судоргин В.С.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">252</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мелега В.М.</td>
+<td>-</td>
+<td>3</td>
+<td>3</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">253</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Камелов Е.Б.</td>
+<td>-</td>
+<td></td>
+<td>20</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">254</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Биркеиев А.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">255</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шаяхметов Н.Ж.</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">256</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Аманов Н.С.</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>10</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">257</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Байдаулетов Е.А.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td>50</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">258</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павловат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бекмухамбетова Б.К.</td>
+<td>-</td>
+<td>18</td>
+<td></td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">259</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павловат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кирдякина С.В.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">260</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Асадулина В.И.</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">261</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Гайтюкевич В.Д.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">262</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Судоргин Н.С.</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">263</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Урдабаев К</td>
+<td>-</td>
+<td></td>
+<td>7</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">264</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Карпухин А.</td>
+<td>-</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">265</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Логинова Н.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">266</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Логинова Неля.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">267</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Понамарева Т.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">268</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Петров С.</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">269</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Дарбаев К.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">270</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Матяс С.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">271</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ертаева Р.</td>
+<td>-</td>
+<td>12</td>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">272</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Адресов А.</td>
+<td>-</td>
+<td></td>
+<td>4</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">273</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Опанчук С.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">274</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Журавлев В.</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">275</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шефер Ю.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">276</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Штепа В.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">277</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жанкулин Т.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">278</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сулейменов С</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">279</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Камелов Е.Б.</td>
+<td>-</td>
+<td>4</td>
+<td>3</td>
+<td>40</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">280</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Умбетова З.</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>40</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">281</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сукнев А.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">282</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мухамбетова А.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">283</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сарбаев Б.</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">284</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жанкулин А.</td>
+<td>-</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">285</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Задорожный А.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">286</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Штепа Ст.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">287</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Вигель А.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">288</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Романова О.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">289</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Козлов С.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">290</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бебеничев О.Н.</td>
+<td>-</td>
+<td></td>
+<td>20</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">291</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сучков А.В.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">292</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Романова В.И.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">293</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Фомичева С.Ю</td>
+<td>-</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">294</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Судоргин А.А.</td>
+<td>-</td>
+<td>9</td>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">295</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ержанов С.А.</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">296</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Судоргина Т.И.</td>
+<td>-</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">297</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мауэр С.О.</td>
+<td>-</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">298</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ломаев А.А.</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">299</td>
+<td colspan="2">395437100</td>
+<td>И.Ф. Павлов ат.</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Штепа Ю.В.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="14">Белозер ауылдық округі</td>
+</tr>
+<tr>
+<td colspan="2">300</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Большаков О.Т.</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">301</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тулькубаев Е.К.</td>
+<td>-</td>
+<td>6</td>
+<td>12</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">302</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шубин С.А.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">303</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кузьмин А.Д.</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">304</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мельничук Н.В.</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">305</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тулькубаев А.К.</td>
+<td>-</td>
+<td></td>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">306</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Устьянцев Н.А.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">307</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Евченко В.Н.</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">308</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Терещенко В.Н.</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">309</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Усачева С.З.</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">310</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кель А.А.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">311</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Баисеев Т.А.</td>
+<td>-</td>
+<td>10</td>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">312</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Качесова О.Н.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">313</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бузинский Ю.Г.</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">314</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Злобин Е.Ю.</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">315</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тулькибаев Б.Н.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">316</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мельничук В.Н.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">317</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Карпова Е.В.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">318</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бибетова Д.К.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">319</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Горбачев А.И.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">320</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бин А.А.</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">321</td>
+<td colspan="2">395435100</td>
+<td>Белозерка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шестакова А.В.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">322</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Дуюнова С.В.</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">323</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ермоленко Т.И.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">324</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мажникова Л.В.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">325</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Редько Н.К.</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">326</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Навоян Г.Г.</td>
+<td>-</td>
+<td>19</td>
+<td>80</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">327</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бутикенов К.Н.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">328</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кулякова С.А.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">329</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Редько Р.Е.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">330</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Лучер В.Г.</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">331</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Горгуленко В.В.</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">332</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шейнмайер О.А.</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">333</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Горгуленко С.В.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">334</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Попова О.В.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">335</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Адешев Н.Т.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">336</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Оспанов К.Е.</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">337</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Власенко Н.В.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">338</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кожина О.В.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">339</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шарипов Н,Э.</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">340</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кучинка В.И.</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">341</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Курмангалиева С.А.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">342</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бердыгулов Н.К.</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">343</td>
+<td colspan="2">395435200</td>
+<td>Балыкты</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Давыдова Г.А.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">344</td>
+<td colspan="2">395435300</td>
+<td>Сергеевка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Аменова Г.А.</td>
+<td>-</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">345</td>
+<td colspan="2">395435300</td>
+<td>Сергеевка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шеденов О.Б</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">346</td>
+<td colspan="2">395435300</td>
+<td>Сергеевка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Садовникова Л.А.</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">347</td>
+<td colspan="2">395435300</td>
+<td>Сергеевка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Исанова Г.Б.</td>
+<td>-</td>
+<td>9</td>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">348</td>
+<td colspan="2">395435300</td>
+<td>Сергеевка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ержанова Ж.М.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">349</td>
+<td colspan="2">395435300</td>
+<td>Сергеевка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Крутых В.С.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">350</td>
+<td colspan="2">395435300</td>
+<td>Сергеевка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Касимов С.Б.</td>
+<td>-</td>
+<td></td>
+<td>39</td>
+<td>82</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">351</td>
+<td colspan="2">395435300</td>
+<td>Сергеевка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жакупова Г.Т.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">352</td>
+<td colspan="2">395435300</td>
+<td>Сергеевка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сарсембаева Р.Б.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">353</td>
+<td colspan="2">395435300</td>
+<td>Сергеевка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Остапюк Ю.П.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">354</td>
+<td colspan="2">395435300</td>
+<td>Сергеевка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Какаляев Г.</td>
+<td>-</td>
+<td></td>
+<td>30</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">355</td>
+<td colspan="2">395435300</td>
+<td>Сергеевка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кирнус О.И.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">356</td>
+<td colspan="2">395435300</td>
+<td>Сергеевка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Щеголева Л.В.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">357</td>
+<td colspan="2">395435300</td>
+<td>Сергеевка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Майер А.А.</td>
+<td>-</td>
+<td>6</td>
+<td>30</td>
+<td>10</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="14">Владимиров ауылдық округі</td>
+</tr>
+<tr>
+<td>358</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Аймышев Суындык Кыдыралович</td>
+<td>-</td>
+<td>5</td>
+<td>5</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>359</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Актауов Тулкубай Калиханович</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>360</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Алексеева Анна Викторовна</td>
+<td>-</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>361</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Антоненко Людмила Александровна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>362</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Антонова Анастасия Федоровна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>363</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Антонюк Федор Русланович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>364</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Атыбай Сарсен</td>
+<td>-</td>
+<td>12</td>
+<td>61</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>365</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ашимова М. З.</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>366</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Баранов Семён Григорьевич</td>
+<td>-</td>
+<td>0</td>
+<td>13</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>367</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Барыкина Г.И.</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>368</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Беллер Виталий александрович</td>
+<td>-</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>369</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Беллер Евгений Викторович</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>370</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Беловол Дмитрий Михайлович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>371</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Беседа Елена Васильевна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>372</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бобровник А.</td>
+<td>-</td>
+<td>19</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>373</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Божин Максим Ильич</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>374</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Божина Марина Никалаевна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>375</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бородиков Александр Александрович</td>
+<td>-</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>376</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бородиков Антон Павлович</td>
+<td>-</td>
+<td>104</td>
+<td>0</td>
+<td>35</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>377</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бралина Гульбану Абеновна</td>
+<td>-</td>
+<td>1</td>
+<td>8</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>378</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бренинг Виктор</td>
+<td>-</td>
+<td>0</td>
+<td>10</td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>379</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Будзевич Ольга Владимировна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>380</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Будзевич Ольга Иосифовна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>381</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бурмус Владимир Михайлович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>382</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бухорский Владимир Анатольевич</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>383</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Вильда Александр Иванович</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>384</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Вильда Евгений</td>
+<td>-</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>385</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Вильда Юрий Иванович</td>
+<td>-</td>
+<td>9</td>
+<td>2</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>386</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Владимиров Ю.Н.</td>
+<td>-</td>
+<td>45</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>387</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Волкова Елена Викторовна</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>388</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бренинг Виктор</td>
+<td>-</td>
+<td>0</td>
+<td>10</td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>389</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Будзевич Ольга Владимировна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>390</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Будзевич Ольга Иосифовна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>391</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бурмус Владимир Михайлович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>392</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бухорский Владимир Анатольевич</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>393</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Вильда Александр Иванович</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>394</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Вильда Евгений</td>
+<td>-</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>395</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Вильда Юрий Иванович</td>
+<td>-</td>
+<td>9</td>
+<td>2</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>396</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Владимиров Ю.Н.</td>
+<td>-</td>
+<td>45</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>397</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Волкова Елена Викторовна</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>398</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Дрягина Галина Викторовна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>399</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Дрягина Юлия Константиновна</td>
+<td>-</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>400</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ежова Ляззат Шакармановна</td>
+<td>-</td>
+<td>4</td>
+<td>2</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>401</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ермагамбетова Айжан Кабидулаевна</td>
+<td>-</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>402</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ефимов Анатолий С.</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>403</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жадько Наталья Константиновна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>404</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жакупов Булат Тюлюевич</td>
+<td>-</td>
+<td>5</td>
+<td>43</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>405</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жакупов Ерлан Ж</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>406</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жакупов Жаманбай Тюлюевич</td>
+<td>-</td>
+<td>0</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>407</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жанабергенов Женис Айтжанович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>408</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жданова Наталия Федоровна</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>409</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жолдыбаев Мухамбет Касымжанович</td>
+<td>-</td>
+<td>3</td>
+<td>41</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>410</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жуманазарова Даркен</td>
+<td>-</td>
+<td>6</td>
+<td>65</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>411</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иванов Юрий Леонидович</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>412</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иванова Наталья Владимировна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>413</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иванова Наталья Михайловна</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>414</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иванова Ю.А.</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>415</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иващук Виталий Сергеевич</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>416</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иващук Сергей Иванович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>417</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ильясова Светлана Фаритовна</td>
+<td>-</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>418</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жданова Наталия Федоровна</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>419</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жолдыбаев Мухамбет Касымжанович</td>
+<td>-</td>
+<td>3</td>
+<td>41</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>420</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жуманазарова Даркен</td>
+<td>-</td>
+<td>6</td>
+<td>65</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>421</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иванов Юрий Леонидович</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>422</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иванова Наталья Владимировна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>423</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иванова Наталья Михайловна</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>424</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иванова Ю.А.</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>425</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иващук Виталий Сергеевич</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>426</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Иващук Сергей Иванович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>427</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ищанов Есентай Каренович</td>
+<td>-</td>
+<td>1</td>
+<td>20</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>428</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Калиева Сауле Байтеновна</td>
+<td>-</td>
+<td>0</td>
+<td>27</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>429</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Камышев Айтжан Жанабергенович</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>430</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Камышева Айнур Амангельдиевна</td>
+<td>-</td>
+<td>6</td>
+<td>1</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>431</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кацуренко Сергей Александрович</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>432</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Каюпов Толеухан Сагимбаевич</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>433</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Квочкина Лариса Михайловна</td>
+<td>-</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>434</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кожубаев М.М.</td>
+<td>-</td>
+<td>25</td>
+<td>35</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>435</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Коцкий Михаил Н.</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>436</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кудряшова Валентина Александровна</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>437</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кулешов Василий Васильевич</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>438</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кушакова Маргарита Генадиевна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>439</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Лещенко Ольга Васильевна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>440</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Лисогор Владимир Андреевич</td>
+<td>-</td>
+<td>4</td>
+<td>19</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>441</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Лощенко Геннадий Владимирович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>442</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Любанов Игорь Валерьевич</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>443</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Любанова Венера Николаевна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>444</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Малаева М. Б.</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>445</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мансуров Артем Юрьевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>446</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мельник Дмитрий Георгевич</td>
+<td>-</td>
+<td>18</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>447</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Миллер Владимир Александрович</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>448</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Миллер Владимир Александрович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>449</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Миних Владимир Данилович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>450</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мукашева Зайнап</td>
+<td>-</td>
+<td>2</td>
+<td>8</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>451</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Муржакупова Рашиля Кайназаровна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>452</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мурзабеков Руслан Газезович</td>
+<td>-</td>
+<td>0</td>
+<td>4</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>453</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мустафеева Айгерим Бериковна</td>
+<td>-</td>
+<td>0</td>
+<td>18</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>454</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мухамеджанова Гульсара Рифовна</td>
+<td>-</td>
+<td>9</td>
+<td>6</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>455</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мухутдинова Антонида Петровна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>456</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Немов Иван Валерьевич</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>457</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Николенко Владимир Григорьевич</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>458</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Никонов Юрий Юрьевич</td>
+<td>-</td>
+<td>9</td>
+<td>14</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>459</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нургазина Бибигуль Амиргалиевна</td>
+<td>-</td>
+<td>29</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>460</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Охремчук Виктор Николаевич</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>461</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Панфилов Юрий Григорьевич</td>
+<td>-</td>
+<td>3</td>
+<td>7</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>462</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Панченко Татьяна Романовна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>463</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Потапенко Вера Алексеевна</td>
+<td>-</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>464</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Романова Татьяна Ивановна</td>
+<td>-</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>465</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Рузанова Валентина Васильевна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>466</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Саттыбаев Дамир Абаевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>467</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Серикбаев Нургали Исатаевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>468</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Силевко Светлана Сергеевна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>469</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Симак Юрий Алексеевич</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>470</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Скобелкин Николай Николаевич</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>471</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Смолянинова Елена Викторовна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>472</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сотникова Людмила Викторовна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>473</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тарасова Галина Геннадиевна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>474</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тарасова Екатерина Павловна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>475</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тарасова Елена Корнеловна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>476</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Толеусеитова Диана Жанбуршиновна</td>
+<td>-</td>
+<td>0</td>
+<td>21</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>477</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Третьяк Михаил Михайлович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>33</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>478</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Третьякова Светлана Витальевна</td>
+<td>-</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>479</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тукеев Гибрат Калкаманович</td>
+<td>-</td>
+<td>27</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>480</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тукеев К. К.</td>
+<td>-</td>
+<td>19</td>
+<td>0</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>481</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тукеев Калкаман Рахметович</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>482</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Турмагамбетов Жанбырша Конкабаевич</td>
+<td>-</td>
+<td>8</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>483</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Турмагамбетов Кабыл</td>
+<td>-</td>
+<td>11</td>
+<td>12</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>484</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тюхно Владимир Михайлович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>485</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Утемисов Бауржан Омыралывович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>486</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Хабыл Хумарбек</td>
+<td>-</td>
+<td>5</td>
+<td>24</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>487</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Хавдолда Тохтамурат</td>
+<td>-</td>
+<td>1</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>488</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Хадимуллин Зуфар</td>
+<td>-</td>
+<td>15</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>489</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Хасенов Даулет Аубакирович</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>490</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Холод Станислав Алексеевич</td>
+<td>-</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>491</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Цечоев Саламбек Магамедович</td>
+<td>-</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>492</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Черепанов Николай Анатольевич</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>493</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Черепанова Любовь Викторовна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>494</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Черпанов Назим Нагамедали-оглы</td>
+<td>-</td>
+<td>15</td>
+<td>48</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>495</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шестопалов Павел Владимирович</td>
+<td>-</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>496</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шмидт Валерий Валерьевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>497</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шмидт Елена Николаевна</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>498</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шмидт Оксана Владимировна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>499</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шоколенко Елена Владимировна</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>500</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ядыкин Максим сергеевич</td>
+<td>-</td>
+<td>17</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>501</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ян Светлана Анатольевна</td>
+<td>-</td>
+<td>21</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>502</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Яночкина Ирина Григорьевна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>503</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Алышов Бурзу Гидаят-оглы</td>
+<td>-</td>
+<td>80</td>
+<td>136</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>504</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Грищенко Александр Филипович</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>505</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жолданов Азамат Жангендинович</td>
+<td>-</td>
+<td>2</td>
+<td>35</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>506</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кулинич Светлана Владимировна</td>
+<td>-</td>
+<td>54</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>507</td>
+<td colspan="3">395439100</td>
+<td>Владимировка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Курганский Алексей</td>
+<td>-</td>
+<td>87</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>508</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Байгабулова Кенживике</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>509</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Баштанник Асель Серикбаевна</td>
+<td>-</td>
+<td>23</td>
+<td>15</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>510</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Берденов Батыркан Кадыргалиевич</td>
+<td>-</td>
+<td>0</td>
+<td>6</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>511</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бомм В.С.</td>
+<td>-</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>512</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Дангилова Назым Темиржановна</td>
+<td>-</td>
+<td>6</td>
+<td>8</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>513</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ерназарова Нурия Абдуленовна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>514</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жайсамбаев Кайрат Рахатович</td>
+<td>-</td>
+<td>8</td>
+<td>17</td>
+<td>9</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>515</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жусупова Сельжан</td>
+<td>-</td>
+<td>9</td>
+<td>25</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>516</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Керимов Агил Валехович</td>
+<td>-</td>
+<td>27</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>517</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кучекпаева Екатерина Михайловна</td>
+<td>-</td>
+<td>9</td>
+<td>39</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>518</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кушнаренко Юрий Викторович</td>
+<td>-</td>
+<td>2</td>
+<td>2</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>519</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Лещенко Александр Анатольевич</td>
+<td>-</td>
+<td>11</td>
+<td>9</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>520</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Лубянецкий Павел Сергеевич</td>
+<td>-</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>521</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Лунева Екатерина Сергеевна</td>
+<td>-</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>522</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Русаков Олег Михайлович</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>523</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сакенова Кульшира Саттаровна</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>524</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сарсенов Булат Мукажарович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>525</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сластин Александр Викторович</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>526</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тимофеева Валентина Анатольевна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>527</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Уразбаев Жаслан Каирбекович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>528</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Уразбаев Каирбек Ерденович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>529</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шалыминова Елена Юрьевна</td>
+<td>-</td>
+<td>10</td>
+<td>83</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>530</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Шмакова Антонина Дмитриевна</td>
+<td>-</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>531</td>
+<td colspan="3">395439200</td>
+<td>Сормовка</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сарсенов Булат Мукажарович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="14">Жамбыл ауылдық округі</td>
+</tr>
+<tr>
+<td>532</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Абдуллаева Найла Аскаркзы</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>533</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Абсалыков Сарсенбай Галымович</td>
+<td>-</td>
+<td>4</td>
+<td>12</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>534</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Алданбаев Ельяс Кажмуратович</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>535</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Алданбаев Кайрат Кажмуратович</td>
+<td>-</td>
+<td>1</td>
+<td>15</td>
+<td>18</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>536</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Алибекова Шолпан Ашикбаевна</td>
+<td>-</td>
+<td></td>
+<td>11</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>537</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Алимбаев Аюжан</td>
+<td>-</td>
+<td>1</td>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>538</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Аманбаев Кудайберген Жунусович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>539</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ахметов Серик Балтабаевич</td>
+<td>-</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>540</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Байжанов Каиржан Еркебуланович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>541</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Батрак Владислава Николаевна</td>
+<td>-</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>542</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бивол Ирина Сергеевна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>543</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Биаглиев Болат Абилханович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>544</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бугайчук Лариса Владимировна</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>545</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Вертинский Николай Францевич</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>546</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Дробнич Наталья Николаевна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>547</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Дусмадияров Багдат Файсханович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>548</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Евтушенко Наталья Васильевна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>549</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Есимгалиев Думан Алгазович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>550</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жанайдаров Сандыбек Жаныбекович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>551</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жиеналин Берик Кенжетаевич</td>
+<td>-</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>552</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Земский Виктор Борисович</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>553</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Зубарев Геннадий Иванович</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>554</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ибрагимов Расул Мирзаевич</td>
+<td>-</td>
+<td></td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>555</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бопаева Гульдана Естаевна</td>
+<td>-</td>
+<td>30</td>
+<td>3</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>556</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ерполатов Аблайхан Мурзахулұлы</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>557</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Алменов Мырзахул Ерполатович</td>
+<td>-</td>
+<td>18</td>
+<td></td>
+<td>15</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>558</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мурзаев Андрей Анатольевич</td>
+<td>-</td>
+<td>35</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>559</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Исмагулова Гульжан Ауезхановна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>560</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Исмаилов Айса Рысбекович</td>
+<td>-</td>
+<td>6</td>
+<td>11</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>561</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Каримов Юрий Султанович</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>562</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Карпуша Иван Викторович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>563</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Касымбеков Данияр Урикбаевич</td>
+<td>-</td>
+<td></td>
+<td>12</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>564</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Касымов Талгатбек Койбагарович</td>
+<td>-</td>
+<td></td>
+<td>18</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>565</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кирибаева Раиса Каирбековна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>566</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Клочкова Людмила Серафимовна</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>567</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кодукуп Сабит Байгазович</td>
+<td>-</td>
+<td></td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>568</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кужахметов Куандык Алтаевич</td>
+<td>-</td>
+<td></td>
+<td>5</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>569</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Лигай Елена Леонидовна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>570</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Лягуша Николай Анатольевич</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>571</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Макенов Талгат Турсунбаевич</td>
+<td>-</td>
+<td></td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>572</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Молдогалиева Асия Каратаевна</td>
+<td>-</td>
+<td>4</td>
+<td>8</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>573</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мраева Любовь Ильинична</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>574</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мусайкин Мурат Шугаевич</td>
+<td>-</td>
+<td>4</td>
+<td>7</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>575</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ниязбекова Агипаш</td>
+<td>-</td>
+<td></td>
+<td>9</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>576</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нургалиева Марья Губайдоллаевна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>577</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нуркалин Нурлан Мухамеджанович</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>578</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нурушев Нуржан Нуркеевич</td>
+<td>-</td>
+<td></td>
+<td>11</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>579</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Орынбаев Аблай Кожабаевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>580</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Орынбаева Мансура Серикбаевна</td>
+<td>-</td>
+<td></td>
+<td>19</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>581</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Павлецова Лариса Анатольевна</td>
+<td>-</td>
+<td>4</td>
+<td>9</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>582</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Пайч Светлана Викторовна</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>583</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Петрушин Юрий Максимович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>584</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Письменная Светлана Николаевна</td>
+<td>-</td>
+<td>20</td>
+<td></td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>585</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сайменов Бакитжан Жумабаевич</td>
+<td>-</td>
+<td></td>
+<td>9</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>586</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Саменов Нурлан Сарсенбаевич</td>
+<td>-</td>
+<td>4</td>
+<td>8</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>587</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Самошкин Сергей Александрович</td>
+<td>-</td>
+<td>26</td>
+<td>11</td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>588</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Серпиков Виктор Александрович</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>589</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Таженов Ильяс Варисович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>590</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тулегенов Марат Жумадилулы</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>591</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Укасова Кульбаршин Ашимовна</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>592</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Федоряк Елена Викторовна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>593</td>
+<td colspan="3">395459100</td>
+<td>Жамбыл</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Черпанова Малахат Магамеддаликызы</td>
+<td>-</td>
+<td>12</td>
+<td>3</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>594</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Алдиярова Апия Жигерлыевна</td>
+<td>-</td>
+<td>3</td>
+<td>43</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>595</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ахметов Еркин</td>
+<td>-</td>
+<td></td>
+<td>20</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>596</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Байбусунов Бакитжан</td>
+<td>-</td>
+<td>3</td>
+<td>35</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>597</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Балдаева Бибиткуль Кабылдиновна</td>
+<td>-</td>
+<td></td>
+<td>46</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>598</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бапалаков Жангабыл Каирбаевич</td>
+<td>-</td>
+<td></td>
+<td>32</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>599</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бектенбетов Ниязбек Таскалиевич</td>
+<td>-</td>
+<td></td>
+<td>13</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>600</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Бестибаев Сункар Маратович</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>601</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Вафина Венера Темирбаевна</td>
+<td>-</td>
+<td></td>
+<td>23</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>602</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Водолазкина Наталья Александровна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>603</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Данияров Дюсимбай</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>604</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Ержанова Жанна Жармухамбетовна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>605</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жакетов Алданыш Курганбекович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>606</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Жакетов Асылбек Жагуфарович</td>
+<td>-</td>
+<td>7</td>
+<td>25</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>607</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Зарлыханова Зоя</td>
+<td>-</td>
+<td></td>
+<td>62</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>608</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кабдулин Умиртай Серикбаевич</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>609</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кабиев Кенжебек Жолдыбаевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>610</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кабылбекова Рысты Жунусовна</td>
+<td>-</td>
+<td></td>
+<td>11</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>611</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Казбеков Мурат Темирханович</td>
+<td>-</td>
+<td>4</td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>612</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Кемелова Боранул</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>613</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Киркимбаев Еркебулан Серикбаевич</td>
+<td>-</td>
+<td></td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>614</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мухамеджанов Марат Байгонысович</td>
+<td>-</td>
+<td>3</td>
+<td>21</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>615</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нурбаев Кенжегалий</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>616</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нургазин Бахытбек Серикжанович</td>
+<td>-</td>
+<td></td>
+<td>23</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>617</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Нурканов Асан Ануарбекович</td>
+<td>-</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>618</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Остапенко Сергей Сергеевич</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>619</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Оташев Адильхан Едиресович</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>620</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Райымбекова Орынбасар Жагуфаровна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>621</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Салпин Булат Ануарбекович</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>622</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Салпин Ерлан Ануарбекович</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>623</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Темирбаев Самат Раскожаевич</td>
+<td>-</td>
+<td></td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>624</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Темирбаева Айгуль Сергеевна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>625</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Темиргалиев Курмангаза Канашевич</td>
+<td>-</td>
+<td>2</td>
+<td>13</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>626</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Темиргалиев Сайранбек</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>627</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Темиргалиев Сертай Канашевич</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>628</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Тулепбергенов Тулеген</td>
+<td>-</td>
+<td></td>
+<td>25</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>629</td>
+<td colspan="3">395459200</td>
+<td>Алтын дала</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Унайбеков Мурат Калиевич</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>630</td>
+<td colspan="3">395459300</td>
+<td>Самир</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Абилов Марат Тюлюкбаевич</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>631</td>
+<td colspan="3">395459300</td>
+<td>Самир</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Абилов Сакен Тулюкбаевич</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>632</td>
+<td colspan="3">395459300</td>
+<td>Самир</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Курило Татьяна Владимировна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>633</td>
+<td colspan="3">395459300</td>
+<td>Самир</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Меркулов Николай Иванович</td>
+<td>-</td>
+<td></td>
+<td>8</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>634</td>
+<td colspan="3">395459300</td>
+<td>Самир</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Мукашева Гульжанар Ермухамбетовна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>635</td>
+<td colspan="3">395459300</td>
+<td>Самир</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Сактаганов Сапаржан Сейтхасанович</td>
+<td>-</td>
+<td>17</td>
+<td>28</td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>636</td>
+<td colspan="3">395459300</td>
+<td>Самир</td>
+<td colspan="2">Жеке тұлға</td>
+<td>Утеулина Татьяна Эльдубаевна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="14">Жданов ауылдық округі</td>
+</tr>
+<tr>
+<td>637</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бирмаганбетова Г.Д.</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>16</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>638</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бусаганова Сакыжан Жумабаевна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>49</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>639</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нургалиева Разия Сабировна</td>
+<td>-</td>
+<td>10</td>
+<td>11</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>640</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдибеков Беимбет Мухтарович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>117</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>641</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдибеков Саламат Мухтарович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>35</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>642</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдибекова Гульбике Мухтаровна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>15</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>643</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдигалиев Нурлан Темирбекович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>9</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>644</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аманбаев Ануарбек Жанкынбаевич</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>645</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аюпов Серикбай Мусабекович</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>646</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байдер Әділет Муратханұлы</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>35</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>647</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Балесов Ерлан Аскарович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>25</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>648</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Балесов Сакен Аскарулы</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>649</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бекмаганбетов Жумагазы Алимович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>13</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>650</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бектасова Анаргуль Сейдазимовна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>651</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бондаренко Инна Петровна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>652</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ванчугова Татьяна Аркадьевна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>653</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Верещагина Валентина Владимировна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>654</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гольцер Нина</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>655</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дюсембаев Алмат Жамбулович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>656</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Елеусизов Ардак Аманжолович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>71</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>657</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ермагамбетова Сауле Альтаевна</td>
+<td>-</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>658</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жарқынбай Алтынбай Ануарбекұлы</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>659</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жетимекова Рысбеке Фазыловна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>660</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жумабаев Байдир Баекинович</td>
+<td>-</td>
+<td>8</td>
+<td>134</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>661</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жумабаев Ерган Байдирулы</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>53</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>662</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жумабаев Ерлан Байдирович</td>
+<td>-</td>
+<td>0</td>
+<td>11</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>663</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жунусов Мейрамбек Толемисов</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>664</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдибекова Сауле Алпысбаевна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>15</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>665</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жарқынбай Айбек Әнуарбекұлы</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>24</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>666</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Молдасалыков Руслан Кайыргалиевич</td>
+<td>-</td>
+<td>18</td>
+<td>105</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>667</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кабылдаев Нурлан Кабылдаевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>9</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>668</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кадербаева Екатерина Базарбаевна</td>
+<td>-</td>
+<td>0</td>
+<td>55</td>
+<td>9</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>669</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Каменко Николай Евгеньевич</td>
+<td>-</td>
+<td>14</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>670</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кожахметов Абай Кульмуратович</td>
+<td>-</td>
+<td>26</td>
+<td>57</td>
+<td>14</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>671</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кокиева Назгул</td>
+<td>-</td>
+<td>2</td>
+<td>17</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>672</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Краморов Дмитрий Николаевич</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>673</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">«Эль-Кредо» ШҚ</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>674</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Куанышева Улжалгас</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>675</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кульмуратов Утеген Абаевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>676</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кусикбаев Алмат Кабдуллаевич</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>677</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдибеков Курмангазы Мухтарович</td>
+<td>-</td>
+<td>10</td>
+<td>77</td>
+<td>185</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>678</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мукубаева Людмила</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>679</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Муржакупов Куаныш Балтабаевич</td>
+<td>-</td>
+<td>4</td>
+<td>44</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>680</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Оразбаев Руслан</td>
+<td>-</td>
+<td>9</td>
+<td>23</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>681</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Оспанов Сабитбек Аубакирович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>682</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Оспанова Гульсум Какимбековна</td>
+<td>-</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>683</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рудакова Людмила Валерьевна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>684</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Садыков Ерлан Каражанович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>24</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>685</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тарахтий Валерий Иванович</td>
+<td>-</td>
+<td>40</td>
+<td>22</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>686</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тастанов Серик Жуманович</td>
+<td>-</td>
+<td>9</td>
+<td>37</td>
+<td>77</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>687</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Третьяков Олег Аркадьевич</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>688</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Туребеков Алмаз Жангереевич</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>689</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ушаков Владимир Васильевич</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>690</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ушаков Петр Васильевич</td>
+<td>-</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>691</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Чижик Сергей Анатольевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>692</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шайжанов Нурлан Кимерденович</td>
+<td>-</td>
+<td>27</td>
+<td>35</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>693</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шаяхметов Алмас</td>
+<td>-</td>
+<td>3</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>694</td>
+<td colspan="3">395445100</td>
+<td>Ждановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Баклажук Н.В.</td>
+<td>-</td>
+<td>22</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>695</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ауезханов Айдархан Жаксылыкович</td>
+<td>-</td>
+<td>34</td>
+<td>0</td>
+<td>18</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>696</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байкадамов Асылхан Кабиев</td>
+<td>-</td>
+<td>8</td>
+<td>41</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>697</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Галиуллин Жанат Умурзакович</td>
+<td>-</td>
+<td>17</td>
+<td>45</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>698</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Егоров Андрей</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>699</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Есмагамбетов Кельжан Искакович</td>
+<td>-</td>
+<td>0</td>
+<td>66</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>700</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жаркынбеков Х.</td>
+<td>-</td>
+<td>4</td>
+<td>13</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>701</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Идрикова Зауре Б.</td>
+<td>-</td>
+<td>0</td>
+<td>218</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>702</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">«Нурбол» ЖК</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>703</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нурмуханбетов Туленды Токтасынович</td>
+<td>-</td>
+<td>38</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>704</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кенжебаев Алмас Макенович</td>
+<td>-</td>
+<td>22</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>705</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кенжебаев Жансерик Макенович</td>
+<td>-</td>
+<td>18</td>
+<td>43</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>706</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кызылбай Еркин Отарбайулы</td>
+<td>-</td>
+<td>13</td>
+<td>29</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>707</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нургазин Нурлан Есенович</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>708</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нурмуханбетов Наурызбай</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>18</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>709</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Омарова Жанар Рысбаевна</td>
+<td>-</td>
+<td>0</td>
+<td>77</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>710</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Салий Василий Васильевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>29</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>711</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сванбаева Куланда Кажиевна</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>712</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сулейменов Кайрат Амангельдинович</td>
+<td>-</td>
+<td>14</td>
+<td>21</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>713</td>
+<td colspan="3">395445400</td>
+<td>Васильевка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Өтеу Руслан Бақытұлы</td>
+<td>-</td>
+<td>18</td>
+<td>111</td>
+<td>21</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>714</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мамыраймов Серик Тулендинович</td>
+<td>-</td>
+<td>14</td>
+<td>54</td>
+<td>10</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>715</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абишев Асылхан Асылбаевич</td>
+<td>-</td>
+<td>9</td>
+<td>18</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>716</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ауезханов Нурлан Жолтаевич</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>717</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аулетова Куралай</td>
+<td>-</td>
+<td>5</td>
+<td>22</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>718</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аширбеков Хамидолла</td>
+<td>-</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>719</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байсұлтан Анас Саматұлы</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>720</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бондаренко Инна Петровна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>721</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Досмагулов Айдархан Сарымсакович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>722</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Досмагулов Даурен Сарымсакович</td>
+<td>-</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>723</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ергалиев Аманжол</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>16</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>724</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ергалиев Канат Байсултанович</td>
+<td>-</td>
+<td>13</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>725</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ергалиев Самат Байсултанович</td>
+<td>-</td>
+<td>19</td>
+<td>19</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>726</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ерназар Өмірбек Сүндетбайұлы</td>
+<td>-</td>
+<td>15</td>
+<td>25</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>727</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Журмагамбетов Танаткан Акмолдинович</td>
+<td>-</td>
+<td>2</td>
+<td>38</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>728</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мухамеджан Ж.К.</td>
+<td>-</td>
+<td>16</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>729</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мырзахметова А.Г.</td>
+<td>-</td>
+<td>24</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>730</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Қабден Жарас Хамитұлы</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>731</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Какенов Аманжол Абдрахманович</td>
+<td>-</td>
+<td>0</td>
+<td>24</td>
+<td>39</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>732</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кершин Жанай</td>
+<td>-</td>
+<td>42</td>
+<td>50</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>733</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Красильников Игорь Петрович</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>734</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мамраймов Кайрат Толендиевич</td>
+<td>-</td>
+<td>15</td>
+<td>75</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>735</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мокроусов Дмитрий Васильевич</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>736</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Молдахметов Женис</td>
+<td>-</td>
+<td>12</td>
+<td>49</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>737</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Муравский Семён Семёнович</td>
+<td>-</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>738</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мырзахметов Алтай</td>
+<td>-</td>
+<td>9</td>
+<td>23</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>739</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рузанова Галина Николаевна</td>
+<td>-</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>740</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Саржанова Сауле Байсултановна</td>
+<td>-</td>
+<td>11</td>
+<td>35</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>741</td>
+<td colspan="3">395445600</td>
+<td>Кировка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сарымсаков Еркебулан Айдарханович</td>
+<td>-</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>742</td>
+<td colspan="3">395445800</td>
+<td>Семилетка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Батаев Руслан Альбертович</td>
+<td>-</td>
+<td>2</td>
+<td>646</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>743</td>
+<td colspan="3">395445800</td>
+<td>Семилетка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Есекеева Зоя Илимзяновна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>744</td>
+<td colspan="3">395445800</td>
+<td>Семилетка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Порицкая Анна Васильевна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="14">Заречный ауылдық округі</td>
+</tr>
+<tr>
+<td>745</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нугманова Айнагуль Сирикпаевна</td>
+<td>-</td>
+<td></td>
+<td>21</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>746</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Зязиков Ахметхан Магамедович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>747</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нургалиев Азамат Хамитович</td>
+<td>-</td>
+<td>5</td>
+<td>26</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>748</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абильдин Сейтбек Байжанович</td>
+<td>-</td>
+<td></td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>749</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ткаченко Анатолий Геннадьевич</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>750</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Моисеева Татьяна Ильинична</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>751</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байдильдин Кенжеболат Казымбекович</td>
+<td>-</td>
+<td>9</td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>752</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кемпирова М.А.</td>
+<td>-</td>
+<td>2</td>
+<td>11</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>753</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гусейнов Саламали Гусналы-Оглы</td>
+<td>-</td>
+<td>3</td>
+<td>21</td>
+<td>11</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>754</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ахметова Акжамей</td>
+<td>-</td>
+<td></td>
+<td>28</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>755</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нуртаев Серик Бетмагамбетович</td>
+<td>-</td>
+<td></td>
+<td>13</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>756</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алпысбаев Ким Кукенович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>15</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>757</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алпысбаев</td>
+<td>-</td>
+<td>9</td>
+<td>30</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>758</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Уразаков Кайржан Таурбаевич</td>
+<td>-</td>
+<td>99</td>
+<td>63</td>
+<td>78</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>759</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Саутбеков Серик Жаукенович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>760</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Исенов Игбай</td>
+<td>-</td>
+<td></td>
+<td>8</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>761</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кайралапова Сауле Мырзаболановна</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>10</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>762</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сарсенов Узбек Хамитович</td>
+<td>-</td>
+<td></td>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>763</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ивкин Валерий Петрович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>764</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бобуров Виталий А.</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>765</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кульпейсов Жанкельды Сейтказович</td>
+<td>-</td>
+<td></td>
+<td>34</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>766</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ермаганбетов Марат Жумашович</td>
+<td>-</td>
+<td>50</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>767</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кажыкеев Кенжетай</td>
+<td>-</td>
+<td></td>
+<td>58</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>768</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алиева Эльвира Мовлуд кызы</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>769</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ермуханова Гулжан Темиржановна</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>770</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Досов Куанышбай</td>
+<td>-</td>
+<td></td>
+<td>17</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>771</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Асанов Данияр Куандыкович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>772</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алмагамбетов Махамбет Казкенович</td>
+<td>-</td>
+<td>8</td>
+<td>46</td>
+<td>9</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>773</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ковалева Ольга Николаевна</td>
+<td>-</td>
+<td>7</td>
+<td>16</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>774</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бирюков Андрей Владимирович</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>775</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жилкибаева Мендикул Ахметкалиевна</td>
+<td>-</td>
+<td>30</td>
+<td></td>
+<td>15</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>776</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дилмаганбетова Акмарал Алшынбаевна</td>
+<td>-</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>777</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дилмаганбетова Акмарал Алшынбаевна</td>
+<td>-</td>
+<td></td>
+<td>37</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>778</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдулаев Дунямаль Омарович</td>
+<td>-</td>
+<td>8</td>
+<td>9</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>779</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Колесникова Татьяна Яковлевна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>780</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Иванова Софья Владимировна</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>781</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Карибжанова Ильмира Талгатовна</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>782</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бородин Владимир Георгиевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>783</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бадингер Хрестьян Хрестьянович</td>
+<td>-</td>
+<td>1</td>
+<td>34</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>784</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Атултанова Гульнар Салмагамбетовна</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>785</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Джумахаева Слушаш Умирбековна</td>
+<td>-</td>
+<td>21</td>
+<td>56</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>786</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Койшибаев Каким Нурматаевич</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>787</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бекмаганбетов Кабсултан Галымулы</td>
+<td>-</td>
+<td>7</td>
+<td>22</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>788</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байкадамова Тарбие</td>
+<td>-</td>
+<td>5</td>
+<td>19</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>789</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Айтпаева Татьяна Николаевна</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>790</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Епифанова Татьяна Евгеньевна</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>791</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шеген Әсемгүл Болатқызы</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>792</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кокиева Ж.К.</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>793</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сапашов А.Д.</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>14</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>794</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мин Леонтий Минкович</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>795</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тәуірбаев С.К.</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>28</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>796</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Моисеенко В.Г.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>797</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лопатко Вячеслав Иванович</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>798</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ташетов Есимхан Баймугомбетович</td>
+<td>-</td>
+<td></td>
+<td>514</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>799</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Филенко Анатолий Иванович</td>
+<td>-</td>
+<td></td>
+<td>24</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>800</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бильдибаева Марзия Касымбековна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>801</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Крикпенов Нурлан Абишевич</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>802</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сарсембаев Кайруш Жамбулаевич</td>
+<td>-</td>
+<td>15</td>
+<td>80</td>
+<td>18</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>803</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Телеубаев Арнур Алматович</td>
+<td>-</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>804</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ольжабаев Амантай Шайзаданович</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>805</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шалабаев Амирбек Каримович</td>
+<td>-</td>
+<td>4</td>
+<td>24</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>806</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мусин Абзал Ануарбекович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>807</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Коляда Александр Анатольевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>808</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хруль С.М.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>809</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Касымтаев Мурат Залгараевич</td>
+<td>-</td>
+<td></td>
+<td>16</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>810</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Волобуева Лидия Валерьевна</td>
+<td>-</td>
+<td></td>
+<td>27</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>811</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Курмангалиев Куныспай Шаяхметович</td>
+<td>-</td>
+<td></td>
+<td>11</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>812</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">«Садовод» ШҚ</td>
+<td>-</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>813</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">«Қазақ Тұлпары» ЖШС</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>65</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>814</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ташетов Жансеит Есимжанович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>815</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Қостанай ауданы әкімдігінің «Дене шынықтыру және спорт бөлімі» ММ «Ұлттық спорт түрлерінің балалар - жасөспірімдер мектебі» КММ</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>35</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>816</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Садвакасов Ажгали</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>817</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Куц Василий Анатольевич</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>818</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сарсенбаев Нурлан Тиржанович</td>
+<td>-</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>819</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мухамедьяров Серик Сырымбетович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>820</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Якимова Ольга Ивановна</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>821</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Молдашев Асылбек Ахатович</td>
+<td>-</td>
+<td>0</td>
+<td>40</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>822</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жантугулова Кульмайра Бахытжановна</td>
+<td>-</td>
+<td>0</td>
+<td>14</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>823</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кабенов Турабай Кошпанович</td>
+<td>-</td>
+<td>2</td>
+<td>25</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>824</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Уримж Гулбаран</td>
+<td>-</td>
+<td>0</td>
+<td>16</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>825</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Игисенов Садыр Умутбаевич</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>826</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Утина Роза Рахимжановна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>827</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лунева С.А.</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>828</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Усенов Козганбек Абильевич</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>829</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Насибова Зимфира З.</td>
+<td>-</td>
+<td>11</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>830</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Косбергенов Багыткерей Ермаганбетович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>831</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рахимжанов Сеил</td>
+<td>-</td>
+<td>0</td>
+<td>38</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>832</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кожахметов Бектемис Сагиибаевич</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>833</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сатыбалдина Ботагоз Таттыбаевна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>834</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Самидосов Ерлан Мухтарович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>835</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Адырбеков Бахытбек Тилеулиевич</td>
+<td>-</td>
+<td>23</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>836</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Киндин Асылхан Кошкарбаевич</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>837</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ахметова А.Ш.</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>838</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хасенов Биримжан Галимжанович</td>
+<td>-</td>
+<td>0</td>
+<td>16</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>839</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сарбасов Темирхан Хасенович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>840</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мурзалин Куандык Асанович</td>
+<td>-</td>
+<td>0</td>
+<td>17</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>841</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сейтканов А.Ж.</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>842</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гофман В В</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>843</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Надыров Нуржан Ермагамбетович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>24</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>844</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нургалиев Мендыбек Капенович</td>
+<td>-</td>
+<td>0</td>
+<td>12</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>845</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Стеценко Игорь</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>846</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алпысбаев Мейрам Кукенович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>41</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>847</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кыпшакбаев Ганибек Садышанулы</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>848</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мухамедгалиев Жолат Айтжанович</td>
+<td>-</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>849</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Пилюгин Сергей Владимирович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>850</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Пучков Александр Александрович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>851</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Симаненко Викторович</td>
+<td>-</td>
+<td>0</td>
+<td>45</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>852</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абишев Н.Х.</td>
+<td>-</td>
+<td>0</td>
+<td>8</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>853</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бургер Надежда Андреевна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>854</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кункенов Бахит</td>
+<td>-</td>
+<td>0</td>
+<td>24</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>855</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шерияздан Жандаулет</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>856</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жакупова Айгуль Салменовна</td>
+<td>-</td>
+<td>0</td>
+<td>35</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>857</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Назарова А.Ж.</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>10</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>858</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кульбаев Ерлан Аскарулы</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>859</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Федас Т.С.</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>860</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нурканов Болат Ислямбекович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>861</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Смагулов Серик Жылкыбаевич</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>862</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хабыл Хумарбек</td>
+<td>-</td>
+<td>0</td>
+<td>12</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>863</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Цыттель Дина Александровна</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>43</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>864</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ерденов Дархан Габдулкаримович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>865</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Черпанов Р.</td>
+<td>-</td>
+<td>9</td>
+<td>17</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>866</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Калашникова Евгения Эдуардовна</td>
+<td>-</td>
+<td>25</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>867</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Балесова Мауия Аулабаевна</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>15</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>868</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Суходол Артем Валерьевич</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>869</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Серикбеков Бекболат Калилуллаевич</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>12</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>870</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мырзатаев Нурбол Тургалиевич</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>871</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алпысбаев Ерлан Мейрамович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>29</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>872</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Молдашев Жанұзақ Асылбекұлы</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>873</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жалмагамбетов Азамат Гамитович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>874</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нургалиев Руслан Нургалиев</td>
+<td>-</td>
+<td>5</td>
+<td>20</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>875</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мұхамед Сырым</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>876</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Карманов Сакен Игликович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>877</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Карабеков Медет Максутович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>878</td>
+<td colspan="3">395431100</td>
+<td>Заречное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">«Асар» ЖШС</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>879</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Оралбаев Абилкаир Кайырович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>880</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Биркемелов Бейсенбай Курманбекович</td>
+<td>-</td>
+<td>23</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>881</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Чудопалова Любовь Карловна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>882</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сонарбаева Сауле Кубашевна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>883</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Суюбаева Асель Ауязбековна</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>884</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Какенов Жаныбек Азаматович</td>
+<td>-</td>
+<td>0</td>
+<td>127</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>885</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мурзабекова Салтанат Ахметкалиевна</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>886</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байсалбаев Наурызбек Еркинович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>887</td>
+<td colspan="3">395431200</td>
+<td>Абай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Атултанов Тимур Еркинович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>888</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Филиппова Наталья Васильевна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>889</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Оспанов Габит Узбекович</td>
+<td>-</td>
+<td>0</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>890</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аргингазин Талаб</td>
+<td>-</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>891</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Азбекова Орынкуль Нарымовна</td>
+<td>-</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>892</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тогаев Талгат Мухтарович</td>
+<td>-</td>
+<td>0</td>
+<td>11</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>893</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шерияздан Жандаулет «Найман» ЖК</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>894</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Амантаева Жулдузай Зуланбаевна</td>
+<td>-</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>895</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдрахманов Жанат Хасенович</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>896</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мухамеджанов М</td>
+<td>-</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>897</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хайвхан Нургуль</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>16</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>898</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бурбаев Ченгиз Серикович</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>899</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рыгина Оксана Николаевна</td>
+<td>-</td>
+<td>4</td>
+<td>14</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>900</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кажкеева Индира Жанаспаевна</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>901</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жүсіпбек Жусипбек Дүйсенбекқызы</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>902</td>
+<td colspan="3">395431300</td>
+<td>Новоселовка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ещанов Нурсултан Толеутайулы</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>903</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Курганбеков Берик Умутанович</td>
+<td>-</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>904</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Осотов Н. В.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>905</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кушарбаева Карашаш Есенгазиевна</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>906</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Курганбеков Ерик Умутанович</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>907</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сармурзина Айнагуль Раимбековна</td>
+<td>-</td>
+<td>13</td>
+<td>30</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>908</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кошелева В.М.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>909</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шаяхметова Гульнара Жаксылыковна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>910</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Прихода Леонид Леонидович</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>911</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Прозоров Василий Анатольевич</td>
+<td>-</td>
+<td>0</td>
+<td>8</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>912</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бопаева Г.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>913</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бопаев Нурболат Боранбаевич</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>914</td>
+<td colspan="3">395431400</td>
+<td>Осиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мұрат Азамат Қайратұлы</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>915</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абишев Сактапберген Басбакулы</td>
+<td>-</td>
+<td>5</td>
+<td>21</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>916</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Базауер Александр Владимирович</td>
+<td>-</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>917</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жапасбаев Батыржан Валиевич</td>
+<td>-</td>
+<td>0</td>
+<td>19</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>918</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Казбаев С.М.</td>
+<td>-</td>
+<td>2</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>919</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мухамбетов Даулет Сапаргалиевич</td>
+<td>-</td>
+<td>16</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>920</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Арыстанбеков Канат Смагулович</td>
+<td>-</td>
+<td>1</td>
+<td>23</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>921</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мойсеева Галина Николаевна</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>922</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жусупов Мирамбек Жумабекович</td>
+<td>-</td>
+<td>0</td>
+<td>19</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>923</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нурмаганбетов Азамат Сабитбекович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>924</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Меркель Оксана Петровна</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>925</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Краева Олеся Николаевна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>926</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдиков Нурлан Жумабекович</td>
+<td>-</td>
+<td>0</td>
+<td>19</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>927</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Молдашев Бакытжан Исланович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>928</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Давыскиба Виталий Александрович</td>
+<td>-</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>929</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ершова Надежда Ивановна</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>930</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ершов Алексей Валерьевич</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>931</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Елюсинов Олжас Кайратович</td>
+<td>-</td>
+<td>0</td>
+<td>111</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>932</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Урдабаев Маулен Нурланович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>933</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Федоренко Руслан Игоревич</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>934</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кудайбергенова Дамиля Есмухановна</td>
+<td>-</td>
+<td>0</td>
+<td>29</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>935</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нурпеисов Дамир Казезович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>16</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>936</td>
+<td colspan="3">395431500</td>
+<td>Рыспай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Урдабаева Риза Бауржанкызы</td>
+<td>-</td>
+<td>0</td>
+<td>22</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>937</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ермаганбетова Жумабике Акбаровна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>938</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Баянов Амангелды Тулегенович</td>
+<td>-</td>
+<td>0</td>
+<td>13</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>939</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Исембаева Алмагуль Сардарбековна</td>
+<td>-</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>940</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бадингер Татьяна Х.</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>941</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдрахманов Сагит Хусайнович</td>
+<td>-</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>942</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мажгулов Туребек Ильтаевич</td>
+<td>-</td>
+<td>0</td>
+<td>7</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>943</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Туякбаев Амирхан</td>
+<td>-</td>
+<td>0</td>
+<td>14</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>944</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нуртазина Айгуль Ахмадиевна</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>10</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>945</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Инертбаев Е.Д.</td>
+<td>-</td>
+<td>4</td>
+<td>6</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>946</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Касенова Айсулу Ауезовна</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>947</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жукей Айжамал</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>948</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Альжанов Саги Аманбаевич</td>
+<td>-</td>
+<td>0</td>
+<td>12</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>949</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мустафина Камила Кадырбековна</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>950</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Саулатов Бауржан Ансаганович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>62</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>951</td>
+<td colspan="3">395431600</td>
+<td>Талапкер</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Яковенко Александр Викторович</td>
+<td>-</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="14">Майкольский сельский округ</td>
+</tr>
+<tr>
+<td>952</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Золотых Валерий Анатольевич</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>953</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ворона Татьяна Сергеевна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>954</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алхименков Сергей Михайлович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>955</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мартынова Светлана Васильевна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>956</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Павлова Наталья Ивановна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>957</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Панасенко Николай Николаевич</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>958</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Довчунас Владимир Александрович</td>
+<td>-</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>959</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гузенко Виталий Анатольевич</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>960</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гузенко Владимир Владимирович</td>
+<td>-</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>961</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Колодий Наталья Алексеевна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>962</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мельник Наталия Федоровна</td>
+<td>-</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>963</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рыспаев Куанышбек Куандыкович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>964</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Киргетов Леонид Алексеевич</td>
+<td>-</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>965</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Зайнуллин Еркин Реваулы</td>
+<td>-</td>
+<td>0</td>
+<td>30</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>966</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мартынова Светлана Васильевна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>967</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сологубовас Вероника Борисовна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>968</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кублик Оксана Владимировна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>969</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Науменко Денис Григорьевич</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>970</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ибрагимов Рашид Садиоглы</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>971</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ломакин Александр Александрович</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>972</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алхименков Анатолий Михайлович</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>973</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Елчиев Бахром Саддрадин оглы</td>
+<td>-</td>
+<td>10</td>
+<td>7</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>974</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Крещенко Надежда Алексеевна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>975</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сорокина Ирина Васильевна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>976</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Колотий Анатолий Николаевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>977</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Коваль Сергей Александрович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>978</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Волоткевич Николай Сергеевич</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>979</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абитов Константин Николаевич</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>980</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Яхновская Оксана Петровна</td>
+<td>-</td>
+<td>4</td>
+<td>12</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>981</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тиркина Татьяна Леонидовна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>982</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Усманова Садафгуль Синамтуловна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>983</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алексейчик Татьяна Сергеевна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>984</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алексперова Влада Денисовна</td>
+<td>-</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>985</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алексперова Любовь Адамовна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>986</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Миль Светлана Анатольевна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>987</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Янусов Александр Николаевич</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>988</td>
+<td colspan="3">395447500</td>
+<td>Шеминовское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Некрасова Александра Александровна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>989</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аргузова Елена Николаевна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>990</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дусакиева Замзагул Сейткалиевна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>991</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шалгимбаев Есимхан Хайдарович</td>
+<td>-</td>
+<td>2</td>
+<td>9</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>992</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тайщикова Ботагоз Сапабековна</td>
+<td>-</td>
+<td>0</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>993</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дусакиева Гульсим Сейткалиевна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>994</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Багиров Исраил Шахмар оглы</td>
+<td>-</td>
+<td>4</td>
+<td>20</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>995</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Садриддинова Дарья</td>
+<td>-</td>
+<td>17</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>996</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Макатова Жания Досамаганбетовна</td>
+<td>-</td>
+<td>6</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>997</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Миниязова Татьяна Рафиковна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>998</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Асадов Мазхир Мехти оглы</td>
+<td>-</td>
+<td>12</td>
+<td>23</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>999</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Анащенков Анатолий Анатольевич</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1000</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Приятелева Татьяна Викторовна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1001</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Винтер Татьяна Андреевна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1002</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байбулов Бахтыбай Айдарханович</td>
+<td>-</td>
+<td>3</td>
+<td>21</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1003</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гребеневич Василий Степанович</td>
+<td>-</td>
+<td>2</td>
+<td>25</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1004</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кускулаков Серик Куштанович</td>
+<td>-</td>
+<td>3</td>
+<td>7</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1005</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ахметов Марат Есмурзаевич</td>
+<td>-</td>
+<td>8</td>
+<td>32</td>
+<td>12</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1006</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Азбеков Ержан Нургалиевич</td>
+<td>-</td>
+<td>23</td>
+<td>25</td>
+<td>25</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1007</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аббасов Ильхам Шахмар оглы</td>
+<td>-</td>
+<td>11</td>
+<td>80</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1008</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Романкулов Нурлан Уразбаевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>65</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1009</td>
+<td colspan="3">395447200</td>
+<td>Арман</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ильменский Брис Иванович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1010</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ермаганбетов Кайрат Балгабекович</td>
+<td>-</td>
+<td>13</td>
+<td>10</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1011</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сычев Владислав Владимирович</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1012</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Галямов Денис Рашидович</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1013</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Филипова Анна Анатольевна</td>
+<td>-</td>
+<td>13</td>
+<td>0</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1014</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ерманова Ольга Борисовна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1015</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Грачев Алексей</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1016</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Малик Вера Константиновна</td>
+<td>-</td>
+<td>1</td>
+<td>10</td>
+<td>12</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1017</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Куркулова Нургуль Болатовна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1018</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кудерин Айдарбек Агзамович</td>
+<td>-</td>
+<td>2</td>
+<td>9</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1019</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тарануха Татьяна Александровна</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1020</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Икулева Алина Владимировна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1021</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алдабаева Любовь Михайловна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1022</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Посикан Александр Владимирович</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1023</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сухова Галина Анатольевна</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1024</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Туголукова Светлана НИколаевна</td>
+<td>-</td>
+<td>18</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1025</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Темирбаев Айдарбек Таукбаевич</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1026</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Богодухова Екатерина Григорьевна</td>
+<td>-</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1027</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ольмезов Василий Константинович</td>
+<td>-</td>
+<td>33</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1028</td>
+<td colspan="3">395447400</td>
+<td>Рязановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бирманов Ануар Алтаевич</td>
+<td>-</td>
+<td>0</td>
+<td>202</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1029</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гончарук Ольга Николаевна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1030</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Штанг Евгения Робертовна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1031</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рооде Юрий Оттович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1032</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кузнецова Наталья Петровна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1033</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кнауб Инесса Борисовна</td>
+<td>-</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1034</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Садыков Елтай Куандыкович</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1035</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Симанович Дмитрий Аркадьевич</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1036</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ильминский Владимир Михайлович</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1037</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Садыков Еркебулан Куандыкович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1038</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Садыков Куандык Жансултанович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1039</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Акбергенов Серик Казаханович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1040</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алибаев Токтар</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1041</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нямцу Алексей Александрович</td>
+<td>-</td>
+<td>12</td>
+<td>0</td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1042</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сарсенбаев Даулен Бакитович</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1043</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гаджиев Нурали Пирали оглы</td>
+<td>-</td>
+<td>13</td>
+<td>38</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1044</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Махамбетов Иван Серикович</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1045</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жусупова Меруерт Жаксылыковна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1046</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Артукбаев Сардор Хидралиевич</td>
+<td>-</td>
+<td>3</td>
+<td>200</td>
+<td>30</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1047</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Садвакасов Кайрат Нуралиевич</td>
+<td>-</td>
+<td>3</td>
+<td>11</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1048</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Злобин Валерий Викторович</td>
+<td>-</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1049</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Снегирева Ирина Андреевна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1050</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Досмухамбетов Дуйсенгали Жолдыбаевич</td>
+<td>-</td>
+<td>4</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1051</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдуллаев Мойхаддин Гасан оглы</td>
+<td>-</td>
+<td>7</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1052</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ганжа Марина Леонидовна</td>
+<td>-</td>
+<td>10</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1053</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Утегенов Турсунбек Мухтарович</td>
+<td>-</td>
+<td>4</td>
+<td>9</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1054</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мартыненко Татьяна Ивановна</td>
+<td>-</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1055</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Исламова Яха Халидовна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1056</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Касумов Мухид Седьмагомедович</td>
+<td>-</td>
+<td>16</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1057</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Касумов Хамит Седьмагомедович</td>
+<td>-</td>
+<td>20</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1058</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Касумова Айза Халидовна</td>
+<td>-</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1059</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Юсупова Турсун</td>
+<td>-</td>
+<td>0</td>
+<td>5</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1060</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Исмагулов Ибрагим Ауезханович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1061</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аубакиров Кауез Жабаевич</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1062</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шаймагамбет Бортай Баязит улы</td>
+<td>-</td>
+<td>4</td>
+<td>6</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1063</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ажанов Куандык</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>50</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1064</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сарсенов Талгат Карахметович</td>
+<td>-</td>
+<td>12</td>
+<td>35</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1065</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хамадаева Людмила Егоровна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1066</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Черняк Татьяна Константинвна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1067</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Снигирева Наталья Константиновна</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1068</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гардер Эдуард Николаевич</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1069</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ларина Татьяна Леонидовна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1070</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рогаль Ольга Леонидовна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1071</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Зайцева Мария Николаевна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1072</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Минкин Темирхан Конысбаевич</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1073</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Куджанова Роза Максатовна</td>
+<td>-</td>
+<td>10</td>
+<td>0</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1074</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ергалиева Багда Байсултановна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1075</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Омаров Амиргали Жумагалиевич</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1076</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Званько Василий Васильевич</td>
+<td>-</td>
+<td>12</td>
+<td>0</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1077</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дуйсеков Танатхан Жукатаевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1078</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Галиев Александр Афанасьевич</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1079</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Белоносова Светлана Федоровна</td>
+<td>-</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1080</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Махлаева Надежда Ильинична</td>
+<td>-</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1081</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Башратян Степан Карленович</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1082</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Казарян Мартик Грачикович</td>
+<td>-</td>
+<td>15</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1083</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Емец Александр Васильевич</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1084</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Диде Иван Карлович</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1085</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шелудько Ольга Владимировна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1086</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дияров Амандык Абилгазимович</td>
+<td>-</td>
+<td>2</td>
+<td>12</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1087</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Заремба Наталья Николаевна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1088</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Заргарян Карен Овсефович</td>
+<td>-</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1089</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кандалина Лидия Федоровна</td>
+<td>-</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1090</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мухамедгалина Асия Исхаковна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1091</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дюсенбаев Тонат</td>
+<td>-</td>
+<td>2</td>
+<td>6</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1092</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мартынюк Людмила Ананьевна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1093</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Новрузов Закир Самед оглы</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1094</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдрахманов Серик Мурзагалиевич</td>
+<td>-</td>
+<td>0</td>
+<td>10</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1095</td>
+<td colspan="3">395447100</td>
+<td>Майкөл</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шектыбаева Мадина Кайратовна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="14">Мичурин ауылдық округі</td>
+</tr>
+<tr>
+<td>1096</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бондарь Владимир Григорьевич</td>
+<td>-</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1097</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тюякбаев Баян</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1098</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жахеева Мадина Букеевна</td>
+<td>-</td>
+<td>0</td>
+<td>50</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1099</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Назарбеков Калыбек Сандыбекович</td>
+<td>-</td>
+<td>12</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1100</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ваганова Лидия Павловна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1101</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Першина Тамара Александровна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1102</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кендаулетов Серик Сагидоллович</td>
+<td>-</td>
+<td>0</td>
+<td>9</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1103</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бопайұлы Боранбай</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1104</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Каргулов Казгельди</td>
+<td>-</td>
+<td>4</td>
+<td>23</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1105</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алимжанова Шынар Алимжановна</td>
+<td>-</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1106</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Балашов Анатолий Исмаилович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1107</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Татибаев Кадырбай Кабдельманович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1108</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Костякова Надежда Николаевна</td>
+<td>-</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1109</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Зубкас Александр Николаевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1110</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Туякова Назымкуль Ахметовна</td>
+<td>-</td>
+<td>0</td>
+<td>38</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1111</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сисембин Мырзагалий Жумагалиевич</td>
+<td>-</td>
+<td>13</td>
+<td>16</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1112</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Альмагамбетова Майра Кадильбековна</td>
+<td>-</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1113</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Криулько Наталья Киминовна</td>
+<td>-</td>
+<td>2</td>
+<td>4</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1114</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ерденова Гульшат Ергазиевна</td>
+<td>-</td>
+<td>7</td>
+<td>183</td>
+<td>9</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1115</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Свищева Татьяна Владимировна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1116</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Васенин Евгений Викторович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1117</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ермекбаев Баяхан Алимгазиевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>9</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1118</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Пархоменко Григорий Викторович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1119</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Иманбаева Зейнекуль Садвакасовна</td>
+<td>-</td>
+<td>0</td>
+<td>9</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1120</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Садвакасова Разия Абжановна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1121</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Досполова Назгул Кабдулмажитовна</td>
+<td>-</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1122</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ильясов Кайрат Елюбаевич</td>
+<td>-</td>
+<td>0</td>
+<td>36</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1123</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Уразбаев Ыбрай Кабдулович</td>
+<td>-</td>
+<td>4</td>
+<td>50</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1124</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аубакирова Ляззат Ергазиевна</td>
+<td>-</td>
+<td>0</td>
+<td>25</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1125</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сеитов Суиныш Рустемович</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1126</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Фриц Наталья Ивановна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1127</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мукаева Гульжан Габдуловна</td>
+<td>-</td>
+<td>0</td>
+<td>27</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1128</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кудрявцев Иван Михайлович</td>
+<td>-</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1129</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Молдагулова Айдай Курмантасовна</td>
+<td>-</td>
+<td>20</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1130</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Немеренов Галымжан Советович</td>
+<td>-</td>
+<td>55</td>
+<td>65</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1131</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Петрицкая Ирина Владимировна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1132</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Петрачук Елена Петровна</td>
+<td>-</td>
+<td>20</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1133</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кузубаев Еркин Бекбулович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1134</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алпыспаев Анарбек Баянбаевич</td>
+<td>-</td>
+<td>0</td>
+<td>50</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1135</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Фомина Анна Владимировна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1136</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нургалиев Марат Мирамбекович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1137</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Исмагамбетов Ерик Шимбергенович</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1138</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Маркелов Игорь Анатольевич</td>
+<td>-</td>
+<td>20</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1139</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Самбулатова Гульшат Шукуровна</td>
+<td>-</td>
+<td>0</td>
+<td>30</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1140</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Букеева Акбота Бультриковна</td>
+<td>-</td>
+<td>29</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1141</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Конырбекова Шарагуль Мырзахановна</td>
+<td>-</td>
+<td>0</td>
+<td>10</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1142</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сейдахова Сауле Мусаевна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1143</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Демеев Канат Сункарбекович</td>
+<td>-</td>
+<td>16</td>
+<td>35</td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1144</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Куслиев Павел Анатольевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1145</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жаканов Серик Болатович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1146</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Макамбетова Камшат Турмухаметовна</td>
+<td>-</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1147</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алтынбаев Нуржан Тыныштыкбаевич</td>
+<td>-</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1148</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Зубкас Евгениий Александрович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1149</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Смагулов Сергей Сергеевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1150</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Наконечная Оксана Петровна</td>
+<td>-</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1151</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Чичерина Полина Анатольевна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1152</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хакимжанов Марал Балтабаевич</td>
+<td>-</td>
+<td>22</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1153</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Орлова Оксана Сергеевна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1154</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гузенко Иван Александрович</td>
+<td>-</td>
+<td>67</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1155</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Петровец Николай Николаевич</td>
+<td>-</td>
+<td>0</td>
+<td>20</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1156</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Газе Артем Юрьевич</td>
+<td>-</td>
+<td>20</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1157</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Утемисова Жанбота</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1158</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Исенов Еркин Нурмантаевич</td>
+<td>-</td>
+<td>1</td>
+<td>8</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1159</td>
+<td colspan="3">395451100</td>
+<td>Мичуринское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Большакова Ксения Александровна</td>
+<td>-</td>
+<td>6</td>
+<td>17</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1160</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мурзабеков Кеншілік Кенесович</td>
+<td>-</td>
+<td>0</td>
+<td>8</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1161</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ягалеев Сапаржан Кабдыбекович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1162</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нурсеит Тыныштык</td>
+<td>-</td>
+<td>17</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1163</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лысенко Валентина Ивановна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1164</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Носенко Нина Павловна</td>
+<td>-</td>
+<td>0</td>
+<td>20</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1165</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Танжарыков Азирхан Абдрахманович</td>
+<td>-</td>
+<td>2</td>
+<td>20</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1166</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Захарова София Иосифовна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1167</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жуванышев Ертаргын Бимагамбетович</td>
+<td>-</td>
+<td>38</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1168</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гараев Намизад Мамедгусейн Оглы</td>
+<td>-</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1169</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жумаева Жанат Камаевна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1170</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Акмолдина Репияш</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1171</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Конюх Людмила Михайловна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1172</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Служаева Надежда Григорьевна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1173</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байгужина Сауле Хамитовна</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1174</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тасбулатов Алексей Хабдуллович</td>
+<td>-</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1175</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байбулатов Булат Жамберович</td>
+<td>-</td>
+<td>14</td>
+<td>54</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1176</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Айтмагамбетов Есентай Айтуарович</td>
+<td>-</td>
+<td>20</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1177</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Утенова Балзада Искаковна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1178</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Биртаева Жанагул Баймукановна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1179</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бадалова Раяда Аладдинкызы</td>
+<td>-</td>
+<td>37</td>
+<td>38</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1180</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ермаганбетов Мурат Галымбекович</td>
+<td>-</td>
+<td>10</td>
+<td>3</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1181</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сеиткалиева Кенжегуль Макеновна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1182</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ким Жанна Викторовна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1183</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Колтаков Сергей Михайлович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1184</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Постригань Ирина Федоровна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1185</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сейдахметова Гульшат</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1186</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бабурина Елена Юрьевна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1187</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Иолчуев Латиф Садраддиноглы</td>
+<td>-</td>
+<td>39</td>
+<td>43</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1188</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Иолчуев Латиф Садраддиноглы</td>
+<td>-</td>
+<td>57</td>
+<td>63</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1189</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тарутько Ирина Николаевна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1190</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тулегенова Гульжаухар Кабдикаримовна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1191</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Саликов Иргали Такешевич</td>
+<td>-</td>
+<td>2</td>
+<td>30</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1192</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сугралин Аскат Ахметович</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1193</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Михальков Анатолий Фёдорович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1194</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ткаченко Николай Федорович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1195</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лямзина Надежда Васильевна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1196</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бегдаутов Серик Сарданович</td>
+<td>-</td>
+<td>0</td>
+<td>25</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1197</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Киселев Сергей Анатольевич</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1198</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жуванышев Еркин Ертаргинович</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1199</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мурзабекова Бахыткуль Бушмановна</td>
+<td>-</td>
+<td>0</td>
+<td>39</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1200</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кужентаев Данат Исмагамбетович</td>
+<td>-</td>
+<td>6</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1201</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Курманова Зухра Аблекимовна</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1202</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Оразалинова Камшат Турсынбековна</td>
+<td>-</td>
+<td>0</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1203</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аубакиров Ерлан Калиулович</td>
+<td>-</td>
+<td>2</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1204</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алшынбаев Берик Айкенович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1205</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Моисеева Наталья Яковлевна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1206</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Пицина Дмитрий Викторович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1207</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мичуров Николай Николаевич</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1208</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Биртаев Досымжан Баймуканович</td>
+<td>-</td>
+<td>4</td>
+<td>24</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1209</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Муменов Жандос Мофикович</td>
+<td>-</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1210</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шалабаев Нурсултан Мухамедкалиевич</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1211</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жуванышева Рыскуль Хамитовна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1212</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сахалов Серикжан Адильбекович</td>
+<td>-</td>
+<td>4</td>
+<td>40</td>
+<td>21</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1213</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сакупова Айгерим Тасболатовна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>12</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1214</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шлегель Светлана Валерьевна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1215</td>
+<td colspan="3">395451200</td>
+<td>Алтынсарино</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бекентаев Болат Тулькобаевич</td>
+<td>-</td>
+<td>16</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1216</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Олейник Лариса Георгиевна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1217</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бекмагамбетова Рабига Усеновна</td>
+<td>-</td>
+<td>0</td>
+<td>14</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1218</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Коряковская Надежда Ильинична</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1219</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кокиева Орынтай</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1220</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Силюнина Амалия Андреевна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1221</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Цигельник Александр Кондратьевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1222</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Вайнбергер Андрей Давыдович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1223</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Климентьева Татьяна Дмитриевна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1224</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бука Василий Васильевич</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1225</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Канапина Кульзейнеп Шайменовна</td>
+<td>-</td>
+<td>28</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1226</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Балакан Маргарита Васильевна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1227</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Черепанов Виктор Николаевич</td>
+<td>-</td>
+<td>0</td>
+<td>51</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1228</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гончаров Сергей Иванович</td>
+<td>-</td>
+<td>28</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1229</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Панасенков Александр Михайлович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1230</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бувалец Виктор Петрович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1231</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Демешев Сергей Григорьевич</td>
+<td>-</td>
+<td>27</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1232</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сафарян Игит Исмирханович</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1233</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Земзюля Любовь Ивановна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1234</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жигадло Александр Александрович</td>
+<td>-</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1235</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нургазина Балжан Узукпаевна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1236</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Следзинский Анатолий Болиславович</td>
+<td>-</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1237</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Корганбекова Райхан Кавкеновна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1238</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мағзум Сәрсенбай Бейсенұлы</td>
+<td>-</td>
+<td>6</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1239</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Садвакасов Балтабай Ажигалиевич</td>
+<td>-</td>
+<td>6</td>
+<td>32</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1240</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жарасов Ибрагим Амирханович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1241</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Галымов Оразбек Хамидолинович</td>
+<td>-</td>
+<td>0</td>
+<td>27</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1242</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Вацлюк Борис Анатольевич</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1243</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Полищук Анатолий Васильевич</td>
+<td>-</td>
+<td>67</td>
+<td>0</td>
+<td>37</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1244</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Максимова Людмила Владимировна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1245</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гомзякова Людмила Дмитриевна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1246</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рожнов Валерий Евгеньевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>9</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1247</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Акмурзин Нуржан Кабделович</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1248</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Горбачева Ольга Владимировна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1249</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кенжалин Нурлан Жиеншевич</td>
+<td>-</td>
+<td>10</td>
+<td>96</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1250</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шиндина Елена Александровна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1251</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абильмажинова Бибигуль Ердаулетовна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1252</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тимошкин Николай Александрович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>10</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1253</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Русанов Александр Николаевич</td>
+<td>-</td>
+<td>35</td>
+<td>0</td>
+<td>10</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1254</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Коряковская Наталья Александровна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1255</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Муржикова Шынаркуль Рустемовна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1256</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шартон Иван Рейнгольдович</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1257</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Айдосова Инеш Назымбековна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1258</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Петрицкий Владимир Валерьевич</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1259</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Вайнбергер Сергей Викторович</td>
+<td>-</td>
+<td>1</td>
+<td>15</td>
+<td>18</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1260</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рожнов Дмитрий Анатольевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>10</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1261</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Вайнбергер Татьяна Андреевна</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1262</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гильд Иван Яковлевич</td>
+<td>-</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1263</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тюфекова Светлана Владимировна</td>
+<td>-</td>
+<td>30</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1264</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Уйсумбаева Сауле Галиакпаровна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1265</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Исупов Андрей Перфильевич</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1266</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байжакупова Асель Ислямгалиевна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1267</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ибраев Талгат Досымжанович</td>
+<td>-</td>
+<td>17</td>
+<td>0</td>
+<td>9</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1268</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нефедова Татьяна Михайловна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1269</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бейсенов Арман Касенханович</td>
+<td>-</td>
+<td>0</td>
+<td>84</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1270</td>
+<td colspan="3">395451300</td>
+<td>Садовое</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Исупова Мария Викторовна</td>
+<td>-</td>
+<td>32</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="14">Мәскеу ауылдық округі</td>
+</tr>
+<tr>
+<td>1271</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Акжанов Магабия Камантаевич</td>
+<td>-</td>
+<td>2</td>
+<td>40</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1272</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кендиров Болат Сабиржанович</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1273</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Орынбаев Кайрат Ардаубайвич</td>
+<td>-</td>
+<td></td>
+<td>33</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1274</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Коновалов Анатолий Викторович</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1275</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дубаускас Анна Александровна</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1276</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Орынбаев Мурат Ардаубаевич</td>
+<td>-</td>
+<td>20</td>
+<td>37</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1277</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сезимхан Саяхат</td>
+<td>-</td>
+<td></td>
+<td>13</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1278</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Калисенова Айслу Танбаевна</td>
+<td>-</td>
+<td>35</td>
+<td>22</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1279</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аксакалов Булат Жусубекович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1280</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абельдинов Канат Бердибекович</td>
+<td>-</td>
+<td>20</td>
+<td>37</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1281</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абильдина Акмарал Канатовна</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1282</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аврамчик Асия Гадиловна</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1283</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Азат Бекзат</td>
+<td>-</td>
+<td>50</td>
+<td>57</td>
+<td>14</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1284</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Азат Тілеубек</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1285</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Айшуаков Серали Ахметович</td>
+<td>-</td>
+<td>10</td>
+<td>24</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1286</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Артюшин Леонид Леонидович</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1287</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Асубай Хайрат</td>
+<td>-</td>
+<td>17</td>
+<td>52</td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1288</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ахарыс Мөршарив</td>
+<td>-</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1289</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байтурсунова Гаухар Кулсариновна</td>
+<td>-</td>
+<td></td>
+<td>49</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1290</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Банцер Инна Владимировна</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1291</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бедыч Олег Владимирович</td>
+<td>-</td>
+<td></td>
+<td>12</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1292</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Беженарь Сергей Николаевич</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1293</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бейбитулы Серикбол</td>
+<td>-</td>
+<td>31</td>
+<td>53</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1294</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бекболат Кеншілік</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1295</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бердимурат Адилбек</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1296</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бийсенов Марат Кенжигалиевич</td>
+<td>-</td>
+<td>11</td>
+<td>14</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1297</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бисенов Еслямгалий Габдилхамитович</td>
+<td>-</td>
+<td></td>
+<td>3</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1298</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Болматов Дмитрий Михайлович</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1299</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Валиев Ринат Анасович</td>
+<td>-</td>
+<td></td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1300</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Валиева Зиля Анасовна</td>
+<td>-</td>
+<td></td>
+<td>8</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1301</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Василец Владимир Викторович</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1302</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гайсумова Виктория Ильинична</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1303</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гаранин Геннадий Анатольевич</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1304</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гольцвард Никита Владимирович</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1305</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гопенко Георгий Александрович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1306</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гопенко Наталья Валерьевна</td>
+<td>-</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1307</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Даргерхан Кирисхан</td>
+<td>-</td>
+<td>16</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1308</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Деримедведь Татьяна Борисовна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1309</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Добкевичюс Дина Зигмантасовна</td>
+<td>-</td>
+<td>48</td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1310</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Егиазарян Арсен Борикович</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1311</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Едельбаева Бахыт Шоптибаевна</td>
+<td>-</td>
+<td>1</td>
+<td>36</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1312</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ежикей Серикбол</td>
+<td>-</td>
+<td>17</td>
+<td>38</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1313</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ержанов Талгат Бахытжанович</td>
+<td>-</td>
+<td>2</td>
+<td>35</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1314</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Заруба Анатолий Григорьевич</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1315</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Зыбина Иветта Олеговна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1316</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Зюзина Валентина Витальевна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1317</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ивашкин Владимир Васильевич</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1318</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Толеген Гулжан</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1319</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шынуар Зандан</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1320</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Искаков Нурбол Сапарович</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1321</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кендирова Бердигул</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1322</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Керимбай Азамат</td>
+<td>-</td>
+<td>40</td>
+<td>53</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1323</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Керимбай Өмирбек</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1324</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Климович Елена Васильевна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1325</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кодряну Андрей Иванович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1326</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Крюкова Галина Валентиновна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1327</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кудрявцев Иван Петрович</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1328</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кураш Флюра Рагиповна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1329</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ларьков Юрий Аркадьевич</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1330</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ларькова Валентина Адамовна</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1331</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Литвинова Надежда Александровна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1332</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Литвинова Светлана Константиновна</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1333</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Любиченко Дмитрий Петрович</td>
+<td>-</td>
+<td>23</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1334</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Любиченко Маргарита Владимировна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1335</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Майзингер Виталий Васильевич</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1336</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Манкей Мейрамбек</td>
+<td>-</td>
+<td>18</td>
+<td>30</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1337</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мациевский Дмитрий Викторович</td>
+<td>-</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1338</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Менглибаев Ботирали Чутбаевич</td>
+<td>-</td>
+<td></td>
+<td>45</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1339</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Молдабаева Лисиза Хариссовна</td>
+<td>-</td>
+<td></td>
+<td>8</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1340</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мурыгин Виктор Павлович</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1341</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мусаинова Кумистай Таласбаевна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1342</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Набиев Ернул Турганович</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1343</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Набиева Салтанат Бейсеновна</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1344</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Наукенова Даметкен Мажитовна</td>
+<td>-</td>
+<td>7</td>
+<td>24</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1345</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нечаева Наталья Владимировна</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1346</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нечипоренко Валентина Викторовна</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1347</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нечипоренко Наталья Витальевна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1348</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Озгерис Амантай</td>
+<td>-</td>
+<td>44</td>
+<td>51</td>
+<td>10</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1349</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Озгерис Есбол</td>
+<td>-</td>
+<td>14</td>
+<td>18</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1350</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Орынбаев Кайрат Ардаубайвич</td>
+<td>-</td>
+<td></td>
+<td>33</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1351</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сайфулина Елена Викторовна</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1352</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Санах Ахарыс</td>
+<td>-</td>
+<td>18</td>
+<td>29</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1353</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сапегина Людмила Васильевна</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1354</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сезимхан Аманбек</td>
+<td>-</td>
+<td>11</td>
+<td>60</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1355</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сезимхан Парасат</td>
+<td>-</td>
+<td>72</td>
+<td>200</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1356</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Серикбаев Нагашибай</td>
+<td>-</td>
+<td>3</td>
+<td>28</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1357</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Серикпаева Надежда Михайловна</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1358</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сетерхан Солдат</td>
+<td>-</td>
+<td>34</td>
+<td>18</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1359</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Субботина Светлана Анатольевна</td>
+<td>-</td>
+<td>29</td>
+<td>10</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1360</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сулейманов Василий Мухамедович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1361</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сюткина Ольга Андреевна</td>
+<td>-</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1362</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Табарак Кулшар</td>
+<td>-</td>
+<td>10</td>
+<td>60</td>
+<td>14</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1363</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Табарек Туганай</td>
+<td>-</td>
+<td>19</td>
+<td>28</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1364</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Таберек Ермек</td>
+<td>-</td>
+<td>17</td>
+<td>45</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1365</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Таверек Хуанбек</td>
+<td>-</td>
+<td>18</td>
+<td>43</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1366</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тебеньков Алексей Сергеевич</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1367</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тезин Вячеслав Юрьевич</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1368</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Терехов Анатолий Анатольевич</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1369</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Төлеген Шынуарбек</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1370</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Төнкерис Ажар</td>
+<td>-</td>
+<td>27</td>
+<td>44</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1371</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Толеген Ануарбек</td>
+<td>-</td>
+<td>18</td>
+<td>23</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1372</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тропман Вадим Владимирович</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1373</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Туребеков Болат Ундемесович</td>
+<td>-</td>
+<td>5</td>
+<td>25</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1374</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Туребекова Каирлы Жакановна</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1375</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Уйсив Калем</td>
+<td>-</td>
+<td>10</td>
+<td>20</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1376</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Уйсив Халам</td>
+<td>-</td>
+<td>6</td>
+<td>20</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1377</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Усенова Куляш Кусайновна</td>
+<td>-</td>
+<td>8</td>
+<td>14</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1378</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Филиппов Виталий Иванович</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1379</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хабдолда Бердимурат</td>
+<td>-</td>
+<td>13</td>
+<td>13</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1380</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хайрдан Нух</td>
+<td>-</td>
+<td>14</td>
+<td>34</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1381</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хауйх Жайнагул</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1382</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хаух Бахшагул</td>
+<td>-</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1383</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хиналхан Бекболат</td>
+<td>-</td>
+<td>21</td>
+<td>29</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1384</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хмельнина Татьяна Николаевна</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1385</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хоменко Николай Алексеевич</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1386</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хотенов Алексей Юрьевич</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1387</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Чупрынин Виталий Георгиевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1388</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Чупрынин Геннадий Георгиевич</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1389</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шарыгин Рамиль Габдулхаевич</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>24</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1390</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Штоц Людмила Владимировна</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1391</td>
+<td colspan="3">395449100</td>
+<td>Мәскеу</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шынуар Зандан</td>
+<td>-</td>
+<td>17</td>
+<td>25</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1392</td>
+<td colspan="3">395449300</td>
+<td>Светлый Жарколь</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Беженарь Антонина Михайловна</td>
+<td>-</td>
+<td>17</td>
+<td></td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1393</td>
+<td colspan="3">395449300</td>
+<td>Светлый Жарколь</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Беженарь Николай Николаевич</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1394</td>
+<td colspan="3">395449300</td>
+<td>Светлый Жарколь</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гребенюк Александр Витальевич</td>
+<td>-</td>
+<td>14</td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1395</td>
+<td colspan="3">395449300</td>
+<td>Светлый Жарколь</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ким Маргарита Станиславовна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1396</td>
+<td colspan="3">395449300</td>
+<td>Светлый Жарколь</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кравченко Николай Николаевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1397</td>
+<td colspan="3">395449300</td>
+<td>Светлый Жарколь</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ляшенко Виктор Степанович</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1398</td>
+<td colspan="3">395449300</td>
+<td>Светлый Жарколь</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Остапчук Светлана Сергеевна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1399</td>
+<td colspan="3">395449300</td>
+<td>Светлый Жарколь</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Пирогов Анатолий Иванович</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1400</td>
+<td colspan="3">395449300</td>
+<td>Светлый Жарколь</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Пономаренко Анатолий Владимирович</td>
+<td>-</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1401</td>
+<td colspan="3">395449300</td>
+<td>Светлый Жарколь</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Серомягин Петр Петрович</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1402</td>
+<td colspan="3">395449300</td>
+<td>Светлый Жарколь</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Соценко Сергей Владимирович</td>
+<td>-</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1403</td>
+<td colspan="3">395449300</td>
+<td>Светлый Жарколь</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Харченко Александр Александрович</td>
+<td>-</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1404</td>
+<td colspan="3">395449300</td>
+<td>Светлый Жарколь</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Харченко Павел Алексеевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1405</td>
+<td colspan="3">395449300</td>
+<td>Светлый Жарколь</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Чуманова Людмила Сергеевна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="14">Надеждин ауылдық округі</td>
+</tr>
+<tr>
+<td>1406</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Утеулин Алданыш Тынышбаевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1407</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кирилова Татьяна Михайловна</td>
+<td>-</td>
+<td>2</td>
+<td>6</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1408</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тюлипергенова Кеньжеш Кабеденовна</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1409</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Горбунова Наталья Геннадьевна</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1410</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шайжанова Балжан Токтарбековна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1411</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Павловский Денис Владимирович</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1412</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дуквин Владимир Михайлович</td>
+<td>-</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1413</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кирикой Михаил Григорьевич</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1414</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гончарова Ольга Владимировна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1415</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Яценко Анатолий Владимирович</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1416</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кожевникова Ольга Владимировна</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1417</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лях Юрий Николаевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1418</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Джангабулов Нурлан Талгатович</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1419</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Диниюс Виктор Иванович</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1420</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Уразаков Касим Кусаинович</td>
+<td>-</td>
+<td>4</td>
+<td>24</td>
+<td>10</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1421</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кадочникова Людмила Юрьевна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1422</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кравец Андрей Анатольевич</td>
+<td>-</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1423</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мукашева Ирина Владимировна</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1424</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сбитнев Валентин Анатольевич</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1425</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Опаец Василий Георгиевич</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1426</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кривощеков Виктор Сергеевич</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1427</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шевченко Александра Сергеевна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td>22</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1428</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Адаманюк Оксана Викторовна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1429</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мукашев Марат Бейкенович</td>
+<td>-</td>
+<td>35</td>
+<td></td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1430</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Омаров Бауржан Серикович</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1431</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рзаев Элизбар Джумшуд-оглы</td>
+<td>-</td>
+<td>13</td>
+<td>54</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1432</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Котов Ефим Владимирович</td>
+<td>-</td>
+<td></td>
+<td>18</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1433</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мукашев Талгт Байкенович</td>
+<td>-</td>
+<td></td>
+<td>35</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1434</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Горбунова Мария Иосифовна</td>
+<td>-</td>
+<td></td>
+<td>29</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1435</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Уразаков Даулен Кусаинович</td>
+<td>-</td>
+<td>10</td>
+<td>22</td>
+<td>18</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1436</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Куреев Дмитрий Николаевич</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1437</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сбитнев Михаил Анатольевич</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1438</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Михневич Николай Николаевич</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1439</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Колчин Виктор Вениаминович</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1440</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ордин Сергей Георгиевич</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1441</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Адильбеков Талгат Шмидтович</td>
+<td>-</td>
+<td>43</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1442</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Павловский Иван Владимирович</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1443</td>
+<td colspan="3">395441100</td>
+<td>Воскресеновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Генслер Сергей Владимирович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1444</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Яхно Андрей Петрович</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1445</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нурманова Зубайра Каратемировна</td>
+<td>-</td>
+<td>6</td>
+<td>27</td>
+<td>12</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1446</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кузыбаев Бауржан Сапабекович</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1447</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кучин Анатолий Николаевич</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1448</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кушбатыров Алдан Амирбекович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>12</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1449</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Авзаров Кабылжан Сейдахметович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1450</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кучин Вячеслав Анатольевич</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1451</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Токбаев Еркен Ерманович</td>
+<td>-</td>
+<td></td>
+<td>29</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1452</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бурбаева Балапан Сапабековна</td>
+<td>-</td>
+<td>16</td>
+<td>16</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1453</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Баянбаева Куляйм Искергеновна</td>
+<td>-</td>
+<td></td>
+<td>10</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1454</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Скакун Татьяна Михайловна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1455</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сагимбаева Байзада</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1456</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бекмагамбетова Жумазия Базарбековна</td>
+<td>-</td>
+<td>24</td>
+<td>30</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1457</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сагадиева Динара Игоревна</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1458</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Естемисов Сапабек Сабырбекович</td>
+<td>-</td>
+<td>4</td>
+<td>12</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1459</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Громов Виктор Александрович</td>
+<td>-</td>
+<td>11</td>
+<td>31</td>
+<td>14</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1460</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Маслова Елена Владимировна</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1461</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Отт Елена Павловна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1462</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нургазина Зауре Абдикаримовна</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1463</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жиенкулова Валентина Ивановна</td>
+<td>-</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1464</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сакенова Гульнар Амирбековна</td>
+<td>-</td>
+<td></td>
+<td>20</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1465</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Искаков Евгений Евгеньевич</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1466</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жусупова Айнаш Ауеловна</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1467</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тельгарина Алтын Байкановна</td>
+<td>-</td>
+<td></td>
+<td>6</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1468</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Щипакин Анатолий Александрович</td>
+<td>-</td>
+<td>7</td>
+<td>11</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1469</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сейсембаев Султанбек Жунусулы</td>
+<td>-</td>
+<td>15</td>
+<td>29</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1470</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Майшин Бауржан Маратович</td>
+<td>-</td>
+<td></td>
+<td>29</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1471</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шаймерденов Жансултан Нургужинович</td>
+<td>-</td>
+<td>7</td>
+<td>8</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1472</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Баранова Елена Геннадьевна</td>
+<td>-</td>
+<td>19</td>
+<td></td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1473</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Герасимов Владимир Борисович</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1474</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Пупков Александр Сергеевич</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1475</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рукавицин Владимир Витальевич</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1476</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Толстопятов Александр Петрович</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1477</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жусупова Галия Нурсултановна</td>
+<td>-</td>
+<td>6</td>
+<td>16</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1478</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Беккер Алевтина Владимировна</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1479</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хаманн Марина Павловна</td>
+<td>-</td>
+<td></td>
+<td>10</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1480</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сакауов Сарсен Аманович</td>
+<td>-</td>
+<td>17</td>
+<td>39</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1481</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Авзаров Галымжан Кабылжанович</td>
+<td>-</td>
+<td>25</td>
+<td>29</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1482</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бучковская Татьяна Владимировна</td>
+<td>-</td>
+<td>8</td>
+<td>21</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1483</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хусайнов Каиржан Казмагамбетович</td>
+<td>-</td>
+<td>11</td>
+<td>11</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1484</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кошубаев Жанат Исенович</td>
+<td>-</td>
+<td>9</td>
+<td>25</td>
+<td>14</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1485</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нуркенов Капсултан Марденович</td>
+<td>-</td>
+<td>4</td>
+<td>24</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1486</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Навроцкая Елена Алексеевна</td>
+<td>-</td>
+<td>4</td>
+<td>26</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1487</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Майшин Серик Амангельдинович</td>
+<td>-</td>
+<td>5</td>
+<td>16</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1488</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Пересунко Мария Анатольевна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1489</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ердаулетова Ольга Батырхановна</td>
+<td>-</td>
+<td>7</td>
+<td>24</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1490</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хасенова Эльмира Жомартовна</td>
+<td>-</td>
+<td>2</td>
+<td>3</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1491</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жусупов Кайрат Ауесович</td>
+<td>-</td>
+<td>14</td>
+<td>13</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1492</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бисембаев Боромбай Кабидулович</td>
+<td>-</td>
+<td>13</td>
+<td>13</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1493</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гантимурова Александра Ивановна</td>
+<td>-</td>
+<td>5</td>
+<td>4</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1494</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ранфтель Александр Александрович</td>
+<td>-</td>
+<td>10</td>
+<td>3</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1495</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Чемдуж Геннадий Васильевич</td>
+<td>-</td>
+<td>3</td>
+<td>18</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1496</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Титова Валентина Филипповна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1497</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Евстегнеев Павел Иванович</td>
+<td>-</td>
+<td>4</td>
+<td>8</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1498</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Биктасов Курмангали Тюлюбаевич</td>
+<td>-</td>
+<td>10</td>
+<td>16</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1499</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Корчагин Дмитрий Васильевич</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1500</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Корчагин Василий Яковлевич</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1501</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Салмагамбетова Оксана Викторовна</td>
+<td>-</td>
+<td>5</td>
+<td>5</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1502</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Холоненко Олена Анатольевна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1503</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сыздыков Мухтар Жылкышинович</td>
+<td>-</td>
+<td></td>
+<td>17</td>
+<td>25</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1504</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Салмагамбетов Асалхан Токтарбаевич</td>
+<td>-</td>
+<td>10</td>
+<td>27</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1505</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Даниленко Сергей Андреевич</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1506</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рогальский Иван Иванович</td>
+<td>-</td>
+<td>16</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1507</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Клинг Вера Николаевна</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1508</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Цимбалей Михаил Николаевич</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1509</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кандыбаев Туртхан Асылханович</td>
+<td>-</td>
+<td>4</td>
+<td>6</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1510</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Воробьева Татьяна Ивановна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1511</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Копич Валерий Алексеевич</td>
+<td>-</td>
+<td>14</td>
+<td>8</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1512</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кунтуарова Кенже Кабидуловна</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1513</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жанайдарова Гульнара Мансуровна</td>
+<td>-</td>
+<td>4</td>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1514</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Азимова Вера Ивановна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1515</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Воробьева Татьяна Владимировна</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1516</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мадьяров Газиз Алибекович</td>
+<td>-</td>
+<td>23</td>
+<td>22</td>
+<td>10</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1517</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Салмагамбетова Багиля Кабыевна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1518</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Исмаилов Жанат Мусабаевич</td>
+<td>-</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1519</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Берген Владимир Александрович</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1520</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кошубаев Жанатай Есенович</td>
+<td>-</td>
+<td>17</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1521</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Григорьева Ольга Олеговна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1522</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Альбова Ирина Александровна</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1523</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шайморданова Виктория Викторовна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1524</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тушаева Тамуса Даудовна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td>9</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1525</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жангабулов Дулат Серикбаевич</td>
+<td>-</td>
+<td>16</td>
+<td>34</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1526</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лейпунов Сергей Иванович</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1527</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Григорьев Борис Юрьевич</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1528</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мирный Владимир Николаевич</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1529</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Винниченко Людмила Сергеевна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1530</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кузембаев Акантай Уразович</td>
+<td>-</td>
+<td>30</td>
+<td>13</td>
+<td>15</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1531</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жакупов Жанбатыр Маликович</td>
+<td>-</td>
+<td></td>
+<td>33</td>
+<td>10</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1532</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жакупов Айдарбек Сатаевич</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1533</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кузембаев Самат Уразович</td>
+<td>-</td>
+<td>10</td>
+<td>22</td>
+<td>48</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1534</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тургумбаев Октябрь Рахатович</td>
+<td>-</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1535</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Петухов Сергей Анатольевич</td>
+<td>-</td>
+<td></td>
+<td>14</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1536</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гантимурова Наталья Александровна</td>
+<td>-</td>
+<td></td>
+<td>12</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1537</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Молодцов Андрей Сергеевич</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1538</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хасенов Жомарт Жакенович</td>
+<td>-</td>
+<td></td>
+<td>14</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1539</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Газизулин Радиф Ровертович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1540</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бейсенов Галым Беккожаулы</td>
+<td>-</td>
+<td>9</td>
+<td>9</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1541</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Коденцева Наталья Николаевна</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1542</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Чернявский Артур Олегович</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1543</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жумабаев Мурат Батырханович</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td>8</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1544</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Стасюк Игорь Иванович</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1545</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тушиев Султан Бадрудинович</td>
+<td>-</td>
+<td>11</td>
+<td>18</td>
+<td>21</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1546</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лялько Олег Станиславович</td>
+<td>-</td>
+<td>6</td>
+<td>11</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1547</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Щербинин Игорь Павлович</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1548</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Зайцева Ирина Александровна</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1549</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лабутин Иван Владимирович</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1550</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Придаков Николай Васильевич</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1551</td>
+<td colspan="3">395453100</td>
+<td>Надеждинка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жангабулов Болат Серикович</td>
+<td>-</td>
+<td></td>
+<td>2</td>
+<td>12</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1552</td>
+<td colspan="3">395453200</td>
+<td>Майалап</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кузембаев Акантай Уразович</td>
+<td>-</td>
+<td>30</td>
+<td>13</td>
+<td>15</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="14">Озерный ауылдық округі</td>
+</tr>
+<tr>
+<td>1553</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абауов Жаксылык Абдуахитович</td>
+<td>-</td>
+<td>2</td>
+<td>3</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1554</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдиев Сансызбай Касымжанович</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1555</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдулина Ольга Яковлевна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1556</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдуллин Илгизяр Маратович</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1557</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдуллин Радик</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1558</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдуллина Рушания Гайфетдинова</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1559</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдыкенов Марат Амандыкович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1560</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абенов Тумырза</td>
+<td>-</td>
+<td>0</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1561</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абишев Сергей Бакачанович</td>
+<td>-</td>
+<td>0</td>
+<td>17</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1562</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Акулова Светлана Ивановна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1563</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алдыбергенов Куаныш Калымтаевич</td>
+<td>-</td>
+<td>0</td>
+<td>24</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1564</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алекса Алексей Иванович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1565</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алексейчук Владимир Дмитриевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1566</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алиева Наркила Асад Кызы</td>
+<td>-</td>
+<td>5</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1567</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алмагамбетов Галымжан Шарапканович</td>
+<td>-</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1568</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Анисимова Александра Андреевна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1569</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Артыкбаев Камбар Жамбаевич</td>
+<td>-</td>
+<td>1</td>
+<td>23</td>
+<td>8</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1570</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аскаров Абильтай Абдибекович</td>
+<td>-</td>
+<td>0</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1571</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аскаров Ерболат</td>
+<td>-</td>
+<td>47</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1572</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Атаманенко Надежда Николаевна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1573</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ахатов Кабдилгазиз Каримович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1574</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ахметов Мендвек Т</td>
+<td>-</td>
+<td>5</td>
+<td>13</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1575</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байгабулов Ербол Сабыржанович</td>
+<td>-</td>
+<td>7</td>
+<td>12</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1576</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байдалин Канат Арыстанович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1577</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байкадамова Куляш Куанышевна</td>
+<td>-</td>
+<td>2</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1578</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Баймурзина Умут Бисекеевна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1579</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байсаринов Аман Уразбаевич</td>
+<td>-</td>
+<td>16</td>
+<td>12</td>
+<td>1</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1580</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Балшикбаева А</td>
+<td>-</td>
+<td>0</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1581</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Баядилова Гульжан Тияковна</td>
+<td>-</td>
+<td>0</td>
+<td>8</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1582</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Беженарь Ирина Николаевна</td>
+<td>-</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1583</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Беилов Кайрат Сабитович</td>
+<td>-</td>
+<td>21</td>
+<td>18</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1584</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бейбитхан Нурсултан</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1585</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бисенов Батыргали</td>
+<td>-</td>
+<td>3</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1586</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бисенова Зауре Файдуловна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1587</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бисенова Наталья Александровна</td>
+<td>-</td>
+<td>12</td>
+<td>1</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1588</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Болатбаев М</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1589</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бондарь Мария Петровна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1590</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бондарь Юрий Васильевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1591</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Босый Илья Викторович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1592</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бранич Инга Федоровна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1593</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бримжанов Сункар Алимович</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1594</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бркенова Жанар Багдатовна</td>
+<td>-</td>
+<td>0</td>
+<td>13</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1595</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Буйволова Анастасия Викторовна</td>
+<td>-</td>
+<td>18</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1596</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Валиева Оксана Александровна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1597</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Валюшка Ирина</td>
+<td>-</td>
+<td>4</td>
+<td>3</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1598</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Валюшка Юрий Витаутасович</td>
+<td>-</td>
+<td>7</td>
+<td>24</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1599</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Васильев Михаил Александрович</td>
+<td>-</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1600</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Васильева Татьяна Эмильевна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1601</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Величкина Олеся Юрьевна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1602</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Вердиев Сейтмагомед Исмаил Оглы</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1603</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Вовченко Валентина Николаевна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1604</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Габдуллина Кымбат Жолпатовна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1605</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ганькович Иван Васильевич</td>
+<td>-</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1606</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гарифуллин Нагим Рахипович</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1607</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гедина Валентина Николаевна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1608</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гельметдинов Занир Назимович</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1609</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гостинов Михайл Николаевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1610</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Грехов Николай Владимирович</td>
+<td>-</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1611</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Губская Нина Генриховна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1612</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гуляева Елена Анатольевна</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1613</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гусейнов Аллахверди Аскер-Оглы</td>
+<td>-</td>
+<td>22</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1614</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гусейнов Джебраил Гатамхан-Оглы</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1615</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гусейнов Руслан Насраддинович</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1616</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гусейнов Рустам Насраддинович</td>
+<td>-</td>
+<td>11</td>
+<td>5</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1617</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Долгих Елена Геннадьевна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1618</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Долдашев Тулеубек М</td>
+<td>-</td>
+<td>6</td>
+<td>13</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1619</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Досмагамбетов Рахымбек</td>
+<td>-</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1620</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Досмаилов Базарбек Миромбекович</td>
+<td>-</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1621</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дускеев Алимжан Альмагамбетович</td>
+<td>-</td>
+<td>5</td>
+<td>20</td>
+<td>5</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1622</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дускеев Амангельды Алмагамбетович</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1623</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дускеева Ботагоз Ербосыновна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>6</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1624</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дюсебаев Аделхан Надырович</td>
+<td>-</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1625</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дюсебаев Нурлан Утешович</td>
+<td>-</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1626</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Егеубаев Умирхан Амангельдинович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1627</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Едельбаев Серик Аканович</td>
+<td>-</td>
+<td>3</td>
+<td>14</td>
+<td>2</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1628</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ермухамбетов Сартай Исимханович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1629</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ефимик Артем</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1630</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жабчик Алла Васильевна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1631</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жабчик Вячеслав Петрович</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1632</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жакупов Береке Сарсенбаевич</td>
+<td>-</td>
+<td>9</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1633</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жакупов Серик Сабитович</td>
+<td>-</td>
+<td>5</td>
+<td>33</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1634</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жанбосынова Бакыткуль Узбековна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1635</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жанкожаева Ботагоз</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1636</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Завидеев Александр В</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1637</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Завидеева Екатерина Михайловна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1638</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Зудина Ольга</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1639</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Иванов Андрей Николаевич</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1640</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ильясов Серик Темирбаевич</td>
+<td>-</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1641</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Искакова Галина Дмитриевна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1642</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Искендиров Нурлыбек Тургынбекович</td>
+<td>-</td>
+<td>6</td>
+<td>12</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1643</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Исмаилов Кайрат Абдыгапарович</td>
+<td>-</td>
+<td>27</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1644</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Исмаилов Курман Кайратович</td>
+<td>-</td>
+<td>27</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1645</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Каирманов Болатбек Амиралиевич</td>
+<td>-</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1646</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Какаляев Жомарт Уралканович</td>
+<td>-</td>
+<td>10</td>
+<td>30</td>
+<td>2</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1647</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Какимжанов Жандарбек Фазылович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1648</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Калиев Габит Ануарбекович</td>
+<td>-</td>
+<td>0</td>
+<td>30</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1649</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Камешова Рауза Жетписбаева</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1650</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Каскирбаев Жарас</td>
+<td>-</td>
+<td>4</td>
+<td>5</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1651</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кашапов Данил Гаденанович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1652</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Квасников Николай Николаевич</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1653</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кищак А.М.</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1654</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Клепач Карашаш Турсуновна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1655</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Когалбаев Амангельды Елеусизович</td>
+<td>-</td>
+<td>5</td>
+<td>30</td>
+<td>9</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1656</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кожахметов Болатбек</td>
+<td>-</td>
+<td>4</td>
+<td>20</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1657</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Корнева Людмила Аппалоновна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1658</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Косогова Мария Сергеевна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1659</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Костин Алексей Сабитбекович</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1660</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Косыбаев Байсонкар Здаевич</td>
+<td>-</td>
+<td>7</td>
+<td>8</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1661</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Котляр Сергей Петрович</td>
+<td>-</td>
+<td>1</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1662</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кребаев Кайрат Токтарович</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1663</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кулинич Александр Александрович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1664</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лайс Алла Георгиевна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1665</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лебедев Сергей Анатольевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1666</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Литвинов Николай Иванович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1667</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Литвинова Лидия Алексеевна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1668</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ляшенко Виктор Васильевич</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1669</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ляшенко Татьяна Ивановна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1670</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Магзумова Лязат Мурзаболатовна</td>
+<td>-</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1671</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мамедов Джабраил Ахмед оглы</td>
+<td>-</td>
+<td>5</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1672</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мамедов Р.Д.</td>
+<td>-</td>
+<td>17</td>
+<td>30</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1673</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Маркова Людмила Семеновна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1674</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Махлейт Виктор Генрихович</td>
+<td>-</td>
+<td>2</td>
+<td>3</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1675</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мациевская Раиса Викторовна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1676</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Миллер Сергей Владимирович</td>
+<td>-</td>
+<td>6</td>
+<td>8</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1677</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Михайличенко Наталья Александровна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1678</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Михайловский Владимир Эдиславович</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1679</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Михайловский Михаил Эдислович</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1680</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Михно Геннадий Викторович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1681</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Михно Юрий Викторович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1682</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Монтвилас Лариса Николаевна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1683</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мукашов Бейбит Нурмуханович</td>
+<td>-</td>
+<td>3</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1684</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мустафина Мугалима Абдулхаевна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1685</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мыса Загила</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1686</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Неговский Сергей Николаевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1687</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Никоненко Сергей Николаевич</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1688</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нугманов Талгат Кусайынович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1689</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нурсеитова Кундызай Жаугашиевна</td>
+<td>-</td>
+<td>2</td>
+<td>13</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1690</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Омельченко Галина Александровна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1691</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Попов Иван Борисович</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1692</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рааб Александр</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1693</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Раймбеков Алмас</td>
+<td>-</td>
+<td>2</td>
+<td>18</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1694</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рахимжанов Дулат Каликанович</td>
+<td>-</td>
+<td>45</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1695</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рахимжанов Калихан Каримович</td>
+<td>-</td>
+<td>4</td>
+<td>17</td>
+<td>1</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1696</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рахимжанов Самат Каликанович</td>
+<td>-</td>
+<td>0</td>
+<td>9</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1697</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рустембаева Бадига Калиевна</td>
+<td>-</td>
+<td>2</td>
+<td>6</td>
+<td>1</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1698</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Рябошапка Сергей Васильевич</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1699</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Савина Ольга Вениаминовна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1700</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Саниязулы Бейбетхан Куандыкович</td>
+<td>-</td>
+<td>4</td>
+<td>20</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1701</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Саркисян Рубен Исаджанович</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1702</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сейдахметов Багдат Капарович</td>
+<td>-</td>
+<td>7</td>
+<td>11</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1703</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Серечёв Александр Константинович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1704</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Смирнова Лина Александровна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1705</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Стафийчук Сергей Михайлович</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1706</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сулейменов Игилик Нахылханович</td>
+<td>-</td>
+<td>1</td>
+<td>20</td>
+<td>2</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1707</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сулейменова Роза Салимгереевна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1708</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Султанбекова Кымбат Курмашевна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1709</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Султангалиев Дидар Жаксылыкович</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1710</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тлюбердина Айбаршин Мусабаевна</td>
+<td>-</td>
+<td>0</td>
+<td>20</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1712</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тортаев Кусайын Жаксылыкович</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1713</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Туйтин Еркін</td>
+<td>-</td>
+<td>2</td>
+<td>11</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1714</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тулепов Тулеген Сабржанович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1715</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Турмышев Жомарт</td>
+<td>-</td>
+<td>9</td>
+<td>14</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1716</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Уалиев Жанболат Дукенбаевич</td>
+<td>-</td>
+<td>5</td>
+<td>20</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1717</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Уразбаев Дауренбек Исмугамбетович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1718</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Усенов Болат Кабакович</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1719</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Усенова Бопе</td>
+<td>-</td>
+<td>3</td>
+<td>16</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1720</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Утеулина Сайлаукул Жумакановна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1721</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хавдолда Ербол</td>
+<td>-</td>
+<td>0</td>
+<td>35</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1722</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ханжин Сергей Максимович</td>
+<td>-</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1723</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Черватюк Анатолий Викторович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1724</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Черноштан Светлана Викторовна</td>
+<td>-</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1725</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Черняйкина Нина Петровна</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1726</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шайланов Едрес Габдрахманович</td>
+<td>-</td>
+<td>0</td>
+<td>10</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1727</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шайланов Талгат Едресович</td>
+<td>-</td>
+<td>18</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1728</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шаяхметов Серик Сагитович</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1729</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шаяхметова Гульжан Тыныштыкбаевна</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1730</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шеленберг Николай Рудольфович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1731</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шильдебаева Аида Даурамбековна</td>
+<td>-</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1732</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шипилова Оксана Владимировна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1733</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шнайдер Адольф Яковлевич</td>
+<td>-</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1734</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шуакбаев Б</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1735</td>
+<td colspan="3">395455100</td>
+<td>Озерное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Юсибов Физули Амирхан Оглы</td>
+<td>-</td>
+<td>19</td>
+<td>14</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1736</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абашева Апрус Гаракуловна</td>
+<td>-</td>
+<td>17</td>
+<td>30</td>
+<td>1</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1737</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алексеичик Николай Николаевич</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1738</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алексейчик Наталья Николаевна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1739</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алексейчик Татьяна Николаевна</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1740</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Афанасьева Наталья Юрьевна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1741</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Браим Анатолий Викторович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>35</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1742</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ваташко Анатолий Анатоьлевич</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1743</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ваташко Евгений Анатольевич</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1744</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гарганчук Юрий Николаевич</td>
+<td>-</td>
+<td>15</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1745</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гельд Валентина Васильевна</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1746</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гостинов Михайл Николаевич</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1747</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Давыдовская О Н</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1748</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дарбеков Бигелды Касымович</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1749</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Керпичников Руслан Евгеньевич</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1750</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кисель Александр Петрович</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1751</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кищак Михаил Алексеевич</td>
+<td>-</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1752</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ковальчук Наталья Викторовна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1753</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ковальчук Наталья</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1754</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Колесник Владимир Иванович</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1755</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Логинов Михаил Владимирович</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1756</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мацкевич Александр Георгиевич</td>
+<td>-</td>
+<td>14</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1757</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мухтаров Алексей Юрьевич</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1758</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Новикова Наталья Викторовна</td>
+<td>-</td>
+<td>14</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1759</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Новозванский Вячеслав Юрьевич</td>
+<td>-</td>
+<td>23</td>
+<td>55</td>
+<td>6</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1760</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Новозванский Юрий Вячеславович</td>
+<td>-</td>
+<td>42</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1761</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Панковский Михаил Васильевич</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1762</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Самохин Сергей Витальевич</td>
+<td>-</td>
+<td>18</td>
+<td>0</td>
+<td>2</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1763</td>
+<td colspan="3">395469100</td>
+<td>Шишкинское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шмидт Гульнара Фанильевна</td>
+<td>-</td>
+<td>10</td>
+<td>0</td>
+<td>1</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1764</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Анисимов Виталий Петрович</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1765</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Боброва Татьяна Геннадьевна</td>
+<td>-</td>
+<td>18</td>
+<td>0</td>
+<td>31</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1766</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ворнат Леонид Яковлевич</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1767</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дощанов Ерлан Кунанбаевич</td>
+<td>-</td>
+<td>0</td>
+<td>102</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1768</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Захаров Александр Александрович</td>
+<td>-</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1769</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Клочкова Лариса Владимировна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1770</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ковалёнок Олеся Зеноновна</td>
+<td>-</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1771</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кондратюк Надежда Митрофановна</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1772</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кунгель Дмитрий Анатольевич</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1773</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лукашина Л В</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1774</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мурашкин Константин Александрович</td>
+<td>-</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1775</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Насибулина Елена Владимировна</td>
+<td>-</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1776</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ольденбургер Александр Яковлевич</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1777</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Прищепа Александр Васильевич</td>
+<td>-</td>
+<td>28</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1778</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Солдатов Федор Николаевич</td>
+<td>-</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1779</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тунгусова Елизавета Иосифовна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1780</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тунгусова Надежда Владимировна</td>
+<td>-</td>
+<td>18</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1781</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тунгусова Надежда Михайловна</td>
+<td>-</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1782</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тунгусова Виктория Владимировна</td>
+<td>-</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1783</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Фердерер Владимир Михайлович</td>
+<td>-</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>1784</td>
+<td colspan="3">395469200</td>
+<td>Суриковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Чекина Елена Митрофановна</td>
+<td>-</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td colspan="14">Октябрь ауылдық округі</td>
+</tr>
+<tr>
+<td>1785</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абдильдин С</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1786</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абилгазин Е</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1787</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абильев Б</td>
+<td>-</td>
+<td>2</td>
+<td>19</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1788</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аблыхалимов А</td>
+<td>-</td>
+<td></td>
+<td>5</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1789</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Александрова С</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1790</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алимбаев Н</td>
+<td>-</td>
+<td></td>
+<td>10</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1791</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алимбаев О</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1792</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алмагамбетов С</td>
+<td>-</td>
+<td>3</td>
+<td>5</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1793</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алмаганбетов Б</td>
+<td>-</td>
+<td>2</td>
+<td>38</td>
+<td>11</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1794</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алмаганбетов К</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1795</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алхамбаев С</td>
+<td>-</td>
+<td>6</td>
+<td>5</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1796</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Альжанов А</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1797</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Альменов Б</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1798</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Амиров Б</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1799</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Амиров Б</td>
+<td>-</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1800</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Амренов М</td>
+<td>-</td>
+<td></td>
+<td>35</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1801</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аргингазина Р</td>
+<td>-</td>
+<td>8</td>
+<td>6</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1802</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Арыстанов К</td>
+<td>-</td>
+<td>16</td>
+<td>43</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1803</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Арыстанов С</td>
+<td>-</td>
+<td>7</td>
+<td>19</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1804</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ахметов Т</td>
+<td>-</td>
+<td></td>
+<td>12</td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1805</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ахметова А</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1806</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ашимханов Т</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1807</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Баймаганбетова А</td>
+<td>-</td>
+<td>3</td>
+<td>26</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1808</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Баймуканов А</td>
+<td>-</td>
+<td>5</td>
+<td>17</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1809</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Баймышева А</td>
+<td>-</td>
+<td>32</td>
+<td></td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1810</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байсакалов Б</td>
+<td>-</td>
+<td>12</td>
+<td>3</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1811</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Беспалько Д</td>
+<td>-</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1812</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бурнаева С</td>
+<td>-</td>
+<td>2</td>
+<td>76</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1813</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Быба Е</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1814</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бытка Л</td>
+<td>-</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1815</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дюсеков К</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1816</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дюсенбаева Ш</td>
+<td>-</td>
+<td></td>
+<td>7</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1817</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Итбатырова С</td>
+<td>-</td>
+<td>2</td>
+<td>20</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1818</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Калиев Г</td>
+<td>-</td>
+<td>4</td>
+<td>8</td>
+<td>7</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1819</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кожабаев Е</td>
+<td>-</td>
+<td>3</td>
+<td>4</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1820</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кожабеков Ж</td>
+<td>-</td>
+<td>7</td>
+<td>5</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1821</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Колос И</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1822</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Копжасаров С</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1823</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Корченица В.П.</td>
+<td>-</td>
+<td></td>
+<td>21</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1824</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кривко Л.М.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1825</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Куанышбек И.К.</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1826</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Куандыков Ю</td>
+<td>-</td>
+<td></td>
+<td>15</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1827</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Куджулов Т.Х.</td>
+<td>-</td>
+<td>5</td>
+<td>12</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1828</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кузнецова Л</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1829</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Куксова М.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1830</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кушуков К</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1831</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Малетин И</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1832</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Малыгин О</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1833</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Махаев М</td>
+<td>-</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1834</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Найманов К</td>
+<td>-</td>
+<td>5</td>
+<td>9</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1835</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Николаев Ю</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1836</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нургабулова И</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1837</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нургазин Ж</td>
+<td>-</td>
+<td></td>
+<td>6</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1838</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нурмаганбетова З</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1839</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шаку А</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>28</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1840</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Черненко О</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1841</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Фоменко А</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1842</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Фазлахатов Т</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>13</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1843</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тюллюпаев Ж</td>
+<td>-</td>
+<td></td>
+<td>17</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1844</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тымченко С</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1845</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ульянова Н</td>
+<td>-</td>
+<td></td>
+<td>11</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1846</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Умурзакова А</td>
+<td>-</td>
+<td>3</td>
+<td>16</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1847</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Чусовских А</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1848</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Пашкова М</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1849</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Пошатова Л</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1850</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гасанов А</td>
+<td>-</td>
+<td>20</td>
+<td>21</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1851</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Раджабов Г</td>
+<td>-</td>
+<td>9</td>
+<td>13</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1852</td>
+<td colspan="3">395465100</td>
+<td>Октябрьское</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Журавлева Т</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1853</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кукушкин И</td>
+<td>-</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1854</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Курочкина И</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1855</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лашук А</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1856</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лукичев А</td>
+<td>-</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1857</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Миллер А</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1858</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Молдатаев У</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1859</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Молдахметова Г</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1860</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Фесенко Е</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1861</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Умудов В</td>
+<td>-</td>
+<td>9</td>
+<td>27</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1862</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шварц В</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td>14</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1863</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ойымаут А</td>
+<td>-</td>
+<td>5</td>
+<td>11</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1864</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Оспанов Б</td>
+<td>-</td>
+<td></td>
+<td>1</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1865</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Омаров К</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1866</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Окольникова О</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1867</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жайсанов А</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1868</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мирамов А</td>
+<td>-</td>
+<td>16</td>
+<td>23</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1869</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Миронова М</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1870</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нургожин Ж</td>
+<td>-</td>
+<td>5</td>
+<td>20</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1871</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Алпатов С</td>
+<td>-</td>
+<td>14</td>
+<td>20</td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1872</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Вяткина И</td>
+<td>-</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1873</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байгазин Е</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1874</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Искаков А</td>
+<td>-</td>
+<td></td>
+<td>62</td>
+<td>11</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1875</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Берзенш Г</td>
+<td>-</td>
+<td>22</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1876</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Борисенко И</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1877</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гердт А</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1878</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гердт Х</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1879</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Головешкина Л</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1880</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дементьев А</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1881</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дементьев Н</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1882</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Денисенко Н.</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1883</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Елизаров Г.</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1884</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жургунов Е.</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1885</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Заводчиков Г..</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1886</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Калмаганбетова А.</td>
+<td>-</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1887</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Козлова Н.</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1888</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Колдырева Л.</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1889</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Король Ф.</td>
+<td>-</td>
+<td>7</td>
+<td>4</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1890</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Назаренко Г.</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1891</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нурахметов А.</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1892</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Панина Л.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1893</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Панфилов Г.</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1894</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Светлаков А.</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1895</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тнимбаев С.</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1896</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Светлаков Д.</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1897</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Старков С.</td>
+<td>-</td>
+<td>28</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1898</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Тарасова Н.</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1899</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Туребаев А.</td>
+<td>-</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1900</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Цороева А.</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1901</td>
+<td colspan="3">395465300</td>
+<td>Молокановка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бабарыка Ф</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1902</td>
+<td colspan="3">395465600</td>
+<td>Шоккорагай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шилова С</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1903</td>
+<td colspan="3">395465600</td>
+<td>Шоккорагай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шохметов к</td>
+<td>-</td>
+<td>100</td>
+<td></td>
+<td>62</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1904</td>
+<td colspan="3">395465600</td>
+<td>Шоккорагай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Сарсенбаев Е</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td>60</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1905</td>
+<td colspan="3">395465600</td>
+<td>Шоккорагай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гаптрахманов Б</td>
+<td>-</td>
+<td>29</td>
+<td>59</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1906</td>
+<td colspan="3">395465600</td>
+<td>Шоккорагай</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гаптрахманов М</td>
+<td>-</td>
+<td>265</td>
+<td></td>
+<td>13</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1907</td>
+<td colspan="3">395465500</td>
+<td>Рыбное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мухамеджанов Н</td>
+<td>-</td>
+<td></td>
+<td>12</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1908</td>
+<td colspan="3">395465500</td>
+<td>Рыбное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мясников Е</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1909</td>
+<td colspan="3">395465500</td>
+<td>Рыбное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шельманов В</td>
+<td>-</td>
+<td>9</td>
+<td>1</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1910</td>
+<td colspan="3">395465500</td>
+<td>Рыбное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Хома Н</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1911</td>
+<td colspan="3">395465500</td>
+<td>Рыбное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шльдинов С</td>
+<td>-</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1912</td>
+<td colspan="3">395465500</td>
+<td>Рыбное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шильденов К</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1913</td>
+<td colspan="3">395465500</td>
+<td>Рыбное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Юрченко В</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1914</td>
+<td colspan="3">395465500</td>
+<td>Рыбное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Шерубаев А</td>
+<td>-</td>
+<td></td>
+<td>18</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1915</td>
+<td colspan="3">395465500</td>
+<td>Рыбное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дощанов Б</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1916</td>
+<td colspan="3">395465500</td>
+<td>Рыбное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ефремова М</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1917</td>
+<td colspan="3">395465500</td>
+<td>Рыбное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жадько С</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1918</td>
+<td colspan="3">395465500</td>
+<td>Рыбное</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жайсанбаев Е</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="14">Садчиков ауылдық округі</td>
+</tr>
+<tr>
+<td>1919</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Абилов Жунусбек Асылбекович</td>
+<td>-</td>
+<td></td>
+<td>12</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1920</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аблазимова Айган Зинеддиновна</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1921</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Авезов Дархан Башарулы</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1922</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Авершин Александр Евгеньевич</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1923</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Айменова Наталия Леонидовна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1924</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Айтжанов Конжибек Жумажанович</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1925</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Айтжанова Жибек Бахитжановна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1926</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Айтжанова Жумагуль Касымовна</td>
+<td>-</td>
+<td></td>
+<td>8</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1927</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Айтмагамбетов Елтай Какимович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1928</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Альмухамбедов Коныс Шаяхметович</td>
+<td>-</td>
+<td>5</td>
+<td>35</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1929</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Аманжулов Серик Темиржанович</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1930</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Амантаев Талгат Орынтаевич</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1931</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Амиргали Айдын Бауржанулы</td>
+<td>-</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1932</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Амиров Уалихан Сагидуллинович</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1933</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Антощук Николай Васильевич</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1934</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Антропова Ольга</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1935</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Арыстанов Агыбай Доскалиевич</td>
+<td>-</td>
+<td></td>
+<td>6</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1936</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ауганбаева Нагима Амиракуловна</td>
+<td>-</td>
+<td>11</td>
+<td>14</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1937</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ауелбеков Бекболат Амангалиевич</td>
+<td>-</td>
+<td>3</td>
+<td>9</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1938</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бабушкин Леонид</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1939</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Баженов Мухамеди Хамитович</td>
+<td>-</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1940</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Баженова Гульнар Какимовна</td>
+<td>-</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1941</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Базарова Райса</td>
+<td>-</td>
+<td>20</td>
+<td>66</td>
+<td>5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1942</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байкенов Бигайдар Шарипович</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1943</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Баймурзинов Ансаган Киясович</td>
+<td>-</td>
+<td>3</td>
+<td>5</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1944</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Байрамов Тайр Балабекович</td>
+<td>-</td>
+<td>4</td>
+<td>163</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1945</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Балгужин Торсан</td>
+<td>-</td>
+<td>6</td>
+<td>20</td>
+<td>4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1946</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бальшаков Жумарт Сапарович</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1947</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Басаров Ерболат Сартаевич</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1948</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Баяканов Жумабек Жумасаевич</td>
+<td>-</td>
+<td>14</td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1949</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Баяхметова Базаргуль Кошековна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1950</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Беисов Берик Сеилович</td>
+<td>-</td>
+<td></td>
+<td>12</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1951</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бейсов Мурат</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1952</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бекешев Азамат Атгаевич</td>
+<td>-</td>
+<td></td>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1953</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бекишев Жаслан Булатович</td>
+<td>-</td>
+<td>13</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1954</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бекмагамбетова Клавдия Жайсановна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1955</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бектемисов Мейрам Назабекович</td>
+<td>-</td>
+<td>5</td>
+<td>8</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1956</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Беленький Владислав Викторович</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1957</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Белецкий Николай Степанович</td>
+<td>-</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1958</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бергер Елена Эвальдовна</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1959</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бирманов Сакен Какимбекович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1960</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бовтко Марина Александровна</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1961</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бодруг Анатолий Васильевич</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1962</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Бораншин Бахытжан</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1963</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ботанов Ерболат Досланович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1964</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Брим Лина Владимировна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1965</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Будзеевич Екатирина Анатольевна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1966</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Булойчик Юлия Александрова</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1967</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Булыга Нина Васильевна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1968</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Вельман Виктор Константинович</td>
+<td>-</td>
+<td>53</td>
+<td></td>
+<td>23</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1969</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Венгер Татьяна</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1970</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Владзимирский Александр Владиславович</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1971</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гайсин Айрат Ахтямович</td>
+<td>-</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1972</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гнилицский Владимир Николаевич</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1973</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Говорухина Лейла</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1974</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Головнев Иван</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1975</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Головнев Сергей Иванович</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1976</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Голуб Ольга Ивановна</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1977</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гребенюк Виктор</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1978</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гриценко Василий Алексеевич</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1979</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Гучигов Рамзан Ауханович</td>
+<td>-</td>
+<td>30</td>
+<td>90</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1980</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Данилишин Владимир Ананьевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1981</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Долбня Евгений Михайлович</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1982</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Долбня Ирина Михайловна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1983</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Досмухамбетов Адильбек Жолдыбаевич</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1984</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Достияров Багдат Аюович</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1985</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Дүйсенбиев Айдос Ақәділұлы</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1986</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Епанешников Николай</td>
+<td>-</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1987</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ермакова Ксения</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1988</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Есенгужин Жанузак Рамазанулы</td>
+<td>-</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1989</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Есыпбаев Азамат Серикович</td>
+<td>-</td>
+<td></td>
+<td>60</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1990</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ецкало Александр Викторович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1991</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жанабаева Асель Темирхановна</td>
+<td>-</td>
+<td></td>
+<td>24</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1992</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жаппасов Марат Муратович</td>
+<td>-</td>
+<td>3</td>
+<td>20</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1993</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жармагамбетова Любовь</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1994</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жетимеков Ерлан</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1995</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Жетписов Танат Сайдахметович</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1996</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Журавецкая Богдана</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1997</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Игнат Олеся Викторовна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1998</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Игумбаева Улжамбас Коблековна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1999</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Исенов Жолбарис</td>
+<td>-</td>
+<td>9</td>
+<td>12</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2000</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Искаков Ергазы Бейсенович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2001</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Искакова Гаухар Ережеповна</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2002</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кадирбаева Алтынай</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2003</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Калаков Артыгай</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2004</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Калашникова Зинаида Петровна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2005</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Калашникова Лидия</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2006</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Календаров Асхат Арапович</td>
+<td>-</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2007</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Калиев Бахытбек Жанбыршинович</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2008</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Каратаев Тасболат Темиргалиевич</td>
+<td>-</td>
+<td>8</td>
+<td>6</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2009</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Карибаев Аманжол</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2010</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Карин Вячеслав Владимирович</td>
+<td>-</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2011</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Карымсаков Тулеген Ансаганович</td>
+<td>-</td>
+<td>5</td>
+<td>28</td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2012</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Касатый Владимир Владимирович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2013</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Касьянов Юрий Николаевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2014</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кауметова Майра Касымкановна</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2015</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кашмакова Наталья Анатольевна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2016</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кемелов Асыкат Бикенович</td>
+<td>-</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2017</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кенесбаев Галымжан Болатович</td>
+<td>-</td>
+<td>4</td>
+<td>41</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2018</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кенесбаев Магжан Болатович</td>
+<td>-</td>
+<td></td>
+<td>30</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2019</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кищук Татьяна Ивановна</td>
+<td>-</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2020</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Койшибаева Акзира Тюлепбергеновна</td>
+<td>-</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2021</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Колосова Татьяна</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2022</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Конарбаева Жазира</td>
+<td>-</td>
+<td>12</td>
+<td>8</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2023</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Корж Анатолий Григориевич</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2024</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Корж Елена Владимировна</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2025</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Коровкин Юрий Сергеевич</td>
+<td>-</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2026</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кошелык Светлана Викторовна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2027</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Крюковская Анна Петровна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2028</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кудасов Рифхат Еркенович</td>
+<td>-</td>
+<td></td>
+<td>45</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2029</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кудесов Женис Жумагалиевич</td>
+<td>-</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2030</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кузнецов Владислав Владимирович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2031</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кукешев Ерлан Нигметбекович</td>
+<td>-</td>
+<td>2</td>
+<td>6</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2032</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кулагина Марина Николаевна</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2033</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Куликов Василий Витальевич</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2034</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Курдюков Виктор</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2035</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Курдюков Иван Александрович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2036</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Курманбаев Акылбек</td>
+<td>-</td>
+<td>4</td>
+<td>16</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2037</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Кусаинов Танатар Асимович</td>
+<td>-</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2038</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лазебный Виталий</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2039</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Леоппа Леонид</td>
+<td>-</td>
+<td>2</td>
+<td>12</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2040</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лисохмар Николай Алексеевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2041</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Лузина Вера Михайловна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2042</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Максимова Елена Васильевна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2043</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Макуха Татьяна Анатольевна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2044</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мартыненко Мария Александровна</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2045</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мартыненко Петр Александрович</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2046</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Масейчук Оксана</td>
+<td>-</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2047</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Матырчук Анатолий Петрович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2048</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Михалев Олег Федорович</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2049</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мичурина Олеся Петровна</td>
+<td>-</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2050</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мустафин Женис</td>
+<td>-</td>
+<td>4</td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2051</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Мыканов Дусенбай</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2052</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Надыров Жанбыр</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2053</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Надырова Алма Амангельдыновна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2054</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Наимбаев Темирбулат Шардинбаевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2055</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нани Елена</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2056</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нечаева Маргарита Викторовна</td>
+<td>-</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2057</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Новак Марина Николаевна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2058</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Ногайбаева Алтай Канапяновна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2059</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нургалиев Нурдовлет Нуржанович</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>6</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2060</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нургалиев Нуржан Казиевич</td>
+<td>-</td>
+<td>8</td>
+<td>41</td>
+<td>2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2061</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нурпеисова Дамель Жубайевна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2062</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Нурумова Кульзира Назарбековна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2063</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Овчинникова Ирина Александравна</td>
+<td>-</td>
+<td>2</td>
+<td>1</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2064</td>
+<td colspan="3">95463200</td>
+<td>Константиновка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Олейник Лавел</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2065</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Орлов Орлов Анатольевич</td>
+<td>-</td>
+<td>31</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2066</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Оспанов Талгат Койшыгараевич</td>
+<td>-</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2067</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Остравец Наташа Алексадровна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2068</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Палагина Наталья Александровна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2069</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Петров Николай Викторович</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2070</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Петрова Александра Александровна</td>
+<td>-</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2071</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Петрова Маргарита Болатовна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2072</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Пешин Ггригорий Николаевич</td>
+<td>-</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2073</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Плотникова Татьяна Павловна</td>
+<td>-</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2074</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Полещук Анастасия</td>
+<td>-</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2075</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Помелов Александр Сергеевич</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2076</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Приходько Наталья Александровна</td>
+<td>-</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2077</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Прозоров Александр Алексеевич</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2078</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Проскура Наталья Васильевна</td>
+<td>-</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2079</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Просоленко Анна</td>
+<td>-</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2080</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Проценка Владимир Иванович</td>
+<td>-</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2081</td>
+<td colspan="3">395463100</td>
+<td>Садчиковка</td>
+<td>Жеке тұлға</td>
+<td colspan="2">Проценко Галина Николаевна</td>
+<td>-</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+</table>
