@@ -24,17 +24,24 @@ versions:
   cause:
     code: '222859'
     key: G26N000271M
+- date: 2026-05-29
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '226003'
+    key: G26N000298M
 version_date:
-  kaz: 2026-03-02
-  rus: 2026-03-02
+  kaz: 2026-05-29
+  rus: 2026-05-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/219491/kaz/02.03.2026
-  rus: https://zan.gov.kz/client/#!/doc/219491/rus/02.03.2026
+  kaz: https://zan.gov.kz/client/#!/doc/219491/kaz/29.05.2026
+  rus: https://zan.gov.kz/client/#!/doc/219491/rus/29.05.2026
 caused_by:
-  code: '222859'
-  key: G26N000271M
-  requisite: Решение маслихата Костанайской области от 2 марта 2026 года № 271
+  code: '226003'
+  key: G26N000298M
+  requisite: Решение маслихата Костанайской области от 29 мая 2026 года № 298
   title:
     rus: О внесении изменений в решение маслихата от 18 декабря 2025 года № 266 «Об областном бюджете Костанайской области на 2026-2028 годы»
     kaz: Мәслихаттың 2025 жылғы 18 желтоқсандағы № 266 «Қостанай облысының 2026-2028 жылдарға арналған облыстық бюджеті туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/222859/rus
+  link: https://zan.gov.kz/client/#!/doc/226003/rus
