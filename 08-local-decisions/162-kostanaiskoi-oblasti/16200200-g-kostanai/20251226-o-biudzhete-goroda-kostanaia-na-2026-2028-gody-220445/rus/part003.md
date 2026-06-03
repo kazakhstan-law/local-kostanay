@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
+source: https://zan.gov.kz/client/#!/doc/220445/rus/03.06.2026
 ---
 
 > *Приложение 3*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 
 ## Бюджет города Костаная на 2028 год
 
-> *Сноска. Приложение 3 в редакции решения маслихата города Костаная Костанайской области от 10.03.2026 № 225 (вводится в действие с 01.01.2026).*
+> *Сноска. Приложение 3 в редакции решений маслихата города Костаная Костанайской области от 10.03.2026 № 225 (вводится в действие с 01.01.2026); от 03.06.2026 № 246 (вводится в действие с 01.01.2026).*
 
 <table>
 <tr>
@@ -40,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">I. Доходы</td>
-<td colspan="2">167 919 166,0</td>
+<td colspan="2">167 909 166,0</td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -243,25 +243,22 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">28 691 291,0</td>
+<td colspan="2">28 681 291,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">28 691 291,0</td>
+<td colspan="2">28 681 291,0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Трансферты из областного бюджета</td>
-<td colspan="2">28 691 291,0</td>
+<td colspan="2">28 681 291,0</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="9">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма, тысяч тенге</td>
@@ -294,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">II. Затраты</td>
-<td colspan="2">164 923 056,0</td>
+<td colspan="2">164 913 056,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -710,7 +707,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">17 004 263,0</td>
+<td colspan="2">16 994 263,0</td>
 </tr>
 <tr>
 <td></td>
@@ -718,7 +715,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищное хозяйство</td>
-<td colspan="2">4 486 703,0</td>
+<td colspan="2">4 476 703,0</td>
 </tr>
 <tr>
 <td></td>
@@ -742,7 +739,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2">467</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел строительства района (города областного значения)</td>
-<td colspan="2">137 541,0</td>
+<td colspan="2">127 541,0</td>
 </tr>
 <tr>
 <td></td>
@@ -758,7 +755,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td colspan="2">Проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
-<td colspan="2">107 541,0</td>
+<td colspan="2">97 541,0</td>
 </tr>
 <tr>
 <td></td>
@@ -894,7 +891,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Культура, спорт, туризм и информационное пространство</td>
-<td colspan="2">1 982 033,3</td>
+<td colspan="2">1 968 639,3</td>
 </tr>
 <tr>
 <td></td>
@@ -1022,7 +1019,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Прочие услуги по организации культуры, спорта, туризма и информационного пространства</td>
-<td colspan="2">433 549,3</td>
+<td colspan="2">420 155,3</td>
 </tr>
 <tr>
 <td></td>
@@ -1030,7 +1027,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2">455</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел культуры и развития языков района (города областного значения)</td>
-<td colspan="2">264 231,3</td>
+<td colspan="2">250 837,3</td>
 </tr>
 <tr>
 <td></td>
@@ -1046,7 +1043,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2"></td>
 <td colspan="2">032</td>
 <td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td colspan="2">222 500,3</td>
+<td colspan="2">209 106,3</td>
 </tr>
 <tr>
 <td></td>
@@ -1310,7 +1307,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Прочие</td>
-<td colspan="2">4 814 267,7</td>
+<td colspan="2">4 827 661,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1318,7 +1315,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Прочие</td>
-<td colspan="2">4 814 267,7</td>
+<td colspan="2">4 827 661,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1342,7 +1339,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2">453</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел экономики и бюджетного планирования района (города областного значения)</td>
-<td colspan="2">2 029 710,7</td>
+<td colspan="2">2 043 104,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1350,7 +1347,7 @@ source: https://zan.gov.kz/client/#!/doc/220445/rus/10.03.2026
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td colspan="2">Разработка или корректировка, а также проведение необходимых экспертиз технико-экономических обоснований местных бюджетных инвестиционных проектов и конкурсных документаций проектов государственно-частного партнерства, концессионных проектов, консультативное сопровождение проектов государственно-частного партнерства и концессионных проектов</td>
-<td colspan="2">2 029 710,7</td>
+<td colspan="2">2 043 104,7</td>
 </tr>
 <tr>
 <td>14</td>
