@@ -31,17 +31,24 @@ versions:
   cause:
     code: '226442'
     key: G26NN00364M
+- date: 2026-07-30
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '228535'
+    key: G26NN00378M
 version_date:
-  kaz: 2026-06-10
-  rus: 2026-06-10
+  kaz: 2026-07-30
+  rus: 2026-07-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/220597/kaz/10.06.2026
-  rus: https://zan.gov.kz/client/#!/doc/220597/rus/10.06.2026
+  kaz: https://zan.gov.kz/client/#!/doc/220597/kaz/30.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/220597/rus/30.07.2026
 caused_by:
-  code: '226442'
-  key: G26NN00364M
-  requisite: Решение маслихата Костанайского района Костанайской области от 10 июня 2026 года № 364
+  code: '228535'
+  key: G26NN00378M
+  requisite: Решение маслихата Костанайского района Костанайской области от 30 июля 2026 года № 378
   title:
     rus: О внесении изменений в решение маслихата от 25 декабря 2025 года № 320 «О районном бюджете Костанайского района на 2026-2028 годы»
     kaz: Мәслихаттың 2025 жылғы 25 желтоқсандағы № 320 «Қостанай ауданының 2026-2028 жылдарға арналған аудандық бюджеті туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/226442/rus
+  link: https://zan.gov.kz/client/#!/doc/228535/rus
